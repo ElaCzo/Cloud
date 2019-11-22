@@ -8,6 +8,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -26,17 +27,35 @@ import java.util.stream.Stream;
 // tou sles mots sup à une certaines fréquence : check par un humain.
 public class Indexing {
 
+    public static HashSet<String> filtre = null;
+
     public static Boolean indexFiles() {
+        try {
+
+            filtre = new HashSet<>(Files.readAllLines(Paths.get("./filtre/10000-english.txt")));
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 
         try (Stream<Path> paths = Files.walk(Paths.get("./text/"))) {
             paths.filter(Files::isRegularFile).map(p -> p.toString()).forEach(Indexing::createIndex);
         } catch (IOException io) {
             io.printStackTrace();
         }
+
         return true;
+
     }
 
     public static String createIndex(String path) {
+        if (filtre == null) {
+            try {
+
+                filtre = new HashSet<>(Files.readAllLines(Paths.get("./filtre/10000-english.txt")));
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
         ArrayList<String> text = new ArrayList<>();
         try {
             text = new ArrayList<>(Files.readAllLines(Paths.get(path)));
@@ -54,8 +73,10 @@ public class Indexing {
 
         File f = new File(indexPath);
         if (!f.isFile()) {
+
             System.out.println("Start indexing : " + textPath);
             try {
+
                 Runtime.getRuntime().exec("./script.bash " + path + " " + textPath).waitFor();
 
             } catch (Exception e) {
@@ -76,16 +97,19 @@ public class Indexing {
                 for (String line : txt) {
                     String[] columns = line.split("\\s+");
 
-                    if (columns.length > 2 ) {
+                    if (columns.length > 2) {
 
                         String s = columns[2];
-                        ArrayList<TextPosition> occ = KMP.kmp(text, s.toCharArray());
+                        if (!filtre.contains(s)) {
 
-                        for (TextPosition tp : occ) {
-                            s += " (" + tp.ligne + "," + tp.pos + ") ";
+                            ArrayList<TextPosition> occ = KMP.kmp(text, s.toCharArray());
+
+                            for (TextPosition tp : occ) {
+                                s += " (" + tp.ligne + "," + tp.pos + ") ";
+                            }
+
+                            index.add(s);
                         }
-
-                        index.add(s);
 
                     } else {
                         break;

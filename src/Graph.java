@@ -26,10 +26,9 @@ public class Graph {
 
             for (int j = i + 1; j < docs.size(); j++) {
                 double dist = distJacquard(docs.get(i), docs.get(j));
-                if (dist > 0.7) {
+                if (dist > 0.93) {
+                    // System.out.println(dist);
                     addEdge(i, j);
-                    System.out.println(
-                            "distance entre " + docs.get(i).textPath + " et " + docs.get(j).textPath + " : " + dist);
                 }
             }
         }
@@ -67,7 +66,7 @@ public class Graph {
         double sommemax = 0;
 
         for (String motD1 : d1.indexArray) {
-            if (d2.indexArray.contains(motD1)) {
+            if (d2.indexMap.containsKey(motD1)) {
                 int max = Math.max(d1.indexMap.get(motD1), d2.indexMap.get(motD1));
                 int min = Math.min(d1.indexMap.get(motD1), d2.indexMap.get(motD1));
 
@@ -81,7 +80,7 @@ public class Graph {
 
         }
         for (String motD2 : d2.indexArray) {
-            if (!d1.indexArray.contains(motD2)) {
+            if (!d1.indexMap.containsKey(motD2)) {
                 somme += d2.indexMap.get(motD2);
 
                 sommemax += d2.indexMap.get(motD2);
@@ -89,5 +88,20 @@ public class Graph {
         }
 
         return somme / sommemax;
+    }
+
+    public String toString() {
+        String s = new String();
+        s += "####Graphe#####\n";
+        for (int i = 0; i < nbS; i++) {
+            s += docs.get(i).nom + " : \n";
+            for (int j = 0; j < adjacence.get(i).size(); j++) {
+                s += "-"+docs.get(adjacence.get(i).get(j)).nom + "\n";
+            }
+            s += "\n";
+        }
+        s += "#############\n";
+        return s;
+
     }
 }

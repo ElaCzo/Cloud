@@ -25,11 +25,10 @@ public class Document {
     public Document(String path) {
 
         String indexPath = path.substring(0, path.lastIndexOf('.'));
-        indexPath = path.substring(path.lastIndexOf('/') + 1, indexPath.length());
-        String textPath = indexPath;
+        this.nom = path.substring(path.lastIndexOf('/') + 1, indexPath.length());
 
-        this.textPath = "./text/" + textPath + ".txt";
-        this.indexPath = "./index/" + indexPath + ".index";
+        this.textPath = "./text/" + nom + ".txt";
+        this.indexPath = "./index/" + nom + ".index";
 
         this.indexArray = Indexing.loadIndexArray(this.indexPath);
         this.indexMap = Indexing.loadIndexMap(this.indexPath);

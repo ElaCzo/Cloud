@@ -37,6 +37,7 @@ public class Online {
         }
 
         Graph g = new Graph(docs);
+        System.out.println(g);
 
     }
 
