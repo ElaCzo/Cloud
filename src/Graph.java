@@ -26,7 +26,7 @@ public class Graph {
 
             for (int j = i + 1; j < docs.size(); j++) {
                 double dist = distJacquard(docs.get(i), docs.get(j));
-                if (dist > 0.93) {
+                if (dist > 0.90) {
                     // System.out.println(dist);
                     addEdge(i, j);
                 }
@@ -44,7 +44,6 @@ public class Graph {
 
         if (!adjacence.get(i).contains(j)) {
             adjacence.get(i).add(j);
-
             if (!adjacence.get(j).contains(i)) {
                 adjacence.get(j).add(i);
             }
@@ -96,7 +95,7 @@ public class Graph {
         for (int i = 0; i < nbS; i++) {
             s += docs.get(i).nom + " : \n";
             for (int j = 0; j < adjacence.get(i).size(); j++) {
-                s += "-"+docs.get(adjacence.get(i).get(j)).nom + "\n";
+                s += "-" + docs.get(adjacence.get(i).get(j)).nom + "\n";
             }
             s += "\n";
         }

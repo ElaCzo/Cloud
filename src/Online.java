@@ -13,6 +13,7 @@ import java.util.stream.Stream;
 import Online.Document;
 import Online.Graph;
 import Online.Indexing;
+import Online.Rank;
 
 /**
  * Online
@@ -38,6 +39,14 @@ public class Online {
 
         Graph g = new Graph(docs);
         System.out.println(g);
+
+        ArrayList<Double> pagerank = Rank.pageRank(g, 0.15);
+
+        System.out.println("\n######pageRank ######\n");
+
+        for (int i = 0; i < pagerank.size(); i++) {
+            System.out.println("doc : " + docs.get(i).nom + " pageRank : " + pagerank.get(i));
+        }
 
     }
 
