@@ -12,8 +12,7 @@ public class Rank {
         for (int i = 0; i < vec.size(); i++) {
             sortie.add(0.0);
             for (int j = 0; j < vec.size(); j++) {
-                double degu = mat.get(i).get(j);
-                sortie.set(i, sortie.get(i) + degu * vec.get(i));
+                sortie.set(i, sortie.get(i) + (mat.get(i).get(j) * vec.get(i)));
             }
         }
 
@@ -32,25 +31,53 @@ public class Rank {
         for (int i = 0; i < g.nbS; i++) {
             for (int j = 0; j < g.nbS; j++) {
                 if (g.adjacence.get(i).contains(j)) {
-                    double degu = g.adjacence.get(i).size();
-                    if (degu == 0.0) {
+                    double deg = g.adjacence.get(i).size();
+                    if (deg == 0.0) {
                         sortie.get(i).set(j, 1.0 / g.nbS);
                     } else {
-                        sortie.get(i).set(j, 1.0 / degu);
+                        sortie.get(i).set(j, 1.0 / deg);
 
                     }
                 }
             }
         }
 
-        // System.out.println("######Transition Matrix#######");
-        // for (int i = 0; i < g.nbS; i++) {
-        // for (int j = 0; j < g.nbS; j++) {
-        // System.out.print(sortie.get(i).get(j)+" ");
-        // }
-        // System.out.print("\n");
+        for (int i = 0; i < g.nbS; i++) {
+            double sommeligne = 0;
+            for (int j = 0; j < g.nbS; j++) {
+                sommeligne += sortie.get(i).get(j);
+            }
+            if (sommeligne == 1) {
+                continue;
+            } else {
+                for (int j = 0; j < g.nbS; j++) {
+                    sortie.get(i).set(j, sortie.get(i).get(j) / sommeligne);
+                }
+            }
+        }
 
-        // }
+        for (int j = 0; j < g.nbS; j++) {
+            double sommecol = 0;
+            for (int i = 0; i < g.nbS; i++) {
+                sommecol += sortie.get(i).get(j);
+            }
+            if (sommecol == 1) {
+                continue;
+            } else {
+                for (int i = 0; i < g.nbS; i++) {
+                    sortie.get(i).set(j, sortie.get(i).get(j) / sommecol);
+                }
+            }
+        }
+
+        System.out.println("######Transition Matrix#######");
+        for (int i = 0; i < g.nbS; i++) {
+            for (int j = 0; j < g.nbS; j++) {
+                System.out.print(sortie.get(i).get(j) + " ");
+            }
+            System.out.print("\n");
+
+        }
 
         return sortie;
 
@@ -58,9 +85,10 @@ public class Rank {
 
     public static ArrayList<Double> pageRank(Graph g, double alpha) {
 
-        ArrayList<ArrayList<Double>> t = transitionmatrix(g);
+        ArrayList<ArrayList<Double>> matrix = transitionmatrix(g);
         ArrayList<Double> sortie = new ArrayList<>(g.nbS);
         double entry = 1.0 / g.nbS;
+
         for (int i = 0; i < g.nbS; i++) {
             sortie.add(entry);
         }
@@ -69,12 +97,21 @@ public class Rank {
         int round = 1;
 
         while (cond) {
+
             cond = false;
+
             System.out.println("** PageRank round : " + round + " **");
-            ArrayList<Double> nsortie = prodMatVec(t, sortie);
+
+            for (int i = 0; i < g.nbS; i++) {
+                System.out.println("val : " + sortie.get(i));
+
+            }
+
+            ArrayList<Double> nsortie = prodMatVec(matrix, sortie);
+
             for (int i = 0; i < g.nbS; i++) {
 
-                nsortie.set(i, (1.0 - alpha) * ((sortie.get(i) + alpha)) * entry);
+                nsortie.set(i, (1.0 - alpha) * sortie.get(i) * entry);
 
                 if (Math.abs(nsortie.get(i) - sortie.get(i)) > 0.0) {
                     cond = true;
@@ -85,6 +122,14 @@ public class Rank {
             }
 
             round += 1;
+
+            double somme=0;
+            for (int i = 0; i < sortie.size(); i++) {
+                somme = sortie.get(i); 
+            }
+            for (int i = 0; i < sortie.size(); i++) {
+                sortie.set(i,sortie.get(i)/somme); 
+            }
         }
 
         return sortie;

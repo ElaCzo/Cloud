@@ -40,13 +40,13 @@ public class Online {
         Graph g = new Graph(docs);
         System.out.println(g);
 
-        ArrayList<Double> pagerank = Rank.pageRank(g, 0.15);
+        // ArrayList<Double> pagerank = Rank.pageRank(g, 0.15);
 
-        System.out.println("\n######pageRank ######\n");
+        // System.out.println("\n######pageRank ######\n");
 
-        for (int i = 0; i < pagerank.size(); i++) {
-            System.out.println("doc : " + docs.get(i).nom + " pageRank : " + pagerank.get(i));
-        }
+        // for (int i = 0; i < pagerank.size(); i++) {
+        //     System.out.println("doc : " + docs.get(i).nom + " pageRank : " + pagerank.get(i));
+        // }
 
     }
 

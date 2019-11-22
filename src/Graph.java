@@ -27,7 +27,6 @@ public class Graph {
             for (int j = i + 1; j < docs.size(); j++) {
                 double dist = distJacquard(docs.get(i), docs.get(j));
                 if (dist > 0.90) {
-                    // System.out.println(dist);
                     addEdge(i, j);
                 }
             }
