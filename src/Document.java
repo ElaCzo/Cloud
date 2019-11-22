@@ -31,9 +31,9 @@ public class Document {
         this.textPath = "./text/" + textPath + ".txt";
         this.indexPath = "./index/" + indexPath + ".index";
 
-        this.indexArray = Indexing.loadIndexArray(indexPath);
-        this.indexMap = Indexing.loadIndexMap(indexPath);
-        this.indexTree = Indexing.loadIndexTree(indexPath);
+        this.indexArray = Indexing.loadIndexArray(this.indexPath);
+        this.indexMap = Indexing.loadIndexMap(this.indexPath);
+        this.indexTree = Indexing.loadIndexTree(this.indexPath);
 
     }
 

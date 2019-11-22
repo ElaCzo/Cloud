@@ -76,7 +76,7 @@ public class Indexing {
                 for (String line : txt) {
                     String[] columns = line.split("\\s+");
 
-                    if (columns.length > 2 && Integer.parseInt(columns[1]) < 200) {
+                    if (columns.length > 2 ) {
 
                         String s = columns[2];
                         ArrayList<TextPosition> occ = KMP.kmp(text, s.toCharArray());
