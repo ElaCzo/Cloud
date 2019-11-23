@@ -4,8 +4,6 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 
-import Online.Document;
-
 /**
  * Graph
  */
@@ -14,13 +12,13 @@ public class Graph {
     public ArrayList<Document> docs;
     public int nbS;
     public ArrayList<ArrayList<Integer>> adjacence;
-    protected HashMap<Integer, HashSet<EdgeJacquard<Integer>>> jacquard;
+    protected HashMap<Integer, HashSet<DistanceJaccard<Integer>>> jaccard;
 
     public Graph(ArrayList<Document> docs) {
         this.docs = docs;
         nbS = 0;
         adjacence = new ArrayList<>();
-        jacquard =new HashMap<>();
+        jaccard =new HashMap<>();
 
         for (Document document : docs) {
             addSommet();
@@ -30,11 +28,11 @@ public class Graph {
 
             for (int j = i + 1; j < docs.size(); j++) {
                 double dist = distJacquard(docs.get(i), docs.get(j));
-                addJacquard(i, j, dist);
 
                 System.out.println("distance entre:" + docs.get(i).nom + " et " + docs.get(j).nom + " : " + dist);
                 if (dist < 0.8) {
                     addEdge(i, j);
+                    addJaccard(i, j, dist);
                 }
             }
         }
@@ -46,13 +44,14 @@ public class Graph {
 
     }
 
-    public void addJacquard(int i, int j, double dist){
-        int min = Math.min(i, j);
+    public void addJaccard(int i, int j, double dist){
+        if(!jaccard.containsKey(i))
+            jaccard.put(i, new HashSet<>());
+        if(!jaccard.containsKey(j))
+            jaccard.put(j, new HashSet<>());
 
-        if(!jacquard.containsKey(min))
-            this.jacquard.put(Math.min(i, j), new HashSet<>());
-
-        jacquard.get(min).add(new EdgeJacquard<Integer>(i, j, dist));
+        jaccard.get(i).add(new DistanceJaccard<Integer>(i, j, dist));
+        jaccard.get(j).add(new DistanceJaccard<Integer>(i, j, dist));
     }
 
     public void addEdge(int i, int j) {
@@ -121,7 +120,7 @@ public class Graph {
     }
 
     /* GETTERS */
-    public HashMap<Integer, HashSet<EdgeJacquard<Integer>>> getJacquard() {
-        return jacquard;
+    public HashMap<Integer, HashSet<DistanceJaccard<Integer>>> getJaccard() {
+        return jaccard;
     }
 }
