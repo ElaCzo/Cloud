@@ -26,7 +26,8 @@ public class Graph {
 
             for (int j = i + 1; j < docs.size(); j++) {
                 double dist = distJacquard(docs.get(i), docs.get(j));
-                if (dist > 0.90) {
+                System.out.println("distance entre:" + docs.get(i).nom + " et " + docs.get(j).nom + " : " + dist);
+                if (dist < 0.80) {
                     addEdge(i, j);
                 }
             }

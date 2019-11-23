@@ -32,7 +32,7 @@ public class Indexing {
     public static Boolean indexFiles() {
         try {
 
-            filtre = new HashSet<>(Files.readAllLines(Paths.get("./filtre/10000-english.txt")));
+            filtre = new HashSet<>(Files.readAllLines(Paths.get("./filtre/1000.txt")));
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -51,7 +51,7 @@ public class Indexing {
         if (filtre == null) {
             try {
 
-                filtre = new HashSet<>(Files.readAllLines(Paths.get("./filtre/10000-english.txt")));
+                filtre = new HashSet<>(Files.readAllLines(Paths.get("./filtre/1000.txt")));
             } catch (IOException e) {
                 e.printStackTrace();
             }
