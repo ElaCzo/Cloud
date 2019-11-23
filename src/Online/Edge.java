@@ -16,4 +16,12 @@ public class Edge<T> {
     public T getB(){
         return b;
     }
+
+    @Override
+    public boolean equals(Object o){
+        return (o instanceof Edge
+        && (((Edge)o).a==a && ((Edge)o).b==b
+        || ((Edge)o).a==b && ((Edge)o).b==a)
+        );
+    }
 }

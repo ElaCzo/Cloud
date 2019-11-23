@@ -1,6 +1,8 @@
 package Online;
 
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
 
 import Online.Document;
 
@@ -12,13 +14,13 @@ public class Graph {
     public ArrayList<Document> docs;
     public int nbS;
     public ArrayList<ArrayList<Integer>> adjacence;
-    protected ArrayList<EdgeJacquard> jacquard;
+    protected HashMap<Integer, HashSet<EdgeJacquard<Integer>>> jacquard;
 
     public Graph(ArrayList<Document> docs) {
         this.docs = docs;
         nbS = 0;
         adjacence = new ArrayList<>();
-        jacquard =new ArrayList<>();
+        jacquard =new HashMap<>();
 
         for (Document document : docs) {
             addSommet();
@@ -28,9 +30,11 @@ public class Graph {
 
             for (int j = i + 1; j < docs.size(); j++) {
                 double dist = distJacquard(docs.get(i), docs.get(j));
+                addJacquard(i, j, dist);
+
                 System.out.println("distance entre:" + docs.get(i).nom + " et " + docs.get(j).nom + " : " + dist);
                 if (dist < 0.8) {
-                    addEdgeJacquard(i, j, dist);
+                    addEdge(i, j);
                 }
             }
         }
@@ -42,9 +46,13 @@ public class Graph {
 
     }
 
-    public void addEdgeJacquard(int i, int j, double jacquard){
-        addEdge(i, j);
-        this.jacquard.add(new EdgeJacquard(i, j, jacquard));
+    public void addJacquard(int i, int j, double dist){
+        int min = Math.min(i, j);
+
+        if(!jacquard.containsKey(min))
+            this.jacquard.put(Math.min(i, j), new HashSet<>());
+
+        jacquard.get(min).add(new EdgeJacquard<Integer>(i, j, dist));
     }
 
     public void addEdge(int i, int j) {
@@ -96,10 +104,7 @@ public class Graph {
         return somme / sommemax;
     }
 
-    public ArrayList<EdgeJacquard> getJacquard() {
-        return jacquard;
-    }
-
+    @Override
     public String toString() {
         String s = new String();
         s += "####Graphe#####\n";
@@ -113,5 +118,10 @@ public class Graph {
         s += "#############\n";
         return s;
 
+    }
+
+    /* GETTERS */
+    public HashMap<Integer, HashSet<EdgeJacquard<Integer>>> getJacquard() {
+        return jacquard;
     }
 }
