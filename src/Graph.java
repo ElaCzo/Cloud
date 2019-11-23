@@ -12,11 +12,13 @@ public class Graph {
     public ArrayList<Document> docs;
     public int nbS;
     public ArrayList<ArrayList<Integer>> adjacence;
+    protected ArrayList<EdgeJacquard> jacquard;
 
     public Graph(ArrayList<Document> docs) {
         this.docs = docs;
         nbS = 0;
         adjacence = new ArrayList<>();
+        jacquard =new ArrayList<>();
 
         for (Document document : docs) {
             addSommet();
@@ -27,8 +29,8 @@ public class Graph {
             for (int j = i + 1; j < docs.size(); j++) {
                 double dist = distJacquard(docs.get(i), docs.get(j));
                 System.out.println("distance entre:" + docs.get(i).nom + " et " + docs.get(j).nom + " : " + dist);
-                if (dist < 0.80) {
-                    addEdge(i, j);
+                if (dist < 0.8) {
+                    addEdgeJacquard(i, j, dist);
                 }
             }
         }
@@ -38,6 +40,11 @@ public class Graph {
         nbS++;
         adjacence.add(new ArrayList<>());
 
+    }
+
+    public void addEdgeJacquard(int i, int j, double jacquard){
+        addEdge(i, j);
+        this.jacquard.add(new EdgeJacquard(i, j, jacquard));
     }
 
     public void addEdge(int i, int j) {
@@ -87,6 +94,10 @@ public class Graph {
         }
 
         return somme / sommemax;
+    }
+
+    public ArrayList<EdgeJacquard> getJacquard() {
+        return jacquard;
     }
 
     public String toString() {
