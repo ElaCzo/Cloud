@@ -16,10 +16,16 @@ public class Closeness {
     croissants */
     public static int[] closeness(Graph g){
         ArrayList<ArrayList<Double>> jaccard = g.getJaccard();
-        double[] closeness = new double[g.nbS];
+        double [] closeness = new double[g.nbS];
 
-        for(int i=0; i<g.nbS; i++)
-            closeness[i] = 1.0/sumJaccardfrom(i, jaccard);
+        double sum=0;
+        for(int i=0; i<g.nbS; i++) {
+            sum = sumJaccardfrom(i, jaccard);
+            if(sum>0)
+                closeness[i]=sum;
+            else
+                closeness[i]=0;
+        }
 
         // Comparer entre heapsort et stream().sorted() pour garder le plus efficace.
         int docsSorted[] = HeapSort.heapsort(closeness);

@@ -46,10 +46,18 @@ public class Graph {
 
     /* Ajoute à jaccard la distance de jaccard entre i et j */
     public void addJaccard(int i, int j, double dist){
-        if(jaccard.get(i)==null)
-            jaccard.set(i, new ArrayList<>());
-        if(jaccard.get(j)==null)
-            jaccard.set(j, new ArrayList<>());
+        for(int k=jaccard.size(); k<=Math.max(i, j); k++)
+            jaccard.add(new ArrayList<>());
+
+        /*if(!jaccard.contains(i))
+            jaccard.add(i, new ArrayList<>());
+        if(!jaccard.contains(j))
+            jaccard.add(j, new ArrayList<>());*/
+
+        for(int k=jaccard.get(i).size(); k<adjacence.get(i).size(); k++)
+            jaccard.get(i).add(-1.0);
+        for(int k=jaccard.get(j).size(); k<adjacence.get(j).size(); k++)
+            jaccard.get(j).add(-1.0);
 
         jaccard.get(i).set(adjacence.get(i).indexOf(j), dist);
         jaccard.get(j).set(adjacence.get(j).indexOf(i), dist);

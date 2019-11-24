@@ -41,6 +41,13 @@ public class Online {
         System.out.println(g);
 
 
+        System.out.println("\n###### Closeness ######\n");
+
+        // affichage par ordre décroissant
+        int[] closeness = Closeness.closeness(g);
+        for (int i = docs.size()-1; i >=0; i--) {
+            System.out.println("doc : " + docs.get(closeness[i]).nom);
+        }
 
         // ArrayList<Double> pagerank = Rank.pageRank(g, 0.15);
 
