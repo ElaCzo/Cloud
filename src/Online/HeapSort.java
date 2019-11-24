@@ -58,11 +58,14 @@ public class HeapSort {
     tri par tas. */
     public static int[] heapsort (double[] tree) {
         int[] indices = new int[tree.length];
+        double[] treetmp = new double[tree.length];
 
-        for(int i=0; i<tree.length; i++)
+        for(int i=0; i<tree.length; i++) {
             indices[i] = i;
+            treetmp[i]= tree[i];
+        }
 
-        heapsort(tree, indices);
+        heapsort(treetmp, indices);
         return indices;
     }
 }

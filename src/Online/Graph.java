@@ -1,8 +1,6 @@
 package Online;
 
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.HashSet;
 
 /**
  * Graph
@@ -12,13 +10,15 @@ public class Graph {
     public ArrayList<Document> docs;
     public int nbS;
     public ArrayList<ArrayList<Integer>> adjacence;
-    protected HashMap<Integer, HashSet<EdgeJaccard<Integer>>> jaccard;
+    /* A chaque indice du tableau correspond la distance de jaccard
+     * en fonction de la liste d'adjacence : */
+    protected ArrayList<ArrayList<Double>> jaccard;
 
     public Graph(ArrayList<Document> docs) {
         this.docs = docs;
         nbS = 0;
         adjacence = new ArrayList<>();
-        jaccard =new HashMap<>();
+        jaccard =new ArrayList<>();
 
         for (Document document : docs) {
             addSommet();
@@ -44,14 +44,18 @@ public class Graph {
 
     }
 
+    /* Ajoute à jaccard la distance de jaccard entre i et j */
     public void addJaccard(int i, int j, double dist){
-        if(!jaccard.containsKey(i))
-            jaccard.put(i, new HashSet<>());
-        if(!jaccard.containsKey(j))
-            jaccard.put(j, new HashSet<>());
+        for(int k=jaccard.size(); k<=Math.max(i, j); k++)
+            jaccard.add(new ArrayList<>());
 
-        jaccard.get(i).add(new EdgeJaccard<Integer>(i, j, dist));
-        jaccard.get(j).add(new EdgeJaccard<Integer>(i, j, dist));
+        for(int k=jaccard.get(i).size(); k<adjacence.get(i).size(); k++)
+            jaccard.get(i).add(-1.0);
+        for(int k=jaccard.get(j).size(); k<adjacence.get(j).size(); k++)
+            jaccard.get(j).add(-1.0);
+
+        jaccard.get(i).set(adjacence.get(i).indexOf(j), dist);
+        jaccard.get(j).set(adjacence.get(j).indexOf(i), dist);
     }
 
     public void addEdge(int i, int j) {
@@ -120,7 +124,7 @@ public class Graph {
     }
 
     /* GETTERS */
-    public HashMap<Integer, HashSet<EdgeJaccard<Integer>>> getJaccard() {
+    public ArrayList<ArrayList<Double>> getJaccard() {
         return jaccard;
     }
 }
