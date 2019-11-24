@@ -57,9 +57,9 @@ public class Online {
             System.out.println("doc : " + docs.get(i).nom + " pageRank : " + pagerank.get(i));
         }
 
-        System.out.println("\n###### MiddleNess ######\n");
+        System.out.println("\n###### Middleness ######\n");
 
-        double[] midle = FloydMarshall.calculShortestPaths(g);
+        double[] midle = Middleness.CalculateMiddleness(g);
         // affichage par ordre YOLO
         for (int i = 0; i < pagerank.size(); i++) {
             System.out.println("doc : " + docs.get(i).nom + " , middle indice : " + midle[i]);
