@@ -40,21 +40,29 @@ public class Online {
         Graph g = new Graph(docs);
         System.out.println(g);
 
-
         System.out.println("\n###### Closeness ######\n");
 
         // affichage par ordre décroissant
         int[] closeness = Closeness.closeness(g);
-        for (int i = docs.size()-1; i >=0; i--) {
+        for (int i = docs.size() - 1; i >= 0; i--) {
             System.out.println("doc : " + docs.get(closeness[i]).nom);
         }
 
-        ArrayList<Double> pagerank = Rank.pageRank(g, 0.15);
+        System.out.println("\n###### pageRank ######\n");
 
-        System.out.println("\n######pageRank ######\n");
+        // affichage par ordre YOLO
+        ArrayList<Double> pagerank = Rank.pageRank(g, 0.15);
 
         for (int i = 0; i < pagerank.size(); i++) {
             System.out.println("doc : " + docs.get(i).nom + " pageRank : " + pagerank.get(i));
+        }
+
+        System.out.println("\n###### MiddleNess ######\n");
+
+        double[] midle = FloydMarshall.calculShortestPaths(g);
+        // affichage par ordre YOLO
+        for (int i = 0; i < pagerank.size(); i++) {
+            System.out.println("doc : " + docs.get(i).nom + " , middle indice : " + midle[i]);
         }
 
     }
