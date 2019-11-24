@@ -1,26 +1,30 @@
 package Online;
 
 public class HeapSort {
-    private static void Echange(int[] a, int k, int m)
+    private static void swap(double[] a, int[] res, int k, int m)
     {
-        int swap = a[k];
+        double swap = a[k];
         a[k]=a[m];
         a[m]=swap;
+
+        int swap2 = res[k];
+        res[k]=res[m];
+        res[m]=swap2;
     }
 
-    private static void Tamiser(int[] arbre, int noeud, int n)
+    private static void heapify(double[] tree, int[] res, int node, int n)
     {
-        int k = noeud;
+        int k = node;
         int j = 2 * k;
 
         while (j <= n)
         {
-            if ((j < n) && (arbre[j] < arbre[j + 1]))
+            if ((j < n) && (tree[j] < tree[j + 1]))
                 j++;
 
-            if (arbre[k] < arbre[j])
+            if (tree[k] < tree[j])
             {
-                Echange(arbre, k, j);
+                swap(tree, res, k, j);
                 k = j;
                 j = 2 * k;
             }
@@ -29,15 +33,15 @@ public class HeapSort {
         }
     }
 
-    public static void TriParTas(int[] arbre)
+    public static void heapsort(double[] tree, int[] res)
     {
-        for (int i = arbre.length >> 1; i >= 0; i--)
-            Tamiser(arbre, i, arbre.length - 1);
+        for (int i = tree.length >> 1; i >= 0; i--)
+            heapify(tree, res, i, tree.length - 1);
 
-        for (int i = arbre.length - 1; i >= 1; i--)
+        for (int i = tree.length - 1; i >= 1; i--)
         {
-            Echange(arbre, i, 0);
-            Tamiser(arbre, 0, i - 1);
+            swap(tree, res, i, 0);
+            heapify(tree, res, 0, i - 1);
         }
     }
 }
