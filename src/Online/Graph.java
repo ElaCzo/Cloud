@@ -12,7 +12,7 @@ public class Graph {
     public ArrayList<Document> docs;
     public int nbS;
     public ArrayList<ArrayList<Integer>> adjacence;
-    protected HashMap<Integer, HashSet<DistanceJaccard<Integer>>> jaccard;
+    protected HashMap<Integer, HashSet<EdgeJaccard<Integer>>> jaccard;
 
     public Graph(ArrayList<Document> docs) {
         this.docs = docs;
@@ -50,8 +50,8 @@ public class Graph {
         if(!jaccard.containsKey(j))
             jaccard.put(j, new HashSet<>());
 
-        jaccard.get(i).add(new DistanceJaccard<Integer>(i, j, dist));
-        jaccard.get(j).add(new DistanceJaccard<Integer>(i, j, dist));
+        jaccard.get(i).add(new EdgeJaccard<Integer>(i, j, dist));
+        jaccard.get(j).add(new EdgeJaccard<Integer>(i, j, dist));
     }
 
     public void addEdge(int i, int j) {
@@ -120,7 +120,7 @@ public class Graph {
     }
 
     /* GETTERS */
-    public HashMap<Integer, HashSet<DistanceJaccard<Integer>>> getJaccard() {
+    public HashMap<Integer, HashSet<EdgeJaccard<Integer>>> getJaccard() {
         return jaccard;
     }
 }
