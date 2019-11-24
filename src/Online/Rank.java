@@ -16,10 +16,21 @@ public class Rank {
             }
         }
 
+        // normalisation du vecteur
+        double somme = 0;
+        for (int i = 0; i < sortie.size(); i++) {
+            somme += sortie.get(i);
+        }
+        // System.out.println("SOMME PRODMAT : " + somme);
+        for (int i = 0; i < sortie.size(); i++) {
+            sortie.set(i, sortie.get(i) / somme);
+        }
+
         return sortie;
     }
 
     public static ArrayList<ArrayList<Double>> transitionmatrix(Graph g) {
+        // initialisation de la matrice
         ArrayList<ArrayList<Double>> sortie = new ArrayList(g.nbS);
         for (int i = 0; i < g.nbS; i++) {
             sortie.add(new ArrayList<>(g.nbS));
@@ -28,6 +39,8 @@ public class Rank {
             }
         }
 
+        // assigantion des valeurs
+        // pour toutes les arretes
         for (int i = 0; i < g.nbS; i++) {
             for (int j = 0; j < g.nbS; j++) {
                 if (g.adjacence.get(i).contains(j)) {
@@ -41,7 +54,7 @@ public class Rank {
                 }
             }
         }
-
+        // normalisation des lignes
         for (int i = 0; i < g.nbS; i++) {
             double sommeligne = 0;
             for (int j = 0; j < g.nbS; j++) {
@@ -55,6 +68,7 @@ public class Rank {
                 }
             }
         }
+        // normalisation des colonnes
 
         for (int j = 0; j < g.nbS; j++) {
             double sommecol = 0;
@@ -69,15 +83,15 @@ public class Rank {
                 }
             }
         }
+        // print de la matrice
+        // System.out.println("######Transition Matrix#######");
+        // for (int i = 0; i < g.nbS; i++) {
+        // for (int j = 0; j < g.nbS; j++) {
+        // System.out.print(sortie.get(i).get(j) + " ");
+        // }
+        // System.out.print("\n");
 
-        System.out.println("######Transition Matrix#######");
-        for (int i = 0; i < g.nbS; i++) {
-            for (int j = 0; j < g.nbS; j++) {
-                System.out.print(sortie.get(i).get(j) + " ");
-            }
-            System.out.print("\n");
-
-        }
+        // }
 
         return sortie;
 
@@ -89,6 +103,7 @@ public class Rank {
         ArrayList<Double> sortie = new ArrayList<>(g.nbS);
         double entry = 1.0 / g.nbS;
 
+        // initialisation du vecteur
         for (int i = 0; i < g.nbS; i++) {
             sortie.add(entry);
         }
@@ -99,37 +114,43 @@ public class Rank {
         while (cond) {
 
             cond = false;
-
+            // print
             System.out.println("** PageRank round : " + round + " **");
 
-            for (int i = 0; i < g.nbS; i++) {
-                System.out.println("val : " + sortie.get(i));
+            // for (int i = 0; i < g.nbS; i++) {
+            // System.out.println("val : " + sortie.get(i));
 
-            }
+            // }
 
+            // produit matriciel
             ArrayList<Double> nsortie = prodMatVec(matrix, sortie);
 
+            // application de la formule
             for (int i = 0; i < g.nbS; i++) {
 
-                nsortie.set(i, (1.0 - alpha) * sortie.get(i) * entry);
+                nsortie.set(i, (1.0 - alpha) * (nsortie.get(i) + alpha) * entry);
+                // nsortie.set(i, nsortie.get(i) + (1.0 - sortie.get(i)) / g.nbS);
 
-                if (Math.abs(nsortie.get(i) - sortie.get(i)) > 0.0) {
+                if (Math.abs(nsortie.get(i) - sortie.get(i)) > 0.0000001) {
                     cond = true;
                 }
             }
+
             if (cond) {
                 sortie = nsortie;
             }
 
             round += 1;
 
-            double somme=0;
-            for (int i = 0; i < sortie.size(); i++) {
-                somme = sortie.get(i); 
-            }
-            for (int i = 0; i < sortie.size(); i++) {
-                sortie.set(i,sortie.get(i)/somme); 
-            }
+        }
+        // normalisation du vecteur
+        double somme = 0;
+        for (int i = 0; i < sortie.size(); i++) {
+            somme += sortie.get(i);
+        }
+        // System.out.println("SOMME : " + somme);
+        for (int i = 0; i < sortie.size(); i++) {
+            sortie.set(i, sortie.get(i) / somme);
         }
 
         return sortie;
