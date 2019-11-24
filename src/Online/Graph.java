@@ -27,10 +27,11 @@ public class Graph {
         for (int i = 0; i < docs.size(); i++) {
 
             for (int j = i + 1; j < docs.size(); j++) {
+
                 double dist = distJacquard(docs.get(i), docs.get(j));
 
                 System.out.println("distance entre:" + docs.get(i).nom + " et " + docs.get(j).nom + " : " + dist);
-                if (dist < 0.8) {
+                if (dist < 0.84) {
                     addEdge(i, j);
                     addJaccard(i, j, dist);
                 }
@@ -110,7 +111,7 @@ public class Graph {
         for (int i = 0; i < nbS; i++) {
             s += docs.get(i).nom + " : \n";
             for (int j = 0; j < adjacence.get(i).size(); j++) {
-                s += "-" + docs.get(adjacence.get(i).get(j)).nom + "\n";
+                s += "\t-" + docs.get(adjacence.get(i).get(j)).nom + "\n";
             }
             s += "\n";
         }
