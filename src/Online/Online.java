@@ -40,6 +40,8 @@ public class Online {
         Graph g = new Graph(docs);
         System.out.println(g);
 
+
+
         // ArrayList<Double> pagerank = Rank.pageRank(g, 0.15);
 
         // System.out.println("\n######pageRank ######\n");

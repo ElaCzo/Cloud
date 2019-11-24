@@ -7,7 +7,7 @@ public class Closeness {
 
     private static double sumJaccardfrom(
             int i,
-            HashMap<Integer, HashSet<DistanceJaccard<Integer>>> jacquard){
+            HashMap<Integer, HashSet<EdgeJaccard<Integer>>> jacquard){
         double sum = jacquard
                 .get(i)
                 .stream()
@@ -16,13 +16,18 @@ public class Closeness {
         return sum;
     }
 
-    public static void closeness(Graph g){
-        HashMap<Integer, HashSet<DistanceJaccard<Integer>>> jaccard = g.getJaccard();
-        Double[] sumJaccard = new Double[g.nbS];
+    public static int[] closeness(Graph g){
+        HashMap<Integer, HashSet<EdgeJaccard<Integer>>> jaccard = g.getJaccard();
+        double[] closeness = new double[g.nbS];
 
-        double sum;
+        int docsSorted[] = new int[g.nbS];
         for(int i=0; i<g.nbS; i++) {
-            sumJaccard[i]=sumJaccardfrom(i, jaccard);
+            closeness[i] = 1.0/sumJaccardfrom(i, jaccard);
+            docsSorted[i]=i;
         }
+
+        HeapSort.heapsort(closeness, docsSorted);
+
+        return docsSorted;
     }
 }
