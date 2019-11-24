@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 public class Middleness {
 
-    public static double[] CalculateMiddleness(Graph g) {
+    public static int[] CalculateMiddleness(Graph g) {
 
         int[][] paths = new int[g.nbS][g.nbS];
         for (int i = 0; i < paths.length; i++)
@@ -77,6 +77,8 @@ public class Middleness {
             middle[i] = middle[i] / max;
         }
 
-        return middle;
+        int docsSorted[] = HeapSort.heapsort(middle);
+
+        return docsSorted;
     }
 }

@@ -50,19 +50,18 @@ public class Online {
 
         System.out.println("\n###### pageRank ######\n");
 
-        // affichage par ordre YOLO
-        ArrayList<Double> pagerank = Rank.pageRank(g, 0.15);
-
-        for (int i = 0; i < pagerank.size(); i++) {
-            System.out.println("doc : " + docs.get(i).nom + " pageRank : " + pagerank.get(i));
-        }
+        int[]  pagerank = Rank.pageRank(g, 0.15);
+// affichage par ordre décroissant
+for (int i = docs.size() - 1; i >= 0; i--) {
+    System.out.println("doc : " + docs.get(pagerank[i]).nom);
+}
 
         System.out.println("\n###### Middleness ######\n");
 
-        double[] midle = Middleness.CalculateMiddleness(g);
-        // affichage par ordre YOLO
-        for (int i = 0; i < pagerank.size(); i++) {
-            System.out.println("doc : " + docs.get(i).nom + " , middle indice : " + midle[i]);
+        int[] midle = Middleness.CalculateMiddleness(g);
+        // affichage par ordre décroissant
+        for (int i = docs.size() - 1; i >= 0; i--) {
+            System.out.println("doc : " + docs.get(midle[i]).nom);
         }
 
     }

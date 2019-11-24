@@ -101,7 +101,7 @@ public class Rank {
 
     }
 
-    public static ArrayList<Double> pageRank(Graph g, double alpha) {
+    public static int[] pageRank(Graph g, double alpha) {
 
         ArrayList<ArrayList<Double>> matrix = transitionmatrix(g);
         ArrayList<Double> sortie = new ArrayList<>(g.nbS);
@@ -157,8 +157,16 @@ public class Rank {
             sortie.set(i, sortie.get(i) / somme);
         }
 
-        return sortie;
+        double[] rank = new double[g.nbS];
 
+        // initialisation du vecteur
+        for (int i = 0; i < g.nbS; i++) {
+            rank[i]=sortie.get(i);
+        }
+        // Comparer entre heapsort et stream().sorted() pour garder le plus efficace.
+        int docsSorted[] = HeapSort.heapsort(rank);
+
+        return docsSorted;
     }
 
 }
