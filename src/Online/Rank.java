@@ -45,6 +45,7 @@ public class Rank {
             for (int j = 0; j < g.nbS; j++) {
                 if (g.adjacence.get(i).contains(j)) {
                     double deg = g.adjacence.get(i).size();
+
                     if (deg == 0.0) {
                         sortie.get(i).set(j, 1.0 / g.nbS);
                     } else {
@@ -54,13 +55,16 @@ public class Rank {
                 }
             }
         }
+
         // normalisation des lignes
         for (int i = 0; i < g.nbS; i++) {
             double sommeligne = 0;
             for (int j = 0; j < g.nbS; j++) {
                 sommeligne += sortie.get(i).get(j);
+                
             }
-            if (sommeligne == 1) {
+            // System.out.println(sommeligne+"\n");
+            if (sommeligne == 1||sommeligne==0) {
                 continue;
             } else {
                 for (int j = 0; j < g.nbS; j++) {
@@ -75,7 +79,7 @@ public class Rank {
             for (int i = 0; i < g.nbS; i++) {
                 sommecol += sortie.get(i).get(j);
             }
-            if (sommecol == 1) {
+            if (sommecol == 1||sommecol==0) {
                 continue;
             } else {
                 for (int i = 0; i < g.nbS; i++) {
@@ -115,7 +119,7 @@ public class Rank {
 
             cond = false;
             // print
-            System.out.println("** PageRank round : " + round + " **");
+            // System.out.println("** PageRank round : " + round + " **");
 
             // for (int i = 0; i < g.nbS; i++) {
             // System.out.println("val : " + sortie.get(i));

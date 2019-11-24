@@ -92,8 +92,7 @@ public class Indexing {
                 int cpt = 0;
                 int size = txt.size();
 
-                System.out.print("Etape 3 indexing  : " + textPath + " #### " + cpt + " / " + size + "\r");
-
+                // System.out.print("Etape 3 indexing  : " + textPath + " #### " + cpt + " / " + size + "\r");
                 for (String line : txt) {
                     String[] columns = line.split("\\s+");
 
@@ -115,7 +114,7 @@ public class Indexing {
                         break;
                     }
 
-                    System.out.print("Etape 3 indexing  : " + textPath + " #### " + cpt + " / " + size + "\r");
+                    // System.out.print("Etape 3 indexing  : " + textPath + " #### " + cpt + " / " + size + "\r");
 
                     cpt++;
                 }
