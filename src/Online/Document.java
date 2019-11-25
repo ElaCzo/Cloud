@@ -15,7 +15,6 @@ public class Document {
 
     public ArrayList<String> indexArray;
     public HashMap<String, Integer> indexMap;
-    public IndexTree indexTree;
 
     public String indexPath;
     public String textPath;
@@ -32,7 +31,6 @@ public class Document {
 
         this.indexArray = Indexing.loadIndexArray(this.indexPath);
         this.indexMap = Indexing.loadIndexMap(this.indexPath);
-        this.indexTree = Indexing.loadIndexTree(this.indexPath);
 
     }
 
