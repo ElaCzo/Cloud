@@ -50,18 +50,18 @@ public class Online {
 
         System.out.println("\n###### pageRank ######\n");
 
-        int[]  pagerank = Rank.pageRank(g, 0.15);
-// affichage par ordre décroissant
-for (int i = docs.size() - 1; i >= 0; i--) {
-    System.out.println("doc : " + docs.get(pagerank[i]).nom);
-}
-
-        System.out.println("\n###### Middleness ######\n");
-
-        int[] midle = Middleness.CalculateMiddleness(g);
+        int[] pagerank = Rank.pageRank(g, 0.15);
         // affichage par ordre décroissant
         for (int i = docs.size() - 1; i >= 0; i--) {
-            System.out.println("doc : " + docs.get(midle[i]).nom);
+            System.out.println("doc : " + docs.get(pagerank[i]).nom);
+        }
+
+        System.out.println("\n###### betwenness ######\n");
+
+        int[] betw = Betwenness.CalculateBetwenness(g);
+        // affichage par ordre décroissant
+        for (int i = docs.size() - 1; i >= 0; i--) {
+            System.out.println("doc : " + docs.get(betw[i]).nom);
         }
 
     }

@@ -3,9 +3,9 @@ package Online;
 import java.awt.Point;
 import java.util.ArrayList;
 
-public class Middleness {
+public class Betwenness {
 
-    public static int[] CalculateMiddleness(Graph g) {
+    public static int[] CalculateBetwenness(Graph g) {
 
         int[][] paths = new int[g.nbS][g.nbS];
         for (int i = 0; i < paths.length; i++)
@@ -28,9 +28,9 @@ public class Middleness {
             }
         }
 
-        double[] middle = new double[g.nbS];
-        for (int i = 0; i < middle.length; i++) {
-            middle[i] = g.adjacence.get(i).size();
+        double[] betwen = new double[g.nbS];
+        for (int i = 0; i < betwen.length; i++) {
+            betwen[i] = g.adjacence.get(i).size();
         }
 
         for (int k = 0; k < paths.length; k++) {
@@ -39,7 +39,6 @@ public class Middleness {
                     if (dist[i][j] > dist[i][k] + dist[k][j]) {
                         dist[i][j] = dist[i][k] + dist[k][j];
                         paths[i][j] = paths[i][k];
-                        middle[j] += 1;
 
 
                     }
@@ -49,35 +48,35 @@ public class Middleness {
 
         
 
-        // for (int k = 0; k < middle.length; k++) {
-        //     for (int i = 0; i < paths.length; i++) {
-        //         if (dist[k][i] != Double.POSITIVE_INFINITY) {
+        for (int k = 0; k < betwen.length; k++) {
+            for (int i = 0; i < paths.length; i++) {
+                if (dist[k][i] != Double.POSITIVE_INFINITY) {
 
-        //             int j = paths[k][i];
-        //             while (j != i) {
-        //                 middle[j] += 1;
-        //                 j = paths[j][i];
-        //             }
+                    int j = paths[k][i];
+                    while (j != i) {
+                        betwen[j] += 1;
+                        j = paths[j][i];
+                    }
 
-        //         }
+                }
 
-        //     }
+            }
 
-        // }
+        }
 
         double max = 0;
 
-        for (int i = 0; i < middle.length; i++) {
-            if (middle[i] > max) {
-                max = middle[i];
+        for (int i = 0; i < betwen.length; i++) {
+            if (betwen[i] > max) {
+                max = betwen[i];
             }
         }
 
-        for (int i = 0; i < middle.length; i++) {
-            middle[i] = middle[i] / max;
+        for (int i = 0; i < betwen.length; i++) {
+            betwen[i] = betwen[i] / max;
         }
 
-        int docsSorted[] = HeapSort.heapsort(middle);
+        int docsSorted[] = HeapSort.heapsort(betwen);
 
         return docsSorted;
     }
