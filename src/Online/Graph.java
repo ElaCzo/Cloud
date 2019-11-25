@@ -30,7 +30,7 @@ public class Graph {
                 double dist = distJacquard(docs.get(i), docs.get(j));
 
                 System.out.println("distance entre:" + docs.get(i).nom + " et " + docs.get(j).nom + " : " + dist);
-                if (dist < 0.8) {
+                if (dist < 0.83) {
                     addEdge(i, j);
                     addJaccard(i, j, dist);
                 }
