@@ -4,28 +4,65 @@ import java.util.ArrayList;
 
 public class Closeness {
 
+    public static int[][] calculShortestPaths(Graph g) {
+        int[][] paths = new int[g.nbS][g.nbS];
+        for (int i = 0; i < paths.length; i++)
+            for (int j = 0; j < paths.length; j++)
+                paths[i][j] = i;
+
+        double[][] dist=new double[g.nbS][g.nbS];
+
+        for (int i=0;i<paths.length;i++) {
+            for (int j=0;j<paths.length;j++) {
+                if (i==j) {
+                    dist[i][i]=0;
+                    continue;
+                }
+                if (g.adjacence.get(i).contains(j))
+                    dist[i][j]=g.getJaccard().get(i).get(g.adjacence.indexOf(j));
+                else
+                    dist[i][j]=Double.POSITIVE_INFINITY;
+                paths[i][j]=j;
+            }
+        }
+
+        for (int k=0;k<paths.length;k++) {
+            for (int i=0;i<paths.length;i++) {
+                for (int j=0;j<paths.length;j++) {
+                    if (dist[i][j]>dist[i][k] + dist[k][j]){
+                        dist[i][j]=dist[i][k] + dist[k][j];
+                        paths[i][j]=paths[i][k];
+
+                    }
+                }
+            }
+        }
+
+        return paths;
+    }
+
     /* Renvoie la closeness centrality d'un point d'indice i */
-    private static double sumJaccardfrom(int i, ArrayList<ArrayList<Double>> jacquard){
-        return jacquard
-                .get(i)
-                .stream()
-                .reduce(0.0, Double::sum);
+    private static double computeJaccard(int i, int[][] shortestPaths){
+        double sum=0.0;
+        for(int j=0; j<shortestPaths[i].length; j++)
+            if(i!=j)
+                sum+=shortestPaths[i][j];
+
+        if(sum==0.0)
+            return 0.0;
+        else
+            return 1.0/sum;
     }
 
     /* Renvoie la liste des indices des sommets triés par indice de Closeness
     croissants */
     public static int[] closeness(Graph g){
-        ArrayList<ArrayList<Double>> jaccard = g.getJaccard();
         double [] closeness = new double[g.nbS];
 
-        double sum=0;
-        for(int i=0; i<g.nbS; i++) {
-            sum = sumJaccardfrom(i, jaccard);
-            if(sum>0)
-                closeness[i]=sum;
-            else
-                closeness[i]=0;
-        }
+        int shortestPaths[][] =  calculShortestPaths(g);
+
+        for(int i=0; i<closeness.length; i++)
+            closeness[i]=computeJaccard(i, shortestPaths);
 
         // Comparer entre heapsort et stream().sorted() pour garder le plus efficace.
         int docsSorted[] = HeapSort.heapsort(closeness);
