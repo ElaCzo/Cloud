@@ -21,7 +21,7 @@ public class Betweeness {
                     continue;
                 }
                 if (g.adjacence.get(i).contains(j))
-                    dist[i][j] = 1;
+                    dist[i][j]=g.getJaccard().get(i).get(g.adjacence.indexOf(j));
                 else
                     dist[i][j] = Double.POSITIVE_INFINITY;
                 paths[i][j] = j;
