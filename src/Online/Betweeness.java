@@ -3,9 +3,9 @@ package Online;
 import java.awt.Point;
 import java.util.ArrayList;
 
-public class Betwenness {
+public class Betweeness {
 
-    public static int[] CalculateBetwenness(Graph g) {
+    public static int[] CalculateBetweeness(Graph g) {
 
         int[][] paths = new int[g.nbS][g.nbS];
         for (int i = 0; i < paths.length; i++)
@@ -28,9 +28,9 @@ public class Betwenness {
             }
         }
 
-        double[] betwen = new double[g.nbS];
-        for (int i = 0; i < betwen.length; i++) {
-            betwen[i] = g.adjacence.get(i).size();
+        double[] between = new double[g.nbS];
+        for (int i = 0; i < between.length; i++) {
+            between[i] = g.adjacence.get(i).size();
         }
 
         for (int k = 0; k < paths.length; k++) {
@@ -48,13 +48,13 @@ public class Betwenness {
 
         
 
-        for (int k = 0; k < betwen.length; k++) {
+        for (int k = 0; k < between.length; k++) {
             for (int i = 0; i < paths.length; i++) {
                 if (dist[k][i] != Double.POSITIVE_INFINITY) {
 
                     int j = paths[k][i];
                     while (j != i) {
-                        betwen[j] += 1;
+                        between[j] += 1;
                         j = paths[j][i];
                     }
 
@@ -66,17 +66,17 @@ public class Betwenness {
 
         double max = 0;
 
-        for (int i = 0; i < betwen.length; i++) {
-            if (betwen[i] > max) {
-                max = betwen[i];
+        for (int i = 0; i < between.length; i++) {
+            if (between[i] > max) {
+                max = between[i];
             }
         }
 
-        for (int i = 0; i < betwen.length; i++) {
-            betwen[i] = betwen[i] / max;
+        for (int i = 0; i < between.length; i++) {
+            between[i] = between[i] / max;
         }
 
-        int docsSorted[] = HeapSort.heapsort(betwen);
+        int docsSorted[] = HeapSort.heapsort(between);
 
         return docsSorted;
     }
