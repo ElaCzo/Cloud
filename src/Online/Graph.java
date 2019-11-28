@@ -127,4 +127,7 @@ public class Graph {
     public ArrayList<ArrayList<Double>> getJaccard() {
         return jaccard;
     }
+    public ArrayList<ArrayList<Integer>> getAdjacence() {
+        return adjacence;
+    }
 }

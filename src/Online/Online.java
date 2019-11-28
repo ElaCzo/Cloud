@@ -1,6 +1,5 @@
 package Online;
 
-import java.io.BufferedInputStream;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
@@ -40,7 +39,7 @@ public class Online {
         Graph g = new Graph(docs);
         System.out.println(g);
 
-        System.out.println("\n###### Closeness ######\n");
+        System.out.println("\n###### closeness ######\n");
 
         // affichage par ordre décroissant
         int[] closeness = Closeness.closeness(g);
@@ -64,6 +63,7 @@ public class Online {
             System.out.println("doc : " + docs.get(betw[i]).nom);
         }
 
+        Display.registerEdgesInFile("jaccard.txt", g);
     }
 
 }
