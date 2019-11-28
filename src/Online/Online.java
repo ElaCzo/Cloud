@@ -58,7 +58,7 @@ public class Online {
 
         System.out.println("\n###### betwenness ######\n");
 
-        int[] betw = Betwenness.CalculateBetwenness(g);
+        int[] betw = Betweeness.CalculateBetweeness(g);
         // affichage par ordre décroissant
         for (int i = docs.size() - 1; i >= 0; i--) {
             System.out.println("doc : " + docs.get(betw[i]).nom);
