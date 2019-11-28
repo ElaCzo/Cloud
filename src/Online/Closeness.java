@@ -50,7 +50,7 @@ public class Closeness {
         if(sum==0.0)
             return 0.0;
         else
-            return 1.0/sum;
+            return ((double)(shortestPaths[i].length-1.0))/sum;
     }
 
     /* Renvoie la liste des indices des sommets triés par indice de Closeness
