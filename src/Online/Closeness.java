@@ -1,7 +1,5 @@
 package Online;
 
-import java.util.ArrayList;
-
 public class Closeness {
 
     public static double[][] calculShortestPaths(Graph g) {
@@ -18,8 +16,9 @@ public class Closeness {
                     dist[i][i]=0;
                     continue;
                 }
-                if (g.adjacence.get(i).contains(j))
-                    dist[i][j]=g.getJaccard().get(i).get(g.adjacence.indexOf(j));
+                if (g.adjacence.get(i).contains(j)) {
+                    dist[i][j] = g.getJaccard().get(i).get(g.adjacence.get(i).indexOf(j));
+                }
                 else
                     dist[i][j]=Double.POSITIVE_INFINITY;
                 paths[i][j]=j;
