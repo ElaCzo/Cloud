@@ -42,26 +42,34 @@ public class Online {
         System.out.println("\n###### closeness ######\n");
 
         // affichage par ordre décroissant
-        int[] closeness = Closeness.closeness(g);
+        int[] closeness = HeapSort.heapsort(Closeness.closeness(g));
         for (int i = docs.size() - 1; i >= 0; i--) {
             System.out.println("doc : " + docs.get(closeness[i]).nom);
         }
 
-        System.out.println("\n###### pageRank ######\n");
-
-        int[] pagerank = Rank.pageRank(g, 0.15);
-        // affichage par ordre décroissant
-        for (int i = docs.size() - 1; i >= 0; i--) {
-            System.out.println("doc : " + docs.get(pagerank[i]).nom);
-        }
-
         System.out.println("\n###### betwenness ######\n");
 
-        int[] betw = Betweeness.CalculateBetweeness(g);
+        int[] betw = HeapSort.heapsort(Betweeness.CalculateBetweeness(g));
         // affichage par ordre décroissant
         for (int i = docs.size() - 1; i >= 0; i--) {
             System.out.println("doc : " + docs.get(betw[i]).nom);
         }
+
+        System.out.println("\n###### Centrality ######\n");
+
+        // affichage par ordre décroissant
+        int[] cent = HeapSort.heapsort(Centrality.calcCentrality(g));
+        for (int i = docs.size() - 1; i >= 0; i--) {
+            System.out.println("doc : " + docs.get(cent[i]).nom);
+        }
+
+        // System.out.println("\n###### pageRank ######\n");
+
+        // int[] pagerank = Rank.pageRank(g, 0.15);
+        // // affichage par ordre décroissant
+        // for (int i = docs.size() - 1; i >= 0; i--) {
+        //     System.out.println("doc : " + docs.get(pagerank[i]).nom);
+        // }
 
         Display.registerEdgesInFile("jaccard.txt", g);
     }

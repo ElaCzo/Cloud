@@ -2,10 +2,12 @@ package Online;
 
 import java.util.ArrayList;
 
-public class Betweeness {
+/**
+ * Centrality
+ */
+public class Centrality {
 
-    public static double[] CalculateBetweeness(Graph g) {
-
+    public static double[][] calculShortestPaths(Graph g) {
         int[][] paths = new int[g.nbS][g.nbS];
         for (int i = 0; i < paths.length; i++)
             for (int j = 0; j < paths.length; j++)
@@ -19,17 +21,12 @@ public class Betweeness {
                     dist[i][i] = 0;
                     continue;
                 }
-                if (g.adjacence.get(i).contains(j))
+                if (g.adjacence.get(i).contains(j)) {
                     dist[i][j] = g.getJaccard().get(i).get(g.adjacence.get(i).indexOf(j));
-                else
+                } else
                     dist[i][j] = Double.POSITIVE_INFINITY;
                 paths[i][j] = j;
             }
-        }
-
-        double[] between = new double[g.nbS];
-        for (int i = 0; i < between.length; i++) {
-            between[i] = g.adjacence.get(i).size();
         }
 
         for (int k = 0; k < paths.length; k++) {
@@ -44,35 +41,19 @@ public class Betweeness {
             }
         }
 
-        for (int k = 0; k < between.length; k++) {
-            for (int i = 0; i < paths.length; i++) {
-                if (dist[k][i] != Double.POSITIVE_INFINITY) {
-
-                    int j = paths[k][i];
-                    while (j != i) {
-                        between[j] += 0.5;
-                        j = paths[j][i];
-                    }
-
-                }
-
-            }
-
-        }
-
-        double max = 0;
-
-        for (int i = 0; i < between.length; i++) {
-            if (between[i] > max) {
-                max = between[i];
-            }
-        }
-
-        for (int i = 0; i < between.length; i++) {
-            between[i] = between[i] / max;
-        }
-
-
-        return between;
+        return dist;
     }
+
+    public static double[] calcCentrality(Graph g) {
+
+        double[] cl = Closeness.closeness(g);
+        double[] bw = Betweeness.CalculateBetweeness(g);
+        double[] cent = new double[g.nbS];
+
+        for (int i = 0; i < cent.length; i++)
+            cent[i] = cl[i] + bw[i];
+
+        return cent;
+    }
+
 }
