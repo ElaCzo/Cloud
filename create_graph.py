@@ -5,7 +5,15 @@ from scipy import *
 
 G=nx.Graph()
 
-G.add_nodes_from(range(50))
+lignes=0
+with open("jaccard.txt") as f:
+    line = f.readline()
+    while line:
+        lignes+=1
+        line = f.readline()
+f.close()
+
+G.add_nodes_from(range(lignes))
 
 with open("jaccard.txt") as fp:
 	line = fp.readline()
@@ -25,5 +33,5 @@ with open("jaccard.txt") as fp:
 		line = fp.readline()
 
 fp.close()
-nx.draw_networkx(G, node_size=15, node_color='y', node_shape='h', with_labels=False)
+nx.draw_networkx(G, node_size=15, node_color='c', node_shape='h', with_labels=False)
 plt.show()
