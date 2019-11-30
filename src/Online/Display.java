@@ -27,7 +27,6 @@ public class Display {
                 ArrayList<Double> jaccardVoisins = jaccard.get(a);
 
                 for(int v=0; v<voisins.size(); v++) {
-                    System.out.println("a="+a+" v:"+voisins.size());
                     pw.print(voisins.get(v) + " " + jaccardVoisins.get(v) + " ");
                     pw.flush();
                 }
