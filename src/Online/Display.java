@@ -21,20 +21,29 @@ public class Display {
             int a = 0;
             // Impression des voisins dans un fichier.
             // Chaque ligne représente les voisins de l'indice = numéro de ligne.
+
             while(a < adjacence.size()) {
                 ArrayList<Integer> voisins = adjacence.get(a);
                 ArrayList<Double> jaccardVoisins = jaccard.get(a);
 
-                System.out.println(a + " " + adjacence.size());
-                for(int v=0; v<voisins.size(); v++)
+                for(int v=0; v<voisins.size(); v++) {
+                    System.out.println("a="+a+" v:"+voisins.size());
                     pw.print(voisins.get(v) + " " + jaccardVoisins.get(v) + " ");
+                    pw.flush();
+                }
+
                 pw.println();
+                pw.flush();
+
                 a++;
             }
+            pw.close();
+            writer.close();
 
         }  catch (IOException e) {
             System.out.println("Problème écriture jaccard dans fichier.");
         }  finally {
+
         }
 
     }
