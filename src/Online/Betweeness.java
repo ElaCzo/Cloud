@@ -50,7 +50,7 @@ public class Betweeness {
 
                     int j = paths[k][i];
                     while (j != i) {
-                        between[j] += 0.5;
+                        between[j] += 1;
                         j = paths[j][i];
                     }
 
@@ -71,7 +71,6 @@ public class Betweeness {
         for (int i = 0; i < between.length; i++) {
             between[i] = between[i] / max;
         }
-
 
         return between;
     }

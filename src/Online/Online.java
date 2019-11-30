@@ -37,23 +37,23 @@ public class Online {
         }
 
         Graph g = new Graph(docs);
-        System.out.println(g);
+        // System.out.println(g);
 
-        System.out.println("\n###### closeness ######\n");
+        // System.out.println("\n###### closeness ######\n");
 
-        // affichage par ordre décroissant
-        int[] closeness = HeapSort.heapsort(Closeness.closeness(g));
-        for (int i = docs.size() - 1; i >= 0; i--) {
-            System.out.println("doc : " + docs.get(closeness[i]).nom);
-        }
+        // // affichage par ordre décroissant
+        // int[] closeness = HeapSort.heapsort(Closeness.closeness(g));
+        // for (int i = docs.size() - 1; i >= 0; i--) {
+        //     System.out.println("doc : " + docs.get(closeness[i]).nom);
+        // }
 
-        System.out.println("\n###### betwenness ######\n");
+        // System.out.println("\n###### betwenness ######\n");
 
-        int[] betw = HeapSort.heapsort(Betweeness.CalculateBetweeness(g));
-        // affichage par ordre décroissant
-        for (int i = docs.size() - 1; i >= 0; i--) {
-            System.out.println("doc : " + docs.get(betw[i]).nom);
-        }
+        // int[] betw = HeapSort.heapsort(Betweeness.CalculateBetweeness(g));
+        // // affichage par ordre décroissant
+        // for (int i = docs.size() - 1; i >= 0; i--) {
+        //     System.out.println("doc : " + docs.get(betw[i]).nom);
+        // }
 
         System.out.println("\n###### Centrality ######\n");
 

@@ -10,8 +10,10 @@ public class Graph {
     public ArrayList<Document> docs;
     public int nbS;
     public ArrayList<ArrayList<Integer>> adjacence;
-    /* A chaque indice du tableau correspond la distance de jaccard
-     * en fonction de la liste d'adjacence : */
+    /*
+     * A chaque indice du tableau correspond la distance de jaccard en fonction de
+     * la liste d'adjacence :
+     */
     protected ArrayList<ArrayList<Double>> jaccard;
 
     public Graph(ArrayList<Document> docs) {
@@ -29,8 +31,9 @@ public class Graph {
             for (int j = i + 1; j < docs.size(); j++) {
                 double dist = distJacquard(docs.get(i), docs.get(j));
 
-                System.out.println("distance entre:" + docs.get(i).nom + " et " + docs.get(j).nom + " : " + dist);
-                if (dist < 0.83) {
+                // System.out.println("distance entre:" + docs.get(i).nom + " et " +
+                // docs.get(j).nom + " : " + dist);
+                if (dist < 0.835) {
                     addEdge(i, j);
                     addJaccard(i, j, dist);
                 }
@@ -38,9 +41,9 @@ public class Graph {
         }
     }
 
-    private void initJaccard(){
-        jaccard =new ArrayList<>();
-        for(int i=0; i<docs.size(); i++)
+    private void initJaccard() {
+        jaccard = new ArrayList<>();
+        for (int i = 0; i < docs.size(); i++)
             jaccard.add(new ArrayList<>());
     }
 
@@ -51,10 +54,10 @@ public class Graph {
     }
 
     /* Ajoute à jaccard la distance de jaccard entre i et j */
-    public void addJaccard(int i, int j, double dist){
-        for(int k=jaccard.get(i).size(); k<adjacence.get(i).size(); k++)
+    public void addJaccard(int i, int j, double dist) {
+        for (int k = jaccard.get(i).size(); k < adjacence.get(i).size(); k++)
             jaccard.get(i).add(-1.0);
-        for(int k=jaccard.get(j).size(); k<adjacence.get(j).size(); k++)
+        for (int k = jaccard.get(j).size(); k < adjacence.get(j).size(); k++)
             jaccard.get(j).add(-1.0);
 
         jaccard.get(i).set(adjacence.get(i).indexOf(j), dist);
@@ -130,6 +133,7 @@ public class Graph {
     public ArrayList<ArrayList<Double>> getJaccard() {
         return jaccard;
     }
+
     public ArrayList<ArrayList<Integer>> getAdjacence() {
         return adjacence;
     }
