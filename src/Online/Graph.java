@@ -18,7 +18,7 @@ public class Graph {
         this.docs = docs;
         nbS = 0;
         adjacence = new ArrayList<>();
-        jaccard =new ArrayList<>();
+        initJaccard();
 
         for (Document document : docs) {
             addSommet();
@@ -38,6 +38,12 @@ public class Graph {
         }
     }
 
+    private void initJaccard(){
+        jaccard =new ArrayList<>();
+        for(int i=0; i<docs.size(); i++)
+            jaccard.add(new ArrayList<>());
+    }
+
     public void addSommet() {
         nbS++;
         adjacence.add(new ArrayList<>());
@@ -46,9 +52,6 @@ public class Graph {
 
     /* Ajoute à jaccard la distance de jaccard entre i et j */
     public void addJaccard(int i, int j, double dist){
-        for(int k=jaccard.size(); k<=Math.max(i, j); k++)
-            jaccard.add(new ArrayList<>());
-
         for(int k=jaccard.get(i).size(); k<adjacence.get(i).size(); k++)
             jaccard.get(i).add(-1.0);
         for(int k=jaccard.get(j).size(); k<adjacence.get(j).size(); k++)
