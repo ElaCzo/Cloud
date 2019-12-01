@@ -1,0 +1,3214 @@
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+Project Gutenberg's The Life of Jefferson Davis, by Frank H. Alfriend
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: The Life of Jefferson Davis
+
+Author: Frank H. Alfriend
+
+Release Date: July 27, 2013 [EBook #43329]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK THE LIFE OF JEFFERSON DAVIS ***
+
+
+
+
+Produced by The Online Distributed Proofreading Team at
+http://www.pgdp.net (This file was produced from images
+generously made available by The Internet Archive.)
+
+
+
+
+
+
+
+
+
+THE LIFE OF JEFFERSON DAVIS
+
+
+
+
+[Illustration: Jefferson Davis]
+
+
+
+
+  THE LIFE OF JEFFERSON DAVIS.
+
+
+  _BY FRANK H. ALFRIEND,
+  Late Editor of The Southern Literary Messenger._
+
+
+  CINCINNATI AND CHICAGO:
+  CAXTON PUBLISHING HOUSE.
+
+  PHILADELPHIA, RICHMOND, ATLANTA AND ST. LOUIS:
+  NATIONAL PUBLISHING CO.
+
+  BALDWYN, MISS.: P. M. SAVERY & COMPANY.
+
+  SAN FRANCISCO, CAL.: J. LAWS & CO.
+
+  1868.
+
+
+
+
+Entered, according to Act of Congress, in the year 1867, by FRANK H.
+ALFRIEND, In the Clerk's Office of the District Court of the United
+States, for the District of Virginia.
+
+
+
+
+PREFACE.
+
+
+In offering this volume to the public, the occasion is embraced to avow,
+with unfeigned candor, a painful sense of the inadequate manner in which
+the design has been executed. Emboldened rather by his own earnest
+convictions, than by confidence in his capacity, the author has undertaken
+to contribute to American History, an extended narration of the more
+prominent incidents in the life of JEFFERSON DAVIS. Whatever may be the
+decision of the reader upon the merits of the performance, the author has
+the satisfaction arising from a conscientious endeavor to subserve the
+ends of truth. In pursuit of the purpose to write _facts_ only, to the aid
+of familiar acquaintance with many of the topics discussed, and to
+information derived from the most accurate sources, has been brought
+laborious investigation of numerous interesting papers, which his
+avocation made accessible. It is therefore claimed that no statement is to
+be found in this volume, which is not generally conceded to be true, or
+which is not a conclusion amply justified by indisputable evidence.
+
+Nor is it to be fairly alleged that the work exhibits undue sectional
+bias. As a Southern man, who, in common with his countrymen of the South,
+was taught to believe the principles underlying the movement for Southern
+independence, the only possible basis of Republicanism, the author has
+regarded, as a worthy incentive, the desire to vindicate, as best he
+might, the motives and conduct of the South and its late leader.
+
+Disclaiming the purpose of promoting sectional bitterness, or of a
+wholesale indictment of the Northern people, he deems it needless to dwell
+upon the obvious propriety of discrimination. Holding in utter abhorrence
+the authors of those outrages, wanton barbarities and petty persecutions,
+of which her people were the victims, the South yet feels the respect of
+an honorable enemy for those distinguished soldiers, Buell, Hancock,
+McClellan and others, who served efficiently the cause in which they were
+employed, and still illustrated the practices of Christian warfare. To
+fitly characterize the remorseless faction in antagonism to the sentiments
+of these honorable men, it is only necessary to recall the malice which
+assails a "lost cause" with every form of detraction, and aspires to crown
+a triumph of arms with the degradation and despair of a conquered people.
+
+In his especial solicitude for a favorable appreciation of his efforts, by
+his Southern countrymen, the author has striven to avoid affront to those
+considerations of delicacy which yet affect many incidents of the late
+war. He has not sought to revive, unnecessarily, questions upon which
+Southern sentiment was divided, and has rarely assailed the motives or
+capacity of individuals in recognized antagonism to the policy of
+President Davis. Perhaps a different course would have imparted interest
+to his work, and have more clearly established the vindication of its
+subject. But besides being wholly repugnant to the tastes of the author,
+it would have been in marked conflict with the consistent aim of Mr.
+Davis' career, which was to heal, not to aggravate, the differences of the
+South.
+
+A large part of the labor, which would otherwise have devolved upon this
+enterprise, if adequately performed, had already been supplied by the
+writings of Professor Bledsoe. To the profound erudition and philosophical
+genius of that eminent writer, as conspicuously displayed in his work
+entitled, "Is Davis a Traitor?" the South may, with confidence, intrust
+its claims upon the esteem of posterity.
+
+The author heartily acknowledges the intelligent aid, and generous
+encouragement, which he has received from his publishers.
+
+JANUARY, 1868.
+
+
+
+
+CONTENTS.
+
+
+INTRODUCTION. (Page 13-19.)
+
+    ATTRACTIONS OF THE LATE WAR TO POSTERITY--MR. LINCOLN'S
+    REMARK--DISADVANTAGES OF MR. DAVIS' SITUATION--SUCCESS NOT SYNONYMOUS
+    WITH MERIT--ORIGIN OF THE INJUSTICE DONE MR. DAVIS--REMARK OF
+    MACAULAY--REMARK OF MR. GLADSTONE--THE EFFECT THAT CONFEDERATE SUCCESS
+    WOULD HAVE HAD UPON THE FAME OF MR. DAVIS--POPULAR AFFECTION FOR HIM
+    IN THE SOUTH--HIS VINDICATION ASSURED.
+
+CHAPTER I. (Page 20-33.)
+
+    BIRTH--EDUCATION--AT WEST POINT--IN THE ARMY--RETIREMENT--POLITICAL
+    TRAINING IN AMERICA--MR. DAVIS NOT EDUCATED FOR POLITICAL LIFE AFTER
+    THE AMERICAN MODEL--BEGINS HIS POLITICAL CAREER BY A SPEECH AT THE
+    MISSISSIPPI DEMOCRATIC CONVENTION--A GLANCE PROSPECTIVELY AT HIS
+    FUTURE PARTY ASSOCIATIONS--HIS CONSISTENT ATTACHMENT TO STATES' RIGHTS
+    PRINCIPLES--A SKETCH OF THE DEVELOPMENT OF THE QUESTION OF STATES'
+    RIGHTS--MR. CALHOUN NOT THE AUTHOR OF THAT PRINCIPLE--HIS VINDICATION
+    FROM THE CHARGE OF DISUNIONISM--MR. DAVIS THE SUCCESSOR OF MR. CALHOUN
+    AS THE STATES' RIGHTS LEADER.
+
+CHAPTER II. (Page 34-48.)
+
+    RESULTS OF PRESIDENTIAL ELECTION IN 1844--MR. DAVIS ELECTED TO
+    CONGRESS--HIS FIRST SESSION--PROMINENT MEMBERS OF THE HOUSE--DOUGLAS,
+    HUNTER, SEDDON, ETC.--DAVIS' RAPID ADVANCEMENT IN REPUTATION--
+    RESOLUTIONS OFFERED BY HIM--SPEECHES ON THE OREGON EXCITEMENT, AND ON
+    THE RESOLUTION OF THANKS TO GENERAL TAYLOR AND HIS ARMY--NATIONAL
+    SENTIMENTS EMBODIED IN THESE AND OTHER SPEECHES--A CONTRAST IN THE
+    MATTER OF PATRIOTISM--MASSACHUSETTS AND MISSISSIPPI IN THE MEXICAN
+    WAR--DEBATE WITH ANDREW JOHNSON--JOHN QUINCY ADAMS' ESTIMATE OF
+    JEFFERSON DAVIS.
+
+CHAPTER III. (Page 49-67.)
+
+    THE NAME OF JEFFERSON DAVIS INSEPARABLE FROM THE HISTORY OF THE
+    MEXICAN WAR--HIS ESSENTIALLY MILITARY CHARACTER AND TASTES--JOINS
+    GENERAL TAYLOR'S ARMY ON THE RIO GRANDE, AS COLONEL OF THE FAMOUS
+    "MISSISSIPPI RIFLES"--MONTEREY--BUENA VISTA--GENERAL TAYLOR'S ACCOUNT
+    OF DAVIS' CONDUCT--DAVIS' REPORT OF THE ACTION--NOVELTY AND
+    ORIGINALITY OF HIS STRATEGY AT BUENA VISTA--INTERESTING STATEMENT OF
+    HON. CALEB CUSHING--RETURN OF DAVIS TO THE UNITED STATES--TRIUMPHANT
+    RECEPTION AT HOME--PRESIDENT POLK TENDERS HIM A BRIGADIER'S
+    COMMISSION, WHICH HE DECLINES ON PRINCIPLE.
+
+CHAPTER IV. (Page 68-84.)
+
+    MR. DAVIS IN THE UNITED STATES SENATE, FIRST BY EXECUTIVE APPOINTMENT,
+    AND SUBSEQUENTLY BY UNANIMOUS CHOICE OF THE LEGISLATURE OF HIS
+    STATE--POPULAR ADMIRATION NOT LESS FOR HIS CIVIC TALENTS THAN HIS
+    MILITARY SERVICES--FEATURES OF HIS PUBLIC CAREER--HIS CHARACTER AND
+    CONDUCT AS A SENATOR--AS AN ORATOR AND PARLIAMENTARY LEADER--HIS
+    INTREPIDITY--AN INCIDENT WITH HENRY CLAY--DAVIS THE LEADER OF THE
+    STATES' RIGHTS PARTY IN CONGRESS--THE AGITATION OF 1850--DAVIS OPPOSES
+    THE COMPROMISE--FOLLY OF THE SOUTH IN ASSENTING TO THAT
+    SETTLEMENT--DAVIS NOT A DISUNIONIST IN 1850, NOR A REBEL IN 1861--HIS
+    CONCEPTION OF THE CHARACTER OF THE FEDERAL GOVERNMENT--LOGICAL
+    ABSURDITY OF CLAY'S POSITION EXPOSED BY DAVIS--THE IDEAL UNION OF THE
+    LATTER--WHY HE OPPOSED THE COMPROMISE--THE NEW MEXICO BILL--DAVIS'
+    GROWING FAME AT THIS PERIOD--HIS FREQUENT ENCOUNTERS WITH CLAY, AND
+    WARM FRIENDSHIP BETWEEN THEM--SIGNAL TRIUMPH OF THE UNION SENTIMENT,
+    AND ACQUIESCENCE OF THE SOUTH.
+
+CHAPTER V. (Page 85-97.)
+
+    OPPOSITION TO THE COMPROMISE IN SOUTH CAROLINA AND MISSISSIPPI--DAVIS
+    A CANDIDATE FOR GOVERNOR--HIS DEFEAT REALLY A PERSONAL TRIUMPH--IN
+    RETIREMENT, SUPPORTS GENERAL PIERCE'S ELECTION--DECLINES AN
+    APPOINTMENT IN PIERCE'S CABINET, BUT SUBSEQUENTLY ACCEPTS
+    SECRETARYSHIP OF WAR--REMARKABLE UNITY OF PIERCE'S ADMINISTRATION, AND
+    HIGH CHARACTER OF THE EXECUTIVE--DAVIS AS SECRETARY OF WAR--
+    KANSAS-NEBRASKA BILL AND THE EXCITEMENT WHICH FOLLOWED--DAVIS AGAIN
+    ELECTED TO THE SENATE--SPEECHES AT PASS CHRISTIAN AND OTHER POINTS
+    WHILE ON HIS WAY TO WASHINGTON.
+
+CHAPTER VI. (Page 98-191.)
+
+    RETURN OF MR. DAVIS TO THE SENATE--OPENING EVENTS OF MR. BUCHANAN'S
+    ADMINISTRATION--TRUE INTERPRETATION OF THE LEGISLATION OF
+    1854--SENATOR DOUGLAS THE INSTRUMENT OF DISORGANIZATION IN THE
+    DEMOCRATIC PARTY--HIS ANTECEDENTS AND CHARACTER--AN ACCOMPLISHED
+    DEMAGOGUE--DAVIS AND DOUGLAS CONTRASTED--BOTH REPRESENTATIVES OF THEIR
+    RESPECTIVE SECTIONS--DOUGLAS' AMBITION--HIS COUP D'ETAT, AND ITS
+    RESULTS--THE KANSAS QUESTION--DOUGLAS TRIUMPHS OVER THE SOUTH AND THE
+    UNITY OF THE DEMOCRATIC PARTY LOST--"SQUATTER SOVEREIGNTY"--PROPERLY
+    CHARACTERIZED--DAVIS' COURSE IN THE KANSAS STRUGGLE--DEBATE WITH
+    SENATOR FESSENDEN--PEN-AND-INK SKETCH OF MR. DAVIS AT THIS
+    PERIOD--TRUE SIGNIFICANCE OF POLITICAL EVENTS TO THE SOUTH--SHE
+    RIGHTLY INTERPRETS THEM--MR. DAVIS' COURSE SUBSEQUENT TO THE KANSAS
+    IMBROGLIO--HIS DEBATES WITH DOUGLAS--TWO DIFFERENT SCHOOLS OF
+    PARLIAMENTARY SPEAKING--DAVIS THE LEADER OF THE REGULAR DEMOCRACY IN
+    THE THIRTY-SIXTH CONGRESS--HIS RESOLUTIONS--HIS CONSISTENCY--COURSE AS
+    TO GENERAL LEGISLATION--VISITS THE NORTH--SPEAKS IN PORTLAND, BOSTON,
+    NEW YORK, AND OTHER PLACES--REPLY To AN INVITATION TO ATTEND THE
+    WEBSTER BIRTH-DAY FESTIVAL--MR. SEWARD'S ANNOUNCEMENT OF THE
+    "IRREPRESSIBLE CONFLICT"--MR. DAVIS BEFORE MISSISSIPPI DEMOCRATIC
+    STATE CONVENTION--PROGRESS OF DISUNION--DISSOLUTION OF THE DEMOCRATIC
+    PARTY--SPEECHES OF MR. DAVIS AT PORTLAND AND IN SENATE.
+
+CHAPTER VII. (Page 192-232.)
+
+    ELECTION OF ABRAHAM LINCOLN--HISTORICAL IMPORTANCE OF THE EVENT--THE
+    OBJECTS AIMED AT BY HISTORY AND BIOGRAPHY IDENTICAL IN THE DISCUSSION
+    OF EVENTS OF THE LATE WAR--NORTHERN EVASION OF THE REAL QUESTION--THE
+    SOUTH DID NOT ATTEMPT REVOLUTION--SECESSION A JUSTIFIABLE RIGHT
+    EXERCISED BY SOVEREIGN STATES--BRIEF REVIEW OF THE QUESTION--WHAT THE
+    FEDERALIST SAYS--CHIEF-JUSTICE MARSHALL--MR. MADISON--COERCION NOT
+    JUSTIFIED AT THE NORTH PREVIOUS TO THE LATE WAR--REMARKS OF JOHN
+    QUINCY ADAMS--OF ABRAHAM LINCOLN--OF HORACE GREELEY--SUCCESSFUL
+    PERVERSION OF TRUTH BY THE NORTH--PROVOCATIONS TO SECESSION BY THE
+    SOUTH--AGGRESSIONS BY THE NORTH--ITS PUNIC FAITH--LOSS OF THE BALANCE
+    OF POWER--PATIENCE OF THE SOUTH--REMARKS OF HON. C. C. CLAY--WHAT THE
+    ELECTION OF MR. LINCOLN MEANT--HIS ADMINISTRATIVE POLICY--REVELATIONS
+    OF THE OBJECTS OF THE REPUBLICAN PARTY--WENDELL PHILLIPS--NO SECURITY
+    FOR THE SOUTH IN THE UNION--MEETING OF CONGRESS--MR. DAVIS' ASSURANCE
+    TO PRESIDENT BUCHANAN--CONCILIATORY COURSE OF MR. DAVIS--HIS
+    CONSISTENT DEVOTION TO THE UNION, AND EFFORTS TO SAVE IT--FORESEES WAR
+    AS THE RESULT OF SECESSION, AND URGES THE EXHAUSTION OF EVERY
+    EXPEDIENT TO AVERT IT--THE CRITTENDEN AMENDMENT--HOPES OF ITS
+    ADOPTION--DAVIS WILLING TO ACCEPT IT IN SPITE OF ITS INJUSTICE TO THE
+    SOUTH--REPUBLICAN SENATORS DECLINE ALL CONCILIATORY MEASURES--THE
+    CLARKE AMENDMENT--WHERE RESTS THE RESPONSIBILITY OF DISUNION?--
+    STATEMENTS OF MESSRS. DOUGLAS AND COX--SECESSION OF THE COTTON
+    STATES--A LETTER FROM JEFFERSON DAVIS TO R. B. RHETT, JR.--MR. DAVIS'
+    FAREWELL TO THE SENATE--HIS REASONS FOR WITHDRAWING--RETURNS TO
+    MISSISSIPPI--MAJOR-GENERAL OF STATE FORCES--ORGANIZATION OF THE
+    CONFEDERATE GOVERNMENT--MR. DAVIS PRESIDENT OF THE CONFEDERATE STATES.
+
+CHAPTER VIII. (Page 233-265.)
+
+    THE CONFEDERACY ESTABLISHED AND IN OPERATION--CALMNESS AND MODERATION
+    OF THE SOUTH--THE MONTGOMERY CONSTITUTION--THE IMPROVEMENTS UPON THE
+    FEDERAL INSTRUMENT--POPULAR DELIGHT AT THE SELECTION OF MR. DAVIS AS
+    PRESIDENT--MOTIVES OF HIS ACCEPTANCE--HIS PREFERENCE FOR THE
+    ARMY--DAVIS THE SYMBOL OF SOUTHERN CHARACTER AND HOPES--ON HIS WAY TO
+    MONTGOMERY--A CONTRAST--INAUGURATION AND INAUGURAL ADDRESS--THE
+    CONFEDERATE CABINET--TOOMBS--WALKER--MEMMINGER--BENJAMIN--MALLORY--
+    REAGAN--HISTORICAL POSITION OF PRESIDENT DAVIS--THE TWO POWERS--
+    EXTREME DEMOCRACY OF THE NORTH--NOBLE IDEAL OF REPUBLICANISM CHERISHED
+    BY THE SOUTH--DAVIS' REPRESENTATIVE QUALITIES AND DISTINGUISHED
+    SERVICES--THE HISTORIC REPRESENTATIVE OF THE CONFEDERATE CAUSE--EARLY
+    HISTORY OF THE GOVERNMENT AT MONTGOMERY--CONFIDENCE IN PRESIDENT DAVIS
+    UNLIMITED--PRESIDENT DAVIS' ADMINISTRATIVE CAPACITY--HIS MILITARY
+    ADMINISTRATION--THE CONFEDERATE ARMY--WEST POINT--NEGOTIATIONS FOR
+    SURRENDER OF FORTS SUMTER AND PICKENS--MR. BUCHANAN'S PITIABLE
+    POLICY--THE ISSUE OF PEACE OR WAR--PERFIDIOUS COURSE OF THE LINCOLN
+    ADMINISTRATION--MR. SEWARD'S DALLIANCE WITH THE CONFEDERATE
+    COMMISSIONERS--HIS DECEPTIONS--THE EXPEDITION TO PROVISION THE
+    GARRISON OF SUMTER--REDUCTION OF THE FORT--WAR--GUILT OF THE
+    NORTH--ITS RESPONSIBILITY FOR THE WAR.
+
+CHAPTER IX. (Page 266-293.)
+
+    EVENTS CONSEQUENT UPON THE BOMBARDMENT OF FORT SUMTER--MR. LINCOLN
+    BEGINS THE WAR BY USURPATION--THE BORDER STATES--CONTINUED DUPLICITY
+    OF THE FEDERAL GOVERNMENT--VIRGINIA JOINS THE COTTON STATES--AFFAIRS
+    IN MARYLAND, MISSOURI, AND KENTUCKY--UNPROMISING PHASES OF THE
+    SITUATION, AFFECTING THE PROSPECTS OF THE SOUTH--DIVISIONS IN SOUTHERN
+    SENTIMENT--THE NORTHERN DEMOCRACY--PRESIDENT DAVIS' ANTICIPATIONS
+    REALIZED--HIS RESPONSE TO MR. LINCOLN'S PROCLAMATION OF WAR--PUBLIC
+    ENTHUSIASM IN THE SOUTH--PRESIDENT DAVIS' MESSAGE--VIRGINIA THE
+    FLANDERS OF THE WAR--REMOVAL OF THE CONFEDERATE CAPITAL TO
+    RICHMOND--POLICY OF THAT STEP CONSIDERED--POPULAR REGARD FOR MR. DAVIS
+    IN VIRGINIA--ACTION OF THE VIRGINIAN AUTHORITIES--NORTH CAROLINA; HER
+    NOBLE CONDUCT, AND EFFICIENT AID TO THE CONFEDERACY--MILITARY
+    PREPARATIONS IN VIRGINIA--GENERAL LEE--HIS SERVICES IN THE EARLY
+    MONTHS OF THE WAR--MINOR ENGAGEMENTS--PREPARATIONS FOR THE GREAT
+    STRUGGLE IN VIRGINIA--AN IMPORTANT HISTORICAL QUESTION--CHARGES
+    AGAINST MR. DAVIS CONSIDERED--HIS STATESMAN-LIKE PREVISION--DID HE
+    ANTICIPATE AND PROVIDE FOR WAR?--WHEN MR. DAVIS' RESPONSIBILITY
+    BEGAN--HIS ENERGETIC PREPARATION--THE PREVAILING SENTIMENT AT
+    MONTGOMERY AS TO THE WAR--QUOTATIONS FROM GENERAL EARLY AND GENERAL
+    VON MOLKTE.
+
+CHAPTER X. (Page 294-325.)
+
+    CHARACTERISTICS OF THE WAR IN 1861--THE TWO GOVERNMENTS MORE DIRECTLY
+    CONNECTED WITH RESULTS IN THE FIELD THAN AT SUBSEQUENT PERIODS--MR.
+    DAVIS' CONNECTION WITH THE MILITARY POLICY OF THE CONFEDERACY--THE
+    CONFEDERATE GOVERNMENT ADOPTS, IN THE MAIN, THE DEFENSIVE POLICY OF
+    THE VIRGINIAN AUTHORITIES--FEDERAL PREPARATIONS--GENERAL SCOTT--
+    DEFENSIVE PLANS OF THE CONFEDERATES--DISTRIBUTION OF THEIR FORCES--THE
+    CONFEDERATE CAMPAIGN OF 1861 JUSTIFIED--DISTRIBUTION OF THE FEDERAL
+    FORCES--PROGRESS OF THE CAMPAIGN--GENERALS PATTERSON AND JOHNSTON--
+    JUNCTION OF BEAUREGARD AND JOHNSTON--MANASSAS--PRESIDENT DAVIS ON THE
+    BATTLE-FIELD--HIS DISPATCH--HIS RETURN TO RICHMOND--A SPEECH NEVER
+    PUBLISHED BEFORE--REFLECTIONS UPON THE RESULTS OF MANASSAS--MR. DAVIS
+    NOT RESPONSIBLE FOR THE ABSENCE OF PURSUIT--STONEWALL JACKSON'S
+    VIEWS--DAVIS IN FAVOR OF PURSUIT OF THE FEDERALS--MISREPRESENTATIONS--
+    MILITARY MOVEMENTS IN VARIOUS QUARTERS--THE "TRENT AFFAIR"--RESULTS OF
+    THE FIRST YEAR OF THE WAR.
+
+CHAPTER XI. (Page 326-360.)
+
+    PROSPECTS AT THE BEGINNING OF 1862--EXTREME CONFIDENCE OF THE
+    SOUTH--EXTRAVAGANT EXPECTATIONS--THE RICHMOND EXAMINER ON CONFEDERATE
+    PROSPECTS--WAR BETWEEN ENGLAND AND THE UNITED STATES PREDICTED--THE
+    BLOCKADE TO BE RAISED--THE SOUTHERN CONFEDERACY DECREED BY HEAVEN--
+    RESULT OF THE BOASTFUL TONE OF THE SOUTHERN PRESS--THE CONFEDERATE
+    GOVERNMENT NOT RESPONSIBLE FOR THE DISASTERS OF 1862--PRESIDENT DAVIS
+    URGES PREPARATION FOR A LONG WAR--HIS WISE OPPOSITION TO SHORT
+    ENLISTMENTS OF TROOPS--PREMONITIONS OF MISFORTUNES IN THE WEST--THE
+    CONFEDERATE FORCES IN KENTUCKY--GENERAL ALBERT SIDNEY JOHNSTON--HIS
+    CAREER BEFORE THE WAR--CHARACTER--APPEARANCE--THE FRIEND OF JEFFERSON
+    DAVIS--MUTUAL ESTEEM--SIDNEY JOHNSTON IN KENTUCKY--HIS PLANS--HIS
+    DIFFICULTIES--THE FORCES OF GRANT AND BUELL--CRUEL DILEMMA OF GENERAL
+    SIDNEY JOHNSTON--A REVERSE--GRANT CAPTURES FORTS HENRY AND DONELSON--
+    LOSS OF KENTUCKY AND TENNESSEE--FEDERAL DESIGNS IN THE EAST--BURNSIDE
+    CAPTURES ROANOKE ISLAND--SERIOUS NATURE OF THESE REVERSES--POPULAR
+    DISAPPOINTMENT--ORGANIZED OPPOSITION TO THE CONFEDERATE
+    ADMINISTRATION--CHARACTER AND MOTIVES OF THIS OPPOSITION--AN EFFORT TO
+    REVOLUTIONIZE PRESIDENT DAVIS' CABINET--ASSAULTS UPON SECRETARIES
+    BENJAMIN AND MALLORY--CORRECT EXPLANATION OF THE CONFEDERATE
+    REVERSES--CONGRESSIONAL CENSURE OF MR. BENJAMIN--SECRETARY
+    MALLORY--CHARACTERISTICS OF THE SOUTHERN MIND--THE PERMANENT
+    GOVERNMENT--SECOND INAUGURATION OF MR. DAVIS--SEVERITY OF THE
+    SEASON--THE CEREMONIES--APPEARANCE OF PRESIDENT DAVIS--HIS INAUGURAL
+    ADDRESS--ITS EFFECT--POPULAR RE-ASSURANCE--MESSAGE TO CONGRESS--
+    COMMENTS OF RICHMOND PRESS.
+
+CHAPTER XII. (Page 361-389.)
+
+    POPULAR DELUSIONS IN THE EARLY STAGES OF THE WAR--A FEW CONFLICTS AND
+    SACRIFICES NOT SUFFICIENT--MORE POSITIVE RECOGNITION OF MR. DAVIS'
+    VIEWS--HIS CANDID AND PROPHETIC ANNOUNCEMENTS--MILITARY REFORMS--
+    CONSCRIPTION LAW OF THE CONFEDERACY--THE PRESIDENT'S VIEWS AND COURSE
+    AS TO THIS LAW--HIS CONSISTENT REGARD FOR CIVIL LIBERTY AND OPPOSITION
+    TO CENTRALIZATION--RECOMMENDS CONSCRIPTION--BENEFICIAL RESULTS OF THE
+    LAW--GENERAL LEE COMMANDER-IN-CHIEF, "UNDER THE PRESIDENT"--NATURE OF
+    THE APPOINTMENT--FALSE IMPRESSIONS CORRECTED--MR. DAVIS' CONFIDENCE IN
+    LEE, DESPITE POPULAR CENSURE OF THE LATTER--CHANGES IN THE CABINET--
+    MR. BENJAMIN'S MANAGEMENT OF THE WAR OFFICE--DIFFICULTIES OF THAT
+    POSITION--THE CHARGE OF FAVORITISM AGAINST MR. DAVIS IN THE SELECTION
+    OF HIS CABINET--HIS PERSONAL RELATIONS WITH THE VARIOUS MEMBERS OF HIS
+    CABINET--ACTIVITY IN MILITARY OPERATIONS--THE TRANS-MISSISSIPPI--
+    BATTLE OF ELK HORN--OPERATIONS EAST OF THE MISSISSIPPI--GENERALS
+    SIDNEY JOHNSTON AND BEAUREGARD--ISLAND NO. 10--CONCENTRATION OF TROOPS
+    BY THE CONFEDERATE AUTHORITIES--FAVORABLE SITUATION--SHILOH--A
+    DISAPPOINTMENT--DEATH OF SIDNEY JOHNSTON--TRIBUTE OF PRESIDENT
+    DAVIS--POPULAR VERDICT UPON THE BATTLE OF SHILOH--GENERALS BEAUREGARD,
+    BRAGG, AND POLK ON THE BATTLE--THE PRESIDENT AGAIN CHARGED WITH
+    "INJUSTICE" TO BEAUREGARD--THE CHARGE ANSWERED--FALL OF NEW
+    ORLEANS--NAVAL BATTLE IN HAMPTON ROADS--NAVAL SUCCESSES OF THE ENEMY.
+
+CHAPTER XIII. (Page 390-421.)
+
+    THE "ANACONDA SYSTEM"--HOW FAR IT WAS SUCCESSFUL--TERRITORIAL
+    CONFIGURATION OF THE SOUTH FAVORABLE TO THE ENEMY--ONE THEATRE OF WAR
+    FAVORABLE TO THE CONFEDERATES--THE FEDERAL FORCES IN VIRGINIA--THE
+    CONFEDERATE FORCES--THE POTOMAC LINES--CRITICAL SITUATION IN
+    VIRGINIA--EVACUATION OF MANASSAS--TRANSFER OF OPERATIONS TO THE
+    PENINSULA--MAGRUDER'S LINES--EVACUATION OF YORKTOWN--STRENGTH OF THE
+    OPPOSING FORCES BEFORE RICHMOND--DESTRUCTION OF THE "VIRGINIA"--PANIC
+    IN RICHMOND--MR. DAVIS' CALMNESS AND CONFIDENCE--HE AVOWS HIMSELF
+    "READY TO LEAVE HIS BONES IN THE CAPITAL OF THE CONFEDERACY"--REPULSE
+    OF THE GUNBOATS--"MEMENTOES OF HEROISM"--JACKSON'S VALLEY CAMPAIGN--A
+    SERIES OF VICTORIES, WITH IMPORTANT RESULTS--BATTLE OF "SEVEN
+    PINES"--A FAILURE--GENERAL JOHNSTON WOUNDED--PRESIDENT DAVIS ON THE
+    FIELD--PRESIDENT DAVIS AND GENERAL JOHNSTON--AN ATTEMPT TO FORESTALL
+    THE DECISION OF HISTORY--RESULTS OF LEE'S ACCESSION TO COMMAND--
+    JOHNSTON'S GENERALSHIP--MR. DAVIS' ESTIMATE OF LEE--LEE'S PLANS--THE
+    ADVISORY RELATION BETWEEN DAVIS AND LEE--THEIR MUTUAL CONFIDENCE NEVER
+    INTERRUPTED--CONFEDERATE STRATEGY AFTER M'CLELLAN'S DEFEAT BEFORE
+    RICHMOND--MAGICAL CHANGE IN THE FORTUNES OF THE CONFEDERACY--THE
+    INVASION OF MARYLAND--ANTIETAM--TANGIBLE PROOFS OF CONFEDERATE
+    SUCCESS--GENERAL BRAGG--HIS KENTUCKY CAMPAIGN--CONFEDERATE HOPES--
+    BATTLE OF PERRYVILLE--BRAGG RETREATS--ESTIMATE OF THE KENTUCKY
+    CAMPAIGN OF 1862--OTHER INCIDENTS OF THE WESTERN CAMPAIGN--REMOVAL OF
+    M'CLELLAN--A SOUTHERN OPINION OF M'CLELLAN--BATTLE OF FREDERICKSBURG--
+    BATTLE OF MURFREESBORO'--BATTLE OF PRAIRIE GROVE--THE SITUATION AT THE
+    CLOSE OF 1862--PRESIDENT DAVIS' RECOMMENDATIONS TO CONGRESS--HIS VISIT
+    TO THE SOUTH-WEST--ADDRESS BEFORE THE MISSISSIPPI LEGISLATURE.
+
+CHAPTER XIV. (Page 422-449.)
+
+    RESPECT OF MANKIND FOR THE SOUTH--THE MOST PROSPEROUS PERIOD OF THE
+    WAR--HOW MR. DAVIS CONTRIBUTED TO THE DISTINCTION OF THE SOUTH--
+    FACTION SILENCED--THE EUROPEAN ESTIMATE OF JEFFERSON DAVIS--HOW HE
+    DIGNIFIED THE CAUSE OF THE SOUTH--HIS STATE PAPERS--HIS ADMINISTRATION
+    OF CIVIL MATTERS--THE CONTRAST BETWEEN THE TWO PRESIDENTS--MR. DAVIS'
+    OBSERVANCE OF CONSTITUTIONAL RESTRAINTS--ARBITRARY ADMINISTRATION OF
+    MR. LINCOLN--MR. DAVIS' MODERATION--HE SEEKS TO CONDUCT THE WAR UPON
+    CIVILIZED IDEAS--AN ENGLISH CHARACTERIZATION OF DAVIS--COLONEL
+    FREEMANTLE'S INTERVIEW WITH HIM--MR. GLADSTONE'S OPINION--THE PURELY
+    PERSONAL AND SENTIMENTAL ADMIRATION OF EUROPE FOR THE
+    SOUTH--INCONSISTENT CONDUCT OF THE EUROPEAN GREAT POWERS--THE LONDON
+    "TIMES" BEFORE M'CLELLAN'S DEFEAT--THE CONFEDERACY ENTITLED TO
+    RECOGNITION BY EUROPE--ENGLAND'S SYMPATHY WITH THE NORTH--DIGNIFIED
+    ATTITUDE OF PRESIDENT DAVIS UPON THE SUBJECT OF RECOGNITION--HIS EARLY
+    PREDICTION UPON THE SUBJECT--FRANCE AND ENGLAND EXPOSED TO INJURIOUS
+    SUSPICIONS--TERGIVERSATIONS OF THE PALMERSTON CABINET--THE BROAD FARCE
+    OF "BRITISH NEUTRALITY"--ENGLAND DECLINES TO UNITE WITH FRANCE IN AN
+    OFFER OF MEDIATION BETWEEN THE AMERICAN BELLIGERENTS--ENGLAND'S
+    "POLICY"--SHE SOUGHT THE RUIN OF BOTH SECTIONS OF AMERICA--CULMINATION
+    OF THE ANTISLAVERY POLICY OF THE NORTH--MR. LINCOLN'S CONVERSATION
+    WITH A KENTUCKY MEMBER OF CONGRESS--THE WAR A "CRIME" BY MR. LINCOLN'S
+    OWN SHOWING--VIOLATION OF PLEDGES AND ARBITRARY ACTS OF THE FEDERAL
+    GOVERNMENT--THE MASK REMOVED AFTER THE BATTLE OF ANTIETAM--THE REAL
+    PURPOSE OF EMANCIPATION--MR. DAVIS' ALLUSION TO THE
+    SUBJECT--INDIGNATION OF THE SOUTH AT THE MEASURE--MILITARY OPERATIONS
+    IN TEXAS AND MISSISSIPPI--VICKSBURG--PORT HUDSON--LOSS OF ARKANSAS
+    POST--FEDERAL FLEET REPULSED AT CHARLESTON--PREPARATIONS FOR THE
+    CAMPAIGN--UNITY AND CONFIDENCE OF THE SOUTH--MR. DAVIS' ADDRESS TO THE
+    COUNTRY--IMPORTANT EXTRACTS--GENERAL LEE PREPARES FOR BATTLE--HIS
+    CONFIDENCE--CONDITION OF HIS ARMY--BATTLE OF CHANCELLORSVILLE--
+    JEFFERSON DAVIS' TRIBUTE TO STONEWALL JACKSON.
+
+CHAPTER XV. (Page 450-476.)
+
+    CONFEDERATE PROSPECTS AFTER THE BATTLE OF CHANCELLORSVILLE--THE
+    MILITARY SITUATION--PRIMARY OBJECTS OF THE CONFEDERATES--AFFAIRS IN
+    THE WEST--A BRIEF CONSIDERATION OF SEVERAL PLANS OF CAMPAIGN SUGGESTED
+    TO THE CONFEDERATE AUTHORITIES--VISIONARY STRATEGY--AN OFFENSIVE
+    CAMPAIGN ADOPTED--THE INVASION OF PENNSYLVANIA JUSTIFIED--CONDITION OF
+    THE ARMY OF NORTHERN VIRGINIA AT THIS PERIOD--THE MOVEMENT FROM THE
+    RAPPAHANNOCK--LEADING FEATURES OF THE CONFEDERATE PLAN--LEE'S STRATEGY
+    AGAIN ILLUSTRATED--GETTYSBURG--A FATAL BLOW TO THE SOUTH--LEE RETURNS
+    TO VIRGINIA--THE SURRENDER OF VICKSBURG--OTHER REVERSES--EXULTATION OF
+    THE NORTH--THE CONFEDERATE ADMINISTRATION AGAIN ARRAIGNED BY ITS
+    OPPONENTS--THE CASE OF GENERAL PEMBERTON--POPULAR INJUSTICE TO A
+    GALLANT OFFICER--A BRIEF REVIEW OF THE SUBJECT--PEMBERTON'S
+    APPOINTMENT RECOMMENDED BY DISTINGUISHED OFFICERS--HIS ABLE
+    ADMINISTRATION IN MISSISSIPPI--HIS RESOLUTION TO HOLD VICKSBURG, AS
+    THE GREAT END OF THE CAMPAIGN--HIS GALLANTRY AND RESOURCES--NOBLE
+    CONDUCT OF THIS PERSECUTED OFFICER--A FURTHER STATEMENT--THE MISSION
+    OF VICE-PRESIDENT STEPHENS--ITS OBJECTS--PRESIDENT DAVIS SEEKS TO
+    ALLEVIATE THE SUFFERINGS OF WAR--MAGNANIMITY AND HUMANITY OF THE
+    OFFER--PROUD POSITION IN THIS MATTER OF THE SOUTH AND HER RULER--THE
+    FEDERAL GOVERNMENT DECLINES INTERCOURSE WITH MR. STEPHENS--EXPLANATION
+    OF ITS MOTIVES--CORRESPONDENCE BETWEEN MESSRS. DAVIS AND STEPHENS.
+
+CHAPTER XVI. (Page 477-501.)
+
+    OPERATIONS OF GENERAL TAYLOR IN LOUISIANA--THE MISSISSIPPI VALLEY
+    IRRECOVERABLY LOST TO THE CONFEDERACY--FEDERALS FOILED AT
+    CHARLESTON--THE DIMINISHED CONFIDENCE OF THE SOUTH--FINANCIAL
+    DERANGEMENT--DEFECTIVE FINANCIAL SYSTEM OF THE SOUTH--MR. DAVIS'
+    LIMITED CONNECTION WITH IT--THE REASONS FOR THE FINANCIAL FAILURE OF
+    THE CONFEDERACY--INFLUENCE OF SPECULATION--ANOMALOUS SITUATION OF THE
+    SOUTH--MR. DAVIS' VIEWS OF THE FINANCIAL POLICY OF THE SOUTH AT THE
+    BEGINNING OF THE WAR--MILITARY OPERATIONS IN TENNESSEE--BRAGG RETREATS
+    TO CHATTANOOGA--MORGAN'S EXPEDITION--SURRENDER OF CUMBERLAND
+    GAP--FEDERAL OCCUPATION OF CHATTANOOGA--BATTLE OF CHICKAMAUGA--BRAGG'S
+    EXPECTATIONS--GRANT'S OPERATIONS--BRAGG BADLY DEFEATED--PRESIDENT
+    DAVIS' VIEW OF THE DISASTER--GENERAL BRAGG RELIEVED FROM COMMAND OF
+    THE WESTERN ARMY--CENSURE OF THIS OFFICER--HIS MERITS AND
+    SERVICES--THE UNJUST CENSURE OF MR. DAVIS AND GENERAL BRAGG FOR THE
+    REVERSES IN THE WEST--OPERATIONS IN VIRGINIA IN THE LATTER PART OF
+    1863--CONDITION OF THE SOUTH AT THE CLOSE OF THE YEAR--SIGNS OF
+    EXHAUSTION--PRESIDENT DAVIS' RECOMMENDATIONS--PUBLIC DESPONDENCY--THE
+    WORK OF FACTION--ABUSE OF MR. DAVIS IN CONGRESS--THE CONTRAST BETWEEN
+    HIMSELF AND HIS ASSAILANTS--DEFICIENCY OF FOOD--HOW CAUSED--THE
+    CONFEDERACY EVENTUALLY CONQUERED BY STARVATION.
+
+CHAPTER XVII. (Page 502-532.)
+
+    AN EFFORT TO BLACKEN THE CHARACTER OF THE SOUTH--THE PERSECUTION OF
+    MR. DAVIS AS THE SUBSTITUTE FOR THE ASSUMED OFFENSES OF THE
+    SOUTH--REPUTATION OF THE SOUTH FOR HUMANITY--TREATMENT OF PRISONERS OF
+    WAR--EARLY ACTION OF THE CONFEDERATE GOVERNMENT UPON THE SUBJECT--MR.
+    DAVIS' LETTER TO MR. LINCOLN--THE COBB-WOOL NEGOTIATIONS--PERFIDIOUS
+    CONDUCT OF THE FEDERAL AUTHORITIES--A CARTEL ARRANGED BY GENERALS DIX
+    AND HILL--COMMISSIONER OULD--HIS CORRESPONDENCE WITH THE FEDERAL AGENT
+    OF EXCHANGE--REPEATED PERFIDY OF THE FEDERAL GOVERNMENT--SUSPENSION
+    OF THE CARTEL CAUSED BY THE BAD FAITH OF THE FEDERAL ADMINISTRATION,
+    AND THE SUFFERING WHICH IT CAUSED--EFFORTS OF THE CONFEDERATE
+    AUTHORITIES TO RENEW THE OPERATION OF THE CARTEL--HUMANE OFFER OF
+    COMMISSIONER OULD--JUSTIFICATION OF THE CONFEDERATE AUTHORITIES--GUILT
+    OF THE FEDERAL GOVERNMENT--MR. DAVIS' STATEMENT OF THE MATTER--COLONEL
+    OULD'S LETTER TO MR. ELDRIDGE--NORTHERN STATEMENTS: GENERAL BUTLER,
+    NEW YORK TRIBUNE, ETC.--THE CHARGE OF CRUELTY AGAINST THE SOUTH--A
+    CONTRAST BETWEEN ANDERSONVILLE AND ELMIRA--IMPOVERISHMENT OF THE
+    SOUTH--DISREPUTABLE MEANS EMPLOYED TO AROUSE RESENTMENT OF THE
+    NORTH--THE VINDICATION OF THE SOUTH AND OF MR. DAVIS--HIS STAINLESS
+    CHARACTER, HIS HUMANITY AND FORBEARANCE--AN INQUIRY OF HISTORY.
+
+CHAPTER XVIII. (Page 533-562.)
+
+    INDICATIONS OF POPULAR FEELING AT THE BEGINNING OF 1864--APATHY AND
+    DESPONDENCY OF THE NORTH--IMPROVED FEELING IN THE CONFEDERACY--THE
+    PROBLEM OF ENDURANCE--PREPARATIONS OF THE CONFEDERATE GOVERNMENT--
+    MILITARY SUCCESS THE GREAT DESIDERATUM--A SERIES OF SUCCESSES--
+    FINNEGAN'S VICTORY IN FLORIDA--SHERMAN'S EXPEDITION--FORREST'S
+    VICTORY--THE RAID OF DAHLGREN--TAYLOR DEFEATS BANKS--FORREST'S
+    TENNESSEE CAMPAIGN--HOKE'S VICTORY--THE VALUE OF THESE MINOR
+    VICTORIES--CONCENTRATION FOR THE GREAT STRUGGLES IN VIRGINIA AND
+    GEORGIA--FEDERAL PREPARATIONS--GENERAL GRANT--HIS THEORY OF WAR--HIS
+    PLANS--THE FEDERAL FORCES IN VIRGINIA--SHERMAN--FEEBLE RESOURCES OF
+    THE CONFEDERACY--THE "ON TO RICHMOND" AND "ON TO ATLANTA"--GENERAL
+    GRANT BAFFLED--HE NARROWLY ESCAPES RUIN--HIS OVERLAND MOVEMENT A TOTAL
+    FAILURE--SHERIDAN THREATENS RICHMOND--DEATH OF STUART--BUTLER'S
+    ADVANCE UPON RICHMOND--THE CITY IN GREAT PERIL--BEAUREGARD'S PLAN OF
+    OPERATIONS--VIEWS OF MR. DAVIS--DEFEAT OF BUTLER, AND HIS CONFINEMENT
+    IN A "CUL DE SAC"--FAILURE OF GRANT'S COMBINATIONS--CONSTANTLY BAFFLED
+    BY LEE--TERRIBLE LOSSES OF THE FEDERAL ARMY--GRANT CROSSES THE
+    JAMES--HIS FAILURES REPEATED--HIS NEW COMBINATIONS--EARLY'S OPERATIONS
+    IN THE VALLEY AND ACROSS THE POTOMAC--THE FEDERAL COMBINATIONS AGAIN
+    BROKEN DOWN--FAVORABLE SITUATION IN VIRGINIA--THE MISSION OF MESSRS.
+    CLAY, THOMPSON, AND HOLCOMBE--CORRESPONDENCE WITH MR. LINCOLN--THE
+    ARROGANT AND MOCKING REPLY OF THE FEDERAL PRESIDENT.
+
+CHAPTER XIX. (Page 563-589.)
+
+    DISAPPOINTMENT AT RESULTS OF THE GEORGIA CAMPAIGN--HOW FAR IT WAS
+    PARALLEL WITH THE VIRGINIA CAMPAIGN--DIFFERENT TACTICS ON BOTH
+    SIDES--REMOVAL OF GENERAL JOHNSTON--THE EXPLANATION OF THAT STEP--A
+    QUESTION FOR MILITARY JUDGMENT--THE NEGATIVE VINDICATION OF GENERAL
+    JOHNSTON--DIFFERENT THEORIES OF WAR--THE REAL PHILOSOPHY OF THE
+    SOUTHERN FAILURE--THE ODDS IN NUMBERS AND RESOURCES AGAINST THE
+    SOUTH--WATER FACILITIES OF THE ENEMY--STRATEGIC DIFFICULTIES OF THE
+    SOUTH--THE BLOCKADE--INSIGNIFICANCE OF MINOR QUESTIONS--JEFFERSON
+    DAVIS THE WASHINGTON OF THE SOUTH--GENERAL JOHN B. HOOD--HIS
+    DISTINGUISHED CAREER--HOPE OF THE SOUTH RENEWED--HOOD'S
+    OPERATIONS--LOSS OF ATLANTA--IMPORTANT QUESTIONS--PRESIDENT DAVIS IN
+    GEORGIA--PERVERSE CONDUCT OF GOVERNOR BROWN--MR. DAVIS IN MACON--AT
+    HOOD'S HEAD-QUARTERS--HOW HOOD'S TENNESSEE CAMPAIGN VARIED FROM MR.
+    DAVIS' INTENTIONS--SHERMAN'S PROMPT AND BOLD CONDUCT--HOOD'S
+    MAGNANIMOUS ACKNOWLEDGMENT--DESTRUCTION OF THE CONFEDERATE POWER IN
+    THE SOUTH-WEST.
+
+CHAPTER XX. (Page 590-613.)
+
+    INCIDENTS ON THE LINES OF RICHMOND AND PETERSBURG DURING THE SUMMER
+    AND AUTUMN--CAPTURE OF FORT HARRISON--OTHER DEMONSTRATIONS BY
+    GRANT--THE SITUATION NEAR THE CONFEDERATE CAPITAL--EARLY'S VALLEY
+    CAMPAIGN--POPULAR CENSURE OF EARLY--INFLUENCE OF THE VALLEY CAMPAIGN
+    UPON THE SITUATION NEAR RICHMOND--WHAT THE AGGREGATE OF CONFEDERATE
+    DISASTERS SIGNIFIED--DESPONDENCY OF THE SOUTH--THE INJURIOUS EXAMPLES
+    OF PROMINENT MEN--THE PRESIDENT AND GENERAL LEE--MR. DAVIS'
+    POPULARITY--WHY HE DID NOT FULLY COMPREHEND THE DEMORALIZATION OF THE
+    PEOPLE--HE HOPES FOR POPULAR REANIMATION--WAS THE CASE OF THE
+    CONFEDERACY HOPELESS?--VACILLATING CONDUCT OF CONGRESS--THE
+    CONFEDERATE CONGRESS A WEAK BODY--MR. DAVIS' RELATIONS WITH
+    CONGRESS--PROPOSED CONSCRIPTION OF SLAVES--FAVORED BY DAVIS AND
+    LEE--DEFEATED BY CONGRESS--LEGISLATION DIRECTED AGAINST THE
+    PRESIDENT--DAVIS' OPINION OF LEE--RUMORS OF PEACE--HAMPTON ROADS
+    CONFERENCE--THE FEDERAL ULTIMATUM--THE ABSURD CHARGE AGAINST MR. DAVIS
+    OF OBSTRUCTING NEGOTIATIONS--HIS RECORD ON THE SUBJECT OF PEACE--A
+    RICHMOND NEWSPAPER ON THE FEDERAL ULTIMATUM--DELUSIVE SIGNS OF PUBLIC
+    SPIRIT--NO ALTERNATIVE BUT CONTINUED RESISTANCE--REPORT OF THE HAMPTON
+    ROADS CONFERENCE.
+
+CHAPTER XXI. (Page 614-636.)
+
+    MILITARY OPERATIONS IN THE EARLY PART OF 1865--LAST PHASE OF THE
+    MILITARY POLICY OF THE CONFEDERACY--THE PLAN TO CRUSH SHERMAN--CALM
+    DEMEANOR OF PRESIDENT DAVIS--CHEERFULNESS OF GENERAL LEE--THE QUESTION
+    AS TO THE SAFETY OF RICHMOND--WEAKNESS OF GENERAL LEE'S ARMY--
+    PREPARATIONS TO EVACUATE RICHMOND BEFORE THE CAMPAIGN OPENED--A NEW
+    BASIS OF HOPE--WHAT WAS TO BE REASONABLY ANTICIPATED--THE CONTRACTED
+    THEATRE OF WAR--THE FATAL DISASTERS AT PETERSBURG--MR. DAVIS RECEIVES
+    THE INTELLIGENCE WHILE IN CHURCH--RICHMOND EVACUATED--PRESIDENT DAVIS
+    AT DANVILLE--HIS PROCLAMATION--SURRENDER OF LEE--DANVILLE
+    EVACUATED--THE LAST OFFICIAL INTERVIEW OF MR. DAVIS WITH GENERALS
+    JOHNSTON AND BEAUREGARD--HIS ARRIVAL AT CHARLOTTE--INCIDENTS AT
+    CHARLOTTE--REJECTION OF THE SHERMAN-JOHNSTON SETTLEMENT--MR. DAVIS'
+    INTENTIONS AFTER THAT EVENT--HIS MOVEMENTS SOUTHWARD--INTERESTING
+    DETAILS--CAPTURE OF MR. DAVIS AND HIS IMPRISONMENT AT FORTRESS MONROE.
+
+CHAPTER XXII. (Page 637-645.)
+
+    MOTIVE OF MR. DAVIS' ARREST--AN AFTER-THOUGHT OF STANTON AND THE
+    BUREAU OF MILITARY JUSTICE--THE EMBARRASSMENT PRODUCED BY HIS
+    CAPTURE--THE INFAMOUS CHARGES AGAINST HIM--WHY MR. DAVIS WAS TREATED
+    WITH EXCEPTIONAL CRUELTY--THE OUTRAGES AND INDIGNITIES OFFERED
+    HIM--HIS PATIENT AND HEROIC ENDURANCE OF PERSECUTION--HIS RELEASE FROM
+    FORTRESS MONROE--BAILED BY THE FEDERAL COURT AT RICHMOND--JOY OF THE
+    COMMUNITY--IN CANADA--RE-APPEARANCE BEFORE THE FEDERAL COURT--HIS
+    TRIAL AGAIN POSTPONED--CONCLUSION.
+
+
+
+
+LIFE OF JEFFERSON DAVIS.
+
+
+
+
+INTRODUCTION.
+
+    ATTRACTIONS OF THE LATE WAR TO POSTERITY--MR. LINCOLN'S REMARK--
+    DISADVANTAGES OF MR. DAVIS' SITUATION--SUCCESS NOT SYNONYMOUS WITH
+    MERIT--ORIGIN OF THE INJUSTICE DONE MR. DAVIS--REMARK OF MACAULAY--
+    REMARK OF MR. GLADSTONE--THE EFFECT THAT CONFEDERATE SUCCESS WOULD
+    HAVE HAD UPON THE FAME OF MR. DAVIS--POPULAR AFFECTION FOR HIM IN THE
+    SOUTH--HIS VINDICATION ASSURED.
+
+
+To future generations the period in American history, of most absorbing
+interest and profound inquiry, will be that embracing the incipiency,
+progress, and termination of the revolution which had its most pronounced
+phase in the memorable war of 1861. Historians rarely concur in their
+estimates of the limits of a revolution, and usually we find quite as much
+divergence in their views of the scope of its operations, as in their
+speculations as to its origin and causes, and their statements of its
+incidents and results. If, however, it is difficult to assign, with minute
+accuracy, the exact limits and proper scope of those grand trains of
+consecutive events, which swerve society from the beaten track of ages,
+divert nations from the old path of progress into what seems to be the
+direction of a new destiny, and often transform the aspect of continents,
+it is comparatively an easy task to reach a reliable statement of their
+more salient and conspicuous incidents. It is in this aspect that the
+Titanic conflict, which had its beginning with the booming of the guns in
+Charleston harbor in April, 1861, and its crowning catastrophe at
+Appomattox Court-house in April, 1865, will be chiefly attractive to the
+future student. As a point of departure from the hitherto unbroken
+monotony of American history, the beginning of a new order of things, the
+extinction of important elements of previous national existence, embracing
+much that was consecrated in the popular affections; in short, as a
+complete political and social transformation, an abrupt, but thorough
+perversion of the government from its original purposes and previous
+policy, this period must take its place, with important suggestions of
+theory and illustration, among the most impressive lessons of history.
+
+The profound interest which shall center upon the period that we have
+under consideration, must necessarily subject to a rigid investigation the
+lives, characters, and conduct of those to whom were allotted conspicuous
+parts in the great drama. It is both a natural and reasonable test that
+the world applies in seeking to solve, through the qualities and
+capacities of those who direct great measures of governmental policy, the
+merits of the movements themselves. The late President of the United
+States, Mr. Lincoln, avowed his inability to escape the judgment of
+history, and the bare statement sufficiently describes the inevitable
+necessity, not only of his own situation, but of all who bore a prominent
+part on either side of the great controversy.
+
+JEFFERSON DAVIS confronts posterity burdened with the disadvantage of
+having been the leader of an unsuccessful political movement. "Nothing
+succeeds like success," was the pithy maxim of Talleyrand, to whose astute
+observation nothing was more obvious than the disposition of mankind to
+make success the touchstone of merit. It is, nevertheless, a vulgar and
+often an erroneous criterion. What could be more absurd than to determine
+by such a test the comparative valor, generalship, and military character
+of the two contestants in the late war? Concede its applicability,
+however, and we exalt the soldiership of the North above all precedent,
+and consign the unequaled valor of the Southern soldiery to reproach,
+instead of the deathless fame which shall survive them. To such a judgment
+every battle-field of the war gives emphatic and indignant contradiction.
+History abounds with evidence of the influence of accident and of
+extraneous circumstances, in the decision of results, which, if controlled
+by the question of merit, as understood by the predominant sense of
+mankind, would have borne a vastly different character.
+
+But, in addition to the disparaging influence of the failure of the cause
+which he represented, Mr. Davis has encountered an unparalleled degree of
+personal hate, partizan rancor, of malignant and gratuitous
+misrepresentation, the result, to a great extent, of old partizan
+rivalries and jealousies, engendered in former periods of the history of
+the Union, and also of the spirit of domestic disaffection and agitation
+which inevitably arises against every administration of public affairs,
+especially at times of unusual danger and embarrassment.[1] The almost
+fanatical hatred of the Northern masses against Mr. Davis, as the wicked
+leader of a causeless rebellion against the Government of his country, as
+a conspirator against the peace and happiness of his fellow-citizens, and
+as a relentless monster, who tortured and starved prisoners of war,
+springs from the persistent calumnies of such leaders of Northern opinion,
+as have an ignoble purpose of vindictive hatred to gratify by the
+invention of these atrocious charges. Yet this feeling of the North hardly
+exceeds in violence, the resentment with which it was sought to inflame
+the Southern people against him, at critical stages of the war, as an
+unworthy leader, whose incapacity, pragmatism, nepotism, and vanity were
+rushing them into material and political perdition. Of popular
+disaffection to the Confederate cause, or dislike of Mr. Davis, there was
+an insignificantly small element, never dangerous in the sense of
+attempted revolt against the authorities, but often hurtful, because it
+constituted the basis of support to such prominent men as fancied their
+personal ambition, or _amour propre_, offended by the President. A
+misfortune of the South was that there were not a few such characters, and
+their influence upon certain occasions was as baleful to the public
+interests as their animus was malignant against Mr. Davis. Hoping to
+advance themselves by misrepresentations of him, during the war they
+persistently charged upon him every disaster, and do not scruple to impute
+to his blame those final failures so largely traceable to themselves. A
+patriotic regard for the public safety imposed silence upon Mr. Davis
+while the war continued, and a magnanimity which they have neither
+deserved nor appreciated, coupled with a proper sense of personal dignity,
+have impelled him since to refrain from refutation of misstatements
+utterly scandalous and inexcusable.
+
+The distinguished English statesman,[2] who, during the progress of the
+late war, declared that "Mr. Jefferson Davis had created a nation," stated
+more than the truth, though he hardly exaggerated the flattering estimate
+which the intelligent public of Europe places upon the unsurpassed ability
+and energy with which the limited resources of the South, as compared with
+those of her enemies, were, for the most part, wielded by the Confederate
+administration. Nor, indeed, would such an estimate have been too
+extravagant to be entertained by his own countrymen, had the South
+achieved her independence by any stroke of mere good fortune, such as
+repeatedly favored her adversaries at critical moments of the war, when,
+apparently, the most trifling incidents regulated the balance. More than
+once the South stood upon the very threshold of the full fruition of her
+aspirations for independence and nationality. Had Jackson not fallen at
+Chancellorsville, the Federal Army of the Potomac, the bulwark of the
+Union in the Atlantic States, would have disappeared into history under
+circumstances far different from those which marked its dissolution two
+years later. At Gettysburg the Confederacy was truthfully said to have
+been "within a stone's-throw of peace." If at these fateful moments the
+treacherous scales of fortune had not strangely turned, and in the very
+flush of triumph, who doubts that now and hereafter there would have come
+from Southern hearts, an ascription of praise to Jefferson Davis, no less
+earnest than to his illustrious colaborers? At all events, it is
+undeniable that, as the Confederate arms prospered, so the affection of
+the people for Mr. Davis was always more enthusiastic and demonstrative.
+Only in moments of extreme public depression could the malcontents obtain
+even a patient audience of their assaults upon the chosen President of
+the Confederacy.
+
+The people of the late Confederate States, whose destinies Jefferson Davis
+directed during four years, the most momentous in their history, are
+competent witnesses as to the fidelity, ability, and devotion with which
+he discharged the trust confided to him.
+
+Their judgment is revealed in the affectionate confidence with which,
+during their struggle for liberty, they upheld him, and in the joyful
+acclaim, which echoed from the Potomac to the Rio Grande upon the
+announcement of his release from his vicarious captivity. As he was the
+chosen representative of the power, the will, and the aspirations of a
+chivalrous people, so they will prove themselves the jealous custodians of
+his fame. Be the verdict of posterity as it may, they will not shrink from
+their share of the odium, and will be common participants with him in the
+award of eulogy. There is more than an unreasoning presentiment, something
+more tangible than vague hope, in the calm and cheerful confidence with
+which both look forward to that ample vindication of truth which always
+follows candid and impartial inquiry.
+
+That time will triumphantly vindicate Mr. Davis is as certain, as that it
+will dispel the twilight mazes which yet obscure the grand effort of
+patriotism which he directed. The rank luxuriance of prejudice, asperity,
+and falsehood must eventually yield to the irresistible progress of reason
+and truth. Bribery, perjury, every appliance which the most subtle
+ingenuity of eager and unscrupulous malice could invent, have been
+exhausted in the vain effort to make infamous, in the sight of mankind, a
+noble cause, by imputation of personal odium upon its most distinguished
+representative. Day by day he rises beyond the reach of calumny, and his
+character expands into the fair proportions of the grandest ideals of
+excellence. An adamantine heroism of the _antique_ pattern; purity exalted
+to an altitude beyond conception even of the vulgar mind; devotion which
+shrank from no sacrifice and quailed before no peril, were qualities
+giving tone to the genius, which, wielding the inadequate means of a
+feeble Confederacy, for years, withstood the shock of powerful invasion,
+baffled and humiliated a nation, unlimited in resources, and in spite of
+disastrous failure, lends unexampled dignity to the cause in which it was
+employed.
+
+
+
+
+CHAPTER I.
+
+    BIRTH--EDUCATION--AT WEST POINT--IN THE ARMY--RETIREMENT--POLITICAL
+    TRAINING IN AMERICA--MR. DAVIS NOT EDUCATED FOR POLITICAL LIFE AFTER
+    THE AMERICAN MODEL--BEGINS HIS POLITICAL CAREER BY A SPEECH AT THE
+    MISSISSIPPI DEMOCRATIC CONVENTION--A GLANCE PROSPECTIVELY AT HIS
+    FUTURE PARTY ASSOCIATIONS--HIS CONSISTENT ATTACHMENT TO STATES' RIGHTS
+    PRINCIPLES--A SKETCH OF THE DEVELOPMENT OF THE QUESTION OF STATES'
+    RIGHTS--MR. CALHOUN NOT THE AUTHOR OF THAT PRINCIPLE--HIS VINDICATION
+    FROM THE CHARGE OF DISUNIONISM--MR. DAVIS THE SUCCESSOR OF MR. CALHOUN
+    AS THE STATES' RIGHTS LEADER.
+
+
+Jefferson Davis was born on the third day of June, 1808, in that portion
+of Christian County, Kentucky, which, by subsequent act of the
+Legislature, was made Todd County. His father, Samuel Davis, a planter,
+during the Revolutionary war served as an officer in the mounted force of
+Georgia, an organization of local troops. Subsequently to the Revolution
+Samuel Davis removed to Kentucky, and continued to reside in that state
+until a few years after the birth of his son JEFFERSON, when he removed
+with his family to the neighborhood of Woodville, Wilkinson County, in the
+then territory of Mississippi. At the period of his father's removal to
+Mississippi, Jefferson was a child of tender years. After having enjoyed
+the benefits of a partial academic training at home, he was sent, at an
+earlier age than is usual, to Transylvania University, Kentucky, where he
+remained until he reached the age of sixteen. In 1824 he was appointed,
+by President Monroe, a cadet at the West Point Military Academy.
+
+Among his contemporaries at the academy were Robert E. Lee, Joseph E.
+Johnston, Albert Sidney Johnston, Leonidas Polk, John B. Magruder, and
+others who have since earned distinction. Ordinary merit could not have
+commanded in such an association of talent and character the position
+which Davis held as a cadet. A fellow-cadet thus speaks of him: "Jefferson
+Davis was distinguished in the corps for his manly bearing, his high-toned
+and lofty character. His figure was very soldier-like and rather robust;
+his step springy, resembling the tread of an Indian 'brave' on the
+war-path." He graduated in June, 1828, receiving the customary appointment
+of Brevet Second Lieutenant, which is conferred upon the graduates of the
+academy. Assigned to the infantry, he served with such fidelity in that
+branch of the service, and with such especial distinction as a staff
+officer on the North-western frontier in 1831-32, that he was promoted to
+the rank of First Lieutenant and Adjutant of a new regiment of dragoons in
+March, 1833.
+
+About this period the Indians, on various portions of the frontier,
+stimulated by dissatisfaction with the course of the Government concerning
+certain claims and guarantees, which had been accorded them in previous
+treaties, were excessively annoying, and the Government was forced to
+resort to energetic military measures to suppress them. Lieutenant Davis
+had ample opportunity for the exhibition of his high soldierly qualities,
+cool courage, and admirable self-possession, in the Black Hawk war, during
+which he was frequently employed in duties of an important and dangerous
+character. During the captivity of Black Hawk, that famous Indian
+chieftain and warrior is said to have conceived a very strong attachment
+for Lieutenant Davis, whose gallantry and pleasing amenities of bearing
+greatly impressed the captive enemy. After his transfer to the dragoons,
+Lieutenant Davis saw two years of very active service in the various
+expeditions against the Pawnees, Camanches, and other Indian tribes, and
+accompanied the first expedition which successfully penetrated the
+strongholds of the savages, and conquered a peace by reducing them to
+subjection.
+
+Though attached to the profession of arms, for which he has on repeated
+occasions, during his subsequent life, evinced an almost passionate
+fondness and a most unusual aptitude, Lieutenant Davis resigned his
+commission in June, 1835, and returning to Mississippi devoted his
+attention to the cultivation of cotton and to the assiduous pursuit of
+letters. Not long after his resignation, he had married the daughter of
+Col. Zachary Taylor, under whose eye he was destined, in a few years, to
+win such immortal renown upon the fields of Mexico. Living upon his
+plantation in great seclusion, he devoted himself with zeal and enthusiasm
+to those studies which were to qualify him for the eminent position in
+politics and statesmanship which he had resolved to assume. In that
+retirement were sown the seed, whose abundant fruits were seen in those
+splendid specimens of senatorial and popular eloquence, at once models of
+taste and exhibitions of intellectual power; in the pure, terse, and
+elegant English of his matchless state papers, which will forever be the
+delight of scholars and the study of statesmen, and in that elevated and
+enlightened statesmanship, which scorning the low ambition of demagogues
+and striving always for the ends of patriotism and principle, illumines,
+for more than a score of years, the legislative history of the Union.
+
+The period of Mr. Davis' retirement is embraced within the interval of
+his withdrawal from the army, in 1835, and the beginning of his active
+participation in the local politics of Mississippi, in 1843, a term of
+eight years. The diligent application with which he was employed daring
+these years of seclusion constituted a most fortunate preparation for the
+distinguished career upon which he at once entered. There is not, in the
+whole range of American biography, an instance of more thorough
+preparation, of more ample intellectual discipline, and elaborate
+education for political life.
+
+The _trade_ of politics is an avocation familiar to Americans, and in the
+more ordinary maneuvers of party tactics, in that lower species of
+political strategy which, in our party vocabulary, is aptly termed
+"wire-pulling," our politicians may boast an eminence in their class not
+surpassed in the most corrupt ages of the most profligate political
+establishments which have ever existed. Statesmanship, in that broad and
+elevated conception which suggests the noblest models among those who have
+adorned and illustrated the science of government, combining those higher
+attributes of administrative capacity which are realized equally in a
+pure, sound, and just polity, and in a free, prosperous, and contented
+community, is a subject utterly unexplored by American politicians at the
+outset of their career, and is comparatively an after-thought with those
+intrusted with the most responsible duties of state.
+
+The political training of Mr. Davis was pursued upon a basis very
+different from the American model. It has been more akin to the English
+method, under which the faculties and the tastes are first cultivated, and
+the mind qualified by all the light which theory and previous example
+afford for the practical labors which are before it. The tastes and habits
+formed during those eight years of retirement have adhered to Mr. Davis
+in his subsequent life. When not engrossed by the absorbing cares of
+state, he has, with rare enthusiasm and satisfaction, resorted to those
+refining pleasures which are accessible only to intellects which have
+known the elevating influences of culture.
+
+Emerging from his seclusion in 1843, when the initiatory measures of party
+organization were in course of preparation for the gubernatorial canvass
+of that year and the Presidential campaign of the next, he immediately
+assumed a prominent position among the leaders of the Democratic party in
+Mississippi. At this time, probably, no state in the Union, of equal
+population, excelled Mississippi in the number and distinction of her
+brilliant politicians. Especially was this true of Vicksburg, and of the
+general neighborhood in which Mr. Davis resided.[3] The genius of Seargent
+S. Prentiss was then in its meridian splendor, and his reputation and
+popularity were coëxtensive with the Union. Besides Prentiss were Foote,
+Thompson, Claiborne, Gholson, Brown, and many others, all comparatively
+young men, who have since achieved professional or political distinction.
+The appearance of Mr. Davis was soon recognized as the addition of a star
+of no unworthy effulgence to this brilliant galaxy.
+
+The Democratic State Convention, held for the purpose of organization for
+the gubernatorial canvass, and for the appointment of delegates to the
+National Convention, assembled at Jackson in the summer of 1843. From the
+meeting of this convention, which Mr. Davis attended as a delegate, may be
+dated the beginning of his political life. In the course of its
+deliberations he delivered his first public address, which immediately
+attracted toward him much attention, and a most partial consideration by
+his party associates. The occasion is interesting from this circumstance,
+and as indicating that consistent political bias which, beginning in early
+manhood, constituted the controlling inspiration of a long career of
+eminent public service. The undoubted preference of the convention, as of
+an overwhelming majority of the masses of the Southern Democracy, was for
+Mr. Van Buren, and its entire action in the selection of delegates, and
+formal expressions of feeling, was in accordance with this
+well-ascertained preference. To a proposition instructing the delegates to
+the National Convention, to support the nomination of Mr. Van Buren so
+long as there was a reasonable hope of his selection by the party, Mr.
+Davis proposed an amendment instructing the delegates to support Mr.
+Calhoun as the second choice of the Democracy of Mississippi, in the event
+of such a contingency as should render clearly hopeless the choice of Mr.
+Van Buren. In response to an inquiry from an acquaintance if his amendment
+was meant in good faith, and did not contemplate detriment to the
+interests of Mr. Van Buren, Mr. Davis rose and addressed the convention in
+explanation of his purpose, and in terms of such earnest and appropriate
+eulogy of Mr. Calhoun and his principles as to elicit the most
+enthusiastic commendation.
+
+So favorable was the impression which Mr. Davis made upon his party, and
+so rapid his progress as a popular speaker, that in the Presidential
+campaign of 1844, the Democracy conferred upon him the distinction of a
+place upon its electoral ticket. In this canvass he acquired great
+reputation, and established himself immovably in the confidence and
+admiration of the people of Mississippi.
+
+This seems an appropriate point from which to glance prospectively at the
+political principles and party associations of Mr. Davis in his after
+career. Until its virtual dissolution at Charleston, in 1860, he was an
+earnest and consistent member of the Democratic party. To those who are
+familiar with the party nomenclature of the country, no inconsistency with
+this assertion will appear involved in the statement, that he has also
+been an ardent disciple of the doctrine of States' Rights. The Democratic
+party and the States' Rights party were indeed identical, when a
+profession of political faith in this country was significant of something
+ennobling upon the score of principle, something higher than a mere
+aspiration for the spoils of office. When, in subsequent years, to the
+large majority of its leaders, the chief significance of a party triumph,
+consisted in its being the occasion of a new division of the spoils, many
+of the most eminent statesmen of the South became in a measure indifferent
+to its success. Its prurient aspiration for the rewards of place provoked
+the sarcasm of Mr. Calhoun, that it "was held together by the cohesive
+power of the public plunder," and the still more caustic satire of John
+Randolph, of Roanoke, that it had "seven principles: five loaves and two
+fishes."
+
+Nevertheless, in its spirit thoroughly national, catholic in all its
+impulses, for many years shaping its policy in harmony with the protection
+of Southern institutions, and with few features of sectionalism in its
+organization, it worthily commanded the preference of a large majority of
+the Southern people. To this organization Mr. Davis adhered until the
+inception of the late conflict, supporting its Presidential nominations,
+in the main favoring such public measures as were incorporated in the
+policy of the party, and he was, for several years prior to the war, by
+no means the least prominent of those named in connection with its choice
+for the Presidency in 1860.
+
+It is no part of the task which has been undertaken in these pages to
+sketch the mutations of political parties, or to trace the historical
+order and significance of events, save in their immediate and
+indispensable connection with our appropriate subject. So closely
+identified, however, has been the public life of Mr. Davis with the
+question of States' Rights, so ardent has been his profession of that
+faith, and so able and zealous was he in its advocacy and practice, that
+his life virtually becomes an epitome of the most important incidents in
+the development of this great historical question. His earliest appearance
+upon the arena of politics was at a period when the various issues which
+were submitted to the arbitrament of arms in the late war began to assume
+a practical shape of most portentous aspect. The address which first
+challenged public attention, and that extensive interest which has rarely
+been withdrawn since, was an emphatic indorsement of the political
+philosophy of Mr. Calhoun and a glowing panegyric upon the character and
+principles of that immortal statesman and expounder. Unreservedly
+committing himself, then, he has steadfastly held to the States' Rights
+creed, as the basis of his political faith and the guide of his public
+conduct.
+
+If it be true that the decision of the sword only establishes facts, and
+does not determine questions of principle, then the principle of States'
+Rights will be commemorated as something more valuable, than as the mere
+pretext upon which a few agitators inaugurated an unjustifiable revolt for
+the overthrow of the Government of the Union. Nothing is more likely than
+that many who recently rejoiced at its suppression by physical force, may
+mourn its departure as of that one vital inspiration, which alone could
+have averted the decay of the public liberties. Practically a "dead
+letter" now in the partizan slang of the demagogues who rule the hour,
+since its prostration by military power in the service of the antipodal
+principle of consolidation, it will live forever as the motive and
+occasion of a struggle, unparalleled in its heroism and sacrifices in
+behalf of constitutional liberty.
+
+There is little ground for wonder at the total ignorance and persistent
+misconception in the mind of Europe, at the commencement of the war, of
+the motives and purposes of the Confederates in seeking a dissolution of
+the Union, when we consider the limited information and perverted views of
+the Northern people and politicians respecting the nature of the Federal
+Government and the intentions of its authors. Naturally enough, perhaps,
+the North, seeing in the Union the source of its marvelous material
+prosperity, and with an astute appreciation of its ability, by its
+rapidly-growing numerical majority, to pervert the Government to any
+purpose of sectional aggression agreeable to its ambition or interests,
+refused to tolerate, as either rational or honest, any theory that
+contemplated disunion as possible in any contingency. In their willful
+ignorance and misapprehension most Northern orators and writers denounced
+the doctrines of States' Rights as _new inventions_--as innovations upon
+the faith of the fathers of the Republic--and professed to regard the most
+enlightened and patriotic statesmen of the South, the pupils and followers
+of illustrious Virginians and Carolinians of the Revolutionary era, as
+agitators, conspirators, and plotters of treason against the Union. Upon
+the score of antiquity, States' Rights principles have a claim to
+respectability--not for a moment to be compared with the wretched devices
+of expediency or the hybrid products of political atheism, to which the
+brazen audacity and hypocrisy of the times apply the misnomer of
+"principles."
+
+They are, in fact, older than the Union, and antedate, not only the
+present Constitution, but even the famous Articles of Confederation, under
+which our forefathers fought through the first Revolution. The Congress
+which adopted the Declaration of Independence emphatically negatived a
+proposition looking to consolidation, offered by New Hampshire on the 15th
+of June, 1776, that the Thirteen Colonies be declared a "free and
+independent State," and expressly affirmed their separate sovereignty by
+declaring them to be "free and independent States." The declaration of the
+Articles of Confederation was still more explicit--that "each State
+retains its sovereignty, freedom, and independence, and every power,
+jurisdiction, and right, which is not by this Confederation expressly
+delegated to the United States in Congress assembled." The Convention of
+1787 clearly designed the present Constitution to be the instrument of a
+closer association of the States than had been effected by the Articles of
+Confederation, but the proof is exceedingly meager of any general desire
+that it should establish a consolidated nationality.
+
+At this early period the antagonism of the two schools of American
+politics was plainly discernible. The conflict of faith is easily
+indicated. The advocates of States' Rights regarded the Union as a
+_compact between the States_--something more than a mere league formed for
+purposes of mutual safety, but still a strictly _voluntary_ association of
+Sovereignties, in which certain general powers were specifically delegated
+to the Union; and all others not so delegated were reserved by the States
+in their separate characters. The advocates of Consolidation considered
+the Union a _National_ Government--in other words, a centralized power--to
+which the several States occupied the relation of separate provinces.
+
+The famous resolutions of '98, adopted respectively by the Virginia and
+Kentucky Legislatures, were the formal declarations of principles upon
+which the States' Rights party was distinctly organized under Mr.
+Jefferson, whom it successfully supported for the Presidency against the
+elder Adams at the expiration of the term of the latter. With the progress
+of time the practical significance of these opposing principles became
+more and more apparent, and their respective followers strove, with
+constantly-increasing energy, to make their party creed paramount in the
+policy of the Government. A majority of the Northern people embraced the
+idea of a perpetual Union, whose authority was supreme over all the
+States, and regulated by the will of a numerical majority, which majority,
+it should be observed, they had already secured, and were yearly
+increasing in an enormous ratio. The South, in the course of years, with
+even more unanimity, clung to the idea of State Sovereignty, and the
+interpretation of the Government as one of limited powers, as its shield
+and bulwark against the Northern majority in the collision which it was
+foreseen the aggressive spirit of the latter would eventually occasion.
+
+A common and totally erroneous impression of the Northern mind is that
+John C. Calhoun _invented_ the idea of State Sovereignty for selfish and
+unpatriotic designs, and as the pretext of a morbid hatred to the Union.
+That eminent statesman and sincere patriot never asserted any claim to the
+paternity of the faith which he professed. It is true that, in a certain
+sense, he was the founder of the States' Rights party as it existed in his
+day, and which survived him to make a last unsuccessful struggle to save
+first the Union, and, failing in that, to rescue the imperiled liberties
+of the South. During the eventful life of Mr. Calhoun the question of the
+relative powers of the Federal and State Governments assumed a more
+practical bearing than before, and his far-reaching sagacity was
+illustrated in his efforts to avert the impending evils of consolidation.
+He was the authoritative exponent and revered leader of the votaries of
+those principles which he advocated, but did not originate or invent, and
+sought to apply as the legitimate and safe solution of the circumstances
+by which he was surrounded.
+
+Equally absurd and unfounded with the pretense, asserted at the North, of
+the novelty of the idea of State Sovereignty and its incompatibility with
+the spirit of the Constitution, was the charge so persistently iterated
+against Mr. Calhoun and his followers, of disunionism; of a restless,
+morbid discontent, which sought continually revenge for imaginary wrongs
+in a dissolution of the Union. To the contrary we have the irrefutable
+arguments of Mr. Calhoun himself in favor of the superior efficacy of the
+States' Rights interpretation, as an agency for the preservation of the
+Union as it was designed to exist by its authors. So far from having an
+anarchical or disorganizing tendency, he, on all occasions, maintained
+that his theory was "the only solid foundation of our system and the Union
+itself."
+
+To this faith the public life of Jefferson Davis has been dedicated. For
+more than twenty years he sought to illustrate it in the realization of a
+splendid but barren vision of a time-honored and time-strengthened Union,
+consecrated in the common affections and joint aspirations of a people,
+now, alas! united only in name.
+
+During the period of their public service together, Mr. Davis received a
+large share of the confidence and regard of Mr. Calhoun, and when the
+death of the latter deprived the South of the counsels of an illustrious
+public servant, Mr. Davis, though comparatively a young man, stood
+foremost as heir to the mantle of the great apostle of States' Rights.[4]
+
+
+
+
+CHAPTER II.
+
+
+    RESULTS OF PRESIDENTIAL ELECTION IN 1844--MR. DAVIS ELECTED TO
+    CONGRESS--HIS FIRST SESSION--PROMINENT MEMBERS OF THE HOUSE--DOUGLAS,
+    HUNTER, SEDDON, ETC.--DAVIS' RAPID ADVANCEMENT IN REPUTATION--
+    RESOLUTIONS OFFERED BY HIM--SPEECHES ON THE OREGON EXCITEMENT, AND ON
+    THE RESOLUTION OF THANKS TO GENERAL TAYLOR AND HIS ARMY--NATIONAL
+    SENTIMENTS EMBODIED IN THESE AND OTHER SPEECHES--A CONTRAST IN THE
+    MATTER OF PATRIOTISM--MASSACHUSETTS AND MISSISSIPPI IN THE MEXICAN
+    WAR--DEBATE WITH ANDREW JOHNSON--JOHN QUINCY ADAMS' ESTIMATE OF
+    JEFFERSON DAVIS.
+
+
+The Presidential canvass of 1844 was one of the most memorable and
+exciting in the annals of American politics. By its results the popular
+verdict was rendered upon vital questions involved in the administrative
+and legislative policy of the Government. The Democratic party was fully
+committed to the annexation of Texas, with the prospect of war with Mexico
+as an almost inevitable condition of the acquisition of that immense
+territory, desirable to the Union at large, but especially popular with
+the South, for obvious and sufficient reasons. But apart from the signal
+victory achieved by the Democracy, in favor of this and other leading
+measures of that party, the election of 1844 had an incidental
+significance, which the country generally recognized, in its final and
+irrevocable disappointment of the Presidential aspirations of Henry Clay.
+This canvass, too, has a peculiar historical interest in the demonstration
+which it gave of the real popular strength of the respective parties
+which had so long divided the country. Comparatively few temporary issues,
+of a character to excite strong popular feeling respecting either party or
+its candidates, were made, and there was a square and obstinate battle of
+Democracy against Whiggery, of what Governor Wise called the old-fashioned
+"Thomas-Jefferson-Simon-Snyder-red-waistcoat-Democracy," against Henry
+Clay and his "American System."
+
+The canvass was remarkable not only for its duration and the ardor with
+which it was conducted, but for its unsurpassed exhibitions of "stump
+oratory." The best men of both parties were summoned to the fierce
+conflict; and many were the youthful paladins, hitherto unknown to fame,
+who won their golden spurs upon this their first battle-field. Mr. Davis
+had borne a leading part in support of Polk and Dallas and Texas
+annexation in Mississippi. His services were not of a character to be
+forgotten by his party, nor did an intelligent and appreciative public
+fail to discover in the young man whose eloquence and manly bearing had so
+enlisted their admiration, such abilities and acquirements as qualified
+him to represent the honor of his State in any capacity which they might
+intrust to his keeping.
+
+Of Mississippi it might have been said, as of Virginia, that "the sun of
+her Democracy knew no setting." If possible, however, the State was more
+closely than ever confirmed in her Democratic moorings by the decisive
+results of the election in 1844. When Mr. Davis received the appropriate
+acknowledgment of popular appreciation in his election to the House of
+Representatives, in November, 1845, Mississippi sent an unbroken
+Democratic delegation to Washington. His associates were Messrs. Roberts
+and Jacob Thompson (afterward Secretary of the Interior under Mr.
+Buchanan) in the House, and Messrs. Foote and Speight in the Senate.
+
+On Monday, December 8, 1845, Mr. Davis was qualified as a member of the
+House of Representatives, and from that day dates his eventful and
+brilliant legislative career. The Twenty-ninth Congress was charged with
+some of the gravest duties of legislation. The questions of the tariff,
+the Oregon excitement, during which war with England was so imminent, and
+the settlement of important details pertaining to the Texas question, were
+the absorbing concerns which engaged its attention until the provisions
+and appropriations necessary to the successful prosecution of the Mexican
+war imposed still more serious labors. The records of this Congress reveal
+many interesting facts concerning individuals who have since figured
+prominently in the history of the country. The fact to which we have
+alluded of the unusual interest which had been exhibited in the recent
+Presidential contest, doubtless had a considerable influence in the choice
+of members of Congress in the various States, and largely contributed to
+its elevated standard of ability.
+
+The debates in the House of Representatives of the Twenty-ninth Congress,
+are unsurpassed in ability and eloquence by those of any preceding or
+subsequent session of that body, and upon its rolls are to be found many
+names, now national in reputation, which were then but recently introduced
+to public attention. Stephen A. Douglas, the most thoroughly
+representative American politician of his time, uniting to a more than
+average proportion of the respectability of his class, his full share of
+its vicious characteristics, politic, adroit, and ambitious, was
+comparatively a new member, and, at this time, in the morning of his
+reputation. R. M. T. Hunter, of Virginia, a statesman of sound judgment
+and accurate information, who based his arguments upon the facts, and
+reduced the complicated problems of governmental economy to the conditions
+of a mathematical demonstration, had not yet been transferred to the
+Senate. James A. Seddon, the safe theorist, whose study, like Edmund
+Burke's, was "_rerum cognoscere causas_," the acute dialectician, who, in
+his mental characteristics, no less than in his principles, was so closely
+allied to Mr. Calhoun, was, like Jefferson Davis, for the first time a
+member of Congress. Andrew Johnson was then a member of the House and at
+the outset of his remarkable career; and in addition to these were
+Brinkerhoff, Washington Hunt, Dromgoole, George S. Houston, and a score of
+others, whose names recall interesting reminiscences of the day in which
+they figured.
+
+To a man of ordinary purpose, or doubtful of himself, the prospect of
+competition with such men, at the very outset of his public career, would
+not have been encouraging. But there are men, designed by nature, to
+rejoice at, rather than to shrink from those arduous and hazardous
+positions to which their responsibilities summon them. An attribute of
+genius is the consciousness of strength, and that sublime confidence in
+the success of its own efforts, which doubly assures victory in the battle
+of life. It was with an assurance of triumph, far different from the
+harlequin-like effrontery which is often witnessed in the political arena,
+that Jefferson Davis advanced to contest the awards of intellectual
+distinction. With the activity and vigor of the disciplined gladiator,
+with the _gaudia certaminis_ beaming in every feature, with the calm
+confidence of the trained statesman, and yet with all the radiant _elan_
+of a youthful knight contending for his spurs at Templestowe, he pursued
+his brief but impressive career in the lower house of Congress.
+
+As a member of the House of Representatives Mr. Davis rapidly and steadily
+won upon the good opinion of his associates, and the favorable estimate of
+him, entertained by his constituents and friends, was confirmed by his
+greatly advanced reputation at the period of his withdrawal from Congress
+in the ensuing summer. He became prominent, less by the frequency with
+which he claimed the attention of the House, than by the accuracy of his
+information, the substantial value of his suggestions and the easy dignity
+of his demeanor. His speeches, though not comparable with his senatorial
+efforts, were characterized by great perspicuity, argumentative force, and
+propriety of taste, and frequently rose to the dignity of true eloquence.
+They, in every instance, gave promise of that rhetorical finish, power of
+statement, unity of thought and logical coherence, which, in subsequent
+years, were so appropriately illustrated on other theaters of intellectual
+effort. Mr. Davis participated prominently in the debates upon the Oregon
+excitement, Native Americanism, and the various other contemporary topics
+of interest, which were then before Congress, but was especially prominent
+in the discussion of military affairs, the interests and requirements of
+the army, and the measures devised for the prosecution of the Mexican war.
+Upon the latter subjects his experience was of great practical value.
+
+On the 19th of December, 1845, he offered the following resolutions:
+"_Resolved_, That the Committee on Military Affairs be instructed to
+inquire into the expediency of converting a portion of the forts of the
+United States into schools for military instruction, on the basis of
+substituting their present garrisons of enlisted men, by detachments
+furnished from each State of our Union, in the ratio of their several
+representation in the Congress of the United States."
+
+"_Resolved_, That the Committee on the Post-office and Post-roads be
+required to inquire into the expediency of establishing a direct daily
+mail route from Montgomery, Alabama, to Jackson, Mississippi."
+
+The occasion of these motions was the first upon which he occupied the
+floor of the House.
+
+On the 29th of December, Mr. Davis spoke in a very earnest and impressive
+manner upon Native Americanism, which he strongly opposed, and on
+subsequent occasions addressed the House in favor of the bill to receive
+arms, barracks, fortifications, and other public property, the cession of
+which to the Federal Government, by Texas, had been provided to take place
+upon its admission to the Union; in favor of the proposition to raise
+additional regiments of riflemen; in opposition to appropriations for
+improvement of rivers and harbors; upon the Oregon question, and in favor
+of a resolution of thanks to General Taylor and his army.
+
+The extracts from his speech on the Oregon question, and the speech in
+favor of thanks to General Taylor and his army, which is here given in
+full, are taken from the reports of the _Congressional Globe_. The
+intelligent reader will appreciate their real value, as to accuracy,
+without any suggestion from us.
+
+On February 6, 1846, the House, having resolved itself into Committee of
+the Whole, and having under consideration the joint resolution of notice
+to the British Government concerning the abrogation of the Convention
+between the United States and Great Britain respecting the territory of
+Oregon, Mr. Davis spoke at some length, and in an attractive and
+instructive style, upon the subject before the House. A great portion of
+the speech consists of interesting historical details, evincing a most
+accurate acquaintance with the subject, and giving a clear and valuable
+analysis of facts. We have space for only brief extracts, which are
+sufficient to reveal Mr. Davis' position upon this important question:
+
+... "Sir, why has the South been assailed in this discussion? Has it been
+with the hope of sowing dissensions between us and our Western friends?
+Thus far, I think, it has failed. Why the frequent reference to the
+conduct of the South on the Texas question? Sir, those who have made
+reflections on the South as having sustained Texas annexation from
+sectional views have been of those who opposed that great measure and are
+most eager for this. The suspicion is but natural in them. But, sir, let
+me tell them that this doctrine of the political balance between different
+portions of the Union is no Southern doctrine. We, sir, advocated the
+annexation of Texas from high national considerations. It was not a mere
+Southern question; it lay coterminous to the Western States, and extended
+as far north as the forty-second degree of latitude. Nor, sir, do we wish
+to divide the territory of Oregon; we would preserve it all for the
+extension of our Union. We would not arrest the onward progress of our
+pioneers; we would not, as has been done in this debate, ask why our
+citizens have left the repose of civil government and gone to Oregon? We
+find in it but that energy which has heretofore been characteristic of our
+people, and which has developed much that has illustrated our history. It
+is the onward progress of our people toward the Pacific which alone can
+arrest their westward march, and on the banks of which, to use the
+language of our lamented Linn, the pioneer will sit down to weep that
+there are no more forests to subdue.... It is, as the representative of a
+high-spirited and patriotic people, that I am called on to resist this
+war clamor. My constituents need no such excitements to prepare their
+hearts for all that patriotism demands. Whenever the honor of the country
+demands redress; whenever its territory is invaded--if, then, it shall be
+sought to intimidate by the fiery cross of St. George--if, then, we are
+threatened with the unfolding of English banners if we resent or
+resist--from the gulf shore to the banks of that great river, throughout
+out the length and breadth--Mississippi will come. And whether the
+question be one of Northern or Southern, of Eastern or Western aggression,
+we will not stop to count the cost, but act as becomes the descendants of
+those who, in the war of the Revolution, engaged in unequal strife to aid
+our brethren of the North in redressing their injuries.... We turn from
+present hostility to former friendship--from recent defection to the time
+when Massachusetts and Virginia, the stronger brothers of our family,
+stood foremost and united to defend our common rights. From sire to son
+has descended the love of our Union in our hearts, as in our history are
+mingled the names of Concord and Camden, of Yorktown and Saratoga, of
+Moultrie and Plattsburgh, of Chippewa and Erie, of Bowyer and Guildford,
+and New Orleans and Bunker Hill. Grouped together, they form a monument to
+the common glory of our common country; and where is the Southern man who
+would wish that monument were less by one of the Northern names that
+constitute the mass? Who, standing on the ground made sacred by the blood
+of Warren, could allow sectional feeling to curb his enthusiasm as he
+looked upon that obelisk which rises a monument to freedom's and his
+country's triumph, and stands a type of the time, the men and event that
+it commemorates; built of material that mocks the waves of time, without
+niche or molding for parasite or creeping thing to rest on, and pointing
+like a finger to the sky, to raise man's thoughts to philanthropic and
+noble deeds."
+
+It is well known that, upon this subject, there was considerable division
+among the Democracy. The effort to commit the party, as a unit, to a
+position which would have inevitably produced war with England signally
+failed. The country had not then reached its present pitch of arrogant
+inflation, which emboldens it to seek opportunity for exhibition in the
+vainglorious role of braggadocio. Mr. Davis, upon this and other
+occasions, significantly rebuked the demagogical clamor which would have
+precipitated the country into a calamitous war. His reply, on the 17th of
+April, 1846, to Stephen A. Douglas, who was among the leading instigators
+of the war-feeling in the House, is exceedingly forcible and spirited.
+
+The following speech in favor of the resolution of thanks to General
+Taylor, the officers and men of his army, for their recent successes on
+the Rio Grande, was delivered May 28, 1846:
+
+"As a friend to the army, he rejoiced at the evidence, now afforded, of a
+disposition in this House to deal justly, to feel generously toward those
+to whom the honor of our flag has been intrusted. Too often and too long
+had we listened to harsh and invidious reflections upon our gallant little
+army and the accomplished officers who command it. A partial opportunity
+had been offered to exhibit their soldierly qualities in their true light,
+and he trusted these aspersions were hushed--hushed now forever. As an
+American, whose heart promptly responds to all which illustrates our
+national character, and adds new glory to our national name, he rejoiced
+with exceeding joy at the recent triumph of our arms. Yet it is no more
+than he expected from the gallant soldiers who hold our post upon the Rio
+Grande--no more than, when occasion offers, they will achieve again. It
+was the triumph of American courage, professional skill, and that
+patriotic pride which blooms in the breast of our educated soldier, and
+which droops not under the withering scoff of political revilers.
+
+"These men will feel, deeply feel, the expression of your gratitude. It
+will nerve their hearts in the hour of future conflicts, to know that
+their country honors and acknowledges their devotion. It will shed a
+solace on the dying moments of those who fall, to be assured their country
+mourns their loss. This is the meed for which the soldier bleeds and dies.
+This he will remember long after the paltry pittance of one month's extra
+pay has been forgotten.
+
+"Beyond this expression of the nation's thanks, he liked the _principle_
+of the proposition offered by the gentleman from South Carolina. We have a
+pension system providing for the disabled soldier, but he seeks well and
+wisely to extend it to all who may be wounded, however slightly. It is a
+reward offered to those who seek for danger, who first and foremost plunge
+into the fight. It has been this incentive, extended so as to cover all
+feats of gallantry, that has so often crowned the British arms with
+victory, and caused their prowess to be recognized in every quarter of the
+globe. It was the sure and high reward of gallantry, the confident
+reliance upon their nation's gratitude, which led Napoleon's armies over
+Europe, conquering and to conquer; and it was these influences which, in
+an earlier time, rendered the Roman arms invincible, and brought their
+eagle back victorious from every land on which it gazed. Sir, let not that
+parsimony (for he did not deem it economy) prevent us from adopting a
+system which in war will add so much to the efficiency of troops. Instead
+of seeking to fill the ranks of your army by increased pay, let the
+soldier feel that a liberal pension will relieve him from the fear of want
+in the event of disability, provide for his family in the event of death,
+and that he wins his way to gratitude and the reward of his countrymen by
+periling all for honor in the field.
+
+"The achievement which we now propose to honor richly deserves it. Seldom,
+sir, in the annals of military history has there been one in which
+desperate daring and military skill were more happily combined. The enemy
+selected his own ground, and united to the advantage of a strong position
+a numerical majority of three to one. Driven from his first position by an
+attack in which it is hard to say whether professional skill or manly
+courage is to be more admired, he retired and posted his artillery on a
+narrow defile, to sweep the ground over which our troops were compelled to
+pass. There, posted in strength three times greater than our own, they
+waited the approach of our gallant little army.
+
+"General Taylor knew the danger and destitution of the band he left to
+hold his camp opposite Matamoras, and he paused for no regular approaches,
+but opened his field artillery, and dashed with sword and bayonet on the
+foe. A single charge left him master of their battery, and the number of
+slain attests the skill and discipline of his army. Mr. D. referred to a
+gentleman who, a short time since, expressed extreme distrust in our army,
+and poured out the vials of his denunciation upon the graduates of the
+Military Academy, He hoped now the gentleman will withdraw these
+denunciations; that now he will learn the value of military science; that
+he will see, in the location, the construction, the defenses of the
+bastioned field-works opposite Matamoras, the utility, the necessity of a
+military education. Let him compare the few men who held that with the
+army who assailed it; let him mark the comparative safety with which they
+stood within that temporary work; let him consider why the guns along its
+ramparts were preserved, whilst they silenced the batteries of the enemy;
+why that intrenchment stands unharmed by Mexican shot, whilst its guns
+have crumbled the stone walls in Matamoras to the ground, and then say
+whether he believes a blacksmith or a tailor could have secured the same
+results. He trusted the gentleman would be convinced that arms, like every
+occupation, requires to be studied before it can be understood; and from
+these things to which he had called his attention, he will learn the power
+and advantage of military science. He would make but one other allusion to
+the remarks of the gentleman he had noticed, who said nine-tenths of the
+graduates of the Military Academy abandoned the service of the United
+States. If he would take the trouble to examine the records upon this
+point, he doubted not he would be surprised at the extent of his mistake.
+There he would learn that a majority of all the graduates are still in
+service; and if he would push his inquiry a little further, he would find
+that a large majority of the commissioned officers who bled in the action
+of the 8th and 9th were graduates of that academy.
+
+"He would not enter into a discussion on the military at this time. His
+pride, his gratification arose from the success of our arms. Much was due
+to the courage which Americans have displayed on many battle-fields in
+former times; but this courage, characteristic of our people, and
+pervading all sections and all classes, could never have availed so much
+had it not been combined with military science. And the occasion seemed
+suited to enforce this lesson on the minds of those who have been
+accustomed, in season and out of season, to rail at the scientific
+attainments of our officers.
+
+"The influence of military skill--the advantage of discipline in the
+troops--the power derived from the science of war, increases with the
+increased size of the contending armies. With two thousand we had beaten
+six thousand; with twenty thousand we would far more easily beat sixty
+thousand, because the general must be an educated soldier who wields large
+bodies of men, and the troops, to act efficiently, must be disciplined and
+commanded by able officers. He but said what he had long thought and often
+said, when he expressed his confidence in the ability of our officers to
+meet those of any service--favorably to compare, in all that constitutes
+the soldier, with any army in the world; and as the field widened for the
+exhibition, so would their merits shine more brightly still.
+
+"With many of the officers now serving on the Rio Grande he had enjoyed a
+personal acquaintance, and hesitated not to say that all which skill, and
+courage, and patriotism could perform, might be expected from them. He had
+forborne to speak of the general commanding on the Rio Grande on any
+former occasion; but he would now say to those who had expressed distrust,
+that the world held not a soldier better qualified for the service he was
+engaged in than General Taylor. Trained from his youth to arms, having
+spent the greater portion of his life on our frontier, his experience
+peculiarly fits him for the command he holds. Such as his conduct was in
+Fort Harrison, on the Upper Mississippi, in Florida, and on the Rio
+Grande, will it be wherever he meets the enemy of his country.
+
+"Those soldiers, to whom so many have applied depreciatory epithets, upon
+whom it has been so often said no reliance could be placed, they too will
+be found, in every emergency renewing such feats as have recently graced
+our arms, bearing the American flag to honorable triumphs, or falling
+beneath its folds, as devotees to our common cause, to die a soldier's
+death.
+
+"He rejoiced that the gentleman from South Carolina (Mr. Black) had shown
+himself so ready to pay this tribute to our army. He hoped not a voice
+would be raised in opposition to it--that nothing but the stern regret
+which is prompted by remembrance of those who bravely fought and nobly
+died will break the joy, the pride, the patriotic gratulation with which
+we hail this triumph of our brethren on the Rio Grande."
+
+A striking feature of these two speeches, as, indeed, of all Mr. Davis'
+Congressional speeches, is the strong and outspoken _national_ feeling
+which pervades them. It is a part of the history of these times, that
+while Jefferson Davis eloquently avowed a noble and generous sympathy with
+his heroic compatriots in Mexico, a prominent Northern politician bespoke
+for the American army, "a welcome with bloody hands to hospitable graves."
+When, a few months afterwards, the names of Jefferson Davis and his
+Mississippi Rifles were baptized in blood amid those frowning redoubts at
+Monterey, and when, upon the ensanguined plain of Buena Vista, he fell
+stricken in the very moment of victory, just as his genius and the valor
+of his comrades had broken that last, furious onset of the Mexican
+lancers, New England and her leaders stood indifferent spectators of the
+scene.[5] Yet the same New England bounded eagerly to the conquest and
+spoliation of their countrymen, and the same leaders clamored valiantly
+for the humiliation, for the blood even, of Jefferson Davis, _as a traitor
+and a rebel. Quosque tandem._
+
+An interesting sequel of this speech was the debate, which it occasioned
+two days afterwards, between Mr. Davis and Andrew Johnson, now President
+of the United States. Mr. Johnson, who boasts so proudly of his plebeian
+origin, and is yet said to be morbidly sensitive of the slightest allusion
+to it by others, excepted to Mr. Davis' reference to the "tailor and
+blacksmith," warmly eulogized those callings and mechanical avocations in
+general, and took occasion to expatiate extensively upon the virtue and
+intelligence of the masses. Mr. Davis, whose language is clearly not
+susceptible of any interpretation disparaging to "blacksmiths and
+tailors," disclaimed the imputation, saying that he had designed merely to
+illustrate his argument, that the profession of arms, to be understood,
+must be studied, and that a mechanic could no more fill the place of an
+educated soldier, than could the latter supply the qualifications of the
+former. Mr. Johnson, however, was resolved to seize the opportunity for a
+panegyric upon the populace, and no explanations could avail. The _Globe_
+reports this debate as, "in all its stages, not being of an entirely
+pleasant nature."
+
+As an appropriate conclusion to this sketch of Mr. Davis' career in the
+House of Representatives, we quote the following extract from an
+interesting work,[6] published some years since: "John Quincy Adams had a
+habit of always observing new members. He would sit near them on the
+occasion of their Congressional _debut_, closely eyeing and attentively
+listening if the speech pleased him, but quickly departing if it did not.
+When Davis first arose in the House, the Ex-President took a seat close
+by. Davis proceeded, and Adams did not move. The one continued speaking
+and the other listening; and those who knew Mr. Adams' habits were fully
+aware that the new member had deeply impressed him. At the close of the
+speech the 'Old Man Eloquent' crossed over to some friends and said, 'That
+young man, gentlemen, is no ordinary man. He will make his mark yet, mind
+me.'"
+
+
+
+
+CHAPTER III.
+
+    THE NAME OF JEFFERSON DAVIS INSEPARABLE FROM THE HISTORY OF THE
+    MEXICAN WAR--HIS ESSENTIALLY MILITARY CHARACTER AND TASTES--JOINS
+    GENERAL TAYLOR'S ARMY ON THE RIO GRANDE, AS COLONEL OF THE FAMOUS
+    "MISSISSIPPI RIFLES"--MONTEREY--BUENA VISTA--GENERAL TAYLOR'S ACCOUNT
+    OF DAVIS' CONDUCT--DAVIS' REPORT OF THE ACTION--NOVELTY AND
+    ORIGINALITY OF HIS STRATEGY AT BUENA VISTA--INTERESTING STATEMENT OF
+    HON. CALEB CUSHING--RETURN OF DAVIS TO THE UNITED STATES--TRIUMPHANT
+    RECEPTION AT HOME--PRESIDENT POLK TENDERS HIM A BRIGADIER'S
+    COMMISSION, WHICH HE DECLINES ON PRINCIPLE.
+
+
+The name of Davis is inseparable from those lettered glories of the
+American Union, which were the brilliant trophies of the Mexican war. In
+those bright annals it was engraven with unfading lustre upon the
+conquering banners of the Republic, and his genius and valor were rewarded
+with a fame which rests securely upon the laurels of Monterey and Buena
+Vista.
+
+Jefferson Davis is a born soldier. Even if we could forget the glories of
+the assault upon Teneria and El Diablo, and banish the thrilling
+recollection of that movement at Buena Vista, the genius, novelty, and
+intrepidity of which electrified the world of military science, and
+extorted the enthusiastic admiration of the victor of Waterloo, we must
+yet recognize the impress of those rare gifts and graces which are the
+titles to authority. The erect yet easy carriage, the true martial dignity
+of bearing, which is altogether removed from the supercilious _hauteur_
+of the mere martinet, the almost fascinating expression of _suaviter in
+modo_, which yet does not for an instant conceal the _fortiter in re_,
+constitute in him that imperial semblance, to which the mind involuntarily
+concedes the right to supreme command. It is impossible, in the presence
+of Mr. Davis, to deny this recognition of his intuitive soldiership. Not
+only is obvious to the eye the commanding mien of the soldier, but the
+order, the discipline of the educated soldier, whose nature, stern and
+unflinching, was yet plastic to receive the impressions of an art with
+which it felt an intuitive alliance. This military precision is
+characteristic of Mr. Davis in every aspect in which he appears. There is
+the constant fixedness of gaze upon the object to be reached, and the
+cautious calculation of the chances of success with the means and forces
+ready at hand; a constant regard for bases of supply and a proper concern
+for lines of retreat, and, above all, the prompt and vigorous execution,
+if success be practicable and the attack determined upon. Even in his
+oratory and statesmanship are these characteristics evinced. In the former
+there is far more of rhetorical order, harmony, and symmetry, than of
+rhetorical ornament and display; and in the latter there is purpose,
+consistency, and method, with little regard for the shifts of expediency
+and the suggestions of hap-hazard temerity.
+
+The attachment of Mr. Davis for the profession of arms is little less than
+a passion--an inspiration. True, he voluntarily abandoned the army, at an
+age when military life is most attractive to men, but the field of
+politics was far more inviting to a commendable aspiration for fame, than
+the army at a season of profound peace. But a more potent consideration,
+of a domestic nature, urged his withdrawal from military life. He was
+about to be married, and preferred not to remain in the army after having
+assumed the responsibilities of that relation. His speeches in the House
+of Representatives, indicating his earnest interest in military affairs,
+his solicitude in behalf of the army, his enthusiastic championship of the
+Military Academy, and his thorough information respecting all subjects
+pertaining to the military interests of the country, show his ambitious
+and absorbing study of his favorite science.
+
+In common with an overwhelming majority of the Southern people, he had
+favored the annexation of Texas, and cordially sustained Mr. Polk's
+Administration, in all the measures which were necessary to the triumphant
+success of its policy. While in the midst of his useful labors, as a
+member of Congress, in promoting the war policy of the Government, he
+received, with delight, the announcement of his selection to the command
+of the First Regiment of Mississippi Volunteers. He immediately resigned
+his seat in Congress and started to take command of his regiment, after
+obtaining for it, with great difficulty, the rifles which were afterwards
+used with such deadly effect upon the enemy. Overtaking his men, who were
+already _en route_ for the scene of action, at New Orleans, by midsummer
+he had reinforced General Taylor on the Rio Grande.
+
+The incidents of the Mexican war are too fresh in the recollection of the
+country to justify here a detailed narrative of the operations of the
+gallant army of General Taylor in its progress toward the interior from
+the scenes of its splendid exploits at Palo Alto and Resaca de la Palma.
+For several weeks after the arrival of Colonel Davis and his
+Mississippians, active hostilities were suspended. When the preparations
+for the campaign were completed, the army advanced, and reached Walnut
+Springs, about three miles from Monterey, on the 19th of September, 1846.
+Two days afterwards began those series of actions which finally resulted
+in the capitulation of a fortified city of great strength, and defended
+with obstinate valor. Of the part borne in these brilliant operations
+which so exalted the glory of the American name, and immortalized the
+heroism of Southern volunteers, by Colonel Davis and his "Mississippi
+Rifles," an able and graphic pen shall relate the story:
+
+"In the storming of Monterey, Colonel Davis and his riflemen played a most
+gallant part. The storming of one of its strongest forts (Teneria) on the
+21st of September was a desperate and hard-fought fight. The Mexicans had
+dealt such death by their cross-fires that they ran up a new flag in
+exultation, and in defiance of the assault which, at this time, was being
+made in front and rear. The Fourth Infantry, in the advance, had been
+terribly cut up, but the Mississippians and Tennesseeans steadily pressed
+forward, under a galling fire of copper grape. They approached to within a
+hundred yards of the fort, when they were lost in a volume of smoke.
+McClung,[7] inciting a company which formerly had been under his command,
+dashed on, followed by Captain Willis. Anticipating General Quitman,
+Colonel Davis, about the same time, gave the order to charge. With wild
+desperation, his men followed him. The escalade was made with the fury of
+a tempest, the men flinging themselves upon the guns of the enemy. Sword
+in hand, McClung has sprung over the ditch. After him dashes Davis,
+cheering on the Mississippians, and then Campbell, with his Tennesseeans
+and others, brothers in the fight, and rivals for its honors. Then was
+wild work. The assault was irresistible. The Mexicans, terror-stricken,
+fled like an Alpine village from the avalanche, and, taking position in a
+strongly-fortified building, some seventy-five yards in the rear, opened a
+heavy fire of musketry. But, like their mighty river, nothing could stay
+the Mississippians. They are after the Mexicans. Davis and McClung are
+simultaneously masters of the fortifications, having got in by different
+entrances. In the fervor of victory the brigade does not halt, but, led on
+by Colonel Davis, are preparing to charge on the second post, (El Diablo,)
+about three hundred yards in the rear, when they are restrained by
+Quitman. This desperate conflict lasted over two hours. The charge of the
+Mississippi Rifle Regiment, without bayonets, upon Fort Teneria, gained
+for the State a triumph which stands unparalleled.
+
+"Placed in possession of El Diablo, on the dawn of the 23d Colonel Davis
+was exposed to a sharp fire from a half-moon redoubt, about one hundred
+and fifty yards distant, which was connected with heavy stone buildings
+and walls adjoining a block of the city. Returning the fire, he proceeded,
+with eight men, to reconnoitre the ground in advance. Having reported, he
+was ordered, with three companies of his regiment and one of Tennesseeans,
+to advance on the works.
+
+"When they reached the half-moon work a tremendous fire was opened from
+the stone buildings in the rear. Taking a less-exposed position, Davis was
+reinforced, and, the balance of the Mississippians coming up, the
+engagement became general in the street, while, from the house-tops, a
+heavy fire was kept up by the Mexicans. 'The gallant Davis, leading the
+advance with detached parties, was rapidly entering the city, penetrating
+into buildings, and gradually driving the enemy from the position,' when
+General Henderson and the Texan Rangers dismounted, entered the city, and,
+through musketry and grape, made their way to the advance. The conflict
+increased, and still Davis continued to lead his command through the
+streets to within a square of the Grand Plaza, when, the afternoon being
+far advanced, General Taylor withdrew the Americans to the captured
+forts."[8]
+
+Thus, in their first engagement, the Mississippians and their commander
+achieved a reputation which shall endure so long as men commemorate deeds
+of heroism and devotion. Veteran troops, trained to despise death by the
+dangers of a score of battles, have been immortalized in song and story
+for exploits inferior to those of the "Mississippi Rifles" at Monterey.
+Colonel Davis became one of the idols of the army, and took a prominent
+place among the heroes of the war. The nation rang with the fame of "Davis
+and his Mississippi Rifles;" the journals of the day were largely occupied
+with graphic descriptions of their exploits; and the reports of superior
+officers contributed their proud testimony to the history of the country,
+to the chivalrous daring and consummate skill of Colonel Davis. A becoming
+acknowledgment of his conduct was made by General Taylor in assigning him
+a place on the commission of officers appointed to arrange with the
+Mexicans the terms of capitulation. The result of the negotiations,
+though approved by General Taylor, was not approved by the Administration,
+which ordered a termination of the armistice agreed upon by the
+commissioners from the respective armies and a speedy resumption of
+hostilities. The terms of capitulation were assailed by many, who thought
+them too lenient to the Mexicans; among others, by General Quitman, the
+warm, personal, and political friend of Colonel Davis. A very important
+portion of the history of the war consists of the latter's defense of the
+terms of surrender and his memoranda of the incidents occurring in the
+conferences with the Mexican officers.
+
+To sustain the proud prestige of Monterey--if possible to surpass it,
+became henceforth the aspiration of the Mississippians. But the name of
+Mississippi was to be made radiant with a new glory, beside which the
+lustre of Monterey paled, as did the dawn of Lodi by the full-orbed
+splendor of Austerlitz. All the world knows of the conduct of Jefferson
+Davis at Buena Vista. How he virtually won a battle, which, considering
+the disparity of the contending forces, must forever be a marvel to the
+student of military science; how like Dessaix, at Marengo, he thought
+there was "still time to win another battle," even when a portion of our
+line was broken and in inglorious retreat, and acting upon the impulse
+rescued victory from the jaws of defeat; saving an army from destruction,
+and flooding with a blaze of triumph a field shrouded with the gloom of
+disaster, are memories forever enshrined in the Temple of Fame. Americans
+can never weary of listening to the thrilling incidents of that
+ever-memorable day. By the South, the lesson of Buena Vista and kindred
+scenes of the valor of her children, can never be forgotton. In these days
+of her humiliation and despair, their proud memories throng upon her, as
+do a thousand noble emotions upon the modern Greek, who stands upon the
+sacred ground of Marathon and Plætea.
+
+The following vivid and powerful description of the more prominent
+incidents of the battle is from the pen of Hon. J. F. H. Claiborne, of
+Mississippi:
+
+"The battle had been raging sometime with fluctuating fortunes, and was
+setting against us, when General Taylor, with Colonel Davis and others,
+arrived on the field. Several regiments (which were subsequently rallied
+and fought bravely) were in full retreat. O'Brien, after having his men
+and horses completely cut up, had been compelled to draw off his guns, and
+Bragg, with almost superhuman energy, was sustaining the brunt of the
+fight. Many officers of distinction had fallen. Colonel Davis rode forward
+to examine the position of the enemy, and concluding that the best way to
+arrest our fugitives would be to make a bold demonstration, he resolved at
+once to attack the enemy, there posted in force, immediately in front,
+supported by cavalry, and two divisions in reserve in his rear. It was a
+resolution bold almost to rashness, but the emergency was pressing. With a
+handful of Indiana volunteers, who still stood by their brave old colonel
+(Bowles) and his own regiment, he advanced at double-quick time, firing as
+he advanced. His own brave fellows fell fast under the rolling musketry of
+the enemy, but their rapid and fatal volleys carried dismay and death into
+the adverse ranks. A deep ravine separated the combatants. Leaping into
+it, the Mississippians soon appeared on the other side, and with a shout
+that was heard over the battle-field, they poured in a well-directed fire,
+and rushed upon the enemy. Their deadly aim and wild enthusiasm were
+irresistible. The Mexicans fled in confusion to their reserves, and Davis
+seized the commanding position they had occupied. He next fell upon a
+party of cavalry and compelled it to fly, with the loss of their leader
+and other officers. Immediately afterwards a brigade of lancers, one
+thousand strong, were seen approaching at a gallop, in beautiful array,
+with sounding bugles and fluttering pennons. It was an appalling
+spectacle, but not a man flinched from his position. The time between our
+devoted band and eternity seemed brief indeed. But conscious that the eye
+of the army was upon them, that the honor of Mississippi was at stake, and
+knowing that, if they gave way, or were ridden down, our unprotected
+batteries in the rear, upon which the fortunes of the day depended, would
+be captured, each man resolved to die in his place sooner than retreat.
+Not the Spartan martyrs at Thermopylæ--not the sacred battalion of
+Epaminondas--not the Tenth Legion of Julius Cæsar--not the Old Guard of
+Napoleon--ever evinced more fortitude than these young volunteers in a
+crisis when death seemed inevitable. They stood like statues, as frigid
+and motionless as the marble itself. Impressed with this extraordinary
+firmness, when they had anticipated panic and flight, the lancers advanced
+more deliberately, as though they saw, for the first time, the dark shadow
+of the fate that was impending over them. Colonel Davis had thrown his men
+into the form of a reëntering angle, (familiarly known as his famous V
+movement,) both flanks resting on ravines, the lancers coming down on the
+intervening ridge. This exposed them to a converging fire, and the moment
+they came within rifle range each man singled out his object, and the
+whole head of the column fell. A more deadly fire never was delivered, and
+the brilliant array recoiled and retreated, paralyzed and dismayed.
+
+"Shortly afterwards the Mexicans, having concentrated a large force on the
+right for their final attack, Colonel Davis was ordered in that direction.
+His regiment had been in action all day, exhausted by thirst and fatigue,
+much reduced by the carnage of the morning engagement, and many in the
+ranks suffering from wounds, yet the noble fellows moved at double-quick
+time. Bowles' little band of Indiana volunteers still acted with them.
+After marching several hundred yards they perceived the Mexican infantry
+advancing, in three lines, upon Bragg's battery, which, though entirely
+unsupported, held its position with a resolution worthy of his fame. The
+pressure upon him stimulated the Mississippians. They increased their
+speed, and when the enemy were within one hundred yards of the battery and
+confident of its capture, they took him in flank and reverse, and poured
+in a raking and destructive fire. This broke his right line, and the rest
+soon gave way and fell back precipitately. Here Colonel Davis was severely
+wounded."
+
+The wound here alluded to was from a musket ball in the heel, and was
+exceedingly painful, though Colonel Davis refused to leave the field until
+the action was over. For some time grave apprehensions were entertained
+lest it should prove dangerous by the setting in of erysipelas.
+
+General Taylor, who was deeply impressed with the large share of credit
+due to Colonel Davis, in his official report of the battle, says: "The
+Mississippi Riflemen, under Colonel Davis, were highly conspicuous for
+their gallantry and steadiness, and sustained throughout the engagement,
+the reputation of veteran troops. Brought into action against an immensely
+superior force, they maintained themselves for a long time, unsupported
+and with heavy loss, and held an important part of the field until
+reinforced. Colonel Davis, though severely wounded, remained in the saddle
+until the close of the action. His distinguished coolness and gallantry,
+at the head of his regiment on this day, entitle him to the particular
+notice of the Government."
+
+The report of Colonel Davis, of the operations of his regiment, is highly
+important as a description of the most important features of the action,
+and as an explanation of his celebrated strategic movement. We omit such
+portions as embrace mere details not relevant to our purpose.
+
+    "SALTILLO, MEXICO, 2d March, 1847.
+
+    "SIR: In compliance with your note of yesterday, I have the honor to
+    present the following report of the service of the Mississippi
+    Riflemen on the 23d ultimo:
+
+    "Early in the morning of that day the regiment was drawn out from the
+    head-quarters encampment, which stood in advance of and overlooked the
+    town of Saltillo. Conformably to instructions, two companies were
+    detached for the protection of that encampment, and to defend the
+    adjacent entrance of the town. The remaining eight companies were put
+    in march to return to the position of the preceding day, now known as
+    the battle-field of Buena Vista. We had approached to within about two
+    miles of that position, when the report of artillery firing, which
+    reached us, gave assurance that a battle had commenced. Excited by the
+    sound, the regiment pressed rapidly forward, manifesting, upon this,
+    as upon other occasions, their more than willingness to meet the
+    enemy. At the first convenient place the column was halted for the
+    purpose of filling their canteens with water; and the march being
+    resumed, was directed toward the position which had been indicated to
+    me, on the previous evening, as the post of our regiment. As we
+    approached the scene of action, horsemen, recognized as of our troops,
+    were seen running, dispersed and confusedly from the field; and our
+    first view of the line of battle presented the mortifying spectacle of
+    a regiment of infantry flying disorganized from before the enemy.
+    These sights, so well calculated to destroy confidence and dispirit
+    troops just coming into action, it is my pride and pleasure to
+    believe, only nerved the resolution of the regiment I have the honor
+    to command.
+
+    "Our order of march was in column of companies, advancing by their
+    centers. The point which had just been abandoned by the regiment
+    alluded to, was now taken as our direction. I rode forward to examine
+    the ground upon which we were going to operate, and in passing through
+    the fugitives, appealed to them to return with us and renew the fight,
+    pointing to our regiment as a mass of men behind which they might
+    securely form.
+
+    "With a few honorable exceptions, the appeal was as unheeded, as were
+    the offers which, I am informed, were made by our men to give their
+    canteens of water to those who complained of thirst, on condition that
+    they would go back. General Wool was upon the ground making great
+    efforts to rally the men who had given way. I approached him and asked
+    if he would send another regiment to sustain me in an attack upon the
+    enemy before us. He was alone, and, after promising the support, went
+    in person to send it. Upon further examination, I found that the slope
+    we were ascending was intersected by a deep ravine, which, uniting
+    obliquely with a still larger one on our right, formed between them a
+    point of land difficult of access by us, but which, spreading in a
+    plain toward the base of the mountain, had easy communication with
+    the main body of the enemy. This position, important from its natural
+    strength, derived a far greater value from the relation it bore to our
+    order of battle and line of communication with the rear. The enemy, in
+    number many times greater than ourselves, supported by strong
+    reserves, flanked by cavalry and elated by recent success, was
+    advancing upon it. The moment seemed to me critical and the occasion
+    to require whatever sacrifice it might cost to check the enemy.
+
+    "My regiment, having continued to advance, was near at hand. I met and
+    formed it rapidly into order of battle; the line then advanced in
+    double-quick time, until within the estimated range of our rifles,
+    when it was halted, and ordered to 'fire advancing.'
+
+    "The progress of the enemy was arrested. We crossed the difficult
+    chasm before us, under a galling fire, and in good order renewed the
+    attack upon the other side. The contest was severe--the destruction
+    great upon both sides. We steadily advanced, and, as the distance
+    diminished, the ratio of loss increased rapidly against the enemy; he
+    yielded, and was driven back on his reserves. A plain now lay behind
+    us--the enemy's cavalry had passed around our right flank, which
+    rested on the main ravine, and gone to our rear. The support I had
+    expected to join us was nowhere to be seen. I therefore ordered the
+    regiment to retire, and went in person to find the cavalry, which,
+    after passing round our right, had been concealed by the inequality of
+    the ground. I found them at the first point where the bank was
+    practicable for horsemen, in the act of descending into the ravine--no
+    doubt for the purpose of charging upon our rear. The nearest of our
+    men ran quickly to my call, attacked this body, and dispersed it with
+    some loss. I think their commander was among the killed.
+
+    "The regiment was formed again in line of battle behind the first
+    ravine we had crossed; soon after which we were joined upon our left
+    by Lieutenant Kilbourn, with a piece of light artillery, and Colonel
+    Lane's (the Third) regiment of Indiana volunteers.... We had proceeded
+    but a short distance when I saw a large body of cavalry debouche from
+    his cover upon the left of the position from which we had retired, and
+    advance rapidly upon us. The Mississippi regiment was filed to the
+    right, and fronted in line across the plain; the Indiana regiment was
+    formed on the bank of the ravine, in advance of our right flank, by
+    which a reëntering angle was presented to the enemy. Whilst this
+    preparation was being made, Sergeant-Major Miller, of our regiment,
+    was sent to Captain Sherman for one or more pieces of artillery from
+    his battery.
+
+    "The enemy, who was now seen to be a body of richly-caparisoned
+    lancers, came forward rapidly, and in beautiful order--the files and
+    ranks so closed as to look like a mass of men and horses. Perfect
+    silence and the greatest steadiness prevailed in both lines of our
+    troops, as they stood at shouldered arms waiting an attack. Confident
+    of success, and anxious to obtain the full advantage of a cross-fire
+    at a short distance, I repeatedly called to the men not to shoot.
+
+    "As the enemy approached, his speed regularly diminished, until, when,
+    within eighty or a hundred yards, he had drawn up to a walk, and
+    seemed about to halt. A few files fired without orders, and both lines
+    then instantly poured in a volley so destructive that the mass yielded
+    to the blow and the survivors fled.... At this time, the enemy made
+    his last attack upon the right, and I received the General's order to
+    march to that portion of the field. The broken character of the
+    intervening ground concealed the scene of action from our view; but
+    the heavy firing of musketry formed a sufficient guide for our course.
+    After marching two or three hundred yards, we saw the enemy's infantry
+    advancing in three lines upon Captain Bragg's battery; which, though
+    entirely unsupported, resolutely held its position, and met the attack
+    with a fire worthy the former achievements of that battery, and of the
+    reputation of its present meritorious commander. We pressed on,
+    climbed the rocky slope of the plain on which this combat occurred,
+    reached its brow so as to take the enemy in flank and reverse when he
+    was about one hundred yards from the battery. Our first fire--raking
+    each of his lines, and opened close upon his flank--was eminently
+    destructive. His right gave way, and he fled in confusion.
+
+    "In this, the last contest of the day, my regiment equaled--it was
+    impossible to exceed--my expectations. Though worn down by many hours
+    of fatigue and thirst, the ranks thinned by our heavy loss in the
+    morning, they yet advanced upon the enemy with the alacrity and
+    eagerness of men fresh to the combat. In every approbatory sense of
+    these remarks I wish to be included a party of Colonel Bowles' Indiana
+    regiment, which served with us during the greater part of the day,
+    under the immediate command of an officer from that regiment, whose
+    gallantry attracted my particular attention, but whose name, I regret,
+    is unknown to me. When hostile demonstrations had ceased, I retired to
+    a tent upon the field for surgical aid, having been wounded by a
+    musket ball when we first went into action.... Every part of the
+    action having been fought under the eye of the commanding General, the
+    importance and manner of any service it was our fortune to render,
+    will be best estimated by him. But in view of my own responsibility,
+    it may be permitted me to say, in relation to our first attack upon
+    the enemy, that I considered the necessity absolute and immediate. No
+    one could have failed to perceive the hazard. The enemy, in greatly
+    disproportionate numbers, was rapidly advancing. We saw no friendly
+    troops coming to our support, and probably none except myself expected
+    reinforcement. Under such circumstances, the men cheerfully, ardently
+    entered into the conflict; and though we lost, in that single
+    engagement, more than thirty killed and forty wounded, the regiment
+    never faltered nor moved, except as it was ordered. Had the expected
+    reinforcement arrived, we could have prevented the enemy's cavalry
+    from passing to our rear, results more decisive might have been
+    obtained, and a part of our loss have been avoided....
+
+    "I have the honor to be, very respectfully, your obedient servant.
+
+        "JEFFERSON DAVIS,
+            "_Colonel Mississippi Rifles_.
+
+    "MAJOR W. W. S. BLISS, _Assistant Adjutant-General_."
+
+The reputation earned by Colonel Davis at Buena Vista could not fail to
+provoke the assaults of envy. An effort, equally unwarranted and
+unsuccessful, has since been made to deprive him of a portion of his
+merited fame of having conceived and executed a movement decisive of the
+battle. It has been pretended, in disparagement of the strategy of Colonel
+Davis, that his celebrated V movement (for so it is, and will always be
+known) had not the merit of originality, and besides was forced upon him
+by the circumstances in which he was placed, and especially by the
+conformation of the ground, which would not admit of a different
+disposition of his troops. Such a judgment is merely hypercritical. There
+is no account in military history, from the campaigns of Cæsar to those of
+Napoleon, of such a tactical conception, unless we include a
+slightly-analogous case at Waterloo. The movement in the latter
+engagement, however, differs essentially from that executed by Davis at
+Buena Vista. A party of Hanoverian cavalry, assailed by French huzzars, at
+the intersection of two roads, by forming a salient, repulsed their
+assailants almost as effectually as did the reëntrant angle of the
+Mississippians at Buena Vista. As to the second criticism, it is certainly
+a novel accusation against an officer, that he should, by a quick
+appreciation of his situation, avail himself of the only possible means by
+which he could not only extricate his own command from imminent peril of
+destruction, but also avert a blow delivered at the safety of the entire
+army.
+
+In a lecture on "The Expatriated Irish in Europe and America," delivered
+in Boston, February 11, 1858, the Hon. Caleb Cushing thus alludes to this
+subject: "In another of the dramatic incidents of that field, a man of
+Celtic race (Jefferson Davis) at the head of the Rifles of Mississippi,
+had ventured to do that of which there is, perhaps, but one other example
+in the military history of modern times. In the desperate conflicts of the
+Crimea, at the battle of Inkermann, in one of those desperate charges,
+there was a British officer who ventured to receive the charge of the
+enemy without the precaution of having his men formed in a hollow square.
+They were drawn up in two lines, meeting at a point like an open fan, and
+received the charge of the Russians at the muzzle of their guns, and
+repelled it. Sir Colin Campbell, for this feat of arms, among others, was
+selected as the man to retrieve the fallen fortunes of England in India.
+He did, however, but imitate what Jefferson Davis had previously done in
+Mexico, who, in that trying hour, when, with one last desperate effort to
+break the line of the American army, the cavalry of Mexico was
+concentrated in one charge against the American line; then, I say,
+Jefferson Davis commanded his men to form in two lines, extended as I have
+shown, and receive that charge of the Mexican horse, with a plunging fire
+from the right and left from the Mississippi Rifles, which repelled, and
+repelled for the last time, the charge of the hosts of Mexico."
+
+These puerile criticisms, however, were unavailing against the concurrent
+testimony of Taylor, Quitman, and Lane, and the grateful plaudits of the
+army, to shake the popular judgment, which rarely fails, in the end, to
+discriminate between the false glare of cheaply-earned glory and the just
+renown of true heroism.
+
+The term of enlistment of his regiment having expired, Colonel Davis, in
+July, 1847, just twelve months after the resignation of his seat in the
+House of Representatives, returned to the United States. His progress
+toward his home was attended by a series of congratulatory receptions, the
+people every-where assembling _en masse_ to do honor to the "Hero of Buena
+Vista." Mississippi extended a triumphant greeting to her
+soldier-statesman, who, resigning the civic trust which she had confided
+to his keeping, had carried her flag in triumph amid the thunders of
+battle and the wastes of carnage, carving the name of Mississippi in an
+inscription of enduring renown.
+
+During his journey homeward, there occurred a most impressive illustration
+of that strict devotion to principle which, above all other
+considerations, is the real solution of every act of his life, public and
+private. While in New Orleans, Colonel Davis was offered, by President
+Polk, a commission as Brigadier-General of Volunteers, an honor which he
+unhesitatingly declined, on the ground that no such commission could be
+conferred by Federal authority, either by appointment of the President or
+by act of Congress. As an advocate of States' Rights, he could not
+countenance, even for the gratification of his own ambition, a plain
+infraction of the rights of the States, to which respectively, the
+Constitution reserves the appointment of officers of the militia.[9] The
+soldier's pride in deserved promotion for distinguished services, could
+not induce the statesman to forego his convictions of Constitutional
+right. The declination of this high distinction was entirely consistent
+with his opinions previously entertained and expressed. Before he resigned
+his seat in the House of Representatives, the bill authorizing such
+appointments by the President was introduced, and rapidly pressed to its
+passage. Mr. Davis detected the Constitutional infraction which it
+involved, and opposed it. He designed to address the House, but was
+suddenly called away from Washington, and before leaving had an
+understanding with the Chairman of the Committee from which the bill had
+come, that it would not be called up before the ensuing Monday. On his
+return, however, he found that the friends of the measure had forced its
+passage on the previous Saturday.
+
+This is but one in a thousand evidences of an incorruptible loyalty to his
+convictions, which would dare face all opposition and has braved all
+reproach. It is an attribute of true greatness in the character of
+Jefferson Davis, which not even his enemies have called in question, to
+which candor must ever accord the tribute of infinite admiration.
+
+
+
+
+CHAPTER IV.
+
+    MR. DAVIS IN THE UNITED STATES SENATE, FIRST BY EXECUTIVE APPOINTMENT,
+    AND SUBSEQUENTLY BY UNANIMOUS CHOICE OF THE LEGISLATURE OF HIS
+    STATE--POPULAR ADMIRATION NOT LESS FOR HIS CIVIC TALENTS THAN HIS
+    MILITARY SERVICES--FEATURES OF HIS PUBLIC CAREER--HIS CHARACTER AND
+    CONDUCT AS A SENATOR--AS AN ORATOR AND PARLIAMENTARY LEADER--HIS
+    INTREPIDITY--AN INCIDENT WITH HENRY CLAY--DAVIS THE LEADER OF THE
+    STATES' RIGHTS PARTY IN CONGRESS--THE AGITATION OF 1850--DAVIS OPPOSES
+    THE COMPROMISE--FOLLY OF THE SOUTH IN ASSENTING TO THAT SETTLEMENT--
+    DAVIS NOT A DISUNIONIST IN 1850, NOR A REBEL IN 1861--HIS CONCEPTION
+    OF THE CHARACTER OF THE FEDERAL GOVERNMENT--LOGICAL ABSURDITY OF
+    CLAY'S POSITION EXPOSED BY DAVIS--THE IDEAL UNION OF THE LATTER--WHY
+    HE OPPOSED THE COMPROMISE--THE NEW MEXICO BILL--DAVIS' GROWING FAME AT
+    THIS PERIOD--HIS FREQUENT ENCOUNTERS WITH CLAY, AND WARM FRIENDSHIP
+    BETWEEN THEM--SIGNAL TRIUMPH OF THE UNION SENTIMENT, AND ACQUIESCENCE
+    OF THE SOUTH.
+
+
+Within less than two months from his return to Mississippi, Colonel Davis
+was appointed by the Governor of the State to fill the vacancy in the
+United States Senate occasioned by the death of General Speight. At a
+subsequent session of the Legislature, the selection of the Governor was
+confirmed by his unanimous election for the residue of the unexpired term.
+Seldom has there been a tender of public honor more deserved by the
+recipient, and more cheerfully accorded by the constituent body. It was
+the grateful tribute of popular appreciation to the hero who had risked
+his life for the glory of his country, and the worthy recognition of
+abilities which had been proven adequate to the responsibilities of the
+highest civic trust. Doubtless Colonel Davis owed much of the signal
+unanimity and enthusiasm which accompanied this expression of popular
+favor to his brilliant services in Mexico. The military passion is strong
+in the human breast, and the sentiment of homage to prowess, illustrated
+on the battle-field and in the face of danger, is one of the few
+chivalrous instincts which survive the influence of the sordid vices and
+vulgarisms of human nature. In all ages men have declaimed and reasoned
+against the expediency of confiding civil authority to the keeping of
+soldiers, and have cautioned the masses against the risk of entrusting the
+public liberties to the stern and dictatorial will educated in the rugged
+discipline and habits of the camp. Yet the masses, in all time, will
+continue their awards of distinction to martial exploits with a fervor not
+characteristic of their recognition of any other public service.
+
+But the tribute had a higher motive, if possible, than the generous
+impulse of gratitude to the "Hero of Buena Vista," in the universal
+conviction of his eminent fitness for the position. His service in the
+House of Representatives, brief as it was, had designated him, months
+before his Mexican laurels had been earned, as a man, not only of mark,
+but of promise; of decided and progressive intellectual power; of
+pronounced mental and moral individuality.
+
+Of all the public men of America, Jefferson Davis is the least indebted
+for his long and noble career of distinction to adventitious influences or
+merely temporary popular impulses. The sources of his strength have been
+the elements of his character and the resources of his genius. Never
+hoping to _stumble_ upon success, by a stolid indifference amid the
+fluctuations of fortune, nor engaged in the role of the trimmer, who
+adjusts his conduct conformably with every turn of the popular current,
+his hopes of success have rested upon the merits of principle alone. He
+has succeeded in all things _where success was possible_, and failed, at
+last, in contradiction of every lesson of previous experience, with the
+light of all history pleading his vindication, and to the disappointment
+of the nearly unanimous judgment of disinterested mankind.
+
+A peculiar feature in the public career of Mr. Davis was its steady and
+consecutive development. He has accepted service, always and only, in
+obedience to the concurrent confidence of his fellow-citizens in his
+peculiar qualifications for the emergency. From the beginning he gave the
+promise of those high capacities which the fervid eulogy of Grattan
+accorded to Chatham--to "strike a blow in the world that should resound
+through its history." His first election to Congress was the spontaneous
+acknowledgment of the profound impression produced by his earliest
+intellectual efforts. The consummate triumph of his genius and valor at
+Buena Vista did not exceed the anticipations of his friends, who knew the
+ardor and assiduity of his devotion to his cherished science, and now in
+the noble arena of the American Senate his star was still to be in the
+ascendant.
+
+At the first session of the Thirtieth Congress, Jefferson Davis took his
+seat as a Senator of the United States from the State of Mississippi. The
+entire period of his connection with the Senate, from 1847 to 1851, and
+from 1857 to 1861, scarcely comprises eight years; but those were years
+pregnant with the fate of a nation, and in their brief progress he stood
+in that august body the equal of giant intellects, and grappled, with the
+power and skill of a master, the great ideas and events of those
+momentous days. Mr. Davis could safely trust, whatever of ambition he may
+cherish for the distinguished consideration of posterity, to a faithful
+record of his service in the Senate. His senatorial fame is a beautiful
+harmony of the most pronounced and attractive features of the best
+parliamentary models. He was as intrepid and defiant as Chatham, but as
+scholarly as Brougham; as elegant and perspicuous in diction as Canning,
+and often as profound and philosophical in his comprehension of general
+principles as Burke; when roused by a sense of injury, or by the force of
+his earnest conviction, as much the incarnation of fervor and zeal as
+Grattan, but, like Fox, subtle, ready, and always armed _cap a pie_ for
+the quick encounters of debate.
+
+Among all the eminent associates of Mr. Davis in that body, there were
+very few who possessed his peculiar qualifications for its most
+distinguished honors. His character, no less than his demeanor, may be
+aptly termed senatorial, and his bearing was always attuned to his noble
+conception of the Senate as an august assemblage of the embassadors of
+sovereign States. He carried to the Senate the loftiest sense of the
+dignity and responsibility of his trust, and convictions upon political
+questions, which were the result of the most thorough and elaborate
+investigation. Never for one instant varying from the principles of his
+creed, he never doubted as to the course of duty; profound, accurate in
+information, there was no question pertaining to the science of government
+or its administration that he did not illuminate with a light, clear,
+powerful, and original.
+
+It has been remarked of Mr. Davis' style as a speaker, that it is "orderly
+rather than ornate," and the remark is correct so far as it relates to the
+mere statement of the conditions of the discussion. For mere rhetorical
+glitter, Mr. Davis' speeches afford but poor models, but for clear logic
+and convincing argument, apt illustration, bold and original imagery, and
+genuine pathos, they are unsurpassed by any ever delivered in the American
+Senate. Though the Senate was, undoubtedly, his appropriate arena as an
+orator, and though it may well be doubted whether he was rivaled in
+senatorial eloquence by any contemporary, Mr. Davis is hardly less gifted
+in the attributes of popular eloquence. Upon great occasions he will move
+a large crowd with an irresistible power. As a popular orator, he does not
+seek to sway and toss the will with violent and passionate emotion, but
+his eloquence is more a triumph of argument aided by an enlistment of
+passion and persuasion to reason and conviction. He has less of the
+characteristics of Mirabeau, than of that higher type of eloquence, of
+which Cicero, Burke, and George Canning were representatives, and which is
+pervaded by passion, subordinated to the severer tribunal of intellect. It
+was the privilege of the writer, on repeated occasions, during the late
+war, to witness the triumph of Mr. Davis' eloquence over a popular
+assemblage. Usually the theme and the occasion were worthy of the orator,
+and difficult indeed would it be to realize a nobler vision of the majesty
+of intellect. To a current of thought, perennial and inexhaustible,
+compact, logical and irresistible, was added a fire that threw its warmth
+into the coldest bosom, and infused a glow of light into the very core of
+the subject. His voice, flexible and articulate, reaching any compass that
+was requisite, attitude and gestures, all conspired to give power and
+expression to his language, and the hearer was impressed as though in the
+presence of the very transfiguration of eloquence. The printed efforts of
+Mr. Davis will not only live as memorials of parliamentary and popular
+eloquence, but as invaluable stores of information to the political and
+historical student. They epitomize some of the most important periods of
+American history, and embrace the amplest discussion of an extended range
+of subjects pertaining to almost every science.
+
+The development in Mr. Davis of the high and rare qualities, requisite to
+parliamentary leadership, was rapid and decisive. His nature instinctively
+aspires to influence and power, and under no circumstances could it rest
+contented in an attitude of inferiority. Independence, originality, and
+intrepidity, added to earnest and intelligent conviction; unwavering
+devotion to principle and purpose; a will stern and inexorable, and a
+disposition frank, courteous, and generous, are features of character
+which rarely fail to make a representative man. After the death of Mr.
+Calhoun, he was incomparably the ablest exponent of States' Rights
+principles, and even during the life of that great publicist, Mr. Davis,
+almost equally with him, shared the labors and responsibilities of
+leadership. His personal courage is of that knightly order, which in an
+age of chivalry would have sought the trophies of the tourney, and his
+moral heroism fixed him immovably upon the solid rock of principle,
+indifferent to the inconvenience of being in a minority and in no dread of
+the storms of popular passion. His faith in his principles was no less
+earnest than his confidence in his ability to triumphantly defend them. In
+the midst of the agitation and excitement of 1850, Henry Clay, the Great
+Compromiser, whose brilliant but erring genius so long and fatally led
+estray, from the correct understanding of the vital issue at stake between
+the North and the South, a numerous party of noble and true-hearted
+Southern gentlemen, furnished the occasion of an impressive illustration
+of this quality. Turning, in debate, to the Mississippi Senator, he
+notified the latter of his purpose, at some future day, to debate with him
+elaborately, an important question of principle. "Now is the moment," was
+the reply of the intrepid Davis, ever eager to champion his beloved and
+imperiled South, equally against her avowed enemies, and the not less
+fatal policy of those who were but too willing to compromise upon an issue
+vital to her rights and dignity. And what a shock of arms might then have
+been witnessed, could Clay have dispelled thirty years of his ripe
+three-score and ten! Each would have found a foeman worthy of his steel.
+In answer to this bold defiance, Clay, like Hotspur, would have rushed to
+the charge, with visor up and lance _couchant_; and Davis, another
+Saladin, no less frank than his adversary, but far more dexterous, would
+have met him with a flash of that Damascus scymetar, whose first blow
+severed the neck of the foeman.
+
+That would have been a bold ambition that could demand a formal tender of
+leadership from the brilliant array of gallant gentlemen, ripe scholars,
+distinguished orators and statesmen, who, for twenty years before the war,
+were the valiant champions in Congress of the principles and aspirations
+of the South. Yet few will deny the preëminence of Mr. Davis, in the eye
+of the country and the world, among States' Rights leaders. Equally with
+Mr. Calhoun, as the leader of a great intellectual movement, he stamped
+his impress upon the enduring tablets of time.
+
+Like Mr. Calhoun, too, Mr. Davis gave little evidence of capacity or taste
+for mere party tactics. Neither would have performed the duties of
+drill-sergeant, in local organizations, for the purposes of a political
+canvass, so well as hundreds of men of far lighter calibre and less
+stability. Happily, both sought and found a more congenial field of
+action.
+
+The unexpired term, for which Mr. Davis had been elected in 1847, ended in
+1851, and, though he was immediately reëlected, in consequence of his
+subsequent resignation his first service in the Senate ended with the term
+for which he had first been elected. A recurrence to the records of
+Congress will exhibit the eventful nature of this period, especially in
+its conclusion. In the earlier portion of his senatorial service, Mr.
+Davis participated conspicuously in debate and in the general business of
+legislation. Here, as in the House of Representatives, his views upon
+military affairs were always received with marked respect, and no measure
+looking to the improvement of the army failed to receive his cordial
+coöperation.
+
+The extensive conquests of the army in Mexico, and the necessity of
+maintaining the authority of the Federal Government in the conquered
+country until the objects of the war could be consummated, created
+considerable embarrassment. Upon this subject Mr. Davis spoke frequently
+and intelligently. His sagacity indicated a policy equally protective of
+the advantages which the valor of the army had achieved, and humane to the
+conquered. In a debate with Mr. John Bell, in February, 1848, he defined
+himself as favoring such a military occupation as would "prevent the
+General Government of Mexico, against which this war had been directed,
+from reëstablishing its power and again concentrating the scattered
+fragments of its army to renew active hostilities against us." He
+disclaimed the motive, in this policy, of territorial acquisition, and
+earnestly deprecated interference with the political institutions of the
+Mexicans. The estimate entertained by the Senate, of his judgment and
+information upon military subjects, was indicated by his almost unanimous
+election, (thirty-two for Mr. Davis, and five for all others,) during the
+session of the Thirty-first Congress, as Chairman of the Committee on
+Military Affairs. His speeches on the subject of offering congratulations
+to the French people upon their recent successful political revolution,
+resulting in the establishment of a republican form of government, the
+proposed organization of the territorial government of Oregon, upon
+various subjects of practical and scientific interest, and his incidental
+discussions of the subject of slavery, were able, eloquent, and
+characteristic.
+
+The session of Congress in 1849 and 1850 brought with it a most angry and
+menacing renewal of sectional agitation. Previous events and innumerable
+indications of popular sentiment had clearly revealed to candid minds,
+every-where, that the increasing sectional preponderance of the North, and
+its growing hostility to slavery, portended results utterly ruinous to the
+rights and institutions of the South. To the South it was literally a
+question of vitality, to secure some competent check upon the aggressive
+strength of the North. To maintain any thing like a sectional balance, the
+South must necessarily secure to her institutions, at least, a fair share
+of the common domain to be hereafter created into States. The immense
+territorial acquisitions resulting from the Mexican war were now the
+subjects of controversy. After a contest, protracted through several
+months, and eliciting the most violent exhibitions of sectional feeling, a
+plan of adjustment, under the auspices chiefly of Henry Clay, whose fatal
+gift was to preserve, for a time, the peace of the country by the
+concession of the most precious and vital rights of his section to an
+insolent and insatiate fanaticism, was finally reached. This settlement,
+known, by way of distinction, as the "Compromise of 1850," averting for
+the time the dangers of disunion and civil war, met the approval of the
+advocates of expediency, but was opposed, with heroic pertinacity, by Mr.
+Davis and his associates of the States' Rights party. They saw the
+hollowness of its pretended justice, its utter worthlessness as a
+guarantee to the South, and sought to defeat it--first in Congress, and
+afterwards by the popular voice. But the sentiment of attachment to the
+Union triumphed over every consideration of interest, principle, even
+security, and the snare succeeded. Again the South receded, again received
+the stone instead of the asked-for loaf, and again did she _compromise_
+her most sacred rights and dearest interests, receiving, in return, the
+reluctant and insincere guarantee of the recovery of her stolen slaves.
+
+The folly of the South in assenting to this adjustment is now obvious to
+the dullest understanding, and subsequent events were swift to vindicate
+the wisdom, patriotism, and foresight of Mr. Davis and those who sustained
+him in opposition to the much-vaunted Union-saving compromise. Yet, they
+were no more disunionists in 1850 than rebels and traitors in 1861. The
+charge of disunionism was freely iterated against them, and not without
+effect, even in their own section, where the sentimental attachment to the
+Union was stronger, just as its sacrifices in behalf of the Union were
+greater, than those of the North. Jefferson Davis never was a disunionist,
+not even in his subsequent approval of secession, in the sense of a wanton
+and treasonable disposition to sever the bonds of that association of
+co-equal sovereignties which the founders of the Federal Government
+bequeathed to their posterity.
+
+His action, at all times, has been thoroughly consistent with his
+declared opinions, and with the earnest attachment to the Union, avowed in
+his congressional speeches and in his public addresses every-where. In
+1850 and in 1861 his course was the logical sequence of his opinions,
+maintained and asserted from his introduction to public life. To save the
+Union, upon the only basis upon which it could rest as a guarantee of
+liberty,--the basis of absolute equality among the States; to blend
+Federal power and States' Rights, was the grand, paramount object to which
+all his aspirations and all his investigations of political science were
+directed. Repudiating the power of a State to nullify an act of Congress,
+and yet not surrender its normal relations as a member of the Union, he
+always asserted the right of secession, in the last resort, as an
+original, inherent, and vital attribute of State Sovereignty. The Federal
+Government, to his mind, was a mere agent of the States, created by them
+for a few general and intestate purposes, but having in it no principle
+subversive of the paramount sovereignty of the States. Rapidly extending
+its power by enactments of Congress and judicial constructions, he
+foresaw, and sought to counteract, its tendency to obliterate all State
+individuality, and ultimately absorb into its own keeping the liberties of
+the people. With dread and indignation, he contemplated its progress
+towards that _monstrum horrendum_, a consolidated democracy--the Union of
+to-day, in which we see that the _will of the majority is the sole measure
+of its powers_.
+
+Such was his consistency, and such his sagacity, as vindicated in the
+light of subsequent events, and patent to the eyes of the world to-day.
+Who can now doubt which was the better and more logical theory? Clay said:
+"I owe allegiance to two sovereignties, and only two: one is to the
+sovereignty of this Union, and the other is to the sovereignty of the
+State of Kentucky." Thus he held to the paradox of an _imperium in
+imperio_, that obvious absurdity in our system of government, a divided
+sovereignty. In his ardent Unionism, the great exponent of expediency
+disavowed allegiance to the _South_, though still holding to his
+allegiance to Kentucky. But suppose Kentucky asserts her sovereignty, and
+chooses to unite with the South, what, then, becomes of State Sovereignty
+and State allegiance? Just here was the _hiatus_ in Clay's logic, and,
+closely pressed by Davis, he emphatically declared his _first_ allegiance
+to the Union as the supreme authority; and the State Sovereignty of Clay's
+conception was seen to be as intangible and unreal as the "baseless fabric
+of a vision."
+
+Far more fair in its semblance, noble in its proportions, and beautiful in
+its harmonies, was the ideal of Davis. In his speech on the compromise
+measures, July 31, 1850, he said:
+
+    "Give to each section of the Union justice; give to every citizen of
+    the United States his rights as guaranteed by the Constitution; leave
+    this Confederacy to rest upon that basis from which it arose--the
+    fraternal feelings of the people--and I, for one, have no fear of its
+    perpetuity; none that it will not survive beyond the limits of human
+    speculation, expanding and hardening with the lapse of time, to extend
+    its blessings to ages unnumbered, and a people innumerable; to include
+    within its empire all the useful products of the earth, and exemplify
+    the capacity of a confederacy, with general, well-defined powers, to
+    extend illimitably without impairing its harmony or its strength."
+
+The grounds of Mr. Davis' opposition to the so-called "Compromise"
+programme of Mr. Clay were far otherwise than a factious and impracticable
+hostility to an amicable adjustment of sectional differences. He
+conscientiously doubted the disposition of the North to abstain from all
+future interference with Southern institutions, and he detected and
+exposed the utter want of efficacy of the compromise measures as an
+assurance of protection against future aggression. He abhorred the
+substitution of expediency for principle; could see no _compromise_ where
+one side simply _surrendered_ what the other had no right to demand, and
+correctly estimated this settlement, like those which had preceded it, as
+but an invitation to still more intolerable exactions by an implacable
+sectional majority. While discussing, in private conversation with Mr.
+Clay, the merits of Mr. Webster's memorable speech of the 7th of March,
+1850, a few days after its delivery, he briefly, but sufficiently defined
+his position. "Come," said Mr. Clay, "my young friend; join us in these
+measures of pacification. Let us rally Congress and the people to their
+support, and they will assure to the country thirty years of peace. By
+that time" (turning to John M. Berrien, who was a party to the
+conversation) "you and I will be under the sod, and my young friend may
+then have trouble again." "No," said Davis, "I can not consent to transfer
+to posterity a question which is as much ours as theirs, when it is
+evident that the sectional inequality, as it will be greater then than
+now, will render hopeless the attainment of justice."
+
+His clear, penetrating glance discovered, under the guise of a friendly
+and pacific purpose, the insidious presence so mischievous to Southern
+interests, just as George Mason, more than fifty years before, had seen
+the "poison under the wing of the Federal Constitution." While the bill
+for the organization of the Territory of New Mexico was pending, the
+vigilance and sagacity of Mr. Davis elicited the most flattering
+commendation from his Southern associates. In this bill there was a
+general grant, in loose and ambiguous phraseology, of legislative power,
+with a reservation that no law should be passed "in respect to African
+slavery." Strangely enough, this provision, though obviously involving an
+inhibition against the enactment of laws for the protection of Southern
+property, escaped general detection. Mr. Davis promptly exposed its
+purpose, and offered an amendment, striking out the restraint against
+legislation "in respect to African slavery," and prohibiting the enactment
+of any law interfering "with those rights of property growing out of the
+institution of African slavery as it exists in any of the States of this
+Union." To meet the concurrence of other Senators, the amendment was
+variously modified, until, as explained by Mr. Davis, it embodied "the
+general proposition that the Territorial Legislature should not be
+prevented from passing the laws necessary for the protection of the rights
+of property of every kind which might be legally and constitutionally held
+in that territory." It is needless to say that so just a proposition,
+affording equal protection to Southern with Northern institutions, was
+defeated.
+
+While there was little in Mr. Clay's plan of pacification to recommend it
+to Southern support, beyond the merely temporary staving off of a
+dissolution of the Union and civil war, it embodied propositions utterly
+incompatible with the security of the South. Mr. Davis especially and
+persistently combated its provision for the abolition of the slave-trade
+in the District of Columbia, and the concession that slavery did not
+legally exist in the newly-acquired territory. His position upon the
+general issues involved can not be more clearly and forcibly stated than
+in his own language:
+
+    "But, sir, we are called upon to receive this as a measure of
+    compromise!--as a measure in which we of the minority are to receive
+    something. A measure of compromise! I look upon it as a modest mode of
+    taking that, the claim to which has been more boldly asserted by
+    others; and that I may be understood upon this question, and that my
+    position may go forth to the country in the same columns that convey
+    the sentiments of the Senator from Kentucky, I here assert that never
+    will I take less than the Missouri Compromise line to the Pacific
+    Ocean, with specific right to hold slaves in the territory below that
+    line; and that before such territories are admitted into the Union as
+    States, slaves may be taken there from any of the United States, at
+    the option of the owners. I can never consent to give additional power
+    to a majority to commit further aggression upon the minority in this
+    Union; and I will never consent to any proposition which will have
+    such a tendency without a full guarantee or counteracting measure is
+    connected with it."
+
+The parliamentary annals of the Union embrace no period more prolific of
+grand intellectual efforts than the debates incident to this gigantic
+struggle. The prominence of Mr. Davis, with his extreme ardor in behalf of
+the rights and interests of his section, brought him constantly into
+conflict with the most eminent leaders of both the great political
+parties, who had cordially agreed to ignore all minor issues and unite in
+the paramount purpose of saving the Union. Cass, Douglas, Bright,
+Dickinson, and King, earnestly coöperated with Clay, Webster, and other
+Whig champions, in the advocacy of the measures of compromise. That Davis,
+younger in years and experience than most of these distinguished men,
+amply sustained his honorable and responsible role as the foremost
+champion of the South, contemporary public opinion and the Congressional
+records give abundant testimony. The great compromise chieftain, between
+whom and Davis occurred such obstinate and protracted encounters in
+debate, delighted to testify his respect for the talents and intrepidity
+of his "young friend," which was his habitual salutation to Davis. Despite
+the pronounced antagonism between them, on all measures of public policy,
+and their comparatively brief acquaintance, Mr. Clay repeatedly evinced,
+in a most touching manner, his warm regard for one who had been the
+companion-in-arms and cherished friend of a noble son,[10] who lost his
+life on the same field, upon which Davis won such deathless distinction.
+"My poor boy," were his words to the latter, upon his return from Mexico,
+"usually occupied about one-half of his letters home in praising you." A
+still more touching incident, illustrative of his friendly regard, at the
+moment not understood by those present, occurred, in the heat of
+discussion during the exciting period, which we have had under
+consideration. Replying to Davis, said Mr. Clay: "My friend from
+Mississippi--and I trust that he will permit me to call him my friend, for
+between us there is a tie, the nature of which we both well understand."
+At this moment the utterance of the aged statesman became tremulous with
+emotion, and, bowing his head, his eyes were seen to fill with tears. This
+friendship was warmly reciprocated by Mr. Davis, and its recollections are
+among those the most highly-cherished of his public life.
+
+With the defeat of those who had opposed the compromise, terminated, for
+the present, Southern resistance in Congress, though it did not for an
+instant check Northern aggression. Yet many prominent public characters at
+the South, and, as the sequel demonstrated, indorsed by popular
+sentiment, avowed themselves fully satisfied with a mere show of triumph
+and pretense of justice--a few paltry concessions, not worth the parchment
+upon which they were written. In the meantime, upon another arena, Mr.
+Davis entered upon a gallant struggle, in opposition to a policy from
+which he foresaw and predicted a fruitful yield of disaster in the
+future.
+
+
+
+
+CHAPTER V.
+
+    OPPOSITION TO THE COMPROMISE IN SOUTH CAROLINA AND MISSISSIPPI--DAVIS
+    A CANDIDATE FOR GOVERNOR--HIS DEFEAT REALLY A PERSONAL TRIUMPH--IN
+    RETIREMENT, SUPPORTS GENERAL PIERCE'S ELECTION--DECLINES AN
+    APPOINTMENT IN PIERCE'S CABINET, BUT SUBSEQUENTLY ACCEPTS
+    SECRETARYSHIP OF WAR--REMARKABLE UNITY OF PIERCE'S ADMINISTRATION, AND
+    HIGH CHARACTER OF THE EXECUTIVE--DAVIS AS SECRETARY OF WAR--
+    KANSAS-NEBRASKA BILL AND THE EXCITEMENT WHICH FOLLOWED--DAVIS AGAIN
+    ELECTED TO THE SENATE--SPEECHES AT PASS CHRISTIAN AND OTHER POINTS
+    WHILE ON HIS WAY TO WASHINGTON.
+
+
+But, though the battle had been fought and won in Congress, and it was
+evident, at an early date, that the weight of great names in favor of the
+Compromise, aided by the ever-timid counsels of capital and commerce,
+would command for that measure the overwhelming support of the country,
+the States' Rights men were resolved upon a test of popular sentiment.
+Accordingly, in South Carolina and Mississippi, States at all times the
+most advanced in Southern feeling, the opponents of the Compromise
+organized, as did its friends also. The issue, though substantially the
+same, was presented in a somewhat different form in these two States.
+
+In South Carolina, where public sentiment was always singularly unanimous,
+upon all questions affecting the honor and interests of the South, and in
+entire accord as to the mode and measure of redress for the grievances of
+the States, the propriety of resistance was a foregone conclusion. The
+only question was, whether South Carolina should act separately, or await
+the coöperation of other Southern States. The party of coöperation
+triumphed in the election of members to a State convention, by the
+decisive popular majority of seven thousand votes.
+
+In Mississippi the issue was one of _resistance_ or _acquiescence_. The
+States' Rights, or resistance party, embraced four-fifths of the Democracy
+of the State and a small accession of States' Rights Whigs; while the
+Union, or Compromise party, was composed of the Clay Whigs and a fraction
+of the Democracy.
+
+The Legislature provided an election for members of a State convention to
+consider the subject of Federal aggressions, to be held in September,
+1851, and, in the ensuing November the regular election of Governor
+occurred. Much interest centred upon the gubernatorial contest, and the
+State was for months previous to the election the scene of great
+excitement. General John A. Quitman, one of the most distinguished
+officers of the army, during the Mexican war, a man of the loftiest
+character, a reliable statesman, and sterling patriot, was nominated by
+the States' Rights Convention. Mr. Henry S. Foote, then a Senator from
+Mississippi, and an active supporter of the Compromise measures, was the
+candidate of the Union party. While an exceedingly animated canvass
+between these candidates was still in progress, the election for members
+of the convention resulted in an aggregate majority of seven thousand five
+hundred votes for the Union candidates. General Quitman, disappointed by
+such an unexpected and decisive exhibition of public sentiment, and
+viewing it as the forerunner of the result of the gubernatorial election
+in November, withdrew from the contest.
+
+Mr. Davis, who had already been elected for a second term to the Senate,
+was now looked to as almost the sole dependence of the States' Rights men,
+and they summoned him to take the field as the adversary of Mr. Foote.
+There was little inducement, had he consulted selfish considerations, to
+relinquish a high position, already secured, and become the leader of a
+forlorn hope. Though greatly enfeebled in health, and at that time an
+acute sufferer, he accepted the nomination. His sense of duty and devotion
+to his principles triumphed even over his physical infirmities, and,
+resigning his seat in the Senate, he entered upon the canvass.
+
+The result was, as had been foreseen, the defeat of Mr. Davis. Mr. Foote,
+a man of more than average ability, and of varied and extensive
+attainments, whose excessive garrulity and total want of discretion
+disqualified him for usefulness as a member of a legislative body, or for
+any practical end of statesmanship, was, nevertheless, an adroit party
+tactician. With great dexterity he had conducted the canvass with General
+Quitman, by skillfully evading the real issue, introducing side questions,
+and thus breaking the force of the plain and statesman-like arguments of
+his more open and less dexterous adversary. When Mr. Davis entered the
+field, under all the disadvantages to which we have alluded, the election
+of Foote was almost universally conceded. Had the canvass lasted a few
+weeks, however, the result, in all probability, would have been different.
+The popularity of Mr. Davis was indicated by the paltry majority (nine
+hundred and ninety-nine votes) given against him, as compared with the
+Union majority at the election in September, for members of the
+convention. Under all the circumstances, his friends rightly viewed it as
+a personal triumph, and he emerged from the contest with increased
+reputation and public regard.
+
+The results of these appeals to popular judgment were scarcely less
+decisive, in favor of the Compromise, than had been its congressional
+victory. It was evident that the Southern people were yet far from being
+ready for organized and practical resistance, and were not likely to be,
+until some flagrant outrage should arouse their resentment.
+
+Mr. Davis was now in retirement, and, though abiding the decision of
+Mississippi, he was yet avowedly determined to devote his energies to the
+efficient organization of the States' Rights party for future struggles.
+Yet nothing was farther from his purpose than a factious agitation. His
+aim was to secure for the States' Rights principle a moral and numerical
+support in the ranks of the Democracy, which should enable its friends to
+wield an appropriate influence upon the policy of that party. He
+contemplated no organization outside of the Democracy, for the promotion
+of disunionism _per se_; and, in the Presidential canvass of 1852,
+separated himself from many of his closest personal and political friends,
+who had nominated the Presidential ticket of Troup and Quitman, upon the
+distinctive platform of States' Rights and separation.
+
+The nomination of Franklin Pierce, upon the Baltimore platform, met his
+cordial approbation, and received his active support. With General Pierce,
+Mr. Davis held the most friendly relations, and in his constitutional
+opinions he had entire confidence. His support of the platform was quite
+as consistent as his advocacy of the nominee. Both indorsed, with
+emphasis, the Compromise, which he had opposed, but which Mississippi had
+ratified, and both avowed their acceptance of it, as a _finality_, beyond
+which there was to be no farther agitation of the slavery question. In
+Mississippi, Louisiana, and Tennessee he participated actively in the
+canvass, and rendered most efficient service to his party, especially in
+the two latter States.
+
+General Pierce indicated his estimate of Davis, by a prompt tender of a
+position in his Cabinet. Considering himself committed to the fortunes of
+his principles in Mississippi, he preferred to "remain and fight the issue
+out there," and reluctantly declined. Subsequently the President-elect
+addressed him a letter expressing a desire that, upon personal grounds at
+least, Mr. Davis should be present at his inauguration. After he had
+reached Washington the tender of a Cabinet appointment was repeated. The
+obvious advantages to the States' Rights party of representation in the
+Government, an argument earnestly urged upon him by prominent Southern
+statesmen, at length overcame his personal preference, and he accepted the
+position of Secretary of War.
+
+With the policy of President Pierce's administration, Secretary Davis was,
+of course, fully identified. Whatever of influence and sympathy he could
+command, were employed in promoting its success, and between the President
+and himself there was an uninterrupted harmony of personal and official
+intercourse. Indeed the glory of this administration and the explanation
+of its title to that high award which it earned from impartial criticism,
+for its courageous pursuit of an upright, constitutional policy, was the
+characteristic unity which prevailed between its head and his advisers.
+During the four years of its existence the Cabinet of President Pierce
+continued unchanged, at its close the head of each department surrendering
+the seals of office which he had received at its inauguration. The history
+of no other administration is adorned with such an instance of cordial and
+unbroken coöperation, and the fact is equally creditable to the sagacity
+of General Pierce in the selection of his advisers, and his consummate
+tact in the reconciliation of those antagonisms, which are hardly to be
+avoided in the operations of the complicated machinery of Government.
+
+A common statement of its enemies, that the administration must eventually
+break down by disorganization, in consequence of the utterly discordant
+elements which composed it, was never realized. At one time Mr. Marcy, the
+Secretary of State, was the wily Macchiavelli, against whose intrigues the
+rest of the Cabinet was in arms, while Mr. Davis was charged with playing
+alternately the roles of Richelieu and Marplot.
+
+Of all American executives, Franklin Pierce is preëminently entitled to
+the designation of the constitutional President. The great covenant of
+American liberty, so ruthlessly despoiled in these degenerate days, when
+opportunity and pretext are the sufficient justification of flagrant
+violations of justice, was the guide whose precepts he followed without
+deviation. His Northern birth and training did not swerve from his
+obligations to extend an equal protection to the interests of other
+sections, the patriotic executive, whom posterity will delight to honor,
+for his wisdom, purity, and impartiality, just in proportion as those
+qualities provoke the clamor of the dominant ignorance and passion of
+to-day.
+
+In a Cabinet, noted for its ability, of which William L. Marcy was the
+Premier, and Caleb Cushing the Attorney-General, Secretary Davis occupied
+a position worthy of his abilities and his previous reputation, and
+peculiarly gratifying to his military tastes. It is no disparagement of
+his associates to say that his strongly-marked character commanded a
+constant and emphatic recognition in the policy of the Government.
+
+Under his control the department of war was greatly advanced in dignity
+and importance, receiving a character far more distinctive and independent
+of other branches of the Government than it had previously claimed. He
+infused into all its operations an energy till then unknown, introducing
+improvements so extensive and comprehensive as to occasion apprehension of
+an almost too powerful and independent system of military organization. It
+is a fact universally conceded that his administration of the War Office
+was incomparably superior to that of any official who has filled that
+position--contributing more to the promotion of efficiency in the army, to
+the advancement of those great national establishments so vital to the
+security of the nation, and to the systematic, practical management of the
+details of the office. In reviewing Mr. Davis' conduct of this important
+department of the Government, the splendid improvements which he
+inaugurated, his earnest and unceasing labors in behalf of the efficiency
+of the army, it is impossible to overestimate his eminent services to the
+Union, which even at that time his traducers and those of the South would
+pretend he was plotting to destroy. In the Cabinet, as in the Senate,
+there was no measure of national advantage to which he did not give his
+cordial support, no great national institution which he would not have
+fostered with generous and timely sympathy; nothing to which he was not
+zealously committed, promising to redound to the glory, prosperity, and
+perpetuity of that Union, in whose service he had been trained, whose
+uniform he had proudly worn, and beneath whose banner he had braved a
+soldier's death.
+
+Secretary Davis made many recommendations contemplating radical
+alterations in the military system of the Union. One of his first measures
+was a recommendation for the thorough revision of the army regulations.
+He opposed the placing of officers, at an early period of service,
+permanently upon the staff, and advocated a system, which, he contended,
+would improve the discipline and efficiency of officers, "whereby the
+right of command should follow rank by one certain rule." The increase of
+the medical corps; the introduction of camels; the introduction of the
+light infantry or rifle system of tactics, rifled muskets, and the
+Minie-ball were all measures advocated by Secretary Davis, and discussed
+in his official papers with a force and intelligence that make them highly
+valuable to the military student. He urged a thorough exploration of the
+Western frontier, and important changes in the arrangement of defenses
+against the Indians, demonstrating the inefficiency of the system of small
+forts for the purposes of war with the savages. To obviate, in a measure,
+the expense, and almost useless trouble, of locating military posts in
+advance of settlement, he suggested the plan of maintaining large
+garrisons at certain points, situated favorably for obtaining supplies and
+accessible by steamboat or railway. From these posts strong detachments
+could be supplied and equipped for service in the Indian country. His
+efforts were most strenuous to obtain an increase of pay to officers of
+the army, and pensions to the widows and orphans of officers and men, upon
+a basis similar to that of the navy.
+
+During the Crimean war, Secretary Davis sent a commission, of which
+Major-General McClellan, then a captain of cavalry, was a member, to study
+and report upon the science of war and the condition of European armies,
+as illustrated in the operations incident to that struggle. At his
+suggestion four new regiments--two of cavalry--were added to the army, and
+numerous appropriations made for the construction of new forts,
+improvements in small arms, and the accumulation of munitions of war.
+
+The Presidential term of Pierce expired on the 4th of March, 1857, and
+with it terminated the connection of Mr. Davis with the executive branch
+of the Government. He retired with the hearty respect of his associates,
+and in the enjoyment of the most confiding friendship with the late head
+of the Government, a feeling which is cherished by both, with unabated
+warmth, at this day. All parties concurred in pronouncing Mr. Davis'
+conduct of his department successful, able, and brilliant, and in the
+midst of the tide of misrepresentation, with which, during and since the
+war, it has been sought to overwhelm his reputation, the least candid of
+his accusers have been compelled to this reluctant confession.
+
+Incidental to the late administration, but by no means traceable to its
+influence, had been legislation by Congress of a most important character,
+which was to give a powerful impulse to agencies long tending to the
+destruction of the Union. The election of Pierce had been carried with a
+unanimity unprecedented, upon the distinct pledge of the acceptance of the
+Compromise as a _finality_. The country, for months subsequently, reposed
+in profound quiet, produced by its confidence in an approaching season of
+unequaled prosperity, and exempt from all danger of political agitation.
+This hallucination was destined to be speedily and rudely dispelled by
+events, which afford striking evidence of how completely the peace and
+happiness of the American people have always been at the mercy of aspiring
+and unscrupulous demagogues. Mr. Stephen A. Douglas must ever be held,
+equally by both sections, responsible for the disastrous agitation, which
+followed his introduction of certain measures, under the pretense of a
+sentimental justice, or a concession of principle to the South, but in
+reality prompted by his personal ambition, and which greatly aided to
+precipitate the catastrophe of disunion.
+
+Upon the application of the Territory of Nebraska for admission into the
+Union, Senator Douglas, from the Committee on Territories, submitted a
+bill creating the two Territories of Nebraska and Kansas, and affirming
+the supersession of the Missouri restriction of 1820, which prohibited
+slavery north of 36° 30', by the Compromise of 1850. It declared the
+Missouri restriction inconsistent with the principle of _non-intervention_
+by Congress with territorial affairs, which had been adopted in the
+settlement of 1850, and therefore inoperative.
+
+This bill was apparently a mere concession of principle to the South, not
+likely to be of much practical value, but still gratifying, as it gave to
+her citizens the right to carry their property into districts from which
+it had been hitherto inhibited. Passing both houses of Congress, in 1854,
+it was approved by the Pierce administration,[11] sanctioned by the
+Democracy generally, and greeted by the South as a triumph. It was not
+imagined that a victory, so purely sentimental and intangible, could be
+accepted by the North, as a pretext for violent eruptions of sectional
+jealousy, and least of all did the South believe its author capable of the
+subsequent duplicity with which, by specious arguments and verbal
+ingenuity, he claimed for the measure, a construction far more insidious,
+but not less fatal to her interests, than the designs of proclaimed
+Abolitionists. The immediate result was a tempest of excitement in the
+Northern States, in the midst of which the so-called Republican party, for
+the first time, appeared as a formidable contestant in political
+struggles, and defeated the Democracy in almost every State election. The
+latter, with extreme difficulty, elected Mr. Buchanan to the Presidency
+two years afterwards.
+
+In the meantime, while his term of office as Secretary of War was still
+unexpired, Mr. Davis had been elected, by the Legislature of Mississippi,
+to the Senate, for the term beginning March 4, 1857. On his return home,
+he was received by the Democracy of the State with distinguished honors.
+Dinners, receptions, and public entertainments of various kinds were
+tendered him; and, during the summer and autumn, previous to his departure
+for Washington, he addressed numerous large popular gatherings with his
+accustomed force and boldness upon pending issues. These addresses
+commanded universal attention, and were highly commended for their able,
+dispassionate, and statesman-like character.
+
+His speech at Pass Christian, while on his journey to Washington, was a
+masterly and eloquent review of the condition of the country, with its
+causes and remedies. He attributed the national difficulties chiefly to
+the puritanical intolerance and growing disregard of constitutional
+obligations of the North. These influences seriously menaced the safety of
+the Union, for which he had no hope, unless in the event of a reaction in
+Northern sentiment, or of such resolute action by a united South as should
+compel her enemies to respect their constitutional duties. To the latter
+policy he looked as the best guarantee of the security of the South and
+the preservation of the Union. Interference by one State with the
+institutions of another could not, under any circumstances, be tolerated,
+even though resistance should eventually result in a dissolution of the
+Union. The latter event was possible--indeed, might become necessary--but
+should never be undertaken save in the last extremity. He would not
+disguise the profound emotion with which he contemplated the possibility
+of disunion. The fondest reminiscences of his life were associated with
+the Union, into whose military service, while yet a boy, he had entered.
+In his matured manhood he had followed its flag to victory; had seen its
+graceful folds wave in the peaceful pageant, and, again, its colors
+conspicuous amid the triumphs of the battle-field; he had seen that flag
+in the East, brightened by the sun at its rising, and, in the West, gilded
+by his declining rays--and the tearing of one star from its azure field
+would be to him as would the loss of a child to a bereaved parent.
+
+This speech--one of the most eloquent he has ever made--was received by
+his audience with unbounded enthusiasm, and was approvingly noticed by the
+press of both sections.
+
+At Mississippi City he delivered an address in explanation of his personal
+course, and in vindication of the administration of which he had lately
+been a member. He had obeyed the will of Mississippi, respecting the
+legislation of 1850, though against his convictions, and, in the present
+disorders in Kansas, he saw the fruits of the unwise substitution of
+expediency for principle. Of President Pierce he could speak only in terms
+of eulogy, defended his vetoes of bills "for internal improvements and
+eleemosynary purposes," depicting, in passages of rare and fervent
+eloquence, his heroic adherence to the Constitution, elevated patriotism,
+and distinguished virtues. Contrasting the conduct of the Fillmore and
+Pierce administrations concerning the Cuban question, he avowed his belief
+that Cuba would then be in possession of the United States had Congress
+sustained General Pierce in his prompt and decided suggestions as to the
+Black Warrior difficulty.

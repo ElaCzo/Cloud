@@ -1,0 +1,3538 @@
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.net/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including including checks, online payments and credit card
+donations.  To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.net
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+The Project Gutenberg EBook of Outward Bound, by Oliver Optic
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.net
+
+
+Title: Outward Bound
+       Or, Young America Afloat
+
+Author: Oliver Optic
+
+Release Date: May 27, 2005 [EBook #15920]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK OUTWARD BOUND ***
+
+
+
+
+Produced by Juliet Sutherland, Norma Elliott and the Online
+Distributed Proofreading Team. (www.pgdp.net)
+
+
+
+
+
+
+
+
+
+[Illustration: YOUNG AMERICA ABROAD
+
+By
+OLIVER OPTIC
+
+
+OUTWARD BOUND
+
+
+
+BOSTON
+LEE & SHEPARD.]
+
+        *       *       *       *       *
+
+OUTWARD BOUND;
+
+OR,
+
+YOUNG AMERICA AFLOAT.
+
+A STORY OF TRAVEL AND ADVENTURE.
+
+BY
+
+WILLIAM T. ADAMS
+
+(_OLIVER OPTIC_).
+
+BOSTON:
+LEE AND SHEPARD.
+
+1869.
+
+
+        *       *       *       *       *
+
+
+Entered according to Act of Congress, in the year 1866, by
+WILLIAM T. ADAMS,
+In the Clerk's Office of the District Court
+of the District of Massachusetts.
+
+
+        *       *       *       *       *
+
+
+TO GEORGE WEBSTER TERRILL
+
+_This Volume_
+
+IS RESPECTFULLY DEDICATED.
+
+
+        *       *       *       *       *
+
+
+YOUNG AMERICA ABROAD.
+
+BY OLIVER OPTIC.
+
+
+A Library of Travel and Adventure in Foreign Lands. First and Second
+Series; six volumes in each Series. 16mo. Illustrated.
+
+
+_First Series_.
+
+I.  _OUTWARD BOUND,_ OR, YOUNG AMERICA AFLOAT.
+
+II. _SHAMROCK AND THISTLE_; OR, YOUNG AMERICA IN IRELAND AND SCOTLAND.
+
+III _RED CROSS_; OR, YOUNG AMERICA IN ENGLAND AND WALES.
+
+IV. _DIKES AND DITCHES_; OR, YOUNG AMERICA IN HOLLAND AND BELGIUM.
+
+V. _PALACE AND COTTAGE_; OR, YOUNG AMERICA IN FRANCE AND SWITZERLAND.
+
+VI. _DOWN THE RHINE_; OR, YOUNG AMERICA IN GERMANY.
+
+
+_Second Series_.
+
+I. _UP THE BALTIC_; OR, YOUNG AMERICA IN DENMARK AND SWEDEN.
+
+II. _NORTHERN LANDS_; OR, YOUNG AMERICA IN PRUSSIA AND RUSSIA.
+
+III. _VINE AND OLIVE_; OR, YOUNG AMERICA IN SPAIN AND PORTUGAL.
+
+IV. _SUNNY SHORES_; OR, YOUNG AMERICA IN ITALY AND AUSTRIA.
+
+V. _CROSS AND CRESCENT_; OR, YOUNG AMERICA IN GREECE AND TURKEY.
+
+VI. _ISLES OF THE SEA_; OR, YOUNG AMERICA HOMEWARD BOUND.
+
+
+        *       *       *       *       *
+
+
+
+PREFACE.
+
+
+Outward Bound is the first volume of "A Library of Travel and Adventure
+in Foreign Lands," and contains the voyage of the Academy Ship "Young
+America" across the Atlantic. The origin and progress of this aquatic
+institution are incidentally developed, and the plan is respectfully
+submitted to the consideration of those who are interested in the
+education and moral training of the class of young men who are the
+characters in the scenes described in this work. Besides a full
+description of the routine and discipline of the ship, as an educational
+and reformatory institution, the volume contains a rather free _exposé_
+of the follies and frailties of youth, but their vices are revealed to
+suggest the remedy.
+
+The story includes the experience of the officers and crew of the Young
+America, eighty-seven in number, though, of course, only a few of them
+can appear as prominent actors. As the ship has a little world, with all
+the elements of good and evil, within her wooden walls, the story of the
+individual will necessarily be interwoven with that of the mass; and the
+history of "The Chain League," in the present volume, of which Shuffles
+is the hero, will, it is hoped, convey an instructive lesson to young
+men who are disposed to rebel against reasonable discipline and
+authority. In the succeeding volumes of this series, the adventures,
+travels, and "sight-seeing," as well as the individual and collective
+experience of the juvenile crew of the Academy Ship, will be narrated.
+They will visit the principal ports of Europe, as well as penetrate to
+the interior; but they will always be American boys, wherever they are.
+
+The author hopes that the volumes of the series will not only be
+instructive as a description of foreign lands, and interesting as a
+record of juvenile exploits, but that they will convey correct views of
+moral and social duties, and stimulate the young reader to their
+faithful performance.
+
+HARRISON SQUARE, MASS.,
+November 2, 1866.
+
+
+        *       *       *       *       *
+
+
+
+CONTENTS.
+
+
+CHAPTER                        PAGE
+
+I. THE IDEA SUGGESTED             11
+
+II. THE YOUNG AMERICA             27
+
+III. THE ENSIGN AT THE PEAK.      43
+
+IV. OFFICERS AND SEAMEN.          59
+
+V. OUR FELLOWS.                   75
+
+VI. THE FOURTH OF JULY.           91
+
+VII. HEAVING THE LOG.            106
+
+VIII. OUTWARD BOUND.             122
+
+IX. THE WATCH BILL.              138
+
+X. MAKING A CHAIN.               154
+
+XI. THE GAMBLERS IN NO. 8.       170
+
+XII. THE ROOT OF ALL EVIL.       186
+
+XIII. PIPING TO MISCHIEF.        202
+
+XIV. ALL HANDS, REEF TOPSAILS!   218
+
+XV. AFTER THE GALE.              233
+
+XVI. THE WRECK OF THE SYLVIA     248
+
+XVII. PEAS AND BEANS             263
+
+XVIII. THE RESULT OF THE BALLOT  280
+
+XIX. MAN OVERBOARD!              299
+
+XX. THE END OF THE CHAIN LEAGUE  318
+
+
+        *       *       *       *       *
+
+
+OUTWARD BOUND.
+
+
+
+
+OUTWARD BOUND;
+
+OR,
+
+YOUNG AMERICA AFLOAT
+
+
+        *       *       *       *       *
+
+
+
+
+CHAPTER I.
+
+THE IDEA SUGGESTED.
+
+
+"There are no such peaches this side of New Jersey; and you can't get
+them, for love or money, at the stores. All we have to do is, to fill
+our pockets, and keep our mouths closed--till the peaches are ripe
+enough to eat," said Robert Shuffles, the older and the larger of two
+boys, who had just climbed over the high fence that surrounded the fine
+garden of Mr. Lowington.
+
+"What will Baird say if he finds it out?" replied Isaac Monroe, his
+companion.
+
+"Baird," the gentleman thus irreverently alluded to, was the principal
+of the Brockway Academy, of which Shuffles and Monroe were pupils in the
+boarding department.
+
+"What will he say when he finds out that the King of the Tonga Islands
+picks his teeth with a pitchfork?" added Shuffles, contemptuously. "I
+don't intend that he shall find it out? and he won't, unless you tell
+him."
+
+"Of course, I shall not tell him."
+
+"Come along, then? it is nearly dark, and no one will see us."
+
+Shuffles led the way down the gravelled walk, till he came to a brook,
+on the bank of which stood the peach tree whose rich fruit had tempted
+the young gentlemen to invade the territory of Mr. Lowington with intent
+to plunder.
+
+"There they are," said the chief of the young marauders, as he paused
+behind a clump of quince bushes, and pointed at the coveted fruit.
+"There's no discount on them, and they are worth coming after."
+
+"Hark!" whispered Monroe. "I heard a noise."
+
+"What was it?"
+
+"I don't know. I'm afraid we shall be caught."
+
+"No danger; no one can see us from the house."
+
+"But I'm sure there's some one near. I heard something."
+
+"Nonsense! It was only a dagger of the mind, such as Baird talks about,"
+answered Shuffles, as he crawled towards the peach tree. "Come, Monroe,
+be quick, and fill your pockets."
+
+This peach tree was a choice variety, in whose cultivation the owner had
+been making an elaborate experiment. Mr. Lowington had watched it and
+nursed it with the most assiduous care, and now it bore about a dozen
+remarkably large and beautiful peaches. They were not quite ripe enough
+to be gathered, but Shuffles was confident that they would "mellow" in
+his trunk as well as on the tree. The experiment of the cultivator had
+been a success, and he had already prepared, with much care and labor, a
+paper explanatory of the process, which he intended to read before the
+Pomological Society, exhibiting the fruit as the evidence of the
+practicability of his method. To Mr. Lowington, therefore, the peaches
+had a value far beyond their intrinsic worth.
+
+Shuffles gathered a couple of the peaches, and urged his companion to
+use all possible haste in stripping the tree of its rich burden.
+
+"Hallo, there! What are you about?" shouted some one, who hastened to
+make his presence known to the plunderers.
+
+Monroe began to retreat.
+
+"Hold on!" interposed Shuffles. "It's no one but Harry Martyn."
+
+"He can tell of us just as well as anybody else."
+
+"If he does, he will catch it."
+
+"What are you doing?" demanded Harry Martyn,--who was a nephew of Mr.
+Lowington, and lived with him,--as he crossed the rustic bridge that
+spanned the brook.
+
+"Don't you see what I'm doing?" replied Shuffles, with an impudent
+coolness which confounded Harry.
+
+"Stop that, Shuffles!" cried Harry, indignantly. "My uncle wouldn't take
+ten dollars apiece for those peaches."
+
+"That's more than he'll get for them," added Shuffles, as he reached up
+and gathered another peach.
+
+"Stop that, I tell you!" said Harry, angrily, as he stepped up, in a
+menacing attitude, before the reckless marauder.
+
+"Shut up, Harry! You know me, and when I get all these peaches, I've got
+something to say to you."
+
+Shuffles was about to gather another of the peaches, when Harry, his
+indignation overcoming his prudence, grasped his arm, and pulled him
+away from the tree.
+
+"What do you mean, Harry Martyn?" exclaimed Shuffles, apparently
+astonished at the temerity of the youth. "I can't stop to lick you now;
+but I'll do it within twenty-four hours."
+
+"Well, don't you touch those peaches, then."
+
+"Yes, I will touch them. I intend to have the whole of them; and if you
+say a word to your uncle or any one else about it, I'll pulverize that
+head of yours."
+
+"No, you won't! You shall not have those peaches, anyhow," replied the
+resolute little fellow, who was no match, physically, for Shuffles.
+
+"If you open your mouth----"
+
+"Hallo! Uncle Robert! Help, help! Thieves in the garden!" shouted Harry,
+who certainly had no defect of the lungs.
+
+"Take that, you little monkey!" said Shuffles, angrily, as he struck the
+little fellow a heavy blow on the side of the head with his fist, which
+knocked him down. "I'll fix you the next, time I see you."
+
+Shuffles consulted his discretion rather than his valor, now that the
+alarm had been given, and retreated towards the place where he had
+entered garden.
+
+"What's the matter, Harry?" asked Mr. Lowington, as he rushed over the
+bridge, followed by the gardener and his assistants, just as Harry was
+picking himself up and rubbing his head.
+
+"They were stealing your peaches, and I tried to stop them," replied
+Harry. "They have taken some of them now."
+
+Mr. Lowington glanced at the favorite tree, and his brow lowered with
+anger and vexation. His paper before the "Pomological" could be
+illustrated by only nine peaches, instead of thirteen.
+
+"Who stole them, Harry?" demanded the disappointed fruit-grower.
+
+The nephew hesitated a moment, and the question was repeated with more
+sternness.
+
+"Robert Shuffles; Isaac Monroe was with him, but he didn't take any of
+the peaches."
+
+"What is the matter with your head, Harry?" asked his uncle, when he
+observed him rubbing the place where the blow had fallen.
+
+"Shuffles struck me and knocked me down, when I called out for you."
+
+"Did he? Where is he now?"
+
+"He and Monroe ran up the walk to the back of the garden."
+
+"That boy shall be taken care of," continued Mr. Lowington, as he walked
+up the path towards the point where the marauders had entered. "The
+Academy is fast becoming a nuisance to the neighborhood, because there
+is neither order nor discipline among the students."
+
+The thieves had escaped, and as it would be useless to follow them, Mr.
+Lowington went back to the house; but he was too much annoyed at the
+loss of his splendid peaches, which were to figure so prominently before
+the "Pomological," to permit the matter to drop without further notice.
+
+"Did he hurt you much, Harry?" asked Mr. Lowington as they entered the
+house.
+
+"Not much, sir, though he gave me a pretty hard crack," answered Harry.
+
+"Did you see them when they came into the garden?"
+
+"No, sir? I was fixing my water-wheel in the brook, when I heard them at
+the tree. I went up, and tried to prevent Shuffles from taking the
+peaches. I caught hold of him, and pulled him away. He said he couldn't
+stop to lick me then, but he'd do it within twenty-four hours. Then he
+hit me when I called for help."
+
+"The young scoundrel! That boy is worse than a pestilence in any
+neighborhood. Mr. Baird seems to have no control over him."
+
+Suddenly, and without any apparent reason, Mr. Lowington's compressed
+lips and contracted brow relaxed, and his face wore its usual expression
+of dignified serenity. Harry could not understand the cause of this
+sudden change; but his uncle's anger had passed away. The fact was, that
+Mr. Lowington happened to think, while his indignation prompted him to
+resort to the severest punishment for Shuffles, that he himself had been
+just such a boy as the plunderer of his cherished fruit. At the age of
+fifteen he had been the pest of the town in which he resided. His father
+was a very wealthy man, and resorted to many expedients to cure the boy
+of his vicious propensities.
+
+Young Lowington had a taste for the sea, and his father finally procured
+a midshipman's warrant for him to enter the navy. The strict discipline
+of a ship of war proved to be the "one thing needful" for the
+reformation of the wild youth; and he not only became a steady young
+man, but a hard student and an accomplished officer. The navy made a man
+of him, as it has of hundreds of the sons of rich men, demoralized by
+idleness and the absence of a reasonable ambition.
+
+When Mr. Lowington was thirty years old, his father died, leaving to
+each of his three children a quarter of a million; and he had resigned
+his position in the navy, in order to take care of his property, and to
+lead a more domestic life with his wife and daughter than the discipline
+of the service would permit.
+
+He had taken up his residence in Brockway, the early home of his wife.
+It was a large town on the sea shore, only a few miles from the
+metropolis of New England, thus combining all the advantages of a home
+in the city and in the country. For several years he had been happy in
+his peaceful retirement. But not wealth, nor even integrity and piety,
+can bar the door of the lofty mansion against the Destroyer of the race.
+His wife died of an hereditary disease, which gave no indication of its
+presence till she had passed her thirtieth year. Two years later, his
+daughter, just blooming into maturity, followed her mother down to the
+silent tomb, stricken in her freshness and beauty by the same insidious
+malady.
+
+The husband and father was left desolate. His purest and fondest hopes
+were blighted; but, while he was submissive to the will of the Father,
+who doeth all things well, he became gloomy and sad. He was not seen to
+smile for a year after the death of his daughter, and it was three years
+before he had recovered even the outward semblance of his former
+cheerfulness. He was rich, but alone in the world. He continued to
+reside in the home which was endeared to him by the memories of his
+loved and lost ones.
+
+When his wife's sister died in poverty, leaving two children, he had
+taken them to his home, and had become a father to them. Harry Martyn
+was a good boy, and Josephine Martyn was a good girl; but they were not
+his own children. There was something wanting--an aching void which they
+could not fill, though Mr. Lowington was to them all that could be asked
+or expected of a parent.
+
+Mr. Lowington busied himself in various studies and experiments; but
+life had ceased to be what it was before the death of his wife and
+daughter. He wanted more mental occupation; he felt the need of greater
+activity, and he was tempted to return to the navy, even after his
+absence of ten years from the service; but this step, for many reasons,
+was not practicable. At the time when his garden was invaded by the
+vandal students from the Brockway Academy, he was still thinking what he
+could do to save himself from the inglorious life of ease he was
+leading, and, at the same time, serve his country and his race.
+
+Shuffles had robbed his garden of some of his choicest fruit; had struck
+his nephew a severe blow on the head, and threatened to inflict still
+greater chastisement upon him in the future. Mr. Lowington was justly
+indignant; and his own peace and the peace of the neighborhood demanded
+that the author of the mischief should be punished, especially as he was
+an old transgressor. It was absolutely necessary that something should
+be done, and the retired naval officer was in the right frame of mind to
+do it. Just then, when he was wrought up to the highest pitch of
+indignation, his anger vanished. Shuffles at sixteen was the counterpart
+of himself at fifteen.
+
+This was certainly no reason why the hand of justice should be stayed.
+Mr. Lowington did not intend to stay it, though the thought of his own
+juvenile depravity modified his view, and appeased his wrath. He put on
+his hat and left the house. He walked over to the Academy, and being
+shown to the office of the principal, he informed him of the
+depredations committed in his garden.
+
+"Who did it, Mr. Lowington?" demanded the principal, with proper
+indignation in his tones and his looks.
+
+"Shuffles."
+
+"I need not have asked. That boy gives me more trouble than all the
+others put together," added Mr. Baird, with an anxious expression. "And
+yet what can I do with him?"
+
+"Expel him," replied Mr. Lowington, laconically.
+
+"I don't like to do that."
+
+"Why not?"
+
+"It would be an injury to me."
+
+"Why so?"
+
+"It would offend his father, who is a person of wealth and influence.
+When Shuffles came to Brockway ten other boys came with him. He was
+expelled from another institution, which so incensed his father that he
+induced the parents of ten others to take their sons out, and send them
+to me. If I expel Shuffles, I shall lose about a dozen of my students,
+and I can't afford to do that."
+
+"But must the neighborhood suffer from his depredations?"
+
+"I will talk with the boy; I will keep him in his room for a week."
+
+"I'm afraid the boy needs severer measures. If this were the first, or
+even the third time, I would, not say so much."
+
+"My dear sir, what can I do?"
+
+"The boy needs strict discipline. If I were still in the navy, and had
+him aboard my ship, I could make a man of him."
+
+"I don't think anything can be done."
+
+"Something must be done, Mr. Baird. My garden shall not be robbed with
+impunity."
+
+"I will do what I can, Mr. Lowington."
+
+But the owner of the stolen fruit was by this time satisfied that
+nothing would be done. The principal of the Brockway Academy had not
+force nor influence enough to control such a boy as Shuffles. Mr.
+Lowington took his leave, determined to apply to another tribunal for
+the correction of the evil. That night the peach thieves were arrested,
+and put in the lock-up. The next day they were tried, found guilty, and
+sentenced to pay a fine and costs, which Mr. Baird promptly paid. Within
+a week Mr. Lowington's stable was burned to the ground. Shuffles was
+seen near the building just before the fire broke out; but it could not
+be proved that he was the incendiary, though no one doubted the fact. He
+was arrested, but discharged on the examination.
+
+"You see how it is, Mr. Lowington," said the principal of the Academy,
+as the two gentlemen met after the examination. "It would have been
+better for you if you had not prosecuted the boy for stealing the
+peaches."
+
+"I don't think so," replied Mr. Lowington. "I must do my duty, without
+regard to consequences; and you will pardon me if I say you ought to do
+the same."
+
+"If I expel the boy he would burn the house over my head."
+
+"Then you think he burned my stable?"
+
+"I don't know; it cannot be proved that he did."
+
+"I have no doubt of the fact. I have no ill will against the boy. I only
+desire to protect myself and my neighbors from his depredations."
+
+"I think you were very unfortunate in the method you adopted, Mr.
+Lowington," replied the principal of the Academy. "It has reacted upon
+yourself."
+
+"Shall this boy steal my fruit and burn my buildings with impunity?"
+added Mr. Lowington, with considerable warmth.
+
+"Certainly not."
+
+"I applied to you for redress, Mr. Baird."
+
+"I told you I would talk with the boy."
+
+"Such a reprobate as that needs something more than talk."
+
+"What would you do with him, sir?" demanded Mr. Baird, earnestly.
+
+"I hardly know. I should certainly have expelled him; but that, while it
+protects the Academy, does not benefit the boy."
+
+"It would only harden the boy."
+
+"Very likely; and his remaining will harden a dozen more by his
+influence. Mr. Baird, I shall be obliged to take my nephew out of your
+institution," added Mr. Lowington, seriously.
+
+"Take him out?"
+
+"I must, indeed."
+
+"Why so?" asked Mr. Baird, who was touched in a very tender place.
+
+"Because I am not willing to keep him under the influence of such an
+example as this Shuffles sets for his companions. As the matter now
+stands, the young rascal has more influence in the Academy than you
+have. You cannot manage him, and you dare not expel him. The boy knows
+this, and he will not leave his advantage unused."
+
+"I hope you won't take Harry out of the school," said Mr. Baird.
+
+"I must."
+
+"Others may do the same."
+
+"I cannot help it; with my view of the matter, they can hardly do
+otherwise."
+
+"But you see, sir, what the effect of this step must be."
+
+"Mr. Baird, I must be frank with you. You have declined to expel
+Shuffles, while you know that his influence is bad. You asked me what
+you should do? and I told you. Now, you prefer to retain Shuffles, but
+you must lose others. Permit me to say that you should do your duty
+without regard to consequences."
+
+"I cannot afford to lose my scholars."
+
+"Your position is a difficult one. I grant, Mr. Baird; but without
+discipline you can do nothing for yourself or the boys."
+
+Mr. Lowington went home, Harry was taken from the Academy, and a dozen
+parents and guardians followed the example of the advocate for
+discipline. Mr. Baird was in despair. The institution was falling to
+pieces for the want of discipline. The principal had not the nerve to
+enforce order, even with the limited means within his reach. He went to
+see Mr. Lowington and begged him to assist in stemming the tide which
+was setting against the Brockway Academy. The retired naval officer
+became deeply interested in the subject of school discipline in general,
+especially in its connection with the education of rich men's sons given
+to insubordination. He pitied poor Mr. Baird in his perplexities, for he
+was a good man and an excellent teacher.
+
+In the mean time Shuffles grew worse instead of better. Finding that he
+could have his own way, that the principal was no match for him, his
+influence for evil was stronger than Mr. Baird's for good. The worthy
+schoolmaster had finally resolved to expel his troublesome student,
+when Mr. Lowington one day surprised him by offering to buy out the
+Academy at a price far exceeding its value. He gladly accepted the offer
+as the best solution of the problem, and the naval officer became
+principal of the Brockway Academy.
+
+Mr. Lowington did not expel the refractory pupil at once. He waited for
+an overt act; but Shuffles found the anaconda of authority tightening
+upon him. He attempted to vindicate himself before his fellow-students
+by setting fire to a haystack on the marsh, belonging to the new
+principal. A searching investigation followed, and Shuffles was
+convicted. Mr. Lowington wrote to the boy's father, announcing his
+expulsion. Mr. Shuffles went to Brockway full of wrath, and threatened
+the new head of the institution with the loss of a large number of his
+scholars if he disgraced his son by expelling him. If the boy had done
+wrong,--and he supposed he had,--let him be talked to; let him be
+confined to his room for a day or two; but he must not be expelled; it
+was a disgrace to the boy.
+
+The principal was as firm as a rock, and Mr. Shuffles was calm when he
+found that threats were unavailing. Mr. Lowington pointed out to his
+visitor the perils which lay in the path of his son. Mr. Shuffles began
+to be reasonable, and dined with the principal. A long and earnest
+consideration of the whole matter took place over the dessert. The fiat
+of expulsion was revoked, and young Shuffles was turned over to the
+ex-naval officer, with full power to discipline him as he thought best.
+Mr. Lowington had converted the father, and he hoped he should be able
+to convert the son.
+
+After dinner, Mr. Shuffles went down the bay with his host in the yacht.
+On the way they passed the school ship Massachusetts, to which boys are
+sentenced by the courts for crime and vagrancy, and on board of which
+they are disciplined and educated. Mr. Lowington explained the
+institution to his guest.
+
+"An excellent idea," said Mr. Shuffles.
+
+"It is just the place for your son," replied Mr. Lowington.
+
+"But it is for criminals."
+
+"Very true."
+
+"Robert is not a criminal."
+
+"If he is not now, he soon will be, if he continues in his present
+course. If I had him on shipboard, I could make a man of him."
+
+"Then I wish you had him on shipboard."
+
+"Perhaps I may yet," replied the principal, with a smile. "I did not
+purchase the Academy with the intention of becoming a pedagogue, in the
+ordinary sense of the word. I have no intention of remaining in it."
+
+"I hope you will."
+
+"I have been thinking of fitting up a vessel like the school ship, that
+rich men's sons may have the benefit of such an institution without the
+necessity of committing a crime. I could do more for the boys in a month
+on board ship than I could in a year at Brockway."
+
+This was the first mention which Mr. Lowington made of his plan, though
+he had been considering it for several weeks. Mr. Shuffles hoped that
+this idea of a nautical academy would be reduced to practice; for he now
+felt that it was just what his son needed. The project was discussed
+during the rest of the trip.
+
+The history of the scheme, from its inception, need not be followed in
+detail. Many persons were consulted in regard to it; there were plenty
+to approve, and plenty to disapprove; but in October the keel of a four
+hundred ton ship was laid down. The object of this marine institution
+was thoroughly explained, and before the ship was ready for launching
+there were applications for every berth on board of her.
+
+The idea was exceedingly popular among the boys, all of whom were
+anxious to be students on board, especially as it was already hinted
+that the ship would visit Europe. To parents it held out for their sons
+all the benefits of a sea voyage, with few of its disadvantages. It
+would furnish healthy exercise and a vigorous constitution to its
+pupils.
+
+In March of the following year the ship was at anchor in Brockway
+harbor, ready to receive her juvenile crew.
+
+
+
+
+CHAPTER II.
+
+THE YOUNG AMERICA.
+
+
+With Mr. Lowington, the Academy Ship, which was the name he usually
+applied to the idea he had matured, and thus far carried into effect,
+was not a speculation; he did not intend to see how much money could be
+made by the scheme. It was an experiment in the education of rich men's
+sons, for only rich men could pay for scholarships in such an expensive
+institution.
+
+The Brockway Academy was to be continued, under the management of a
+board of trustees. An accomplished teacher had been selected by Mr.
+Lowington, and the school, under its present administration, was in a
+highly prosperous condition. Only ten of its pupils had been transferred
+to the Academy Ship, for it required no little nerve on the part of
+parents to send their sons to school on the broad ocean, to battle with
+the elements, to endure the storms of the Atlantic, and to undergo the
+hardships which tender mothers supposed to be inseparably connected with
+a life on shipboard.
+
+For six months Mr. Lowington had studied upon his plan, and it was
+hardly matured when the new ship came to anchor in Brockway harbor.
+During this period he had visited the principal cities of the Northern
+States, those of the southern section being closed against his
+operations by the war of the rebellion then raging at the height of its
+fury. He had interested his friends in his bold enterprise, and boys
+with, whom the experiment was to be inaugurated were gathered from all
+parts of the country.
+
+The securing of the requisite number of pupils was the first success,
+and what he had regarded as the most difficult part of the enterprise.
+More than half of them had been obtained before it was deemed prudent to
+lay the keel of the ship. The details of the plan had been carefully
+considered during the winter, and when the ship was moored at Brockway,
+the organization of the school, its rules and regulations had all been
+written out. The boys began to arrive about the first of March, and by
+the first of April all of them, eighty-seven in number, were on board.
+
+Mr. Lowington was naturally very anxious for the success of his
+experiment, and for months he had labored with unceasing diligence in
+perfecting his plan, and carrying it into operation. In this occupation
+he had found the activity he needed; and he may not be blamed for
+believing, all the time, that he was laboring for his country and his
+race.
+
+If it has been inferred from what has been said of Mr. Lowington, of his
+domestic afflictions, and of his views on the subject of discipline,
+that he was an austere, cold, and unsympathizing man, a wrong impression
+has been conveyed. The boys of the Brockway Academy, when they came to
+know him, loved him as much as they respected him. He was not the man
+needlessly to abridge the harmless enjoyment of youth, or to repress its
+innocent hilarity. He watched the sports of the students with interest
+and pleasure, and encouraged them by all the means in his power. He was
+fond of humor, enjoyed a harmless joke, and had a keen appreciation of
+juvenile wit. He was a good companion for the boys, and when they
+understood him, he was always welcome to the play-ground.
+
+The new ship had been duly christened Young America at the launching, by
+Miss Josey Martyn--a name which was rapturously applauded by the boys.
+She was one hundred and eighteen feet in length, and of about four
+hundred tons burden. She had been built as strong as wood, iron, and
+copper could make her. For a ship, she was small, which permitted her to
+be light sparred, so that her juvenile crew could handle her with the
+more ease. She had a flush deck; that is, it was unbroken from stem to
+stern. There was no cabin, poop, camboose, or other house on deck, and
+the eye had a clean range over the whole length of her. There was a
+skylight between the fore and the main mast, and another between the
+main and mizzen masts, to afford light and air to the apartments below.
+There were three openings in the deck by which entrance could be
+obtained to the interior of the ship: the fore hatch, the main hatch,
+and the companion-way, the two former being used by the crew, and the
+latter by the officers.
+
+The between-decks, which is the space included between the upper and the
+lower deck, was fitted up for the accommodation of the officers and
+crew. Descending by the companion-way--which in the Young America
+extended athwartships--on the right, at the foot of the stairs, was the
+officers' cabin, occupying the part of the ship nearest to the stern.
+This apartment was twenty-eight feet long, by fifteen in breadth at the
+widest part, with four state rooms on each side. The mizzen mast passed
+up through the middle of it. This cabin was richly but plainly fitted
+up, and was furnished well enough for a drawing-room on shore. It was
+for the use of the juvenile officers of the ship, fifteen in number, who
+were to hold their positions as rewards of merit. The captain had a room
+to himself, while each of the other apartments was to accommodate two
+officers.
+
+On the left of the companion-way, descending the stairs, was the "old
+folks' cabin," as it was called by the students. It was in the locality
+corresponding to that occupied by the ward room of a man-of-war. Though
+the after cabin is the place of honor on board a ship, Mr. Lowington had
+selected the ward room for himself and the teachers, in preference to
+the after cabin, because it was next to the steerage, which was occupied
+by the larger portion of the pupils, and because the form of the ship
+did not contract the dimensions of the state rooms. This cabin was
+twenty-two feet long and fifteen feet wide, with no waste room, as in
+the after cabin, caused by the rounding in of the ship's counter. On the
+sides were five state rooms, besides a pantry for the steward, and a
+dispensary for the surgeon.
+
+The forward room on the starboard side was occupied by Mr. Lowington
+alone; the next on the same side by the chaplain and doctor; and each of
+the three on the port side by two of the teachers. This cabin was
+elegantly finished and furnished, and the professors were delighted with
+its cheerful and pleasant aspect.
+
+From the main cabin, as that of the "faculty" was called, were two
+doors, opening into the steerage, fifty-two feet in length by fifteen
+feet in width of clear space between the berths, which diminished to
+nine feet abreast of the foremast. This apartment was eight feet high,
+and was lighted in part by a large skylight midway between the fore and
+main mast, and partly by bull's eyes in the side of the ship. There were
+seventy-two berths, placed in twelve rooms, opening from passage-ways,
+which extended athwartships from the main steerage, and were lighted by
+the bull's eyes. There were no doors to these dormitories, each of which
+contained six berths, in two tiers of three each. It was intended that
+the six boys occupying one of these rooms should form a mess. Between
+the gangways, or passages, were mess tables, which could be swung up
+against the partition when not in use.
+
+The steerage was neatly and tastefully fitted up, and furnished, though
+not so elegantly as the cabins. It was to be the school room, as well as
+the parlor and dining room of the boys, and it would compare favorably
+with such apartments in well-ordered academies on shore. There was
+plenty of shelves, pouches, and lockers, under the lower berths, and
+beneath the bull's eyes at the head of the main gangways, for clothing
+and books, and each boy had a place for every article which regulations
+allowed him to possess.
+
+Forward of the foremast there were two large state rooms; that on the
+starboard side having four berths, for the boatswain, carpenter,
+sailmaker, and head steward; and the one on the port side with six, for
+the two cooks and the four under stewards, all of whom were men skilful
+and experienced in their several departments. Forward of these was the
+kitchen, from which opened the lamp room, a triangular closet in the bow
+of the ship. Mr. Lowington had taken the idea of locating the cooking
+apartment in the extreme forward part of the vessel from the Victoria
+and Albert, the steam yacht of the Queen of England.
+
+The hold beneath the berth deck contained the water tanks, bread room,
+chain lockers, and a multitude of store rooms for provisions, clothing,
+and supplies of every description needed on board during a long voyage.
+
+The Young America was to be officered and manned by the students. They
+were to work the ship, to make and take in sail, to reef, steer, and
+wash down decks, as well as study and recite their lessons. They were to
+go aloft, stand watch, man the capstan, pull the boats; in short, to do
+everything required of seamen on board a ship. Mr. Lowington was to lure
+them into the belief, while they were hauling tacks and sheets, halyards
+and braces, that they were not at work, but at play. The labor required
+of them was an essential element in the plan, by which the boys were to
+obtain, the necessary physical exercise, and the discipline they so much
+needed.
+
+By the first of April the last of the students had reported to the
+principal on board, and the professors, as the boys insisted upon
+calling them, had taken possession of their state rooms. Though some of
+the pupils had been on board nearly a month, the organization of the
+ship had not been commenced; but classes had been formed in some of the
+studies, by the teachers, and the pupils recited every day. The
+boatswain had instructed the boys in rowing, and some temporary
+regulations had been adopted for the eating and sleeping departments.
+But not a boy had been allowed to go aloft, and nothing more than
+ordinary school discipline had been attempted.
+
+The boys, as boys always are, were impatient at this delay. They wanted
+to be bounding over the ocean--to be on their way to some foreign port.
+They were anxious to work, to climb the rigging, and stand at the wheel.
+As yet they knew very little of the purposes of the principal, and had
+but a faint perception of the life they were to lead in the Academy
+Ship. It was understood that the officers were to be selected for their
+merit, and that the ship, some time or other, was to cross the ocean;
+but beyond this, all was darkness and uncertainty.
+
+"To-morrow will be the first day of April," said George Wilton, as he
+walked the deck of the Young America with Richard Carnes, a dignified
+young gentleman of seventeen. "Mr. Lowington said we should go to work
+on that day."
+
+"If he said so, then of course we shall go to work," replied Carnes.
+
+"I'm tired of waiting," added Wilton. "I think this is a stupid kind of
+life. We are not even tied to a bell rope here."
+
+"You will get discipline enough as soon as the crew are organized."
+
+"I suppose we shall. Do you think we shall go to sea to-morrow?"
+
+"Go to sea to-morrow!" exclaimed Carnes.
+
+"Shuffles said so."
+
+"How can we go to sea to-morrow? The crew don't know the mainmast from a
+handspike. They couldn't do anything with the ship now; they don't know
+the ropes."
+
+"You do, Carnes."
+
+"Well, I know something about a ship," replied the dignified young
+gentleman, who had made one voyage up the Mediterranean with his uncle.
+
+"I was pretty sure we should get out into blue water by to-morrow."
+
+"Nonsense!"
+
+"Shuffles said so."
+
+"He is mistaken."
+
+"What are we going to do?"
+
+"I don't know? I'm content to wait till orders come."
+
+"I don't want to wait any longer," added Wilton.
+
+"What are you talking about, fellows?" asked Shuffles, joining them, as
+they walked forward.
+
+"Didn't you say we were going to sea to-morrow, Shuffles?" asked Wilton.
+
+"Of course we are."
+
+"Who says so?" demanded Carnes.
+
+"All the fellows say so."
+
+"It can't be true."
+
+"Why not? We are not going to stay here forever."
+
+"In my opinion, we shall stay here some weeks, if not some months,"
+added Carnes.
+
+"What for?"
+
+"To pursue our studies, in the first place, and to learn our duty as
+seamen, in the second."
+
+"I don't believe I shall stay here a great while longer," said Shuffles,
+with evident disgust. "There's no fun lying here."
+
+"You can't help yourself," added Wilton.
+
+"Perhaps I can't, but I can try," said Shuffles, as he glanced towards
+the shore.
+
+"All hands ahoy!" shouted Peaks, the boatswain, as his shrill whistle
+rang through the ship.
+
+The boys had been taught the meaning of this call, and they gathered in
+the waist, eager to know what was to be required of them.
+
+Mr. Lowington stood on the raised hatch over the main scuttle, where all
+the students could see him. It was evident that he had some announcement
+to make, especially as the following day had been assigned for
+organizing the ship's company. The boys were silent, and their faces
+betrayed the curiosity which they felt.
+
+"Young gentleman," the principal began, "this ship will go into
+commission to-morrow."
+
+"Don't know what you mean, sir," said Paul Kendall as Mr. Lowington
+paused to observe the effect of his announcement.
+
+"I did not suppose that many of you would understand the expression. In
+the navy, a ship is said to go into commission when the captain takes
+his place on board, and the crew are organized for duty. When this
+takes place, the ensign is hoisted. To-morrow, at twelve o'clock, we
+shall display the colors at the peak. With us, going into commission
+will only mean the organization of our school. From that time, we shall
+observe the discipline of a man-of-war, so far as the ship and crew are
+concerned."
+
+"Shall we go to sea then?" asked Wilton.
+
+"I think not," replied Mr. Lowington, laughing. "We shall not leave the
+harbor till every officer and seaman knows his duty. You shall have
+enough to do to-morrow, young gentlemen."
+
+"When shall we be able to go to sea?"
+
+"I don't know. There are many ropes in the ship, and you have a great
+deal to learn before I shall be willing to trust you with the anchor at
+the cat-head."
+
+"What is the cat-head, sir?" asked Kendall
+
+"Do you wish to go to sea without knowing what the cat-head is?" replied
+the principal. "You shall know in due time. To-morrow we shall select
+the officers, fifteen in number, who are to occupy the after cabin."
+
+This announcement created a decided sensation among the eighty-seven
+boys gathered in the waist, for the subject had been full of interest to
+them. The after cabin had thus far been a sealed book; the door was
+locked, and they had not even seen the inside of the apartment. They
+were curious to visit this cabin, and to know who were to occupy it.
+
+"After the organization of the school, it is my intention to give these
+offices to those who obtain the highest number of merit marks, which
+will be given for good conduct, good lessons, and progress in
+seamanship. The best boy, who is at the same time the best scholar and
+the best seaman, shall be captain. We have no marks now by which to make
+the selection, and I intend to have you elect him the first time,
+reserving to myself the right to veto your choice if it is obviously an
+improper one."
+
+As Mr. Lowington uttered this last remark, he glanced, perhaps
+unconsciously, at Shuffles, who stood directly in front of him.
+
+"Young gentlemen, the ballot will take place to-morrow morning, at nine
+o'clock. I have given you this notice, that you may be able to consider
+the matter and, if you choose, to make nominations for the several
+offices," continued the principal.
+
+"What are the offices, sir?"
+
+"The first and most important one, of course, is the captain. The others
+are four lieutenants, four masters, two pursers, and four midshipmen."
+
+"What are they to do?" asked Kendall.
+
+"I will not explain their duties now; it would require too much time. I
+mentioned them in the order of their importance. Now, young gentlemen,
+you should select your candidates for these offices by merit, not by
+favor. I am aware that a few of you have been to sea, but probably none
+of you are competent to handle a ship; and your choice should be based
+mainly on good character and good conduct. I hope I shall be able to
+approve the choice you may make. You are dismissed now."
+
+"Three cheers for the principal!" shouted one of the boys.
+
+"Silence, young gentleman! Let me say now, that no expressions of
+approbation or disapprobation are to be allowed."
+
+The boys separated into groups, and immediately gave their attention to
+the important subject suggested to them by Mr. Lowington. It must be
+acknowledged that violent symptoms of "log-rolling" began to be
+exhibited. There were fifty, if not eighty-seven young men who wished to
+be captain, and sit at the head of the table in the after cabin. Some of
+them went down into the steerage, and in five minutes there was a
+confused jabbering in every part of the ship.
+
+"For whom shall you vote, Wilton?" asked Shuffles in a group of half a
+dozen which had gathered around one of the mess tables.
+
+"I don't know? whom do you go for?" replied Wilton.
+
+"I rather think I shall go for Bob Shuffles. In my opinion, he is the
+best fellow on board," replied the owner of that name.
+
+"That's modest," laughed Wilton.
+
+"Do you know of any fellow that would make a better captain than I
+should?"
+
+"You don't know the first thing about a ship."
+
+"What odds does that make? I can learn as fast as anybody else."
+
+"Do you expect every fellow to vote for himself?" asked Howe, another of
+the group.
+
+"Of course I don't; I expect them to vote for me," answered Shuffles,
+with great good-nature.
+
+"You are rather cheeky, Shuffles."
+
+"What's the use of mincing the matter? Here we are, half a dozen of the
+best fellows in the ship. We can't all be captain; but one of us can be
+just as well as not."
+
+"That's so," added Howe, approvingly. "But who shall that one be?"
+
+"I am the one, without a doubt," said Shuffles.
+
+"I don't see it," interposed Monroe, shaking his head; and he was the
+young gentleman who had assisted the aspirant for the captaincy to rob
+Mr. Lowington's favorite peach tree.
+
+"What have you got to say about it, Ike Monroe? Do you expect us to go
+for you?"
+
+"I didn't say so."
+
+"That's what you meant."
+
+"I've just as much right to the place as you have, Bob Shuffles."
+
+"Do you think you could make the fellows stand round as I can? But hold
+on; fellows, don't let us fight about it. We are just the best six
+fellows on board, and if we have a mind to do so, we can have this thing
+all our own way," continued Shuffles.
+
+"I don't see how," said Philip Sanborn.
+
+"Don't you know how the politicians manage these things?"
+
+"I don't."
+
+"I'll tell you, then."
+
+"But the principal said we must go according to merit, and elect the
+fellows who were the best fitted for the offices," interposed Howe.
+
+"Exactly so; that's just what we are going to do. I'm going to be
+captain; can you tell me of any better fellow for the place?" demanded
+Shuffles, who, putting aside the jesting manner in which he had
+commenced the discussion, now assumed an earnest and impudent tone.
+
+"Didn't you hear what Lowington said when he wound up his speech?" asked
+Wilton.
+
+"What?"
+
+"About vetoing our choice if it was not a proper one."
+
+"What of it?" asked Shuffles, innocently.
+
+"Don't you think he would veto you?"
+
+"Me! Not he! Lowington knows that I'm smart; I was too smart for him
+once, and he knows it. He won't veto me. We have been the best of
+friends lately."
+
+"I don't believe he'll have a chance to veto you," said Wilton.
+
+"What do you mean?"
+
+"I don't believe you will be elected."
+
+"I know I shall, if we manage it right. Let us look at it," continued
+Shuffles, as he took a pencil from his pocket. "Got a piece of paper?"
+
+Monroe gave him a piece of paper, and the wire-puller began to make his
+calculations.
+
+"Eighty-seven votes," said he, writing the number on the paper.
+"Necessary to a choice, forty-four. Here are six votes to start with."
+
+"For whom?" asked Monroe.
+
+"For me, for captain, first, and for each of the others for whatever
+place he wants; say for Wilton for first lieutenant; Howe for second,
+Sanborn for third, Monroe for fourth, and Adler for first master. What
+do you say to that, fellows?"
+
+As with the political "slate," there was some difference of opinion in
+regard to the minor officers, even after Shuffles' claim to the
+captaincy had been conceded But this disposition of the spoils was
+finally agreed to.
+
+"Now we want thirty-eight more votes," Shuffles proceeded.
+
+"Just so; and you might as well attempt to jump over the main royal yard
+as to get them," added Adler, who, having been assigned to the office
+lowest in rank, was least satisfied with the "slate."
+
+"Hold on; we haven't done yet. There are nine more offices. Now we will
+pick out some good fellow that will work for us, for each of these
+places; then we will promise him six votes if he will go our ticket, and
+do what he can for us."
+
+"That will give us only fifteen votes," said Adler.
+
+"I think that will be doing very well to start with. Then you five
+fellows can electioneer for me, and I'll do the same for you."
+
+"I think we have made one mistake," added Sanborn. "Most of the fellows
+will go for Carnes for captain. He is an old salt, and has more
+influence than any other student in the ship. We ought to offer him some
+place."
+
+"Make him purser, if you like," said Shuffles, contemptuously.
+
+"That won't go down. Make him first lieutenant."
+
+"And shove me out?" demanded Wilton, indignantly. "I don't see it!"
+
+"Nor I," added Shuffles. "I won't vote for Carnes, any how. He's a snob
+and a flunky."
+
+It was useless to resist the fiat of the chief wire-puller; the ticket
+remained as it had been originally prepared; and the young gentlemen
+proceeded to distribute the rest of the offices.
+
+
+
+
+CHAPTER III.
+
+THE ENSIGN AT THE PEAK.
+
+
+The students on board of the Young America were between the ages of
+fourteen and seventeen. By the regulations, no boy under fourteen or
+over seventeen could be admitted, and they averaged about fifteen. They
+had, therefore, reached the years of discretion. Among them were a great
+many who were disposed to be wild boys, and not a few who had found it
+difficult to remain in similar institutions on shore. They were not
+criminal or depraved, but simply wild; with a tendency to break through
+reasonable restraint; with a taste for mad pranks, and a contempt for
+authority.
+
+Of this class, who were a trial and a torment to the teachers of the
+ordinary high schools and academies, the larger proportion would have
+scorned to steal, or commit any wanton outrage upon the persons or
+property of others. There were many high-minded, noble-hearted young
+men, who could not tamely submit to authority, and were prone to
+insubordination, and who only needed the right kind of discipline to
+make them earnest and faithful men and useful citizens. There were few,
+if any, dunces or blockheads among them, for a life on shipboard had no
+attractions for such boys. They were, almost without an exception,
+wide-awake, bold, daring fellows, who had a taste for stirring events;
+fellows who wanted to climb the Rocky Mountains, visit the North Pole,
+and explore the Mammoth Cave. They were full of fun and mischief and it
+would have been easy at any time to get up a party among them to march
+the principal's cow into the parlor of the Academy; to climb to the
+belfry on a winter's night, and fill the inverted bell with water, where
+it would freeze solid before morning; or to convey the occupants of the
+hen-coop to the recitation room.
+
+It was Mr. Lowington's task to repress the mischief in these boys, to
+keep them occupied with work and play, and to develop their moral and
+mental capacities. He had doubtless taken a heavy load upon himself but
+he felt that he was to labor for his race and his country. At least one
+half of his students were too wild to attend the ordinary public or
+private schools, or to profit by them if admitted. With such material,
+his work could not be a sinecure. But he had a taste for it, and he gave
+his whole heart and soul to the performance of his duties.
+
+When the students were gathered on board the Young America, they were
+mostly strangers to him, though he had communicated personally or by
+letter with the parents of all of them. He had read and listened to the
+stories of their pranks and peccadilloes, but when they came together,
+he hardly knew one from another, and was not prejudiced against any
+individual by the terrible accounts of him related by parents,
+guardians, or teachers. He purposed to give them the opportunity to
+select their own officers at first, in order to win a more cheerful
+obedience from them, and because the students knew each other better
+than he knew them.
+
+After the announcement of the principal that the voting would commence
+on the following morning, nothing else was talked of on board. The
+qualifications of various members of the school were discussed by groups
+of excited voters; and we must do them the justice to say that most of
+them considered the matter unselfishly and with a single eye to the
+public good. Perhaps it is a little remarkable that not a single
+student, outside of the little group of wire-pullers that gathered in
+the steerage, thought of Shuffles for the position of captain; and the
+"log-rollers" were likely to have up-hill work in electing themselves to
+the six principal offices. But they went to work, and labored very
+diligently till bed-time in carrying their point.
+
+While none thought of Shuffles in connection with the highest position,
+many mentioned the dignified young gentleman, who had made one voyage up
+the Mediterranean--Richard Carnes. He had been on board a fortnight, and
+had won and retained the respect of all his companions.
+
+Before the little band of wire-pullers in the steerage had made up the
+"slate" to suit their minds, the crowd on deck had agreed upon Richard
+Carnes for captain, and were busy in discussing the qualifications of
+others for the subordinate offices, when the log-rollers separated, and
+went to work upon their mission.
+
+"How are you going to vote for captain, Kendall?" said Wilton, stopping
+up to the young gentleman who had proposed so many questions to the
+principal, and who had been so honest in confessing his ignorance of
+nautical matters.
+
+"For Carnes, of course."
+
+"Humph! I wouldn't vote for him," sneered the wire-puller.
+
+"Why not?"
+
+"He's too stiff; he'll put on airs, and be a tyrant over us."
+
+"No, he won't."
+
+"You see if he don't. I say, Kendall, are you up for any office?"
+continued Wilton, with a certain appearance of slyness which the
+straightforward young gentleman did not exactly like.
+
+"Am I?"
+
+"Yes, you. Wouldn't you like a room in the after cabin?"
+
+"Perhaps I would," answered Kendall, thoughtfully; and the place was
+certainly very inviting to him.
+
+"They say the after cabin is a perfect little palace."
+
+"I dare say it is."
+
+"You can just as well go in there, if you like."
+
+"I don't see how that can be. I don't think I'm fit to be an officer. I
+am from Cincinnati, and I never saw a ship till I came east three weeks
+ago."
+
+"None of the fellows know anything about a ship. All of us will have to
+learn."
+
+"Carnes knows all about one."
+
+"No, he don't. He made one voyage, and knows just enough to talk salt.
+He's a good fellow enough, but he isn't fit for captain. If you want to
+be an officer, Kendall, and have a berth in the after cabin, you can,
+just as well as not."
+
+"Well, I would like such a place; I can't deny it; but I don't think the
+fellows will go for me."
+
+"They will, if you say so."
+
+"If I say so! I'm not going to ask them to vote for me," replied
+Kendall, warmly; for he was no politician and had a vein of modesty in
+his composition.
+
+"You needn't say a word to any one. If you will go for our ticket, it
+will be all right. Half a dozen of us have talked this matter over, and
+we have concluded that you would be the best fellow for second master."
+
+"Have you?" asked Kendall, who could not help being gratified to learn
+that even half a dozen of his companions had thought him worthy to be an
+officer of so high a rank as second master. "I'm very much obliged to
+you."
+
+"All you have to do, is to go for our ticket."
+
+"What do you mean by your ticket?" demanded Kendall, who was rather
+confused by the technical terms of the wire-puller.
+
+Wilton explained that his little party had selected a candidate for each
+of the offices; and if all the fellows agreed to it, there would be
+fifteen votes for their ticket, to begin with.
+
+"Well, what is your ticket?" demanded Kendall, impatiently. "If they are
+all good fellows, I will go for them. Of course you mean to vote for
+Carnes for captain."
+
+"Not exactly," replied Wilton, with evident disgust. "We shall put up a
+better fellow than he is for captain."
+
+"Why, all the boys are going for him," added Kendall, astonished to find
+there were any who did not believe in Carnes.
+
+"No, they are not."
+
+"I thought they were."
+
+"He will not be elected, and you need not throw your vote away upon him,
+because, if you don't want a place in the after cabin, there are plenty
+of fellows who do," added the wire-puller, with apparent indifference.
+
+"But I do want it."
+
+"Then all you have to do, is to go for our ticket."
+
+"I think Carnes will make the best captain."
+
+"Very well; if you think so, you have a right to your own opinion. I
+haven't any mortgage on it."
+
+"Whom are you going to run for captain?"
+
+"It's no use to talk any more about it, if you are going for Carnes,"
+replied Wilton, as he turned to move away.
+
+The wire-puller was playing a part. Paul Kendall was a noble little
+fellow, and was already a great favorite on board, not only with the
+boys, but with the principal and the professors. Wilton knew that he had
+a great deal of influence, and it was important to secure him for their
+ticket. If he could tell others that Kendall was going for their men, it
+would induce many to join their party. The "favorite," though he was an
+honest, noble-hearted fellow, was still human, and a berth in the after
+cabin was a strong temptation to him.
+
+"I'm not going to say I'll vote for a fellow till I know who he is,"
+added Kendall. "If he's the right person, perhaps I'll go for him,
+though I wanted to see Carnes captain."
+
+"Carnes can't be elected, I tell you. We are going against him."
+
+"Whom are you going for, then?"
+
+"For Bob Shuffles," replied Wilton, desperately, for he did not wish to
+mention his candidate till he had won the assent of his companion.
+
+"Shuffles!" exclaimed Kendall, with something like horror mingled with
+his astonishment; "I shall not go for him, anyhow."
+
+"Why not?"
+
+"I don't think he is the right person for the place."
+
+"I do; he's a first-rate fellow--none of your milk and water chaps, that
+swallow camels and strain at gnats."
+
+Kendall had some decided objections to Shuffles, and he positively
+refused to vote for him, even to obtain the coveted position in the
+after cabin. Wilton argued the matter with much skill and cunning; but
+his logic and his eloquence were both wasted.
+
+"Well, if you won't go for Shuffles, you must be content with your place
+in the steerage," added Wilton.
+
+"I won't go for him, any how," said Kendall, firmly.
+
+"You are making a mistake."
+
+"I don't think so. I'm bound to vote for the best fellow, and I'm sure
+Shuffles isn't the right one."
+
+"See here, Kendall; don't say a word to the others that I spoke to you
+of this little matter. I thought you would go with us, or I shouldn't
+have said anything to you."
+
+"Not say anything? Why not?"
+
+"Because it will be better to keep still."
+
+"I shall not do anything of the kind. You have got up a plan to defeat
+Carnes, by giving the offices to fellows who will vote against him. You
+wish me to keep still, while you carry out your plan. I can see through
+a cord of wood, when there's a hole big enough."
+
+"I mentioned this thing to you in confidence."
+
+"You didn't say a word about confidence; and I didn't promise to keep
+still. I won't keep still. I think it is a mean trick to buy up the
+votes of the fellows, and I'll blow the whole thing higher than a kite."
+     
+"You'll catch it if you do," said Wilton, in a threatening tone.
+
+"Catch what?" demanded Kendall, with a very pretty exhibition of
+dignity.
+
+"Bob Shuffles will give it to you."
+
+"Give what to me?"
+
+"Give you the biggest licking you ever had in your life," answered
+Wilton, angrily, "You are so stupid, you can't understand anything."
+
+"I think I can understand the licking, when if comes. That's a game that
+two can play at."
+
+"What do you mean, you little bantam? Do you think you can whip Bob
+Shuffles?"
+
+"I had no idea of whipping him; and I have no idea of his whipping me,
+either."
+
+Kendall was spunky. Wilton could make nothing of him by threats or
+persuasion; and he turned away from him to seek a more promising field
+of labor. Kendall took off his cap, scratched his head as he reflected
+upon the event which had just transpired, and made up his mind that it
+was an insult to an independent elector to attempt to buy his vote with
+the paltry consideration of an office. He was sorry that he had been
+even tempted by the proposition of the wire-pullers, and thankful that
+his sense of honor and decency had prompted him to decline it when asked
+to vote for an improper person. True to his promise, he made all haste
+to expose the conspiracy, as he regarded it, against Carnes.
+
+When the students turned in that night, the wire-pullers had found a
+sufficient number of candidates for all the offices on the terms set
+forth in the compact, each of whom had promised to use his influence for
+the entire ticket. Shuffles had made a very pretty calculation, to the
+effect that each of the fifteen candidates could influence at least two
+votes besides his own for the ticket, which would inevitably elect it.
+But during all this time Paul Kendall had been laboring like a Trojan
+for Carnes, and had induced his friends to do the same.
+
+At nine-o'clock in the morning, the polls were opened for the election
+of officers. A box was placed on the fife-rail, at the mainmast, in
+which the ballots were deposited, under the inspection of Professor
+Mapps.
+
+"Have all the students voted?" called the professor, when the voting
+was suspended. "If so, I declare the poll closed."
+
+It was a moment of intense excitement on the spar deck of the Young
+America when Mr. Lowington stood up on the hatch to announce the vote.
+There was a pleasant smile upon his face, which indicated that it would
+not be his painful duty to veto the choice of the independent electors.
+
+"Young gentlemen, your balloting appears to have been conducted with
+entire fairness," said he, "and I will proceed to declare the result.
+Whole number of votes, eighty-seven; necessary to a choice, forty-four.
+Paul Kendall has five; Charles Gordon has seven; Robert Shuffles has
+twenty-two; Richard Carnes has fifty-three, and is elected captain of
+the Young America for the succeeding three months."
+
+The party who had worked and voted for Carnes applauded the result most
+lustily, and gave three cheers for the new captain, which, on this
+exciting occasion, were not objected to by the principal. Shuffles's jaw
+dropped down, and his lip quivered with angry emotion.
+
+"That little whipper-snapper of a Kendall did that," said Wilton, in a
+low tone, to the disappointed candidate. "I was afraid of this when I
+saw him blowing about the deck."
+
+"I'll settle it with him when I get a good chance," growled Shuffles, as
+he went to the rail and looked over into the water, in order to conceal
+his disappointment and chagrin.
+
+"Young gentlemen will bring in their votes for first lieutenant," said
+Professor Mapps, as he placed the box on the fife-rail again.
+
+The boys marched around the mainmast, and deposited their ballots for
+the second officer, as they had done before. The friends of Shuffles
+rallied again, hoping that something might yet come of the compact they
+had made with him, and gave him their votes for first lieutenant,
+though, in his chagrin, he declared that he would not accept the
+position. Fortunately for him, he was not called upon to do so; for
+Charles Gordon was elected by a very large majority. As the election
+proceeded, it became evident that there was no office for Shuffles. Paul
+Kendall was elected fourth lieutenant and the announcement of the vote
+was greeted by even more hearty applause than had been bestowed upon the
+captain.
+
+At the conclusion of the balloting, Shuffles found that not a single one
+of the wire-pullers, or of the candidates nominated by them, had been
+elected. The attempt to bribe the independent voters, by giving them
+office, had been a signal failure; and it is to be hoped that Young
+America, when fully developed, will stick to his principles.
+
+"Captain Richard Carnes," said Mr. Lowington, as he stepped upon the
+hatch, after the voting had been concluded.
+
+The young gentleman thus addressed came forward, blushing beneath the
+honors which had been bestowed upon him. The principal took his hand.
+
+"Captain Carnes, I congratulate you upon your election to the highest
+office in the gift of your companions; and I congratulate your
+fellow-students also upon having so good a young man to handle the ship.
+You have been modest, and they have been wise. I congratulate you both.
+Young gentlemen, I am satisfied that your captain will be just,
+courteous, and gentlemanly, in his relations with you; and I hope you
+will yield a willing and cheerful obedience to his orders, and to those
+of all your superiors. Let me say that this business is not a farce; it
+is not mere boys' play; for as soon as the officers and crew are fully
+trained and instructed, all ship duty will be carried on without
+assistance from me or others. When necessary, I shall advise the captain
+what to do, but I shall not do it myself; neither shall I needlessly
+interfere with the discipline of the ship.
+
+"This is the last time an election of officers will be permitted, for it
+is liable to many objections, not the least of which are the bribery and
+corruption by which some have attempted to obtain office."
+
+Mr. Lowington looked at Shuffles, as though he knew all about the method
+to which he had resorted to secure an election; but we are quite sure
+that Paul Kendall had never lisped a word of it to him, or to any of the
+instructors.
+
+"On the first day of July, young gentlemen, all the offices will be
+vacant; and they will be awarded strictly in accordance with the marks
+you may obtain. There will be no veto upon the result of the merit roll.
+These places, therefore, are open to all. We have no aristocracy on
+board. Every student in the ship is a candidate for the captaincy. Now,
+if the officers elect will follow me to the after cabin, I will install
+them into their new positions; after which I will proceed to organize
+the crew."
+
+The door of the after cabin, which had hitherto been a mystery to all
+the boys, was unlocked by the head steward, and Mr. Lowington, followed
+by the officers, entered. The students on deck were ordered forward, and
+were not even permitted to look down the companion-way, for the
+principal intended to keep the after cabin exclusively for the officers;
+and no one not entitled to admission was to be allowed to cross its
+threshold. He believed that this mystery, and this rigid adherence to
+the division line between officers and crew, would promote the
+discipline of the ship, and enhance the value of the offices--the prizes
+for good conduct, and general fidelity to duty.
+
+"Captain Carnes, this is your state room," continued Mr. Lowington,
+opening the door of the room farthest forward on the starboard side. "As
+the commander of the ship you are entitled to an apartment by yourself."
+
+"Thank you, sir," replied the captain, as he stepped into the room.
+
+"You will find on the hooks your uniform as captain. There are three
+suits, from which you will select one that fits you."
+
+Captain Carnes entered and closed the door. If he did not feel like a
+king, he ought to have felt so.
+
+Mr. Lowington then gave the next room to the first and second
+lieutenants, who were to occupy it together; and they were also directed
+to clothe themselves in the uniforms deposited there for their use. The
+third state room was given to the third and fourth lieutenants, and the
+fourth to the first and second midshipmen. The forward room of the port
+side was assigned to the first and second masters; the next to the third
+and fourth; the third to the two pursers, and the last to the third and
+fourth midshipmen.
+
+In a short time the officers came out of their rooms clothed in their
+uniforms, which consisted of a blue frock coat, with brass buttons, and
+blue pants. The cap was of the same material, with a gold band around
+it. Thus far the uniforms were all alike; but there were distinguishing
+insignia to indicate the rank of each. All the officers had
+shoulder-straps, by which their positions were designated. The captain
+had two anchors; the first lieutenant had one anchor, with four stars,
+one above, one below, and one on each side; the second lieutenant had
+the anchor with three stars--none above; the third lieutenant, one star
+on each side of the anchor; and the fourth lieutenant one star below the
+anchor. The captain also wore five narrow gold bands on each of his coat
+sleeves; the first lieutenant four, and so on, the fourth wearing but
+one band.
+
+The shoulder-straps of the masters contained no anchor; only the stars,
+one for each grade, the first master having four stars; the fourth only
+one. The rank of the pursers was indicated by the outline of a
+parallelogram for the second, and two of the same figure, one within the
+other, for the first. The straps of the midshipmen contained gilt
+numbers, from one to four, designating their grade.
+
+The officers presented a very elegant and dashing appearance in their
+new uniform; and if some of them did not feel a little vain, it was
+because they were less human than boys usually are.
+
+"What are we to do, sir?" asked Kendall of the principal, after the
+uniforms had been duly criticised.
+
+"Nothing, at present."
+
+"Nothing! Why, I feel like a counterfeit gold dollar, in this rig, when
+I know no more about a ship than I do about the inside of the moon."
+
+"You will learn in due time. You will go on deck now, young gentlemen;
+and remember that, as officers, you are not to be familiar with the crew
+while you are on duty."
+
+"Can't we speak to them?" asked Kendall, who was not disposed to be so
+exclusive as naval discipline required him to be.
+
+"Not while you are on duty, except when it is necessary to do so. We
+will now assign the berths in the steerage to the crew."
+
+As the boys came on board, they had taken the berths as they pleased.
+Shuffles had selected a room, and invited his "cronies" to occupy the
+bunks it contained with him. The berths were now to be distributed by
+lot. Professor Mapps had provided seventy-two slips of paper, on each of
+which he had written a number. The boys were mustered into line, and
+drew out these numbers from the package. As each student drew his slip,
+the purser wrote down his name in a book, with the number he had drawn.
+
+In the steerage, each berth had its own number, which was also applied
+to a locker, and a seat at one of the mess tables. When the drawing was
+completed each student had his berth, his clothes locker, and his seat
+at meals. Many of them were extremely dissatisfied when they found that
+they had been separated from their "cronies;" but the principal was
+firm, and would not allow a single change to be made.
+
+By this time it was twelve o'clock, and Boatswain Peaks piped all hands
+to muster. The ensign was hoisted, and saluted with three cheers, in
+which all hands, young and old, joined. When this ceremony was finished,
+the crew were piped to dinner, and the officers went to their cabin,
+where the steward had set the table for them for the first time. They
+dined like lords, though upon the same fare as their companions in the
+steerage.
+
+
+
+
+CHAPTER IV.
+
+OFFICERS AND SEAMEN.
+
+
+After dinner the organization of the crew was continued. All hands were
+"piped to muster," and by this time most of those who had been
+disaffected at the drawing of berths had recovered their natural
+equanimity, and all were intensely interested in the arrangement of the
+details. None of the boys knew what was coming, and their curiosity kept
+them in a continuous state of excitement.
+
+"All who have drawn even numbers will take the starboard side of the
+ship," said Mr. Lowington from his perch on the hatch. "All who have
+drawn odd numbers will take the port side."
+
+"This is the starboard side, my lads," added Mr. Fluxion, the instructor
+in mathematics--who, like the principal, had been a naval officer,--as
+he pointed to the right, looking forward.
+
+Some had already forgotten their numbers, and there was considerable
+confusion before the order could be obeyed.
+
+"Young gentlemen, the books will be opened to-day; and a student who
+forgets his number again will lose a mark," said Mr. Lowington. "Are
+they all in their places, Mr. Fluxion?"
+
+"They are, sir," replied the instructor, who had just counted them.
+
+"Young gentlemen, you are thus divided into two equal parts--the
+starboard and the port watches. Now form a straight line, toe the crack,
+and call your numbers in order, beginning with the starboard watch."
+
+The boys eagerly followed this direction, though some assistance was
+required from the instructors in repressing their superfluous
+enthusiasm.
+
+"Very well," continued Mr. Lowington, when the students were formed in
+two lines. "Every boy in the starboard watch whose number is divisible
+by four, step forward one pace. Number three in the port watch, do the
+same. Mr. Mapps, oblige me by seeing that every alternate boy in the
+line steps forward."
+
+"The line is formed, sir," replied the instructor, when he had carried
+out the direction of the principal.
+
+"Each watch is now divided into two parts--the first and second parts,
+as they will be called. Now, young gentlemen, the clothing will be
+distributed, and each student will put on his uniform at once."
+
+The four lines were then marched down into the steerage, each under the
+charge of an instructor, to a particular locality, where the head
+steward and his assistants had deposited the clothing for each watch and
+quarter watch. The uniform consisted of blue seaman's pants and a heavy
+flannel shirt or frock, such as is worn in the United States navy. To
+each student the following articles were served out:--
+
+1 pea-jacket.
+1 blue cloth jacket.
+1 pair blue cloth pants.
+1 pair blue satinet pants.
+1 blue cap.
+1 straw hat, of coarse, sewed straw.
+1 Panama hat, bound.
+2 knit woollen shirts.
+2 pair knit woollen drawers.
+2 white frocks.
+2 pair white duck pants.
+4 pair socks.
+2 pair shoes.
+2 black silk neck-handkerchiefs.
+
+These articles were given to the boys, and they were required to put on
+the every-day uniform; after which they were directed to arrange the
+rest of the clothing in the lockers belonging to them. The contractor
+who had furnished the goods was present with four tailors, to attend to
+the fitting of the clothes, which were all numbered according to the
+size. In a short time the students began to come out of their rooms,
+clothed in their new rig. They looked intensely "salt," and there was no
+end to the jokes and smart things that were said on this interesting
+occasion. Even Shuffles hardly knew himself in his new dress.
+
+The frock had a broad rolling collar, in each corner of which was worked
+an anchor in white. The black silk neck-handkerchief was worn under the
+collar, and not many of the boys had acquired the art of tying the
+regular sailor's knot. Boatswain Peaks not only stood up as a model for
+them, but he adjusted the "neck gear" for many of them. Bitts, the
+carpenter, and Leech, the sailmaker, who were also old sailors,
+cheerfully rendered a valet's assistance to such as needed help.
+
+Agreeably to the directions of Mr. Lowington, the shore suits of the
+students were done up in bundles, each marked with the owner's name, and
+the head steward took them to Mr. Lowington's house for storage.
+
+Rigged out in their "sea togs," the students began to feel salt, as well
+as to look salt. Some of them tried to imitate the rolling gait of the
+boatswain when they walked, and some of them began to exhibit an
+alarming tendency to indulge in sea slang.
+
+"There, my hearty, you look like a sailor now," said Peaks, when he had
+rolled over the collar and tied the square knot in the handkerchief of
+Wilton.
+
+"Shiver my timbers, but I feel like one," laughed the embryo seaman.
+
+"What's that, young gentleman?" demanded Mr. Lowington, who happened to
+be within hearing; "what did you say?"
+
+"I said I felt like a sailor, sir."
+
+"What was the expression you used?"
+
+"I only said shiver my timbers, sir."
+
+"You stole that expression from a yellow-covered novel. Did you ever
+hear Mr. Peaks, who has been a sailor all his lifetime, use such
+language?"
+
+"I'll be bound he never did," added Peaks.
+
+"No, sir. I don't know that I ever did."
+
+"Some sailors do use such expressions; but it is gross affectation for
+these young gentlemen, who never saw a blue wave, to indulge in them. If
+you please, Wilton, you will not use such language. It is simply
+ridiculous. Mr. Peaks, you will pipe all hands to muster again."
+
+The shrill whistle of the boatswain sounded through the ship, and the
+boys tumbled up the ladders, eager to learn what was to be done next. As
+they formed in lines, they presented a novel and picturesque appearance
+in their jaunty uniform. Most of them had already learned to wear their
+caps canted over on one side, and not a few of them, perhaps as much
+from necessity as because it was a sailor's habit, hitched up their
+trousers, and thrust their hands deep down into the side pockets.
+
+The students were again formed in watches and quarter watches, each of
+which classes and sub-classes was indicated on the uniforms. All the
+starboard watch wore a small silver star on the right arm, above the
+elbow, and the port watch the same emblem on the left arm. The first
+part of each watch had a figure 1, under the star, and the second part a
+figure 2 in the same position.
+
+The rest of the day was spent in the organization for ship's duty, which
+was far from completed when the sun went down. The next day every boy
+was kept so busy that he had no time to grumble. The instructors
+attended to the lessons in the steerage with one watch, while the other
+was on deck acquiring seamanship. In the course of the month, as the
+boys learned their duties, and the capabilities of each were
+ascertained, they were assigned to their stations in the various
+evolutions required in working the vessel.
+
+Boatswain Peaks had taught the boys, a few at a time, how to set a
+sail, reef and furl it. They had been gradually accustomed to going
+aloft, until the giddy height of the main royal did not appall them, and
+they could lay out on the yards without thinking of the empty space
+beneath them. By the first of June, all the petty officers had been
+appointed, and every student had his station billet. When the order was
+given to unmoor ship, to make sail, or to furl the sails, every one knew
+where to go and what to do. The station billets were cards on which the
+various evolutions of the ship had been printed in a column on the left,
+while the particular duty of the owner of the card was written against
+it. The card was kept by the student, and he was expected to learn its
+contents so that he could take his place without stopping to consult it,
+when an order was given. Here is a specimen of the cards:--
+
++---------------------------------------------------------+
+|PORT WATCH, NO 21,              WILLIAM FOSTER,          |
+|Second Part.            _Captain of the Forecastle._     |
++----------------------+----------------------------------+
+|REEFING.              |Head Bowlines.                    |
+|TACKING OR WEARING.   |Forecastle. Let go head bowlines. |
+|                      |  Let go and shorten in foretack  |
+|                      |  and belay it.                   |
+|GETTING UNDER WAY.    |Head Bowlines. Downhauls and      |
+|                      |  head-sheets.                    |
+|ANCHORING.            |Head Bowlines, Sheets and Tacks.  |
+|                      |  Downhauls.                      |
+|LOOSING SAILS.        |Foretopmast Staysail.             |
+|FURLING.              |Head Bowlines and Downhauls,      |
+|                      |  Staysail.                       |
+|MOORING AND UNMOORING.|Forecastle.                       |
+|BOAT.                 |Professor's Barge, stroke-oar.    |
+|MESS.                 |No. 11.                           |
++----------------------+----------------------------------+
+
+The crew had been in training a month before an attempt was made to set
+more than one sail at once; but by this time the officers knew the
+orders, having practised every day since the organization. The petty
+officers had been appointed, and had, to some extent, become familiar
+with their duties.
+
+The boys still continued to wonder when the Young America would go on a
+cruise, for they were very anxious to see the blue water, and to roll on
+the great waves of the Atlantic; but they were so constantly occupied
+with ship's duty and their studies, that the time did not hang heavily
+on their hands. Two months of constant practice had made tolerable
+seamen of them, and the discipline of the ship went on regularly. The
+young officers, as Mr. Lowington had promised, began to conduct the
+evolutions and give the orders.
+
+On the 1st day of June, after breakfast, the students were thrown into a
+fever of excitement by an unusual order, and they ventured to hope that
+the ship was to leave her moorings.
+
+"Mr. Gordon, you will pipe all hands to muster," said Captain Carnes to
+the first lieutenant.
+
+"Pass the word for the boatswain," added Gordon to one of the
+midshipmen, who stood near him.
+
+This call was answered, not by Peaks, who no longer performed the duties
+of boatswain, but by one of the students, who had been appointed to this
+position.
+
+"Pipe all hands to muster, boatswain," said the first lieutenant, as the
+petty officer touched his cap to him.
+
+"All hands on deck, ahoy!" shouted the boatswain, as he piped the call.
+
+This was an unusual order for that time of day, the forenoon being
+appropriated to study for each watch in turn; and those who were below
+hastened on deck to ascertain what was to be done.
+
+"All hands, stations for loosing sail!" piped the boatswain, when
+ordered to do so by Gordon.
+
+The first lieutenant was in charge of the ship, under the direction of
+the captain. The second lieutenant stood on the forecastle, where he was
+attended by the boatswain. The third lieutenant was in the waist, and
+the fourth on the quarter deck, near the mizzenmast. These were the
+stations of the officers whenever all hands were called. Mr. Lowington
+and the instructors stood near the companion-way, watching with interest
+this first attempt to make sail all over the ship.
+
+"Lay aloft, sail-loosers!" shouted Gordon; and his order was repeated by
+the officers at their several stations.
+
+The little tars who belonged on the topsail and top-gallant yards sprang
+up the rigging like so many cats, excited beyond measure by the scene of
+activity around them.
+
+"Lower yardmen in the chains!" continued Gordon and his order was
+passed, along by the officers. "Aloft, lower yardmen!"
+
+In a moment the crew were in their places; the studding-sail booms were
+triced up with the usual system, so that the sails could be reached.
+
+"Lay out!" continued the first lieutenant; and the boys walked out on
+the foot-ropes to their stations on the yards. "Loose!"
+
+The ropes by which the sails were secured to the yards were removed at
+this order, and the topmen held the sails in their places.
+
+"All ready on the forecastle, sir," reported Foster, who was captain of
+that part of the ship.
+
+"All ready in the foretop."
+
+"All ready in the maintop."
+
+"All ready in the mizzentop," reported the several captains of the tops,
+in their proper order.
+
+These reports were passed to the first lieutenant in charge of the deck,
+by his subordinates.
+
+"Let fall!" shouted Gordon, highly excited; and the sails dropped from
+the yard. "Overhaul your rigging aloft! Man sheets and halyards! Sheets
+home, and hoist away!"
+
+These orders were passed from mouth to mouth among the officers, and
+return reports made, according to the strict discipline of the navy.
+They were promptly executed by the crew, though of course not without
+some blunders; and the Young America was covered with her cloud of
+canvas. Mr. Lowington commended the officers and crew for the promptness
+and skill they had displayed in their first concerted attempt at making
+sail. He then directed Captain Carnes to furl. Both evolutions were then
+repeated, until a proficiency satisfactory for one day was attained.
+
+"Not going to sea, after all," said Shuffles, when the crew were
+dismissed from muster.
+
+"No," replied Wilton. "I'm tired of lying here, and if we don't go to
+sea soon, I shall take myself off."
+
+"I'm with you."
+
+"I thought we were going to have some fun on board, but we don't do
+anything but study and shake out topsails."
+
+"Do you know how you stand on marks, Wilton?" asked Shuffles.
+
+"No; not very high, though."
+
+"Don't you think you shall get into the cabin next term?"
+
+"I know I shall not. I haven't tried for anything."
+
+"On the first of next month, you know, new officers will be appointed,
+and I suppose the crew will be messed over again."
+
+"I don't care, I'm getting tired of this thing, I had a better time at
+the Academy before we came on board."
+
+"There isn't much chance for any sport. Hardly a fellow has been allowed
+to go on shore since we joined the ship."
+
+"Well get up a mutiny, if things don't improve."
+
+"I was thinking of that very thing myself," said Shuffles, in a low
+tone.
+
+"A mutiny!" exclaimed Wilton, who had used the word in jest.
+
+"Just for fum, you know," laughed Shuffles.
+
+"You don't mean any such thing?"
+
+"Not yet, of course."
+
+"Do you at any time?"
+
+"We want something more exciting than this kind of a life. Here we are,
+kept down and treated like common sailors. We have to touch our caps and
+make our manners to Dick Carnes and the rest of the flunkies in the
+after cabin. My father pays as much for me as Dick Carnes' father does
+for him, and I don't think it is fair that he should live in the cabin
+and I in the steerage."
+
+"If you get marks enough, you can have a berth in the cabin," replied
+Wilton.
+
+"Marks! Confound the marks! I'm not a baby. Do you think a fellow
+seventeen years old is going to be put up or put down by marks?" said
+Shuffles.
+
+"I thought you had been working for a place in the cabin."
+
+"So I have, but I don't expect to get it. I never studied so hard in my
+life, and I believe I haven't had a bad mark since I came on board,
+Lowington thinks I have reformed," laughed Shuffles. "And so I have."
+
+"What do you want to get up a mutiny for, then?"
+
+"I shall not, if I get a decent position; if I don't, I'm going in for
+some fun."
+
+"But do you really think of getting up a mutiny?" asked Wilton,
+curiously.
+
+"I was thinking the other day what a fine thing it would be if our
+fellows had the ship all to themselves."
+
+"What could we do with her?"
+
+"Go on a cruise in her."
+
+"We couldn't handle her; there is hardly a fellow on board that knows
+anything about navigation."
+
+"Of course, I don't mean to do anything yet a while; not this year,
+perhaps. One of these days, if we stay on board, we shall know all about
+a ship. Fifteen or twenty of the fellows are studying navigation. We are
+going to Europe some time or other. When we do, we can take the ship,
+and go it on our own hook."
+
+"I don't believe you mean anything of the kind, Bob Shuffles."
+
+"I've been thinking about it, anyhow. We can lock Lowington and the rest
+of the old folks into their cabin while they are at dinner; and there
+are enough of us to handle Peaks and Bitts."
+
+"I think you are crazy, Shuffles."
+
+"We should have a high old time if we could get possession of the ship.
+We wont say a word about it yet."
+
+"I think you had better not."
+
+"We might go round Cape Horn into the Pacific, and have a splendid time
+among the beautiful islands of the South Sea."
+
+"Of course all the fellows wouldn't join you."
+
+"We could put those ashore somewhere who did not agree with us."
+
+"You know the penalty of mutiny on the high seas."
+
+"Bah!" said Shuffles, contemptuously. "It would be nothing but it lark.
+No one would think of hanging us, or even sending us to prison for it.
+My father is rich enough to get me out of any scrape."
+
+"So is mine; but I don't think it would be quite safe to go into a
+mutiny."
+
+"Not yet, my dear fellow. You can think it over."
+
+"But I'm tired of this kind of a life. I liked it first rate in the
+beginning. Do you think Lowington really intends to go to sea with the
+ship?"
+
+"I know he does."
+
+"If he don't go pretty soon, I shall run away, and go to sea in
+earnest."
+
+"Don't say a word about the mutiny at present, Wilton. By and by, if
+things go right, or if they don't go right, we may want to take some
+stock in such an enterprise."
+
+"I don't see it yet, but of course I shall keep still."
+
+It is doubtful whether even so daring a young man as Shuffles, who had
+the temerity to do almost anything, seriously contemplated getting up a
+mutiny. Very likely his untamed and vicious imagination had revelled in
+such an enterprise; had pictured the delights of the rover's life at
+sea; but a boy of ordinary common sense could hardly think of engaging
+in such a mad scheme.
+
+The last week of June, with which month ended the first school term on
+board of the Young America, was devoted to examinations and reviews in
+all the studies for which extra marks were given. On the last day the
+instructors made up the merit lists, and on the morning of the 1st of
+July all hands were mustered, and the result declared. Most of the
+officers, all of whom had studied with unremitting diligence in order to
+retain their positions, were reinstated in their offices. The third
+lieutenant, however, fell out, having failed in his reviews, and to the
+astonishment of all, Robert Shuffles was found to be entitled to the
+place. The first and second lieutenants exchanged ranks, and Paul
+Kendall fell to the position of second master. Three of the tenants of
+the after cabin were compelled to move into the steerage, and three of
+the crew were transferred to the officers' quarters.
+
+Many were disappointed, and perhaps some were disheartened, for the
+competition had been a severe struggle; and as much depended upon
+natural ability as upon energy and perseverance. But the Young America
+was a world by herself. She had all the elements of society within her
+wooden walls, and success and failure there followed the same rules as
+in the great world of which she was an epitome.
+
+After the officers had been duly installed in their positions, the petty
+offices were given to those having the highest number of marks among the
+crew. It was certainly democratic for the late third lieutenant to
+become captain of the foretop, and for a second master to become
+coxswain of the professors' barge; but these young gentlemen, though
+disappointed, submitted with a good grace to their misfortune.
+
+The student having the highest number of marks among the crew was
+allowed to have the first choice of berths in the steerage; the one
+having the next highest number had the second choice, and so on, until
+all the numbers had been appropriated. At the conclusion of the
+reorganization, Mr. Lowington made a speech, "comforting the mourners,"
+and reminding all the students that, on the 1st of October, there would
+be another distribution of the places of honor. He hoped those who had
+failed to attain what they aspired to reach would not be discouraged,
+for, after all, they had been gaining knowledge, and thus the real end
+of the school had been reached.
+
+"How about the mutiny?" said Wilton to the new third lieutenant, when
+both were off duty in the evening.
+
+"It won't pay just now," replied Shuffles, with great good humor.
+
+"I suppose not," sneered Wilton, who had not even won a petty office.
+"What would Lowington say if he knew the third lieutenant talked of
+getting up a mutiny on board?"
+
+"What would he say?" repeated Shuffles, who was as much surprised at the
+high rank he had gained as his companion had been.
+
+"Yes; what would he say if I should tell him of it?"
+
+"He would say you were a mean pup for telling tales out of school; at
+least, he ought to say so, and I think he would. Lowington is a pretty
+good fellow, after all."
+
+"No doubt he is, now you are third lieutenant."
+
+"You needn't snuff at it, Wilton. If you want a place, why don't you
+sail in, and get one. Just look out for your marks; that's all you have
+to do."
+
+"Marks! I thought a fellow seventeen years old was not to be put up or
+put down by marks," said Wilton, bitterly.
+
+"That depends somewhat upon whether you get in or out," laughed
+Shuffles.
+
+"I suppose you and Paul Kendall will be fast friends now," added the
+discontented student.
+
+"Kendall behaves very well, and has treated me first rate since I went
+into the cabin."
+
+"I suppose if I want to run away, you will stop me now."
+
+"If you are going to do that, you musn't tell me of it, now I'm an
+officer," replied Shuffles, as he turned on his heel, and walked aft.
+
+Wilton was disgusted, and felt that he had lost his best friend, now
+that Shuffles had worked his way into the cabin.
+
+
+
+
+CHAPTER V.
+
+OUR FELLOWS.
+
+
+"I would like leave of absence for to-morrow, Mr. Pelham," said Wilton,
+as he touched his cap to the first lieutenant of the Young America, on
+the day before the Fourth of July.
+
+"I am sorry to inform you, Wilton, that no leave of absence will be
+granted to-morrow," replied Pelham in accordance with the instructions
+given him by the captain, who, in turn, had received his orders from the
+principal.
+
+"No leave!" exclaimed Wilton, his jaw dropping down.
+
+"Such are the orders."
+
+"I have always been in the habit of celebrating the Fourth of July,"
+replied Wilton. "Are we to stay on board the ship, and mope all day?"
+
+"I presume the day will be celebrated on board in a proper manner,"
+added the first lieutenant.
+
+"On board! What can a fellow do here? We might as well go to bed, and
+sleep off the day."
+
+"No words are necessary, Wilton," replied Pelham as he turned and walked
+away.
+
+"That's a good one!" added Wilton, to the group of boys who had come
+with him to the mainmast, to request the same favor, if the spokesman
+was permitted to go on shore and celebrate the day.
+
+"Not to celebrate!" exclaimed Monroe, with something like horror in his
+tones and looks.
+
+"Work on the Fourth of July!" chimed in Adler.
+
+"I won't stand it, for one!" said Wilton.
+
+"Nor I, for another," added Monroe.
+
+So said half a dozen others.
+
+"Well, what are you going to do about it?" demanded Adler. "Here we are,
+and we can't get ashore."
+
+"Perhaps we can," said Wilton, as he led the way to a retired part of
+the deck, where they could talk without being overheard. "Did any one
+ever hear of such a thing as keeping the fellows on board on the Fourth
+of July? Why, every little Greek in the city yonder has his liberty on
+that day; and we are to be cooped up here like a parcel of sick
+chickens! I suppose we shall have to recite history and French, and
+shake out topsails, as usual."
+
+"It's outrageous. I don't believe the fellows will stand it," added
+Adler, who did not know how bad the case was, until it had been
+rehearsed by Wilton, who, in the absence of Shuffles, had become the
+leader of a certain clique on board, given to taking opposite views.
+
+"But I don't see what we can do," said Monroe.
+
+"We will do something. I won't stand it. If I stay on board the ship
+to-morrow, it will be as a prisoner," answered Wilton.
+
+"It's a hard case; but what can we do about it?" asked Sanborn.
+
+"Suppose we go to Lowington, and state the case to him," suggested
+Adler.
+
+"What's the use of that? Of course the first lieutenant spoke by the
+card. He had his orders to say what he did, and I'm sure they came from
+Lowington."
+
+"There can be no doubt of that; but it would be better to have it from
+him."
+
+"I'm willing to ask Lowington for the day, if the fellows want me to do
+so; but it won't do any more good than it would to bark at the
+mainmast," continued Wilton. "I have an idea in my head, if the fellows
+will stand by me," he added, in a lower tone, as he looked over the rail
+at the swinging boom, to which the boats in constant use were made fast.
+
+"What is it?" asked Monroe, eagerly.
+
+"Keep shady, for a while. How many fellows can we muster?"
+
+"I don't know."
+
+"Well, don't stir the matter yet. Here comes Lowington and we will talk
+to him first. Come, fellows, let's make a dive at him."
+
+Wilton, attended by his companions, walked up to the principal, as he
+was going forward. Touching his cap respectfully, as the discipline of
+the ship required, he opened the case.
+
+"Mr. Lowington, some of the students would like to go on shore
+to-morrow, to celebrate the Fourth. Can't we have liberty?"
+
+"You know the rule; you should apply to the first lieutenant for leave
+of absence," replied Mr. Lowington.
+
+"We have, sir, and been refused."
+
+"Then there is nothing more to be said. The first lieutenant speaks with
+authority."
+
+"I beg your pardon, sir, but are we to stay on board all day to-morrow?"
+
+"That is certainly the arrangement, Wilton."
+
+"Some of us would like to celebrate the day, sir, and we think it is
+rather hard to be obliged to do duty on the Fourth of July."
+
+"I intend to have the day celebrated in a proper manner. I have made
+preparations for a gala day on board."
+
+"If you please, sir, we would rather go on shore."
+
+"I am very sorry, for your sake, that I shall be unable to reverse the
+answer of the first lieutenant. If I permit one or a dozen to go ashore,
+I cannot refuse any, and all must go. I think the boys will be satisfied
+with the arrangements I have made for the day."
+
+"I never was kept in school on the Fourth of July before, sir," growled
+Wilton.
+
+"Then this will be a new event in your experience," answered Mr.
+Lowington, coldly, as he turned from the petitioners, and went forward.
+
+There were a great many wild boys on board of the Young America, and it
+was morally impossible for the whole crew to attend the celebration in
+the city, without more or less of them getting into a scrape. They had
+been kept on board for two months, and not allowed to go on shore,
+except under the supervision of one of the instructors; and to let any
+considerable number of them loose on such a day as the Fourth of July,
+would only be courting trouble, for they would be all the more
+disorderly after the long period of restraint.
+
+Mr. Lowington did not willingly deprive the boys of any innocent
+gratification. He had faithfully considered the matter of celebrating
+the day, and taken the advice of the instructors on the subject. It had
+been proposed to procure a band of music, and visit the city in a body,
+under the usual discipline; but there were many difficulties attending
+such a plan. The boys were all the sons of rich men, and most of them
+were abundantly supplied with pocket money. As it would be impossible to
+prevent the escape of some of them from the procession, in the crowded
+streets, it was feared that their money would prove to be "the root of
+all evil." The project had finally been abandoned; and, as a substitute,
+a programme for a celebration on board had been arranged, for there the
+students would be entirely under the control of the instructors, who
+would check all excesses. It was anticipated that a few discontented
+spirits would grumble, but no rebellion was expected.
+
+Wilton and his companions were dissatisfied, and disposed to be rash.
+They felt that they had been harshly and cruelly denied a reasonable
+privilege. The subject of celebrating the Fourth had been under
+consideration for a long time among the boys, and it had been generally
+believed that all hands would be permitted to go on shore, with perfect
+liberty, on that day; and many of them had already arranged their plans
+for the occasion.
+
+"Well, what do you think now?" said Wilton, as Mr. Lowington walked
+forward.
+
+"I think it's too bad," replied Adler. "It is meaner than dirt to make
+us stay on board on the Fourth of July."
+
+"But I don't see how we are going to help ourselves," added Monroe,
+looking at Wilton for a solution of this difficult problem.
+
+"I do."
+
+"How?"
+
+"Keep still; don't say a word here," continued Wilton. "Scatter, now,
+and I will be on the top-gallant forecastle in a few minutes."
+
+Wilton strolled about the deck a short time, and then went to the place
+of meeting, where he was soon joined by the rest of the discontented
+pupils.
+
+"How many fellows can we muster?" asked he, when his associates in
+mischief had again gathered around him.
+
+"I know at least a dozen, who are up to anything," replied Monroe; "but
+some of them are in the other watch. What are you going to do?"
+
+"I'll tell you: There are the professors' barge and the third cutter at
+the swinging boom. We will drop into them when the instructors go down
+to supper, and make for the shore. All the rest of the boats are at the
+davits; and before they can get them into the water, we shall be out of
+their reach. What do you think of that for a plan!"
+
+"I think it is a first-rate one. But hadn't we better wait till the
+instructors turn in?" suggested Adler.
+
+"No; the boats will all be hoisted up to the davits at sunset. We must
+do it while the professors are at supper, or not at all. We want eight
+oars for the barge, and six for the third cutter; that makes fourteen
+fellows. Can we raise as many as that?"
+
+"Yes, I think we can; we will try, at any rate."
+
+"But you must look out, or some fellow will blow the whole thing," added
+Wilton. "Mind whom you speak to."
+
+The trustworthiness of the various students was canvassed, and it was
+decided what ones should be invited to join the enterprise. The
+discontented boys separated, and went to work with great caution to
+obtain the needed recruits. Unfortunately, in such a crowd of young men,
+there are always enough to engage in any mischievous plot, and it is
+quite likely that twice as many as were wanted could have been obtained
+to man the boats in the runaway expedition.
+
+Wilton missed Shuffles very much in arranging the details of the present
+enterprise. While at the Brockway Academy, they had plotted mischief so
+often that each seemed to be necessary to the other. But Shuffles had
+reformed; he was now third lieutenant of the ship, and it was not safe
+to suggest a conspiracy to him, for he would attempt to gain favor with
+the principal by exposing or defeating it.
+
+Yet Shuffles was so bold in thought, and so daring in execution, that
+Wilton could hardly abandon the hope of obtaining his assistance;
+besides, the third lieutenant would be officer of the deck when the
+professors went to supper, and might wink at their departure in the
+boats, if he did not actually help them off.
+
+"Would you say anything to Shuffles?" asked Wilton, still in doubt, of
+Monroe, as they happened to meet again in the waist.
+
+"To Shuffles!" exclaimed Monroe, in an energetic whisper.
+
+"I mean so."
+
+"Certainly not. I should as soon think of speaking to Lowington
+himself."
+
+"But Shuffles may join us. He is always in for a good time."
+
+"Why, you ninny, he is third lieutenant of the ship."
+
+"No matter if he is. I think Shuffles would like to join us."
+
+"Nonsense! He has been in office only three days, and it would break
+him. He would be degraded to the steerage," replied Monroe, who could
+not help thinking that Wilton was beside himself in proposing such a
+thing, and that the enterprise was doomed to failure in such incompetent
+hands.
+
+"If he won't join us, perhaps he will help us off. He is officer of the
+deck, you know, in the second dog watch."
+
+"I know he is; but don't you open your mouth to him. If you do, I'll
+back out at once."
+
+"Back out?"
+
+"Yes, back out. I believe you are crazy. Why don't you go to Captain
+Carnes, and done with it?" said Monroe, with energy.
+
+"I haven't any hold on Carnes, and I have on Shuffles."
+
+"What do you mean?" asked the prudent conspirator, curiously.
+
+"If Shuffles won't join us, he won't blow on us, you may depend upon
+that. He wouldn't dare to do it. I could break him before sundown, if I
+chose," said Wilton, with conscious power.
+
+"That alters the case."
+
+"Of course, I shouldn't think of saying anything to him, if I did not
+know what I was talking about. I have him where the hair is short, and
+he knows it, as well as I do."
+
+"What is it, Wilton?"
+
+"No matter what it is. When a thing is told me in confidence, I keep it
+to myself; but if he turns traitor to his cronies, he must look out for
+breakers. He knows what it is."
+
+"Well, if you can get him, he will be a first-rate fellow to have."
+
+"I think I can get him. Here he comes; you keep out of the way, and I
+will see how deep the water is."
+
+Monroe went forward to find a student to whom he had been deputed to
+speak in the interest of the enterprise leaving Wilton to grapple with
+the old lion of mischief, whose teeth, however, seemed to have been worn
+out in the cause.
+
+"What's up, Wilton?" demanded the third lieutenant who was now off duty,
+and therefore allowed to speak to the crew, though it was a privilege of
+which the officers seldom availed themselves.
+
+"Who said anything was up?" asked Wilton.
+
+"You look as though you meant something. What were you and Ike Monroe
+talking about just now?" continued Shuffles. "About me, I'll be bound,
+for you kept looking at me, as though you meant something."
+
+"What makes you think so? Have you heard anything?" asked Wilton,
+fearful that the plot had leaked out.
+
+"Not a word? I only judged by your looks."
+
+"I suppose if anything was up, you wouldn't have anything to do with it
+now."
+
+"Most decidedly, I should not. I like my present position too well to
+fall out of it. I'm going to be captain next term, if I can fetch it any
+way in the world."
+
+"You mean to be a flunky, just like the rest of them. You are not the
+same fellow you used to be."
+
+"Yes, I am."
+
+"You are getting too big for your boots."
+
+"You wrong me, Wilton. I'm just as good a fellow as I ever was. I think
+I'm the best fellow in the ship, and for that reason I want to be
+captain. I'm ahead of Carnes so far on marks this month."
+
+"Well, if you want to be the head flunky, I hope you'll get it. We are
+not going ashore to-morrow, they say," added Wilton, changing the topic
+to get nearer to the business of the hour.
+
+"So Pelham told me."
+
+"Are you willing to stay on board and study, and do ship's duty, on the
+Fourth of July?"
+
+"We are going to celebrate."
+
+"How?"
+
+"I'm sure I don't know."
+
+"We shall celebrate to-morrow just as we do every day--as close
+prisoners on board the ship. I, for one, don't like it, and I won't
+stand it."
+
+"Won't you?" laughed Shuffles.
+
+"When I say I won't, I mean so."
+
+"O, you do--do you?"
+
+"You better believe I do," added Wilton, shaking his head resolutely.
+
+"What are you going to do?"
+
+"I'm going ashore, by hook or by crook."
+
+"Better not get into any scrape."
+
+"You say that as one of the flunkies."
+
+"Well, you had better not say anything to me, for I shall have to do my
+duty as an officer. Don't say anything to me, and then I shall not know
+anything about it."
+
+"Humph!" sneered Wilton, not pleased with this non-committal policy.
+
+"I don't want to do anything mean with any of our fellows; so don't say
+a word to me. I shall do my duty as an officer, as I promised to do when
+I was made third lieutenant."
+
+"Do you mean to say you will stop me, Shuffles, if you see me going?"
+demanded Wilton.
+
+"I do mean so; I promised faithfully to do my duty as an officer, and I
+shall do it."
+
+"See here, Bob Shuffles; you needn't talk to me in that manner. I knew
+the ship's cable from a pint of milk, and you can't come the flunky over
+me."
+
+"I'm going to do just as you would do if you were in my place. I won't
+hear a word about any of your plans."
+
+"But will you interfere with them?"
+
+"If it is my duty to do so, I shall. I intend to obey orders; and if I
+have the deck, I shall keep things straight, whatever happens."
+
+"Lowington don't know you as well as I do."
+
+"No matter if he don't; he shall have no fault to find with me this
+term, if I can help it."
+
+"It's no use for me to mince the matter with you, Bob Shuffles. We
+understand each other too well for that. Something's up."
+
+Shuffles turned on his heel, and was about to walk away.
+
+"Hold on a minute, Shuffles," continued Wilton. "I won't tell you what's
+up, but I'll tell you this; if you interfere with what I do, or with
+what the fellows with me do, I'll tell Lowington about the mutiny--I
+will, as sure as your name is Bob Shuffles. Do you understand me?"
+
+"Well, I do; and it seems to me that sounds very much like a threat."
+
+"Call it what you like. If you turn traitor to our fellows, you must
+stand the racket of it. You are not a saint just yet, and those that
+live in glass houses musn't throw stones."
+
+"I believe I haven't played false to any of our fellows. If I don't
+choose to get into any scrape with them, I have a right to keep out.
+That's all I've got to say."
+
+"But what are you going to do, Shuffles? Our fellows will want to know."
+
+"I'm going to do my duty," replied the third lieutenant as he walked
+away, regardless of the efforts of his companion to detain him.
+
+Shuffles was experiencing the truth of the old maxim, that honesty is
+the best policy. It is to be regretted that his present devotion to duty
+had no higher incentive than mere policy; but it may be hoped of those
+who do their duty from low motives, that they may gather inspiration
+even from their politic fidelity to obey its behests from higher
+motives. The third lieutenant of the Young America intended to keep the
+promise he had made in accepting his office, simply because it would pay
+best.
+
+Wilton and his confederates had no difficulty in making up the required
+number of discontents and malcontents before six o'clock, which was the
+time fixed for carrying out the enterprise they had planned. Some of the
+recruits joined because they anticipated a good time in the city in
+celebrating the Fourth, and others from a mere love of mischief and
+excitement. The details of the scheme had been carefully elaborated by
+Monroe and Wilton, after the ranks of the conspirators were full. Having
+learned a valuable lesson from the daily discipline of the ship, the
+mischief was certainly well planned. Each boy was assigned to a
+particular position in the boats, and knew on what thwart he was to sit,
+and which oar he was to pull.
+
+Wilton and Monroe, as the master spirits of the enterprise were to run
+out first on the swinging boom, and slide down the painters, each into
+the boat he was to command. The others were to follow in the same way,
+descending from the boom, for it was not considered prudent to run the
+boats up to the gangway, where some enthusiastic officer might easily
+interfere with the plan, which was to depend for its success upon the
+celerity of its execution.
+
+When four bells struck, the professors went down to their evening meal,
+as usual, and the boatswain piped the port watch to supper, the
+starboard watch having taken theirs at three bells, or half past five.
+Wilton gave a low whistle, when Shuffles, officer of the deck, was abaft
+the mizzenmast, with his back to the runaways who had gathered in the
+waist, and were waiting for the signal.
+
+"Be lively, fellows," said the leader of the enterprise, as he sprang
+over the rail, and ran out on the boom, followed by Monroe.
+
+The others, in the order in which they had been instructed, did the
+same. About half of them were on the boom, when the movement was
+reported to the officer of the deck by the midshipman on duty in the
+waist. Shuffles rushed forward, now understanding, for the first time,
+the intentions of Wilton; and true to the inspiration of fidelity, he
+set about defeating the object of "our fellows."
+
+The studding-sail boom, to which the boats were fastened, was supported
+by a topping-lift from above, and kept in position, at right angles with
+the side of the ship, by guys extending forward and aft.
+
+"Stand by that fore guy!" shouted Shuffles, as he sprang upon the rail.
+"Cast off!"
+
+"Lively, fellows!" said Wilton, when he saw that the third lieutenant
+intended to swing in the boom to the ship's side.
+
+"Stand by the after guy of the studding-sail boom!" continued Shuffles,
+with becoming energy.
+
+Both his orders were promptly obeyed; but seeing that his movement would
+be too late, he rushed to the topping-lift, and cast it off, causing the
+swinging boom to drop into the water, just as the last boy was about to
+slide down into the professors' boat. Of course the luckless fellow went
+into the water; but he was promptly picked up by his companions in
+mischief.
+
+"If I'm caught, Bob Shuffles, you look out for breakers!" cried Wilton,
+as the third lieutenant appeared at the gangway again.
+
+The tide was coming in, and the boats swung so far abaft the boom that
+it had fallen clear of them when it dropped into the water. Wilton and
+Monroe were prompt to avail themselves of their present success, and the
+boys sat in the boats, with their oars up, ready to pull as soon as the
+order was given.
+
+"Let fall!" said Wilton; and the eight oars of the professors' barge
+dropped into the water, and the rowers placed them in readiness for the
+first stroke.
+
+Monroe, in the third cutter, followed the example of his principal, and
+was hardly a second behind him.
+
+"Give way!" added Wilton.
+
+"Give way!" repeated Monroe; and the two boats gathered way and darted
+off towards the nearest point of the shore.
+
+Thus far the enterprise of "our fellows" was entirely successful, and
+Shuffles stood on the gangway, chagrined at the defeat which had
+attended his efforts to prevent the escape of the runaways.
+
+"Stand by to clear away the first cutter!" shouted he, suddenly and with
+energy, as he made his way to the davits, where the boat indicated was
+suspended.
+
+"Cast off the gripes, and man the falls!" he continued when the watch
+were collected at the scene of action. "Mr. Kendall, you will inform
+the captain what has happened."
+
+Within three minutes, the first cutter was in the water, for the crew
+had been frequently exercised in the evolution of lowering boats, and
+performed it with remarkable facility for boys. Before the first cutter
+touched the water, the captain, the principal, and all the professors,
+came on deck.
+
+Mr. Lowington was entirely cool, though everybody else appeared to be
+intensely excited. The crew of the first cutter were piped away, and at
+the principal's suggestion, the third lieutenant was sent off in the
+boat to prevent the landing of the rebellious pupils.
+
+"Up oars! Let fall! Give way!" said Shuffles, in the boat, delivering
+his orders in rapid succession; and the first cutter darted off in chase
+of the runaways.
+
+
+
+
+CHAPTER VI.
+
+THE FOURTH OF JULY.
+
+
+The first cutter was manned by her regular crew, who had been trained
+with the utmost care to pull together, while Wilton, in the professors'
+barge, which was of the same size, had some very indifferent oarsmen.
+The runaways had made up their force of such material as they could
+obtain, and though all were somewhat accustomed to rowing, they had not
+been drilled to work together; they were not the unit of power in
+pulling a boat. Shuffles, therefore, had a manifest advantage, and he
+was determined to bring back the fugitives.
+
+The second cutter, in charge of Paul Kendall, was cleared away, and,
+with Mr. Lowington and Mr. Fluxion on board, left the ship to take part
+in the pursuit. The chase promised to be an exciting one, for Wilton and
+Monroe were straining every nerve to reach the shore before they were
+overtaken. They were making for the nearest land, and having just the
+number of hands required to pull the boat, each of them was obliged to
+use an oar himself. They had no coxswains, and Wilton, at the bow oar of
+the professors' barge, could not see what was ahead, though he kept the
+pursuing boats in full view.
+
+The nearest land, not more than half a mile from the ship, was a point
+covered with salt marsh, above which was a cove, whose opening was about
+ten rods in width. Wilton was making for the point below the cove, but
+his calculations were made without judgment or discretion. If he reached
+the land, his party would be obliged to walk a mile in order to get
+round the cove, on a narrow strip of marsh, where they might be
+intercepted. But the fatal defect in his plan of operations was a
+failure to consider the depth of water between the ship and the point.
+The flow of the tide from the cove, while it kept a clear channel
+through the entrance, had formed a bar off the tongue of land on the
+seaward side of it, which was bare at half tide, and was now just
+covered. Wilton was pulling for this bar, with all the strength of his
+crew.
+
+Shuffles was prompt to observe the mistake of his late crony, and just
+as prompt to profit by it. The first cutter was gaining rapidly on the
+chase; but Shuffles, as she reached the border of the main channel,
+ordered his coxswain to keep the boat's head towards the entrance of the
+cove.
+
+"We shall never catch them on this tack," said the coxswain of the
+cutter, who knew nothing about the bar.
+
+"I think we shall," replied the third lieutenant, confidently.
+
+"We are not going towards the point."
+
+"That's very true, and the professors' barge will not go much farther in
+that direction. Pull steady, my lads; don't hurry yourselves. There is
+plenty of time."
+
+The coxswain thought his superior officer was taking the matter very
+coolly, and knowing of the intimacy which had formerly subsisted between
+Shuffles and Wilton, he was ready to conclude that the third lieutenant
+was willing to permit the escape of "our fellows." While he was putting
+this construction on the conduct of his superior, the professors' barge
+"took the ground," and stuck fast.
+
+"They're aground, Mr. Shuffles," said the coxswain.
+
+"There's just where I expected them to be," answered Shuffles, quietly.
+
+"Shall I run towards them?"
+
+"No; keep her as she is. There isn't more than a foot of water anywhere
+between them and the point."
+
+The third cutter, being a smaller boat than the professors' barge, did
+not touch the bar as soon as her consort; but Monroe saw that his craft
+could not land her party on the point at that stage of the tide, and he
+ordered his crew first to lay on their oars, and then to back water.
+Wilton's boat was aground at the bow, and when he had sent part of his
+crew aft, she was easily pushed off the bar. By this delay he had lost
+the chance of landing at the point, and his only alternative was to pull
+up to the cove; but in doing so, it would be impossible to avoid the
+first cutter, which had now secured a position off the mouth of the
+little bay.
+
+"Stand by to lay on your oars," said the coxswain of the first cutter,
+as directed by the lieutenant in command. "Oars!"
+
+The crew ceased rowing, and laying on their oars, waited the next
+movement of the runaways. In the mean time the second cutter was well
+away from the ship, and Mr. Lowington, promptly comprehending the
+intentions of the third lieutenant, directed the officer in command to
+pull towards the boats on the bar, keeping well to seaward, in order to
+prevent them from escaping in that direction.
+
+Wilton realized that he was cornered, and hoping that Shuffles would not
+be over-zealous in the discharge of his duty, directed his course
+towards the opening of the cove. A few strokes brought him within
+hailing distance of the first cutter.
+
+"No use, Wilton," said Shuffles, laughing. "You may as well pull for the
+ship. It's all up with you."
+
+But the leader of the runaways, instead of heeding this good advice,
+attempted to push by astern of the first cutter.
+
+"Stern, all! Give way!" shouted Shuffles, sharply. "Coxswain, stand by
+with your stern line!"
+
+It was generally understood that the third lieutenant of the Young
+America was a fighting character, and that he could whip any officer or
+seaman in the ship, though his prowess had not been practically
+demonstrated. Shuffles took the stern line himself, instead of
+intrusting the duty to the coxswain. He intended to grapple the bow of
+the professors' barge, and make fast to it with the rope; but the cutter
+did not gather way enough in season to do this. As she backed, she
+fouled the oars of the barge, and Shuffles secured a firm hold of her
+stern.
+
+"What are you doing, Bob Shuffles?" demanded Wilton, angry, when he saw
+that his late crony was fully in earnest.
+
+The third lieutenant made no reply; but passing his rope through a ring
+in the stern of the barge, he made it fast, and then pushed the cutter
+off from her. When the line had run out about a fathom, he secured the
+end he held in his hand to the after thwart of his own boat. Thus the
+first cutter and the barge were lashed together, stern to stern.
+
+"Cast off that rope!" shouted Wilton to the stroke oarsman in the barge.
+
+"Don't you touch it, my lad," interposed Shuffles, when the boy
+attempted to obey the order of his leader. "If you attempt it, you will
+purchase a sore head."
+
+[Illustration: THE ESCAPE FROM THE SHIP. Page 95.]
+
+The third lieutenant had picked up a boat-hook, and stood ready to rap
+any of the barge's crew who might attempt to cast off the line by which
+the boats were fastened together. No one was disposed to cross the
+purposes of so formidable a person as Shuffles, and the stroke oarsman
+did not obey the order of Wilton. It would not be safe to do so.
+
+"Now, Wilton, what do you say?" demanded Shuffles, a smile of triumph
+playing upon his face, which was very aggravating to the leader of the
+runaways. "Will you go back to the ship, or not?"
+
+
+He had never given up his watching, nor his hope of some day seeing a
+big baby-bringer. He searched his sky patch now. But could see only the
+darting sparrows and, farther away, some larger birds that wheeled
+gracefully above the city. Many of these were seagulls. The others were
+pigeons, and Cis had told him that people ate them. This fact hurt him,
+and he tried not to think about it, but only of their flight. He envied
+them their freedom in the vast milkiness, their power to penetrate it.
+Beyond the large birds, and surely as far away as the sun ever was, some
+great, puffy clouds of a blinding white were shouldering one another as
+they sailed northward.
+
+Out of the wisdom possessed by one of her advanced age, Cis had told him
+several astonishing things about this field of sky. What Barber
+considered a troublesome, meddlesome, wasteful school law was, at
+bottom, responsible for her knowing much that was true and considerable
+which Johnnie held was not. And one of her unbelievable statements (this
+from his standpoint) was to the effect that his sky patch was constantly
+changing,--yes, as frequently as every minute--because the earth was
+steadily moving. And she had added the horrifying declaration that this
+movement was in the nature of _a spin_, so that, at night, the whole of
+New York City, including skyscrapers, bridges, water, streets, vehicles
+and population, _was upside down in the air_!
+
+"Aw, it ain't so!" he cried, though Cis reminded him (and rather
+sternly, for her) that in doing so he was questioning a teacher who drew
+a magnificent salary for spreading just such statements. "And if they
+pay her all that money, they're crazy! Don't y' know that if we was t'
+come upside down, the chimnies'd fall off all the buildin's? and East
+River'd _spill_?"
+
+Cis countered with a demonstration. She filled Big Tom's lunch pail with
+water and whirled it, losing not a drop.
+
+But he went further, and proved her wrong--that is so far as the
+upside-down of it was concerned. He did this by staying awake the whole
+of the following night and noting that the city stayed right-side up
+throughout the long hours. Cis, poor girl, had been pitifully
+misinformed.
+
+But the changing of the sky he believed. He believed it because at night
+there was the kind of sky overhead that had stars in it; also,
+sometimes, a moon. But by dawn, the starred sky was gone--been left
+behind, or got slipped to one side; in its place was a plain,
+unpatterned stretch of Heaven which, in due time, was once more
+succeeded by a firmament adorned and a-twinkle.
+
+When Cis returned home one evening and declared that the forewoman at
+the factory had asserted that there were stars everywhere in the sky by
+day as well as by night, and no plain spots at all anywhere; and,
+further, that if anybody were at the bottom of a deep well he--or
+she--could see stars in the sky in the daytime, Johnnie had fairly
+hooted at the tale. And had finally won Cis over to his side.
+
+Her last doubt fled when, having gone down into a dark corner of the
+area the Sunday following, she found, as did he, that no stars were to
+be seen anywhere. After that she believed in his theory of starless
+sky-spots; starless, but not plain. For in addition to the sun, many
+other things lent interest to that field of blue--clouds, rain, sleet,
+snow, and fog, all in their time or season. Also, besides the birds, he
+occasionally glimpsed whole sheets of newspapers as they ambitiously
+voyaged above the house tops. And how he longed for them to blow against
+his own window, so that he might read them through and through!
+
+Sometimes he saw a flying machine. The first one that had floated across
+his sky had very nearly been the death of him. Because, forgetting
+danger in his rapturous excitement, he had leaned out dangerously, and
+might have fallen if he had not suddenly thought of Grandpa, and thrown
+himself backward into the kitchen to fetch the wheel chair. The little
+old soldier had only been mildly diverted by the sight. Johnnie,
+however, had viewed the passing of the biplane in amaze, though later on
+he came to accept the conquest of the air as just one more marvel in a
+world of marvels.
+
+But his wonder in the sky itself never lessened. About its width he did
+not ponder, never having seen more than a narrow portion of it since he
+was big enough to do much thinking. But, oh, the depth of it! He could
+see no sign of a limit to that, and Mrs. Kukor declared there was none,
+but that it reached on and on and on and on! To what? Just to more of
+the on and on. It never stopped.
+
+One night Cis and he, bent over the lip of the window, she upholstered
+on a certain excelsior-filled pillow which was very dear to her, and he
+padded by Big Tom's cast-offs, had attempted to realize what Mrs. Kukor
+had said. "On--and on--and on--and on," they had murmured. Until finally
+just the trying to comprehend it had become overpowering, terrible. Cis
+declared that if they kept at it she would certainly become dizzy and
+fall out. And so they had stopped.
+
+But Johnnie was not afraid to think about it, awful as it was. It was
+at night, mostly, that he did his thinking. At night the birds he loved
+were all asleep. But so was Barber; and Johnnie, with no fear of
+interruption, could separate himself from the world, could mentally kick
+it away from under him, and lightly project his thin little body up to
+the stars.
+
+Whenever fog or clouds screened the sky patch, hiding the stars, a
+radiance was thrown upon the heavens by the combined lights of the
+city--a radiance which, Johnnie thought, came from above; and he was
+always half expecting a strange moon to come pushing through the cloud
+screen, or a new sun, or a premature dawn!
+
+Now looking up into the deep blue he murmured, "On--and--on--and on," to
+himself. And he wondered if the gulls or the pigeons ever went so far
+into the blue that they lost their way, and never came back--but just
+flew, and flew, and flew, till weariness overcame them, when they
+dropped, and dropped, and dropped, and dropped!
+
+A window went up in front of him, across the area, and a voice began to
+call at him mockingly: "Girl's hair! Girl's hair! All he's got is girl's
+hair! All he's got is girl's hair!"
+
+He started back as if from a blow. Then reaching a quick hand to the
+sash, he closed the window and stepped down.
+
+The voice belonged to a boy who had once charged Mrs. Kukor with going
+to church on a Saturday. But even as Johnnie left the sill he felt no
+anger toward the boy save on Mrs. Kukor's account. Because he knew that
+his hair _was_ like a girl's. If the boy criticized it, that was no more
+than Johnnie constantly did himself.
+
+The second his feet touched the splintery floor he made toward the
+table, caught up the teapot, went to lean his head over the sink, and
+poured upon his offending locks the whole remaining contents of the
+pot--leaves and all. For Cis (that mine of wisdom) had told him that
+tea was darkening in its effect, not only upon the lining of the tummy,
+which was an interesting thought, but upon hair. And while he did not
+care what color he was inside, darker hair he longed to possess. So, his
+bright tangles a-drip, he set the teapot in among the unwashed pans and
+fell to rubbing the tea into his scalp.
+
+And now at last he was ready to begin the really important matters of
+the day.
+
+But just which of many should he choose for his start? He stood still
+for a moment, considering, and a look came into his face that was all
+pure radiance.
+
+High in the old crumbling building, as cut off from the world about him
+as if he were stranded with Grandpa on some mountain top, he did not
+fret about being shut in and away; he was glad of it. He was spared the
+taunts of boys who did not like his hair or his clothes; but also he had
+the whole flat to himself. Day after day there was no one to make him do
+this, or stop his doing that. He could handle what he liked, dig around
+in any corner or box, eat when he wished. Most important of all, he
+could think what he pleased!
+
+He never dwelt for any length of time upon unhappy pictures--those which
+had in them hate or revenge. His brain busied itself usually with places
+and people and events which brought him happiness.
+
+For instance, how he could travel! And all for nothing! His calloused
+feet tucked round the legs of the kitchen chair, his body relaxed, his
+expression as rapt as any Buddhist priest's, his big hands locked about
+his knees, and his eyes fastened upon a spot on the wall, he could
+forsake the Barber flat, could go forth, as if out of his own body, to
+visit any number of wonderful lands which lay so near that he could
+cross their borders in a moment. He could sail vast East Rivers in
+marvelous tugs. He could fly superbly over great cities in his own
+aeroplane.
+
+And all this travel brought him into contact with just the sort of men
+and women he wanted to know, so politely kind, so interesting. They
+never tired of him, nor he of them. He was with them when he wanted to
+be--instantly. Or they came to the flat in the friendliest way. And when
+its unpleasant duties claimed him--the Monday wash, the Tuesday ironing,
+the Saturday scrubbing, or the regular everyday jobs such as dishes,
+beds, cooking, bead-stringing, and violet-making--frequently they helped
+him, lightening his work with their charming companionship, stimulating
+him with their example and praise.
+
+Oh, they were just perfect!
+
+And how quiet, every one of them! So often when the longshoreman
+returned of an evening, his bloodshot eyes roving suspiciously, a crowd
+of handsomely dressed people filled the kitchen, and he threaded that
+crowd, yet never guessed! When Big Tom spoke, the room usually cleared;
+but later on Johnnie could again summon all with no trouble whatever,
+whether they were great soldiers or presidents, kings or millionaires.
+
+Of the latter he was especially fond; in particular, of a certain four.
+And as he paused now to decide upon his program, he thought of that
+quartet. Why not give them a call on the telephone this morning?
+
+He headed for the morris chair. Under its soiled seat-cushion was a
+ragged copy of the New York telephone directory, which just nicely
+filled in the sag between the cushion and the bottom of the chair. He
+took the directory out--as carefully as if it were some volume not
+possible of duplication.
+
+It was his only book. Once, while Cis was still attending school, he had
+shared her speller and her arithmetic, and made them forever his own
+(though he did not realize it yet) by the simple method of photographing
+each on his brain--page by page. And it was lucky that he did; for when
+Cis's brief schooldays came to an end, Big Tom took the two textbooks
+out with him one morning and sold them.
+
+The directory was the prized gift of Mrs. Kukor's daughter, Mrs.
+Reisenberger, who was married to a pawnbroker, very rich, and who
+occupied an apartment (not a flat)--very fine, very expensive--in a
+great Lexington Avenue building that had an elevator, and a uniformed
+black elevator man, very stylish. The directory meant more to Johnnie
+than ever had Cis's books. He knew its small-typed pages from end to
+end. Among the splendid things it advertised, front, back, and at the
+bottom of its pages, were many he admired. And he owned these whenever
+he felt like it, whether automobiles or animals, cash registers or
+eyeglasses. But such possessions, fine as they were, took second place
+in his interest. What thrilled him was the list of subscribers--the
+living, breathing thousands that waited his call at the other end of a
+wire! And what people they were!--the world-celebrated, the fabulously
+wealthy, the famously beautiful (as Cis herself declared), and the
+socially elect!
+
+Of course there was still others who were prominent, such as
+storekeepers, prize fighters, hotel owners and the like (again it was
+Cis who furnished the data). But Johnnie, as has been seen, aimed high
+always; and he was particular in the matter of his telephonic
+associations. Except when shopping, he made a strict rule to ring up
+only the most superior.
+
+There was a clothesline strung down the whole length of the kitchen.
+This Johnnie lowered on a washday to his own easy reach. At other times
+it was raised out of the way of Big Tom's head.
+
+He let the line down. Then pushing the kitchen chair to that end of the
+rope which was farthest from the stove and the sleeping old man, he
+stood upon it; and having considered a moment whether he would first
+call up Mr. Astor, or Mr. Vanderbilt, or Mr. Carnegie, or Mr.
+Rockefeller, decided upon Mr. Astor, and gave a number to a priceless
+Central who was promptness itself, who never rang the wrong bell, or
+reported a busy wire, or cut him off in the midst of an engrossing
+conversation.
+
+This morning, as usual, he got his number at once. "Good-mornin', Mister
+Astor!" he hailed breezily. "This is Johnnie Smith.--'Oh, good-mornin',
+Mister Smith! How are y'?'--I'm fine!--'That's fine!'--How are you,
+Mister Astor?--'Oh, I'm fine.'--That's fine!--'I was just wonderin',
+Mister Smith, if you would like to go out ridin' with me.'--Yes, I
+would, Mister Astor. I think it'd be fine!--'Y' would? Well, that's
+fine! And, Mister Smith, I'll come by for y' in about ten minutes. And
+if ye'd like to take a friend along----'"
+
+There now followed, despite the appointment set for so early a moment, a
+long and confidential exchange of views on a variety of subjects. When
+this was finished, Johnnie rang, in turn, Messrs. Vanderbilt, Carnegie
+and Rockefeller, sparing these gentlemen all the time in the world.
+(When any one of them did indeed call for him, fulfilling an
+appointment, what a gorgeous blue plush hat the millionaire wore! and
+what a royally fur-collared coat!)
+
+Now Johnnie put aside the important engagement he had made with Mr.
+Astor, and, being careful first to find the right numbers in the book,
+got in touch with numerous large concerns, and ordered jewelry,
+bicycles, limousines, steam boilers and paper drinking cups with
+magnificent lavishness.
+
+He had finished ordering his tenth automobile, which was to be done up
+in red velvet to match the faithful Buckle, when there fell upon his
+quick ear the sound of a step. In the next instant he let go of the
+clothesline, sent the telephone book slipping from the chair at his
+feet, and plunged like a swimmer toward that loose ball of gingham under
+the sink.
+
+And not a moment too soon; for scarcely had he tossed the tied strings
+over his tea-leaf-sprinkled hair, when the door opened, and there, coat
+on arm, great chest heaving from his climb, bulgy eyes darting to mark
+the condition of the flat, stood--Barber!
+
+
+
+
+CHAPTER V
+
+NEW FRIENDS
+
+
+IT WAS an awful moment.
+
+During that moment there was dead silence. Johnnie's heart stopped
+beating, his ears sang, his throat knotted as if paralyzed, and the skin
+on the back of his head crinkled; while in all those uneven thickets of
+his tawny, tea-stained hair, small, dreadful winds stirred, and he
+seemed to lift--horribly--away from the floor.
+
+Also, a sickish, sinking feeling at the lower end of his breastbone made
+him certain that he was about to break in two; and a sudden wobbling of
+the knees threatened to bring him down upon them.
+
+Barber closed the hall door at his back--gently, so as not to waken his
+father. His eyes were still roving the kitchen appraisingly. It was
+plain that the full sink and the littered table were having their effect
+upon him; for he had begun that chewing on nothing which betokened a
+rising temper.
+
+Johnnie saw, but he was too stunned and scared to think of any way out
+of his difficulty. He might have caught up the big cooking spoon and
+rapped on that lead pipe--five times in rapid succession, as if he were
+trying to clear the spoon of the cereal clinging to its bowl. The five
+raps was a signal that he had not used for a long time. It belonged to
+that dreadful era to which Cis and he referred as "before the saloons
+shut up." Preceding the miracle that had brought the closing of these,
+Barber, returning home from his day's work, had needed no excuse for
+using the strap or his boot upon either of the children. And once he had
+struck helpless old Grandpa--a happening remembered by Cis and Johnnie
+with awesome horror, so that they spoke of it as they spoke of the Great
+War, or of a murder in the next block.
+
+It had not been possible in those days for Big Tom to overlook the
+temptation of drink. To arrive at his own door from any direction he had
+to pass saloons. At both of the nearest street crossings northward,
+three of the four corners had been occupied by drinking places. There
+were two at each of the street crossings to the south. In those now
+distant times, the signal, and Mrs. Kukor's prompt answering of it, had
+often saved Cis and Johnnie from drunken beatings.
+
+But now the boy sent no signal. Those big-girl's hands were shaking in
+spite of all effort to control. His upturned face was a ghastly sallow.
+The gray eyes were set.
+
+Barber's survey of the room finished, he stepped across the sagging
+telephone line, placed the cargo hook and his lunch pail on the untidy
+table, and squared ro
