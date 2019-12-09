@@ -15,15 +15,8 @@
     firebase.analytics();
 
     const txtRech = document.getElementById('rechercher');
-    //const btnRech = document.getElementById('ok');
 
     const db = firebase.firestore();
-    //db.settings({ timestampsInSnapshots: true });
-
-    /*btn.addEventListener('click', e => {
-        const valRech = txtRech.value;
-    })*/
-
 
     const livresListe = document.querySelector('#livre-list');
 
@@ -32,11 +25,9 @@
         let titre = document.createElement('span');
 
         li.setAttribute('data-id', doc.id)
-
         titre.textContent = doc.data().titre;
 
         li.appendChild(titre);
-
         livresListe.appendChild(li)
     }
 

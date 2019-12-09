@@ -287,6 +287,31 @@ body>script {
 }
 
 #recherche {
-    margin-top: 400px;
-    margin-left: 800px;
+    margin-top: auto;
+    margin-left: auto;
+    margin: 0 auto;
+    width: 100em;
+}
+
+#recherche h1 {
+    margin-top: 100px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+#recherche form {
+    text-align: center;
+    margin: 0 auto;
+    width: 80em;
+}
+
+#recherche input {
+    width: 30em;
+}
+
+#recherche ul {
+    margin: auto;
+    margin-top: 30px;
+    width: 30em;
+    list-style: none;
 }
