@@ -1,4 +1,4 @@
-<project name="Online" default="compile" basedir=".">
+<project name="Gutt" default="compile" basedir=".">
     <description>
         The build file for Grep program
     </description>
@@ -14,7 +14,11 @@
     <tstamp/>
     <!-- Create the build directory structure used by compile -->
     <mkdir dir="${build}"/>
-    <mkdir dir="index"/>
+    <mkdir dir="./data/index"/>
+    <mkdir dir="./data/cent"/>
+    <mkdir dir="./data/pos"/>
+    <mkdir dir="./data/graphe"/>
+
   </target>
 
   <target name="compile" depends="init"
@@ -27,9 +31,12 @@
 
   <target name="run" depends="compile"
           description="run examples">
-    <java classname="Online.Online" classpath="${build}" fork="true">
-        <arg value="${arg0}"/>
-        <arg value="${arg1}"/>
+    <java classname="precalcul.precalcul" classpath="${build}" fork="true">
+        <!-- <jvmarg value="-verbosegc"/> -->
+        <jvmarg value="-Xmx2g"/>
+        <jvmarg value="-Xms32m"/>
+        <jvmarg value="-XX:+UseG1GC"/>
+        
     </java>
   </target>
 
@@ -41,11 +48,41 @@
     <zip basedir="." destfile="../daar-projet-offline-${nom1}-${nom2}.zip" />
   </target>
 
-  <target name="clean"
-        description="clean up" >	
+
+  <target name="clean" depends="cleanbuild,cleancent,cleanindex,cleanpos,cleangraphe"
+        description="clean up all" >	
+  </target>
+
+  <target name="cleanbuild"
+        description="clean up build" >	
         <echo>================ Removing build directory ================</echo>    
 	<delete dir="${build}"/>
-        <echo>================ Removing index directory ================</echo>    
-	<delete dir="index"/>
   </target>
+
+  <target name="cleanindex"
+        description="clean up index" >
+        <echo>================ Removing index directory ================</echo>    
+	<delete dir="data/index"/>
+  </target>
+
+  <target name="cleancent"
+        description="clean up cent" >
+        <echo>================ Removing cent directory ================</echo>    
+	<delete dir="data/cent"/>
+  </target>
+
+  <target name="cleanpos"
+        description="clean up pos" >
+        <echo>================ Removing pos directory ================</echo>    
+	<delete dir="data/pos"/>
+  </target>
+
+
+  <target name="cleangraphe"
+        description="clean up graphe" >
+        <echo>================ Removing graphe directory ================</echo>    
+	<delete dir="data/graphe"/>
+  </target>
+
+  
 </project>

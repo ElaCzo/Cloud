@@ -1,0 +1,1110 @@
+﻿The Project Gutenberg EBook of Drawings and Pharmacy in Al-Zahrawi's
+10th-Century Surgical Treatise, by Sami Hamarneh
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Drawings and Pharmacy in Al-Zahrawi's 10th-Century Surgical Treatise
+
+Author: Sami Hamarneh
+
+Release Date: July 24, 2008 [EBook #26038]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK DRAWINGS AND PHARMACY ***
+
+
+
+
+Produced by Chris Curnow, Turgut Dincer, Joseph Cooper and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+                 Drawings and Pharmacy in al-Zahrāwī’s
+                    10th-Century Surgical Treatise
+
+                         _by Sami Hamarneh_
+
+                     Paper 22, pages 81-94, from
+
+                    CONTRIBUTIONS FROM THE MUSEUM
+                      OF HISTORY AND TECHNOLOGY
+
+                    UNITED STATES NATIONAL MUSEUM
+                            BULLETIN 228
+
+          SMITHSONIAN INSTITUTION    ·    WASHINGTON, D.C., 1961
+
+  [Illustration: Figure 1.--Reproduction of a page from
+  original Arabic manuscript indexed as "Cod. N.F. 476A" at
+  Oesterreichische Nationalbibliothek in Vienna. Courtesy
+  Oesterreichische Nationalbibliothek.]
+
+
+
+
+Drawings and Pharmacy in al-Zahrāwī’s
+10th-Century Surgical Treatise
+
+_by Sami Hamarneh_
+
+
+_Probably the earliest independent work in Arabic Spain to embrace the
+whole of medical knowledge of the time is the encyclopedic al-Tasrīf,
+written in the late 10th century by Abū al-Qāsim al-Zahrāwī, also known
+as Abulcasis. Consisting of 30 treatises, it is the only known work of
+al-Zahrāwī and it brought him high prestige in the western world._
+
+_Here we are concerned only with his last treatise, on surgery. With its
+many drawings of surgical instruments, intended for the instruction of
+apprentices, its descriptions of formulas and medicinal preparations,
+and its lucid observations on surgical procedures, this treatise is
+perhaps the oldest of its kind._
+
+_Scholars today have available a translation of the text and
+reproductions of the drawings, but many of the latter are greatly
+modified from the originals._
+
+_This study reproduces examples of al-Zahrāwī’s original illustrations,
+compares some with early drawings based on them, and comments on
+passages in the treatise of interest to students of pharmacy and medical
+therapy._
+
+THE AUTHOR: _Sami Hamarneh undertook this research into the history of
+medicine in connection with his duties as associate curator of medical
+sciences in the United States National Museum, Smithsonian Institution._
+
+
+THE INTRODUCTION OF THE WRITINGS of Abū al-Qāsim Khalaf ibn ʻAbbās
+al-Zahrāwī--better known as Abulcasis (d. ca. 1013)--to Western Europe
+was through the Latin translation of his surgical treatise (maqālah) by
+Gerard of Cremona (d. 1187).[1] The response to this treatise,
+thereafter, was much greater than the attention paid to the surgery of
+any of the three renowned physicians of the Eastern Caliphate: al-Rāzī
+(Latin, Rhazes, d. ca. 925), the greatest clinician in Arabic medicine;
+al-Majūsī (Haly Abbās, d. 994), the author of the encyclopedic medical
+work, _al_-_Malakī_;[2] and Ibn Sīnā (Avicenna, 980-1037), the author
+of the famous _al-Qānūn fī al-Ṭibb_, a codification of the whole of
+medical knowledge. Because of the widespread dissemination of this Latin
+version in medieval Europe beginning with the latter part of the 12th
+century, al-Zahrāwī attained more prestige in the West than he did in
+Arabic Spain, his native country, or in any other part of the Islamic
+world.[3]
+
+  [Illustration: Figure 2.--The myrtle-leaf shape recommended
+  for paper on which medicine is to be placed for cauterizing
+  eyelid. _Top_, from original Arabic manuscript (Tüb. MS.
+  91), courtesy Universitätsbibliothek Tübingen. _Bottom_,
+  from Channing, _Albucasis_.]
+
+The fame attached to this surgical treatise, the 30th and last in
+al-Zahrāwī’s encyclopedic work _al-Taṣrīf Liman ‘Ajiza ‘an
+al-Ta’līf_, is founded on certain merits. The text is characterized
+by lucidity, careful description, and a touch of original
+observation of the surgical operations to which the treatise as a
+whole is devoted.[4] Al-Zahrāwī furnishes his own drawings of the
+surgical and dental instruments he used, devised, or recommended for
+a more efficient performance. The illustrations were intended to
+provide instructional material for apprentices--whom al-Zahrāwī
+calls his children--as well as for the benefit of those who would
+read the work later on.[5] The treatise is probably the oldest one
+known today that contains such instructive surgical illustrations
+and text.[6]
+
+  [Illustration: Figure 3.--Small funnel for pouring heated
+  lead into fistula of the eye for cauterization. _Top_, from
+  original Arabic manuscript (Vel. 2491), courtesy Süleymaniye
+  Umumi Kütüphanesi Müdürlüğü. _Bottom_, from Sudhoff,
+  _Chirurgie_, courtesy National Library of Medicine.]
+
+  [Illustration: Figure 4.--Circular cauterization in stomach
+  ailments. _Top_, from original Arabic manuscript (Tüb. MS.
+  91), courtesy Universitätsbibliothek Tübingen. _Bottom_,
+  from the 1531 Latin edition of Pietro d’Argellata,
+  _Chirurgia Argellata cum Albucasis_, hereinafter cited as
+  Argellata 1531, courtesy National Library of Medicine.]
+
+This surgical treatise has been investigated, translated, and commented
+upon by eminent historians of medicine and surgery to whose works I
+shall refer in this article. However, the pharmaceutic and therapeutic
+details of the treatise have been somewhat overlooked.
+
+As to the various illustrations of the surgical instruments (over 200
+figures in all), an almost complete representation of samples has been
+introduced by Channing,[7] Leclerc,[8] Gurlt,[9] Sudhoff,[10] and
+others. Nevertheless, a good number of the reproduced drawings are
+greatly modified, most likely having been influenced by earlier
+illustrations in several Latin and vernacular versions of the
+treatise.[11] This becomes clearer on comparison with seven Arabic
+manuscripts that have not been fully examined by Western scholars before
+and that--in several instances--show more authentic drawings of
+al-Zahrāwī’s surgical instruments than any heretofore published.[12]
+
+  [Illustration: Figure 5.--Ink markings for identifying place
+  of cauterization. _Top_, from original Arabic manuscript
+  (Vel. 2491), courtesy Süleymaniye Umumi Kütüphanesi
+  Müdürlüğü. _Bottom_, from Argellata 1531, courtesy National
+  Library of Medicine.]
+
+  [Illustration: Figure 6.--Cautery in hernia. _Top_, from
+  original Arabic manuscript (Vel. 2491), courtesy Süleymaniye
+  Umumi Kütüphanesi Müdürlüğü. _Bottom_, from Leclerc,
+  _Albulcasis_.]
+
+This article therefore, is an attempt to present a sample of these
+illustrations with brief comments regarding certain figures and passages
+of interest to pharmacy and medical therapy.
+
+With much gratitude I express my indebtedness to Prof. G. Folch Jou of
+Madrid, to Dr. A. Süheyl Ünver and Mr. H. Dener of Istanbul, and to the
+librarians of the depository institutions for their cooperation in the
+reproduction of the manuscripts on microfilm.
+
+  [Illustration: Figure 7.--Fine tweezer for removing foreign
+  bodies from the ear. _Top_, from original Arabic manuscript
+  (Ali 2854), courtesy Süleymaniye Umumi Kütüphanesi
+  Müdürlüğü. _Bottom_, from Leclerc, _Abulcasis_.]
+
+  [Illustration: Figure 8.--Syringe with metal plunger-pump.
+  _Top_, from original Arabic manuscript (Ali 2854), courtesy
+  Süleymaniye Umumi Kütüphanesi Müdürlüğü. _Bottom_, from
+  Channing, _Albucasis_.]
+
+Al-Zahrāwī frequently introduces his treatises with brief instructive
+and sometimes informative preludes. However, in launching the last
+treatise of _al-Taṣrīf_ he expounded in a most interesting and
+illuminating manner the status of surgery during his time. He also
+explains the reasons that forced him to write on this topic and why he
+wished to include, as he did, precautions, advice, instructional notes,
+and beautifully illustrated surgical drawings. For example, the prelude
+to the treatise mentions four incidents that he witnessed, all ending
+with tragic results because of the ignorance of physicians who attempted
+to operate on patients without the proper training in anatomy and
+surgical manipulation. "For if one does not have the knowledge of
+anatomy," al-Zahrāwī protests, then "... he is apt to fall in errors
+that lead to death as I have seen it happen to many."[13]
+
+Al-Zahrāwī divides his surgical treatise into three sections (abwāb). In
+the first section (56 chapters)[14] he elaborates upon the uses and
+disadvantages of cautery in general. And on the ground that "fire
+touches only the ailing part ... without causing much damage to
+surrounding area," as caustic medicine does, he prefers cautery by fire
+(al-kay bi al-nār) to cautery by medicine (bi al-dawā).[15] This, he
+adds, "became clear to us through lifelong experience, diligent
+practice, and thorough investigations of facts."[16]
+
+  [Illustration: Figure 9.--Metal nose dropper. _Top_, from
+  original Arabic manuscript (Tüb. MS. 91), courtesy
+  Universitätsbibliothek Tübingen. _Middle_, from Channing,
+  _Albucasis_ (_Smithsonian photo 46891-C_). _Bottom_, from
+  Sudhoff, _Chirurgie_, courtesy National Library of
+  Medicine.]
+
+He also proposes that instruments made of iron are more practical in
+many ways than those made of gold, because often, when gold instruments
+are put in fire, they either are not heated enough or are overheated,
+causing the gold to melt.
+
+  [Illustration: Figure 10.--Dental scrapers. _Top_, from
+  original Arabic manuscript (Vel. 2491), courtesy Süleymaniye
+  Umumi Kütüphanesi Müdürlüğü. _Left_, from Argellata 1531,
+  courtesy National Library of Medicine. _Right_, from
+  Channing, _Albucasis_.]
+
+Al-Zahrāwī gently refutes the superstition that cautery is "good only in
+springtime," and states that "under the right conditions of the body’s
+humors it could be used in all seasons."[17] Although he recommends
+cautery rather highly, he never minimizes the importance of treatment
+by drugs. Actually, he encourages the use of drugs, before, with, and
+after cauterization.[18] For example, in chapter 16 on "the
+cauterization of eyelid when its hair grows reversedly into the eye," he
+recommends treatment by cautery and by medicine. In cautery, the area
+where fire is to be placed is marked with ink in the shape of a myrtle
+leaf. In drug treatment, the caustic medicine is applied to the eyelid
+over a paper in the shape of a myrtle leaf (fig. 2).
+
+  [Illustration: Figure 11.--Dental forceps. _Top_, from
+  original Arabic manuscript (Tüb. MS. 91), courtesy
+  Universitätsbibliothek Tübingen. _Bottom_, from Leclerc,
+  _Abulcasis_.]
+
+In chapter 17 the author refers to an ancient method regarding cautery
+of the fistula in the inner corner of the eye. After incising the
+fistula, one "dirham" (derived from the Greek "drachma," which is equal
+to about 2.97 grams)[19] of melted lead is poured into it through a fine
+funnel used for cauterization (fig. 3).
+
+  [Illustration: Figure 12.--Golden bridge to stabilize shaky
+  teeth. _Top_, from original Arabic manuscript (Tüb. MS. 91),
+  courtesy Universitätsbibliothek Tübingen. _Left_, from
+  Argellata 1531, courtesy National Library of Medicine.
+  _Right_, from Channing, _Albucasis_.]
+
+In like manner, al-Zahrāwī discusses cautery of the stomach and the
+"cold liver" in chapters 26 and 27, respectively. The drawings therein
+represent shapes of the burns on the skin (fig. 4) and marks of ink to
+be drawn beneath the cartilage of the ribs (fig. 5) for the purpose of
+spotting the area of operation. Here also he describes carefully and
+clearly the methods of applying cautery and the types, position, and
+number of tools employed in each case. He likewise depicts (in chapter
+45) instruments used in the treatment of hernia (fig. 6).
+
+The second section (bāb), with about 99 chapters,[20] deals with
+incision, puncturing, venesection, cupping, surgery on abscesses, and
+the withdrawal of arrows from the body. Al-Zahrāwī warns that ignorance
+in such operations may lead to damage of an artery or vein, causing loss
+of blood "by which life is sustained."[21] Moreover, needle and thread
+(more than one kind is mentioned) for the stitching of wounds are
+repeatedly recommended.
+
+According to al-Zahrāwī, foreign bodies that lodge in the ear (chapter
+6) are of four origins: (1) "mineral stones" or substances resembling
+mineral stones such as iron and glass; (2) plant seeds (chick-peas and
+beans); (3) liquids, such as water and vinegar; and (4) animals, such
+as fleas. Several instruments are recommended for the removal of such
+foreign bodies--fine tweezers shaped like a dropper (fig. 7), a syringe
+with plunger-pump, and a tube made of silver or copper (fig. 8). Also of
+interest to pharmacy and therapy is the advice in regard to the use of
+lubricants to be applied before administering these fine instruments
+into the body’s cavities.
+
+Chapter 24 is concerned with the treatment of the polypus that grows in
+the nose. The various kinds (including cancer growth), shapes, and
+colors of this type tumor and its treatment by surgery or medicine are
+described. A hollowed nose-dropper made of metal in the shape of a small
+kerosene lamp[22] is suggested (fig. 9). The dropper is held by its
+handle while its contents are heated before use. Applying heat to nose
+drops was probably proposed because it serves two purposes: it allows
+easier flow of the "duhn," or the fatty substance used, and it raises
+the temperature of the drops to that of the body.
+
+In his discussion on dental hygiene,[23] al-Zahrāwī describes scrapers
+and dental forceps for teeth cleaning and extraction (figs. 10, 11) and
+brings in a few points of historical interest.[24] He warns of the
+common error of extracting the adjacent healthy tooth instead of the
+ailing one due to the patient’s sense deception. For a gargle he
+prescribes salt water, vinegar, and wine (sharāb). To stop hemorrhage he
+used blue vitriol (al-zāj)--copper sulfate in our modern terminology.
+
+In chapter 33 al-Zahrāwī discusses bridge-making for the consolidation
+of shaky teeth (fig. 12). He prefers the use of stable gold over silver
+which, he says, putrifies and rots in a short time. In a rational
+approach, he also suggests that the fallen tooth itself, or a similar
+one shaped out of a cow’s bone, be installed and connected with
+adjacent, stable teeth by a bridge.
+
+Now, turning to chapter 36, we find al-Zahrāwī describing a knife-thin
+tongue depressor (fig. 13) that he used to facilitate the examination of
+inflamed tonsils and other swellings of the throat; it was made of
+silver or copper. And in chapter 37 (chapter 34 in Bes. 503), he
+describes the excision of an inflamed uvula by surgery. In the same
+chapter, he also mentions the use of instruments made of steel. Of
+pharmaceutical interest is the following free translation of the formula
+he prescribes "as a milder treatment by fumigation ... to be resorted to
+only when the swelling is subsiding":[25]
+
+  Take pennyroyal [_Mentha pulegium_ Linn.], absinthe
+  [_Artemisia maritima_ Linn.], thyme, rue, hyssop, camomile,
+  abrotanum [_Artemisia abrotanum_ Linn.], and other similar
+  herbs. Put all in a casserole and cover them with vinegar.
+  Then close tightly with clay [_lutum-sapientiae_]--except
+  for a small hole in the middle of the cover--and boil.
+  Connect one end of a hollowed instrument, a crude form of an
+  inhaler [fig. 14], with the hole in the cover and insert the
+  other end, which contains the nozzle, into the patient’s
+  mouth, allowing the vapor to rise up to the uvula. And if
+  you are not able to secure this instrument, take a straw and
+  attach its end to an egg-shell. The egg-shell will prevent
+  burns in the patient’s mouth that might be caused by the
+  heated vapor.
+
+  [Illustration: Figure 13.--Metal tongue depressor. _Top_,
+  from original Arabic manuscript (Ali 2854), courtesy
+  Süleymaniye Umumi Kütüphanesi Müdürlüğü._ Bottom_, from
+  Channing, _Albucasis_.]
+
+  [Illustration: Figure 14.--Crude form of an inhaler. _Top_,
+  from original Arabic manuscript (Tüb. MS. 91), courtesy
+  Universitätsbibliothek Tübingen. _Bottom_, from Argellata
+  1531, courtesy National Library of Medicine.]
+
+Al-Zahrāwī repeats in chapter 53, on cancer, what Greek physicians had
+said earlier, that cancer could be removed by surgery only at its first
+stage and when found in a removable part of the body, such as the
+breast. Therefore, he confesses that neither he nor any one else he
+knew of ever applied surgery with success on advanced cancer.[26]
+
+  [Illustration: Figure 15.--Metallic syringe for injecting
+  solutions into the bladder. _Top_, from original Arabic
+  manuscript (Bes. 503), courtesy Süleymaniye Umumi
+  Kütüphanesi Müdürlüğü. _Bottom_, from Argellata 1531,
+  courtesy National Library of Medicine.]
+
+  [Illustration: Figure 16.--Metallic or porcelain syringes
+  for injection of enemas. _Top_, from original Arabic
+  manuscript (Ali 2854), courtesy Süleymaniye Umumi
+  Kütüphanesi Müdürlüğü. _Bottom_, from Argellata 1531,
+  courtesy National Library of Medicine.]
+
+Of special interest in chapter 59 is the metallic "syringe" (fig. 15)
+used to inject medicinal solutions into the bladder: "The hollow passage
+[of the syringe] should be exactly equal to the plunger it contains and
+no more, so that when such fluids from an excess of humors are aspirated
+they will be drawn out, and likewise when the solutions are injected
+they will be pushed in easily." Such description of the use of a
+"bladder syringe" in the late 10th century clearly points to the
+practical and interesting approach to surgery in _al-Taṣrīf_. Moreover,
+his description of the removal of a stone from the bladder--an operation
+we now call lithotomy--is considered a contribution to bladder surgery.
+
+One of the earliest recorded operations for the extractions of two dead
+fetuses from the womb is clearly described in chapter 76. The account of
+this case shows not only al-Zahrāwī’s intelligent approach as a shrewd
+observer but also his clinical and surgical ability.
+
+Drawings of bulb-syringe instruments used for administering enemas in
+ailments of the rectum and for the treatment of diarrhea and colic are
+depicted in chapter 83. The text describes several kinds of syringes
+made of silver, porcelain, and copper in various sizes (fig. 16). Of
+particular interest is an illustration of a syringe, especially
+recommended for children, to which a piece of leather (jildah) is
+attached (fig. 17). This instrument is a precursor of our modern bulb
+syringe.
+
+In chapter 84 al-Zahrāwī turns to the treatment of various wounds. He
+prescribes the following powder formula for use: "Take olibanum
+[frankincense] and dragon’s blood,[27] two parts of each, and three
+parts of slaked or unslaked lime. Pound them well, pass through a sieve
+and apply the powder to the wound." In cases of damaged blood vessels,
+he tied the arteries by ligature, a practice of which he was a pioneer.
+In another chapter he describes four methods for suturing the
+intestines.
+
+Al-Zahrāwī, being associated with war casualties and writing his
+treatise about the end of the 10th century, no doubt had the experience
+of dealing with cases involving injuries caused by arrows. The text in
+chapter 94 discloses his observations in elaborate investigations
+regarding the extraction of various kinds of arrows from the body.[28]
+Accordingly, several kinds of hooks and forceps for removing arrows are
+described and depicted in the treatise (see fig. 18). Al-Zahrāwī’s
+mention of Turkish bows and arrows led Freind to believe, erroneously,
+that the author of the treatise must have lived in the 12th century,[29]
+notwithstanding the fact that Turkish bows and arrows were in common use
+in the latter part of the 10th century.
+
+  [Illustration: Figure 17.--A crude form of bulb syringe
+  recommended for use with children. _Top_, from original
+  Arabic manuscript (Ali 2854), courtesy Süleymaniye Umumi
+  Kütüphanesi Müdürlüğü. _Bottom_, from Leclerc, _Abulcasis_.]
+
+The next chapter, on cupping, mentions the use of cups made of horns,
+wood, copper, or glass, according to circumstances and the availability
+of material. The methods of treatment are divided into two kinds: dry
+cupping, with or without fire, and wet cupping (see fig. 19). He
+prescribes ointments and aromatic and medicated waters to be applied
+before and after cupping to facilitate healing. Only when cupping is not
+possible, as on the nose, fingers, and similar parts of the human body,
+does he propose the use of leeches for treatment.[30] Evidently this is
+an indication that he did not, as generally supposed, encourage the
+widespread use of leeches.
+
+  [Illustration: Figure 18.--Hooks and forceps used for the
+  extraction of arrows. _Top_, from original Arabic manuscript
+  (Tüb. MS. 91), courtesy Universitätsbibliothek Tübingen.
+  _Bottom_, from Channing, _Albucasis_.]
+
+  [Illustration: Figure 19.--Cupping. _Top_, from original
+  Arabic manuscript (Tüb. MS. 91), courtesy
+  Universitätsbibliothek Tübingen. _Bottom_, from Argellata
+  1531, courtesy National Library of Medicine.]
+
+The third and final section, of 35 chapters, deals with the reduction,
+luxation, and treatment of injured bones, including fracture of the
+pelvis. The advices and warnings in the prelude of this section appear
+to repeat some of al-Zahrāwī’s sayings that had been covered in his
+previous introductions. The text, however, presents many facets of
+interest to the health professions. It elaborates upon the application
+of various forms of bandages and plasters in a variety of operations.
+Al-Zahrāwī’s detailed description relating to fractures of bones is a
+fine anatomical document of historical interest. He illustrates and
+describes special methods for tying injured or broken bones, and he
+suggests that bandages made of soft linen be less and less tight as
+distance increases from the injured place (chapter 1). For the
+protection of areas adjacent to the injured part against contact with
+edges of splints he advocates padding with soft gauze and carded wool.
+In some cases, to guard against swelling, he preferred a delay of one or
+more days in applying bandages over splints. Al-Zahrāwī also devised
+and depicted many kinds and shapes of splints for use in simple and
+compound fractures of the head, shoulders, arms, fingers, etc. (see fig.
+20). For example, in discussing the reduction of the humerus, he
+recommends a splint consisting of a smooth, thin stick bent in the shape
+of a bow with two strings, each attached to one end of the stick (fig.
+21). The injured bone is then placed in the middle of the bent splint
+for reduction while the patient is seated on a chair. Tying is applied
+only when there is no "hot" swelling (chapter 11). One of the remarkable
+observations made in this section is the description of the paralysis
+caused by fracture of the spine.
+
+  [Illustration: Figure 20.--Splint "in the shape of a spoon
+  without a bowl." _Top_, from original Arabic manuscript
+  (Tüb. MS. 91), courtesy Universitätsbibliothek Tübingen.
+  _Bottom_, from Channing, _Albucasis_.]
+
+Of interest to historians of medical therapy and pharmacy are the
+recipes for poultices that al-Zahrāwī recommends for use over
+fractured bones. For example, he gives the following recipe for one
+such poultice: "Take the so-called 'mill’s dust' [ghubār al-rahā],
+which is the part of the wheat flour that clings to the walls of the
+mill during grinding [lubāb al-daqīq], and, without sifting away the
+bran, knead with white-of-egg to a medium consistency, and apply."
+Another, more elaborate, recipe calls for 10 dirhams each of the
+roots of wild pomegranate [_Glossostemon bruguieri_ D.C.], chickling
+vetch [the grass pea, _Lathymus sativus_], and white marshmallow; 5
+dirhams each of myrrh and aloes; 6 dirhams of white gum Arabic
+[_Acacia_]; and 20 dirhams of bole [friable earthy clay consisting
+largely of hydrous silicates of aluminum and magnesium, usually
+colored red because of impurities of iron oxide]. Procedure was to
+pound all ingredients gently, pass them through a sieve, and knead
+with water or white-of-egg (chapter 1).
+
+  [Illustration: Figure 21.--A splint to support the arm.
+  _Top_, from original Arabic manuscript (Cod. N.F. 476A),
+  courtesy Oesterreichische Nationalbibliothek. _Bottom_, from
+  Argellata 1531, courtesy National Library of Medicine.]
+
+The question arises as to whether al-Zahrāwī did any human dissection.
+The answer is uncertain because our knowledge of his life is
+fragmentary. However, he gives no clue to the dissection of humans in
+any of the 30 treatises of _al-Taṣrīf_--his only known writings--and
+there is no evidence that he practiced it in secret. His upright
+attitude as a Muslim who repeatedly emphasized his adherence to his
+faith suggests that he relied completely on animal dissection and the
+writings of his Greek-Roman and Islamic predecessors. Physicians in both
+the Islamic domain and in Christendom for many centuries were hostile to
+the idea of human dissection for any purpose because of their
+traditional socio-religious convictions, considering it an unethical and
+undignified practice. Perhaps it has been al-Zahrāwī’s original
+contributions to surgery, his enthusiasm in emphasizing the value of
+anatomical knowledge, and his recognition of the necessity that only
+well-educated, well-trained doctors should perform surgery that have led
+some medical historians to wonder whether he did human dissection at
+some time in his long years of experience.
+
+
+In Summary
+
+The few examples of illustrations of surgical instruments given here
+indicate that the Arabic manuscripts, in general, have preserved the
+original, oriental, artistic features of the drawings in a way that has
+been overlooked in Latin and vernacular versions of _al-Taṣrīf_.
+
+In presenting his personal observations and original ideas on surgery
+late in life, al-Zahrāwī, for the most part, was inspired by a thorough
+acquaintance with Greek and Arabic medical literature supplemented by
+lifelong intelligent observation and experience.
+
+Through its descriptions and illustrations, the surgical treatise of
+al-Zahrāwī very likely played a significant role in the designing of
+improved surgical instruments in the Middle Ages. Also, the treatise no
+doubt promoted the development of improved surgical techniques in Islam
+and, through its translations, promoted these techniques to an even
+greater extent in the West, a fact that justifies the fame of this
+treatise as the highest expression of the development of surgery in
+Arabic Spain--a treatise whose influence continued to the Renaissance.
+It contributed in no small measure to the idea of equipping learned and
+well-trained surgeons with the best surgical tools and techniques of the
+time; moreover, it encouraged the invention of new instruments to meet
+differing circumstances and special conditions. These tools no doubt
+greatly facilitated the work of the surgeon.
+
+Throughout the text of _al-Taṣrīf_ al-Zahrāwī gave careful attention
+to the importance of pharmaceutical preparations in the healing art,
+including cases requiring surgery.
+
+
+  [1] George Sarton, _Introduction to the History of
+  Science_, Baltimore, 1927, vol. 1, p. 681.
+
+  [2] Mohammad S. Abu Ganima, in _Abul-Kasim ein Forscher der
+  Arabischen Medizin_, Berlin, 1929, suggested that
+  description of operations in al-Majūsī’s surgery is clearer
+  than that in al-Zahrāwī’s--a statement which does not seem
+  acceptable.
+
+  [3] Max Neuburger, _Geschichte der Medizin_, Stuttgart,
+  1911, vol. 2, pt. 1, pp. 178-179.
+
+  [4] Heinrich Haeser, _Lehrbuch der Geschichte der Medizin
+  und der epidemischen Krankheiten_, Jena, 1875, vol. 1, pp.
+  578-584; and Donald Campbell, _Arabian Medicine and Its
+  Influence on the Middle Ages_, London, 1926, vol. 1, p. 88.
+
+  [5] See the prelude to the treatise.
+
+  [6] Fielding H. Garrison (_An Introduction of the History of
+  Medicine_, ed. 4, rev., Philadelphia, 1929, p. 132), states,
+  in reference to "Sudhoff and others," that many drawings
+  earlier than those of al-Zahrāwī have been discovered in
+  medieval manuscripts. However, Garrison overlooked the fact
+  that al-Zahrāwī’s surgical illustrations were mainly
+  depicted for instructional purposes--a unique approach. It
+  should be noted also that al-Zahrāwī died almost a century
+  earlier than Garrison thought. See also Martin S. Spink,
+  "Arabian Gynaecological, Obstetrical and Genito-Urinary
+  Practice Illustrated from Albucasis," _Proceedings of the
+  Royal Society of Medicine_, 1937, vol. 30, p. 654.
+
+  [7] Johannis Channing, _Albucasis de Chirurgia. Arabice et
+  Latine_, Oxford, 1778, 2 vols. (hereinafter referred to as
+  Channing, _Albucasis_). The text has many errors in spelling
+  and grammar, but Leclerc went too far in criticizing this
+  edition, which has many merits. Moreover, the surgical
+  illustrations (reproduced from the Huntington and Marsh
+  manuscripts of the Bodleian Library) in Channing’s edition
+  are of special interest.
+
+  [8] Lucien Leclerc, _La Chirurgie d’Abulcasis_, Paris, 1861
+  (hereinafter referred to as Leclerc, _Abulcasis_). This
+  excellent French version was first published in a series of
+  articles in _Gazette Médicale de l’Algérie_, and seems
+  influenced by Channing’s edition more than Leclerc admits.
+  Leclerc consulted several Arabic copies of the treatise as
+  well as Latin and vernacular translations, but only a few of
+  these Arabic manuscripts are considered complete. The Arabic
+  manuscripts studied for the present article are not the same
+  as those used by Leclerc. See also Leclerc’s monumental
+  work, _Histoire de la Médecine Arabe_, Paris, 1876, vol. 1,
+  pp. 453-457.
+
+  [9] Ernst Gurlt, _Geschichte der Chirurgie und ihrer
+  Ausübung Volkschirurgie-Alterthum-Mittelalter-Renaissance_,
+  Berlin, 1898, vol. 1, pp. 620-649, with more than 100
+  figures. In the text and illustrations, Gurlt relied upon
+  Leclerc’s translation and modified drawings of the surgical
+  instruments; nevertheless, he presents a brief, systematic
+  study--probably the best so far--of the entire treatise.
+
+  [10] Karl Sudhoff, _Beiträge zur Geschichte der Chirurgie im
+  Mittelalter_, Leipzig, 1918 (hereinafter referred to as
+  Sudhoff, _Chirurgie_), vol. 2, pp. 16-84, with a few plates.
+  Although Sudhoff consulted the fragmentary Arabic manuscript
+  indexed as "Cod. Arab. 1989" in Gotha, Germany, he relied
+  mainly upon Latin versions of the treatise and the
+  illustrations contained in them.
+
+  [11] See Leclerc, _Abulcasis_, in introduction.
+
+  [12] The seven Arabic manuscripts are indexed as "Berlin MS.
+  Or. fol. 91," temporarily at Universitätsbibliothek
+  Tübingen, in Germany; "Escorial MS. Arabe No. 876," at
+  Biblioteca del Monasterio de San Lorenzo el Real de El
+  Escorial, in Spain; "Wien MS. Cod. N.F. 476 A.," at
+  Oesterreichische Nationalbibliothek, in Vienna; and "Ali
+  Emiri Arabi No. 2854," "Beşir Ağa Nos. 502 and 503," and
+  "Veliyyudin No. 2491," all at Süleymaniye Umumi Kütüphanesi
+  Müdürlüğü, in Istanbul. Hereinafter these manuscripts are
+  referred to, respectively, as Tüb. MS. 91; Esc. 876; Wien
+  476 A; Ali 2854; Bes. 502; Bes. 503; and Vel. 2491. The
+  Smithsonian Institution recently obtained a microfilm copy
+  of Bankipore Manuscript No. 17 from the Khuda Bakhsh O. P.
+  Library, Patna (Bihar), India. This manuscript, containing
+  only the 30th treatise of _al-Taṣrīf_, was copied in 1189;
+  therefore, it is the earliest dated Arabic manuscript of the
+  surgical treatise known to exist. The surgical illustrations
+  therein add weight to the belief that the Arabic manuscripts
+  show more originality in the drawings than do the later
+  copied versions, which often were inaccurate and possibly
+  distorted. About ten other illustrations from the Arabic
+  manuscript in Istanbul indexed as "Topkapi MS. No. 1990"
+  (which contains 215 beautifully illustrated figures) were
+  presented by A. S. Ünver and Hüseyin Usman in an extract
+  titled "Meşhur Arab Cerrahi Elbülkasimi Zehravi ve onum
+  Kitabül Cerrahiyesi," Istanbul, 1935. See also Ünver,
+  _Şerefeddin Sabuncuoğlu: Kitabül Cerrahiyei Illhaniye_,
+  Istanbul, 1939, pp. [5]-7.
+
+  [13] See introduction to the treatise; for example, Bes.
+  502, fol. 522v-523v and Vel. 2491, fol. 104r-105v. See also
+  K. P. J. Sprengel, _Versuch einer pragmatischen Geschichte
+  der Arzneikunde_, Halle, 1823, vol. 2, pp. 449-451. George
+  J. Fisher, in "Abul-Casem Chalaf Ibn Abbas al-Zahrāwī,
+  Commonly Called Albucasis," _Annals of Anatomy and Surgery_,
+  July-December, 1883, vol. 8, pp. 24-25, gives a translation
+  of only the first part of the introduction.
+
+  [14] There are 56 chapters listed in almost all manuscripts
+  and commentary works I checked except Tüb. MS. 91 and Esc.
+  876, where only 55 chapters are listed.
+
+  [15] Al-Zahrāwī mentions several caustic medicines used in
+  cautery, among which are garlic, mustard, melted lead,
+  slaked or unslaked lime with or without "common" soap,
+  Thapsia (_Ruta graveolens_ Linn.), and juice of the Oriental
+  cashew nut (_Senecarpus anacardium_ Linn.).
+
+  [16] Vel. 2491, fol. 106; Bes. 502, fol. 523r-524v.
+
+  [17] Al-Zahrāwī criticizes those who interpret the saying
+  "cautery is the end of treatment" to mean that cauterization
+  is the best and only conclusive treatment at the physician’s
+  disposal. He points out that other treatments, such as
+  drugs, should be resorted to first, and used until they
+  prove of no avail; and he states that only after cautery
+  proves to be the cure should it be considered the completion
+  of medical treatment--"al-kay ākhir al-ṭibb." See Vel. 2491,
+  fol. 106; and Bes. 502, fol. 524r-525v.
+
+  [18] For healing, soothing, or emollient purposes,
+  al-Zahwārī suggested medications, such as egg white, salt
+  water (normal saline), sap of psyllium, several ointments,
+  "duhn" of rose, and other "adhān" (plural of "duhn," the
+  fatty or oily essences extracted from various substances
+  through pharmaceutical processes).
+
+  [19] For a more accurate estimate of the equivalence of
+  "dirham" according to the area in which the measurement was
+  taken, the reader may consult Walter Hinz, _Islamische Masse
+  und Gewichte umgerechnet ins metrische System_, Leiden,
+  1955, pt. 1, pp. 2-8; and George C. Miles, _Early Arabic
+  Glass Weights and Stamps_, New York, 1948, p. 6.
+
+  [20] The contents of several manuscripts (such as Ali 2854,
+  Wien 476 A, Bes. 503, and Tüb. MS. 91) give different
+  numbers.
+
+  [21] See, for example, Tüb. MS. 91, fol. 45v; and Bes. 502,
+  fol. 530v.
+
+  [22] Sudhoff, _op. cit._ (footnote 10), p. 29, fig. 6.
+
+  [23] For a more detailed and interesting discussion with
+  beautiful illustrations included, the reader may consult Ch.
+  Niel, "La Chirurgie Dentaire D’Abulcasis Comparée a celle
+  des Maures du Trarza," _Revue de Stematologie_, April 1911,
+  vol. 18, pp. [169]-180 and 222-229.
+
+  [24] It is regrettable that Franz Rosenthal in his fine
+  article "Bibliographical Notes on Medieval Muslim Dentistry"
+  (_Bulletin of the History of Medicine_, 1960, vol. 34, pp.
+  52-60) failed to refer to this or any other section of
+  al-Zahrāwī’s work.
+
+  [25] Bes. 502, fol. 538. See also Channing, _Albucasis_, pp.
+  206-208. For the identification of the drugs and their
+  botanical origins the author of the present paper consulted
+  H. P. J. Renaud and Georges S. Colin, _Tuḥfat al-Aḥbāb,
+  Glossaire de la Matière Médicale Marocaine_, Paris, 1934,
+  pp. 133, 143, 193-194, and Max Meyerhof, _Un Glossaire de
+  Matière Médicale Composé par Maimonide_, Cairo, 1940, pp.
+  168-169.
+
+  [26] Tüb. MS. 91, fol. 99v.
+
+  [27] Dragon’s blood is a resin obtained from the scales
+  covering the surface of the ripe fruits of "_Daemonorops
+  draco Blume_" (Heber W. Youngken, _Textbook of
+  Pharmacognosy_, ed. 6, Philadelphia, 1948, p. 175). See also
+  Renaud and Colin, _op. cit._ (footnote 25), pp. 54-55.
+
+  [28] Heinrich Frölich, "Abul-Kasem als Kriegschirurg,"
+  _Archiv für klinische Chirurgie_, 1884, vol. 30, pp.
+  365-376. This well-presented study was reviewed by Paul
+  Schede in _Centralblatt für Chirurgie_, 1884, no. 38, pp.
+  626-627.
+
+  [29] Johannis Freind, _The History of Physick_, London,
+  1726, vol. 2, p. 129.
+
+  [30] In several manuscripts, the chapter on the use of
+  leeches is the last one in the second section of the
+  treatise.
+
+
+U.S. GOVERNMENT PRINTING OFFICE: 1961
+
+For sale by the Superintendent of Documents, U.S. Government Printing
+Office Washington 25, D.C.-Price 20 cents
+
+
+
+
+
+End of the Project Gutenberg EBook of Drawings and Pharmacy in Al-Zahrawi's
+10th-Century Surgical Treatise, by Sami Hamarneh
+
+*** END OF THIS PROJECT GUTENBERG EBOOK DRAWINGS AND PHARMACY ***
+
+***** This file should be named 26038-0.txt or 26038-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/6/0/3/26038/
+
+Produced by Chris Curnow, Turgut Dincer, Joseph Cooper and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

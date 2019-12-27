@@ -1,0 +1,2213 @@
+﻿The Project Gutenberg EBook of Samuel Richardson's Introduction to Pamela, by 
+Samuel Richardson
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Samuel Richardson's Introduction to Pamela
+
+Author: Samuel Richardson
+
+Editor: Sheridan W. Baker, Jr.
+
+Release Date: March 17, 2008 [EBook #24860]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK INTRODUCTION TO PAMELA ***
+
+
+
+
+Produced by Louise Hope, David Starner, Chris Curnow and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+Transcriber’s Note:
+
+This e-text comes in three different forms: unicode (utf-8), latin-1 and
+ascii-7.
+
+  --If “œ” displays as a single character, and apostrophes and quotation
+  marks are “curly” or angled, you have the utf-8 version (best). If any
+  part of this paragraph displays as garbage, try changing your text
+  reader’s “character set” or “file encoding“. If that doesn’t work,
+  proceed to:
+  --If “œ” is two letters, but words like “étude” have accents, you have
+  the latin-1 version. Apostrophes and quotation marks will be straight
+  (“typewriter” form). Again, if you see any garbage in this paragraph
+   and can’t get it to display properly, use:
+  --The ascii-7 or rock-bottom version. All necessary text will still be
+  there; it just won’t be as pretty.
+
+In the 18th-century text, the variable length of long dashes reproduces
+the original. Those shown as --- were printed as three distinct hyphens;
+those shown as -- or ---- were single long dashes.
+
+The printed book used hand-drawn brackets and sidenotes to incorporate
+information from different editions of the original text, as explained
+in the editor’s introduction:
+
+  The text is that of the second edition.... Brackets, added to this
+  lithoprint, show Richardson’s principal corrections: “4th” means
+  that the bracketed lines were deleted in the fourth and all
+  subsequent editions; “4th, change 6” means that in the fourth and
+  subsequent editions the bracketed lines were changed to the reading
+  listed here as number six. Several changes within deleted passages
+  are discussed but not marked on the text.
+
+In this e-text, marginal brackets are shown as braces { } at the
+beginning and end of each bracketed section, with sidenotes shown
+immediately before the bracketed text. Brackets or sidenotes that
+spanned multiple paragraphs are repeated for each paragraph. Numbered
+changes are shown as printed, at the end of the Introduction.
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+          The Augustan Reprint Society
+
+
+              SAMUEL RICHARDSON’S
+
+            Introduction to _Pamela_
+
+
+        Edited, with an Introduction by
+
+             Sheridan W. Baker, Jr.
+
+
+              Publication Number 48
+
+
+                   Los Angeles
+     William Andrews Clark Memorial Library
+            University of California
+
+                      1954
+
+
+
+
+GENERAL EDITORS
+
+  RICHARD C. BOYS, University of Michigan
+  RALPH COHEN, University of California, Los Angeles
+  VINTON A. DEARING, University of California, Los Angeles
+  LAWRENCE CLARK POWELL, Clark Memorial Library
+
+ASSISTANT EDITOR
+
+  W. EARL BRITTON, University of Michigan
+
+ADVISORY EDITORS
+
+  EMMETT L. AVERY, State College of Washington
+  BENJAMIN BOYCE, Duke University
+  LOUIS BREDVOLD, University of Michigan
+  JOHN BUTT, King’s College, University of Durham
+  JAMES L. CLIFFORD, Columbia University
+  ARTHUR FRIEDMAN, University of Chicago
+  EDWARD NILES HOOKER, University of California, Los Angeles
+  LOUIS A. LANDA, Princeton University
+  SAMUEL H. MONK, University of Minnesota
+  ERNEST C. MOSSNER, University of Texas
+  JAMES SUTHERLAND, University College, London
+  H. T. SWEDENBERG, JR., University of California, Los Angeles
+
+CORRESPONDING SECRETARY
+
+  EDNA C. DAVIS, Clark Memorial Library
+
+
+
+
+INTRODUCTION
+
+
+Since most publishers of _Pamela_ have preferred to print
+Richardson’s table of contents from the sixth edition, his complete
+introduction (his preface, together with letters to the editor and
+comments) is missing even from some of our best collections.
+Occasionally one finds the preface and the first two letters, but only
+four publishers since Richardson have attempted to reprint the full
+introduction. Harrison (London, 1785) -- who omits the first letter --
+and Cooke (London, 1802-3) both follow Richardson’s eighth edition;
+Ballantyne (Edinburgh, 1824) uses the fourth; the Shakespeare Head
+(Oxford, 1929), the third. And even these printings leave one
+dissatisfied. The Shakespeare Head gives the fullest text, but naturally
+omits Richardson’s revisions; Cooke gives the introduction in its final
+form, but one misses the full text which accompanied the book in its
+heyday; and rarely are both Cooke and Shakespeare Head to be found in
+the same library.
+
+Richardson’s complete introduction gains importance when we note that he
+retained and revised it through seven of his eight editions of _Pamela_.
+To see the text and follow Richardson’s changes is to get an unusually
+intimate view of his attitude toward his book, of his concessions and
+tenacities, of Richardson the anonymous “editor” who could not keep the
+author’s laurels completely under his hat.
+
+This present reprint, therefore, intends to give the fullest text of
+Richardson’s introduction, and to indicate his changes. The text is that
+of the second edition, reproduced with permission of the Huntington
+Library. Brackets, added to this lithoprint, show Richardson’s principal
+corrections: “4th” means that the bracketed lines were deleted in the
+fourth and all subsequent editions; “4th, change 6” means that in the
+fourth and subsequent editions the bracketed lines were changed to the
+reading listed here as number six. Several changes within deleted
+passages are discussed but not marked on the text.
+
+Richardson’s own editions of _Pamela_ appeared as follows: (1) November
+6, 1740, (2) February 14, 1741, (3) March 12, 1741, (4) May 5, 1741,
+(5) September 22, 1741, (6) May 10, 1742, (7) 1754, (8) October 28,
+1761[1] (three months after Richardson’s death). The first edition
+prints Richardson’s preface and two complimentary letters. To these the
+“Introduction to this Second Edition” adds twenty-four pages of letters
+and comment and the third edition makes no changes in the introduction
+whatsoever, even retaining “this Second Edition,”[2] The fourth makes
+some changes, and the fifth, considerably more. The sixth, a handsome
+quarto in a row of duodecimos, abandons the introductory letters; the
+seventh follows the fifth, and the eight makes some major cuts.
+
+Notwithstanding Richardson’s freedom in editing these letters -- and
+Fielding’s insinuation in _Shamela_ that they were Richardson’s own copy
+-- he wrote none of them. Jean Baptiste de Freval, a Frenchman living in
+London, for whom Richardson was printing a book,[3] wrote the first. The
+second probably came from William Webster, clergyman and editor of _The
+Weekly Miscellany_, wherein the letter had appeared as an advertisement,
+the first public reference to _Pamela_, on October 11, 1740.[4] Webster
+owed (an obligation eventually forgiven) “a debt of 140 _l._ to my most
+worthy Friend, Mr. _Richardson_, the _Printer_,”[5] and Richardson
+reprints the letter using Webster’s phrase: “To my worthy Friend, the
+Editor of _Pamela_.” These first two letters, de Freval’s and Webster’s,
+respond to an author’s request for criticism. The rest, new with the
+second edition, are unsolicited.
+
+All of these are the work of Aaron Hill, excepting only the anonymous
+letter which Richardson summarizes, beginning on page xxi[6] -- sent to
+Richardson in care of Charles Rivington, co-publisher of _Pamela_, on
+November 15, 1740, the first gratuitous response to Richardson’s book.
+To advertisements in _The Daily Gazeteer_ (November 20) and _The London
+Evening-Post_ (December 11-13), Richardson added a note:
+
+  An anonymous Letter relating to this Piece is come to the Editor’s
+  Hand, who takes this Opportunity (having no better) most heartily to
+  thank the Gentleman for his candid and judicious Observations; and
+  to beg Favour of a further Correspondence with him, under what
+  Restrictions he pleases. Instruction, and not Curiosity, being
+  sincerely the Motive for this request.[7]
+
+If the gentleman had answered, the introduction to _Pamela_ would
+perhaps have been shorter. Some of Hill’s acerbity may have been
+absorbed from Richardson, hurt by the writer’s silence.
+
+The double-entendres mentioned on page xxii are given in the gentleman’s
+unpublished letter in the Forster collection, in the Victoria and Albert
+Museum:
+
+  Jokes are often more Severe, and do more Mischief, than more Solid
+  Objects -- to obviate some, why not omit P 175 -- _betwixt Fear and
+  Delight_ -- and P 181 -- _I made shift to eat a bit of_ etc. _but I
+  had no Appetite to any thing else_.[8]
+
+In the light of this letter, the second edition of _Pamela_ attests a
+curious fact: while Hill pontificates in the introduction about ignoring
+such vulgarity of mind, Richardson has tiptoed back to Volume Two and
+changed the questioned passages. From the second edition forward, Pamela
+trembles during her wedding not “betwixt Fear and Delight” but “betwixt
+Fear and Joy”; and although Richardson leaves Pamela her shift on page
+181, he changes her remark about appetite: “I made shift to get down a
+bit of Apple-pie, and a little Custard; but that was all.” By omitting
+the specific objections from his summary, Richardson managed at one
+stroke to save his righteousness in the introduction and his face in the
+text.
+
+Hill’s authorship of the introductory letters is easily established.
+Anna Laetitia Barbauld includes Hill’s signature with a reduced version
+of the one which here begins on page xvi (December 17, 1740).[9]
+Thereafter, Richardson’s italicized remarks, two of them added in later
+editions, provide the links: “_Abstract of a second Letter from the same
+Gentleman_,” etc.
+
+With wonderful indirection, Richardson had sent a copy of _Pamela_ to
+Hill’s daughters, along with some other books, and, as Hill writes
+Mallet, “without the smallest _hint_, that it was _his_, and with a
+grave apology, as for a _trifle_, of too light a species.”[10] Hill
+thanked Richardson in the letter of December 17, 1740. Hill asks who on
+earth the author might be, hinting, the while, by returning Richardson’s
+own phrase, that he understands that it is Richardson himself: “this
+_Trifle_ (for such, I dare answer for the _Author_, His Modesty
+misguides him to think it).” Though Hill tells Mallet that Richardson
+was “very loth ... a long time, to confess it,” Richardson did not dally
+long. By December 29, 1740, he has confirmed Hill’s guess. On that date
+Hill writes:
+
+  Acquainted with the amiable goodness of your heart, I can foresee
+  the pleasure it will give you, to have given another pleasure: and
+  you heap it on me in the noblest manner, by the joy you make me
+  feel, at finding _Pamela’s_ incomparable author is the person I not
+  only hop’d to hear was so, but whom I should have been quite
+  griev’d, disturb’d, and mortified, not to have really found so.
+
+  Yet, I confess, till I began to read, I had not the least notion of
+  it. But I presently took notice, that whatever _Pamela_ thought,
+  said, or did, was all transfusion of your own fine spirit. And as I
+  know not if there lives another writer, who could furnish her with
+  such a sapid sweetness as she fills the table with, I could not
+  therefor chuse but name _you_ to my hope, as moulder of this maiden
+  model.[11]
+
+Mrs. Barbauld omits this letter but prints another from Hill to
+Richardson, not to be found now in the Forster collection, bearing the
+same date -- December 29, 1740 (I, 56ff.). This letter furnishes the
+“_delightful Story, so admirably related_” beginning on page xxxi. From
+the second paragraph on (“We have a lively little Boy in the Family”),
+the _Pamela_ text is substantially the same as Barbauld’s. But the first
+paragraph Richardson has contrived to suit his editorial fiction.
+
+The delightful story so gratified Mr. Richardson that he sent lively
+little Harry Campbell (“the dear amiable boy”) two books, an event
+almost enough to finish him:
+
+  Out burst a hundred _O Lords!_ in a torrent of voice rendered hoarse
+  and half choaked by his passions. He clasped his trembling fingers
+  together; and his hands were strained hard, and held writhing. His
+  elbows were extended to the height of his shoulders, and his eyes,
+  all inflamed with delight, turned incessantly round from one side,
+  and one friend, to the other, scattering his triumphant ideas among
+  us. His fairy-face (ears and all) was flushed as red as his lips;
+  and his flying feet told his joy to the floor, in a wild and
+  stamping impatience of gratitude.[12]
+
+The only other part of the introduction to _Pamela_ elsewhere in print
+is the concluding poem. This, too, is Hill’s, printed in _The Weekly
+Miscellany_, February 28, 1741, along with his December 17 letter, and
+collected with Hill’s _Works_ (III, 348-350). This is the poem, it would
+seem, of which Hill boasts that he has given “Pamela” a short “e” as
+Richardson intended, asserting that “Mr. Pope has taught half the women
+in England to pronounce it wrong.”[13] Pope in his _Epistle to Miss
+Blount_ (line 49), had made the “e” long:
+
+  The gods, to curse Pamela with her prayers,
+  Gave the gilt coach and dappled Flanders mares,
+  The shining robes, rich jewels, beds of state,
+  And, to complete her bliss, a fool for mate.
+
+Hill’s lines are somewhat less successful. He dedicated them to “the
+Unknown Author of _Pamela_” two months after Richardson had confessed
+his authorship.
+
+Richardson changes one line in the poem. In Hill’s _Works_ it reads:
+“Whence _public wealth_ derives its vital course.” Richardson, a more
+modern man perhaps, reads “_public Health_.” His emendation, however,
+improves Hill’s metaphor concerning a blaze which is a pilot pointing
+out the source of public wealth, which is drunk to prevent gangrene from
+blackening to the bone. Further reflection led Richardson a year later
+to change “vital” to “moral.”
+
+Throughout the letters in his introduction, Richardson made changes, all
+largely stylistic. That Richardson removed the letters from the front of
+his book in response to criticism -- as Cross[14] and others have
+asserted -- is not quite accurate. He removed them from the sixth
+edition, but put them back in the seventh and eighth; and his
+alterations show him giving in to criticism only by inches, if indeed
+his changes to his introduction are not more simply those of any author
+trimming (and with Richardson, ever so little) his early extravagances.
+
+Richardson’s stubbornness here suggests other reasons for his
+substituting a table of contents for his introduction in the sixth
+edition. To print both would have been too prolix, even for Richardson;
+and it seems that the table of contents, detailing the entire action,
+together with the change to big quarto volumes, are Richardson’s efforts
+to authenticate _Pamela_ in the face of Chandler’s and Kelly’s
+unauthorized sequel, _Pamela’s Conduct in High Life_, printed to
+complete the two duodecimo volumes of Richardson’s original story.
+Richardson’s sixth edition is the first in which his own additional two
+volumes, written to forestall Chandler and Kelly, are included with the
+first two as a complete four-volume unit. Twelve years later, in 1754,
+his true _Pamela_ established, he reverted to his introductory letters.
+Hill’s death in 1750 may also have moved Richardson to restore the
+introduction which was chiefly Hill’s work, recalling both his friend
+and _Pamela’s_ greener days. In the eighth edition, at the end of his
+life, Richardson still kept the introductory letters, though with some
+final constrictions.
+
+Richardson makes the first changes to his introduction in the fourth
+edition. Excepting minor clarifications, all deal with Hill’s answer to
+the anonymous gentleman. The attitude toward this gentleman has
+softened. The “rashest of All his Advices” becomes merely the “least
+weigh’d” of his judgments, and his blindness becomes oversight. He is no
+longer pedantic; he no longer makes vulgar allusions, but only fears
+that they might be made.
+
+In the fifth edition, Richardson seems chiefly concerned with
+redundancy, but he also diminishes some of the praise. In deference to
+the gentleman, it would seem, Richardson deletes his flattery of Hill on
+pages xxix and xxxi, and “_some of the most beautiful Letters that have
+been written in any Language_” become simply “_Letters_.” Perhaps
+Richardson’s conscience was bothering him. Perhaps he had heard from his
+anonymous correspondent after all: he now identifies the gentleman’s
+remarks as coming “_in a Letter from the Country_.” Unless pure fancy,
+this is new information, for the letter, now in the Forster collection,
+in no way indicates its place of origin. Richardson’s seeking of the
+gentleman through advertisement in London newspapers suggests that he
+thought of his correspondent as a city man.
+
+In the fifth edition one detects a certain discomfort with the false
+editorship and the praise Richardson permits himself with it. His direct
+response to criticism is slight. He deletes “_from_ low _to_ high
+_Life_,” since _Pamela’s Conduct in High Life_ had appeared four months
+previous. From the passages which Fielding ridicules in _Shamela_, he
+drops no more than “wonderful” from before “AUTHOR of _Pamela_.” In the
+passage introducing the new letters (page xv) Richardson now apologizes.
+The Author, he implies, wanted the praises omitted, but much to his
+sorrow the Editor could not disentangle them from the “critical
+remarks.” The author’s modesty, however, remains in the realm of
+possibility only.
+
+Where self-praise is strong a vague uneasiness sets Richardson to work
+on the style, unable to locate the center of his trouble. On page v
+“_strongly interest them in the edifying Story_” becomes “_attach their
+regard to the Story,_” but this is barely to nibble at his phrase “_so
+probable, so natural, so lively_” just preceding, which perished in the
+eighth edition.
+
+Similarly, he attempts to cure the last paragraph of his preface through
+minor incisions. He drops the parenthesis about the “_great Variety of
+entertaining Incidents_”, and he diminishes “_these engaging Scenes_” to
+“_it_”. But the paragraph is still too much for him. In the eighth
+edition he cuts all but the outlines of his editor-author pretext.
+
+The seventh edition does no more than sharpen punctuation. The eighth in
+general continues to trim little excesses, though the loss is scarcely
+noticeable. Richardson further reduces Hill’s praise of the book and his
+own praise of Hill, feeling his way toward a detached view of his book,
+looking to posterity. Since _Pamela_ has fulfilled the prediction of
+foreign renown made by his French friend, de Freval, Richardson now
+omits de Freval’s obliging treachery to the literature of France (page
+ix). Since the “delightful story” is anecdotal and not critical, it too
+disappears. Other changes simply testify an author’s attention to his
+style, uninhibited by the fact that the style is indeed not his. He
+deletes a senseless remark about masculine flexibility. He removes
+“Nature” from the foundation of the narrative (title page and page v,
+though left on page viii) probably to avoid implying that Nature is in
+the foundation only.
+
+From the first, Richardson’s disguise as editor is little more than
+half-hearted. Its purpose was at first partly commercial, permitting
+advertising in the preface. Four ladies urged him on, so, Richardson
+confesses, he “struck a bold stroke in the preface... having the umbrage
+of the editor’s character to screen [him] self behind.”[15] But the
+author nevertheless threw rather distinct shadows on the screen. His
+preface speaks of the book altogether as a work of fiction: the editor
+has “set forth” social duties; he has “painted” vice and virtue, “drawn”
+characters, “raised,” “taught,” “effected,” and “embellished with a
+great variety of entertaining incidents.” Yet, suddenly, the editor also
+seems to have done nothing more than to have “perused these engaging
+scenes,” written a preface, and gotten them into print.
+
+Richardson cannot quite give the imaginary author substance. “These
+sheets” have accomplished all the wonders claimed for them, not “the
+author of these sheets.” Richardson speaks not of _the_ author, but of
+_an_ author, of authors in general. The implication hangs over the
+preface, and is strengthened by de Freval’s letter, that the editor
+himself has worked up the story from the barest details of real life
+(which is, of course, what Richardson did). De Freval continues to speak
+of the work entirely as of creative writing. The epistolary style is
+aptly devised; the book will become a pattern for this kind of fiction;
+it is contrived for readers of all tastes. But, quite in contradiction,
+de Freval also implies that the editor has shown him the author’s
+original work, together with certain editorial changes necessary to
+protect the real Pamela and Mr. B.
+
+The second letter, presumably Webster’s, toys with the suggestion that a
+young woman actually wrote the letters which Richardson edits: “let us
+have _Pamela_ as _Pamela_ wrote it.” But this is only in play. Although
+the writer disparages “_Novels_,” the note which heads his letter when
+it first appeared in _The Weekly Miscellany_ speaks of the “Author of
+Pamela” who has “written an _English Novel_,”[16] and his opening
+remarks are clearly those of a critic speaking of fiction.
+
+Hill’s first letter goes solidly for the conclusion that an author,
+a man of genius, wrote the book. The heading, “To the Editor of
+_Pamela_”, is Richardson’s only attempt to bring Hill’s letter into his
+already wavering line. In the fifth edition, however, he introduces this
+letter with his only straight statement that an author, distinct from
+the editor, is involved, an author who begged the editor not to include
+flattery.
+
+To the end of his days Richardson continued to sit under the editorial
+shade -- _Sir Charles Grandison_ was “published” by the “editor of
+_Pamela_ and _Clarissa_” -- enjoying the sunshine of his authorship.
+His introduction to _Pamela_ and the care he took with it suggest more
+succinctly than anything else Richardson’s flirtation with his adorers,
+which is not at all unlike that of his so modest heroine.
+
+  Sheridan W. Baker, Jr.
+  University of Michigan
+
+
+    [Footnote 1: William M. Sale, _Samuel Richardson,
+    a Bibliographical Record_ (New Haven, 1936), p. 13.]
+
+    [Footnote 2: The fourth carries “the Second Edition” before the
+    new introductory letters; the fifth changes to “the Present
+    Edition.”]
+
+    [Footnote 3: A translation of Abbé Noel Antoine Pluche: _The
+    History of the Heavens_, 2 vols. (1740). (William M. Sale, _Samuel
+    Richardson: Master Printer_ [Cornell, 1950], p. 193.)]
+
+    [Footnote 4: William M. Sale, _Samuel Richardson,
+    a Bibliographical Record_, p. 15; William M. and Alan D. McKillop,
+    _Samuel Richardson_ (Chapel Hill, 1936), p. 42.]
+
+    [Footnote 5: McKillop, pp. 301-2. Richardson had printed the
+    _Miscellany_ between 1733 and 1736.]
+
+    [Footnote 6: Richardson mentions other letters but does not print
+    them. Hill’s reference to “The Gentleman’s Advice” on page xxii is
+    to a letter from Benjamin Slocock, who commended _Pamela_ from his
+    pulpit in St. Saviour’s, and thus helped provoke Henry Fielding.
+    (Sale, ibid., p. 17.)]
+
+    [Footnote 7: McKillop, p. 49.]
+
+    [Footnote 8: For this and other information concerning the Forster
+    collection of Richardson’s correspondence, I am indebted to Mr.
+    Arthur Wheen, Keeper of the Library, Victoria and Albert Museum,
+    London.]
+
+    [Footnote 9: _The Correspondence of Samuel Richardson_ (London,
+    1804), I, 53-55.]
+
+    [Footnote 10: _The Works of the Late Aaron Hill, Esq._ (London,
+    1753), II, 221. Letter dated January 23, 1741.]
+
+    [Footnote 11: Hill, _Works_ II, 292.]
+
+    [Footnote 12: Barbauld, I, 63-64.]
+
+    [Footnote 13: Barbauld, I, lxxviii.]
+
+    [Footnote 14: _The History of Henry Fielding_, I, 313.]
+
+    [Footnote 15: Barbauld, I, lxxvi.]
+
+    [Footnote 16: McKillop, p. 42.]
+
+
+CHANGES
+
+1. ... _here; and writes with the more Assurance of Success, as an
+_Editor_ may be allowed to judge with more Impartiality than is often to
+be found in an _Author_._
+
+2. _But Difficulties having arisen from different Opinions, some
+applauding the very Things that others found Fault with, we have found
+it necessary to insert the _Praises_ in the following Letters, with the
+critical Remarks; because the Writer has so kindly mix’d them, that they
+cannot be disjoin’d (however earnestly the Author of the Piece desire’d
+it) without obscuring, and indeed defacing, all the Spirit of the
+Reasoning._
+
+3. _The following Objections to some Passages in Pamela were made by an
+anonymous Gentleman, in a Letter from the Country._
+
+4. _The ingenious Writer of the two preceding Letters, answers these
+good natured Objections, as follows:_
+
+5. Fourth: “least weigh’d”; fifth: “least considered.”
+
+6. ...it seems plain to me, that this Gentleman, however laudable his
+Intention may be on the whole, discerns not an Elegance,...
+
+7. In the Occasions this Gentleman, in his Postscript, is pleas’d to
+discover for _Jokes_, I either find not, that he has any Signification
+at all, or, causelessly, as I think, apprehends that such coarse-tasted
+Allusions to loose low-life Idioms, may be made, that _not_ to
+understand what is meant by them, is both the cleanliest, and prudentest
+Way of confuting them.
+
+8. ...in the Mind of the Reader, an Honesty so sincere and unguarded.
+
+9. Deleted, fifth edition; replaced in eighth with: “_In a Third Letter
+the same benevolent Gentleman writes, as follows:_”.
+
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+
+                   _PAMELA_:
+
+                      OR,
+
+                VIRTUE Rewarded.
+
+                 In a SERIES of
+
+                FAMILIAR LETTERS
+
+                     FROM A
+
+            Beautiful Young DAMSEL,
+
+                To her PARENTS.
+
+              Now first Published
+
+In order to cultivate the Principles of VIRTUE
+  and RELIGION in the Minds of the YOUTH of
+  BOTH SEXES.
+
+A Narrative which has its Foundation in TRUTH
+  [_del._ 8th] {and NATURE}; and at the same time that it
+  agreeably entertains, by a Variety of _curious_ and
+  _affecting_ INCIDENTS, is intirely divested of all those
+  Images, which, in too many Pieces calculated for Amusement
+  only, tend to _inflame_ the Minds they should _instruct_.
+
+
+  In TWO VOLUMES.
+
+  The SECOND EDITION.
+
+  To which are prefixed, EXTRACTS from several curious
+    LETTERS written to the _Editor_ on the Subject.
+
+  VOL. I.
+
+    _LONDON:_
+
+  Printed for C. RIVINGTON, in _St. Paul’s Church-Yard_;
+    and J. OSBORN, in _Pater-noster Row_.
+
+    M DCC XLI.
+
+
+
+
+  PREFACE
+
+  by the
+
+  EDITOR.
+
+
+IF to _Divert_ and _Entertain_, and at the same time to _Instruct_, and
+_Improve_ the Minds of the _YOUTH_ of _both Sexes_:
+
+IF to inculcate _Religion_ and _Morality_ in so easy and agreeable a
+manner, as shall render them equally _delightful_ and _profitable_
+[_del._ 5th] {to the _younger Class_ of Readers, as well as worthy of
+the Attention of Persons of _maturer_ Years and Understandings}:
+
+IF to set forth in the most exemplary Lights, the _Parental_, the
+_Filial_, and the _Social_ Duties, [_del._ 5th] {and that from _low_ to
+_high_ Life}:
+
+IF to paint _VICE_ in its proper Colours, to make it _deservedly
+Odious_; and to set _VIRTUE_ in its own amiable Light, to make it truly
+_Lovely_:
+
+IF to draw Characters _justly_, and to support them _equally_:
+
+IF to raise a Distress from _natural_ Causes, and to excite Compassion
+from _proper_ Motives:
+
+IF to teach the Man of _Fortune_ how to use it; the Man of _Passion_ how
+to subdue it; and the Man of _Intrigue_, how, gracefully, and with
+Honour to himself, to _reclaim_:
+
+IF to give _practical_ Examples, worthy to be followed in the most
+_critical_ and _affecting_ Cases, by the [_del._ 5th] {modest} _Virgin_,
+the [_del._ 5th] {chaste} _Bride_, and the [_del._ 5th] {obliging}
+_Wife_:
+
+IF to effect all these good Ends, [_del._ 8th] {in so probable, so
+natural, so _lively_ a manner, as shall engage the Passions of every
+sensible Reader, and strongly interest them in the edifying Story:
+
+AND all} without raising a single _Idea_ throughout the Whole, that
+shall shock the exactest Purity, even in those tender Instances where
+the exactest Purity would be most apprehensive:
+
+IF these [_del._ 5th] {, (embellished with a great Variety of
+entertaining Incidents)} be laudable or worthy Recommendations of any
+Work, the Editor of the following Letters, which have their Foundation
+in _Truth_ [_del._ 8th] {and _Nature_}, ventures to assert, that all
+these desirable Ends are obtained [8th, change 1.] {in these Sheets: And
+as he is therefore confident of the favourable Reception which he boldly
+bespeaks for this little Work; he thinks any _further Preface_ or
+_Apology_ for it, unnecessary: And the rather for two Reasons, 1st.
+Because he can Appeal from _his own_ Passions, (which have been
+uncommonly _moved_ in perusing these engaging Scenes) to the Passions of
+_Every one_ who shall read them with the least Attention: And, in the
+next place, because an _Editor_ may reasonably be supposed to judge with
+an Impartiality which is rarely to be met with in an _Author_ towards
+his own Works.}
+
+  The Editor.
+
+
+
+
+To the Editor of the Piece intitled, PAMELA; or, _VIRTUE Rewarded_.
+
+
+_Dear SIR,_
+
+I have had inexpressible Pleasure in the Perusal of your PAMELA. It
+intirely answers the Character you give of it in your Preface; nor have
+you said one Word too much in Commendation of a Piece that has
+Advantages and Excellencies peculiar to itself. For, besides the
+beautiful Simplicity of the Style, and a happy Propriety and Clearness
+of Expression (the Letters being written under the immediate Impression
+of every Circumstance which occasioned them, and that to those who had a
+Right to know the fair Writer’s most secret Thoughts) the several
+Passions of the Mind must, of course, be more affectingly described, and
+Nature may be traced in her undisguised Inclinations with much more
+Propriety and Exactness, than can possibly be found in a Detail of
+Actions long past, which are never recollected with the same Affections,
+Hopes, and Dreads, with which they were felt when they occurred.
+
+This little Book will infallibly be looked upon as the hitherto
+much-wanted Standard or Pattern for this Kind of Writing. For it abounds
+with lively Images and Pictures; with Incidents natural, surprising, and
+perfectly adapted to the Story; with Circumstances interesting to
+Persons in common Life, as well as to those in exalted Stations. The
+greatest Regard is every where paid in it to Decency, and to every Duty
+of Life: There is a constant Fitness of the Style to the Persons and
+Characters described; Pleasure and Instruction here always go hand in
+hand: Vice and Virtue are set in constant Opposition, and Religion
+every-where inculcated in its native Beauty and chearful Amiableness;
+not dressed up in stiff, melancholy, or gloomy Forms, on one hand, nor
+yet, on the other, debased below its due Dignity and noble Requisites,
+in Compliment to a too fashionable but depraved Taste. And this I will
+boldly say, that if its numerous Beauties are added to its excellent
+Tendency, it will be found worthy a Place, not only in all Families
+(especially such as have in them young Persons of either Sex) but in the
+Collections of the most curious and polite Readers. For, as it borrows
+none of its Excellencies from the romantic Flights of unnatural Fancy,
+its being founded in Truth and Nature, and built upon Experience, will
+be a lasting Recommendation to the Discerning and Judicious; while the
+agreeable Variety of Occurrences and Characters, in which it abounds,
+will not fail to engage the Attention of the gay and more sprightly
+Readers.
+
+The moral Reflections and Uses to be drawn from the several Parts of
+this admirable History, are so happily deduced from a Croud of different
+Events and Characters, in the Conclusion of the Work, that I shall say
+the less on that Head. But I think, the Hints you have given me, should
+also prefatorily be given to the Publick; _viz._ That it will appear
+from several Things mentioned in the Letters, that the Story must have
+happened within these Thirty Years past: That you have been obliged to
+vary some of the Names of Persons, Places, _&c._ and to disguise a few
+of the Circumstances, in order to avoid giving Offence to some Persons,
+who would not chuse to be pointed out too plainly in it; tho’ they would
+be glad it may do the Good so laudably intended by the Publication. And
+as you have in Confidence submitted to my Opinion some of those
+Variations, I am much pleased that you have so managed the Matter, as to
+make no Alteration in the Facts; and, at the same time, have avoided the
+digressive Prolixity too frequently used on such Occasions.
+
+
+Little Book, charming PAMELA! face the World, and never doubt of finding
+Friends and Admirers, not only in thine own Country, but far from Home;
+[_del._ 8th] {where thou mayst give an Example of Purity to the Writers
+of a neighbouring Nation; which now shall have an Opportunity to receive
+_English_ Bullion in Exchange for its own Dross, which has so long
+passed current among us in Pieces abounding with all the Levities of its
+volatile Inhabitants.} The reigning Depravity of the Times has yet left
+Virtue many Votaries. Of their Protection you need not despair. May
+every head-strong Libertine whose Hands you reach, be reclaimed; and
+every tempted Virgin who reads you, imitate the Virtue, and meet the
+Reward of the high-meriting, tho’ low-descended, PAMELA. I am, Sir,
+
+  _Your most Obedient,
+    and Faithful Servant,_
+
+      J. B. D. F.
+
+
+
+
+_To my worthy Friend, the Editor of PAMELA._
+
+_SIR_,
+
+I return the Manuscript of _Pamela_ by the Bearer, which I have read
+with a great deal of Pleasure. It is written with that Spirit of Truth
+and agreeable Simplicity, which, tho’ much wanted, is seldom found in
+those Pieces which are calculated for the Entertainment and Instruction
+of the Publick. It carries Conviction in every Part of it; and the
+Incidents are so natural and interesting, that I have gone hand-in-hand,
+and sympathiz’d with the pretty Heroine in all her Sufferings, and been
+extremely anxious for her Safety, under the Apprehensions of the bad
+Consequences which I expected, every Page, would ensue from the laudable
+Resistance she made. I have interested myself in all her Schemes of
+Escape; been alternately pleas’d and angry with her in her Restraint;
+_pleas’d_ with the little Machinations and Contrivances she set on foot
+for her Release, and _angry_ for suffering her Fears to defeat them;
+always lamenting, with a most sensible Concern, the Miscarriages of her
+Hopes and Projects. In short, the whole is so affecting, that there is
+no reading it without uncommon Concern and Emotion. Thus far only as to
+the _Entertainment_ it gives.
+
+As to _Instruction_ and _Morality_, the Piece is full of both. It shews
+Virtue in the strongest Light, and renders the Practice of it amiable
+and lovely. The beautiful Sufferer keeps it ever in her View, without
+the least Ostentation, or Pride; she has it so strongly implanted in
+her, that thro’ the whole Course of her Sufferings, she does not so much
+as hesitate once, whether she shall sacrifice it to Liberty and
+Ambition, or not; but, as if there were no other way to free and save
+herself, carries on a determin’d Purpose to persevere in her Innocence,
+and wade with it throughout all Difficulties and Temptations, or perish
+under them. [_del._ 8th] {It is an astonishing Matter, and well worth
+our most serious Consideration, that a young beautiful Girl, in the low
+Scene of Life and Circumstance in which Fortune placed her, without the
+Advantage of a Friend capable to relieve and protect her, or any other
+Education than what occurr’d to her from her own Observation and little
+Reading, in the Course of her Attendance on her excellent Mistress and
+Benefactress, could, after having a Taste of Ease and Plenty in a higher
+Sphere of Life than what she was born and first brought up in, resolve
+to return to her primitive Poverty, rather than give up her Innocence.}
+I say, it is surprising, that a young Person, so circumstanced, could,
+in Contempt of proffer’d Grandeur on the one side, and in Defiance of
+Penury on the other, so happily and prudently conduct herself thro’ such
+a Series of Perplexities and Troubles, and withstand the alluring Baits,
+and almost irresistible Offers of a fine Gentleman, so universally
+admired and esteemed, for the Agreeableness of his Person and good
+Qualities, among all his Acquaintance; defeat all his Measures with so
+much Address, and oblige him, at last, to give over his vain Pursuit,
+and sacrifice his Pride and Ambition to Virtue, and become the Protector
+of that Innocence which he so long and so indefatigably labour’d to
+supplant: And all this without ever having entertain’d the least
+previous Design or Thought for that Purpose: No Art used to inflame him,
+no Coquetry practised to tempt or intice him, and no Prudery or
+Affectation to tamper with his Passions; but, on the contrary, artless
+and unpractised in the Wiles of the World, all her Endeavours, and even
+all her Wishes, tended only to render herself as un-amiable as she could
+in his Eyes: Tho’ at the same time she is so far from having any
+Aversion to his Person, that she seems rather prepossess’d in his
+Favour, and admires his Excellencies, whilst she condemns his Passion
+for her. A glorious Instance of Self-denial! Thus her very Repulses
+became Attractions: The more she resisted, the more she charm’d; and the
+very Means she used to guard her Virtue, the more endanger’d it, by
+inflaming his Passions: Till, at last, by Perseverance, and a brave and
+resolute Defence, the Besieged not only obtain’d a glorious Victory over
+the Besieger, but took him Prisoner too.
+
+I am charmed with the beautiful Reflections she makes in the Course of
+her Distresses; her Soliloquies and little Reasonings with herself, are
+exceeding pretty and entertaining: She pours out all her Soul in them
+before her Parents without Disguise; so that one may judge of, nay,
+almost see, the inmost Recesses of her Mind. A pure clear Fountain of
+Truth and Innocence; a Magazine of Virtue and unblemish’d Thoughts!
+
+I can’t conceive why you should hesitate a Moment as to the Publication
+of this very natural and uncommon Piece. I could wish to see it out in
+its own native Simplicity, which will affect and please the Reader
+beyond all the Strokes of Oratory in the World; for those will but spoil
+it: and, should you permit such a murdering Hand to be laid upon it, to
+gloss and tinge it over with superfluous and needless Decorations,
+which, like too much Drapery in Sculpture and Statuary, will but
+encumber it; it may disguise the Facts, mar the Reflections, and
+unnaturalize the Incidents, so as to be lost in a Multiplicity of fine
+idle Words and Phrases, and reduce our Sterling Substance into an empty
+Shadow, or rather _frenchify_ our _English_ Solidity into Froth and
+Whip-syllabub. No; let us have _Pamela_ as _Pamela_ wrote it; in her own
+Words, without Amputation, or Addition. Produce her to us in her neat
+Country Apparel, such as she appear’d in, on her intended Departure to
+her Parents; for such best becomes her Innocence, and beautiful
+Simplicity. Such a Dress will best edify and entertain. The flowing
+Robes of Oratory may indeed amuse and amaze, but will never strike the
+Mind with solid Attention.
+
+In short, Sir, a Piece of this Kind is much wanted in the World, which
+is but too much, as well as too early, debauched by pernicious _Novels_.
+I know nothing Entertaining of that Kind that one might venture to
+recommend to the Perusal (much less the Imitation) of the Youth of
+either Sex: All that I have hitherto read, tends only to corrupt their
+Principles, mislead their Judgments, and initiate them into Gallantry,
+and loose Pleasures.
+
+Publish then, this good, this edifying and instructive little Piece for
+their sakes. The Honour of _Pamela_’s Sex demands _Pamela_ at your
+Hands, to shew the World an Heroine, almost beyond Example, in an
+unusual Scene of Life, whom no Temptations, or Sufferings, could subdue.
+It is a fine, and glorious Original, for the Fair to copy out and
+imitate. Our own Sex, too, require it of you, to free us, in some
+measure, from the Imputation of being incapable of the Impressions of
+Virtue and Honour; [_del._ 8th] {and to shew the Ladies, that we are not
+inflexible while they are so.}
+
+In short, the Cause of Virtue calls for the Publication of such a Piece
+as this. Oblige then, Sir, the concurrent Voices of both Sexes, and give
+us _Pamela_ for the Benefit of Mankind: [_del._ 8th] {And as I believe
+its Excellencies cannot be long unknown to the World, and that there
+will not be a Family without it; so I make no Doubt but every Family
+that has it, will be much improv’d and better’d by it.} ’Twill form the
+tender Minds of _Youth_ for the Reception and Practice of Virtue and
+Honour; confirm and establish those of _maturer Years_ on good and
+steady Principles; reclaim the Vicious, and mend the Age in general;
+insomuch that as I doubt not _Pamela_ will become the bright Example and
+Imitation of all the fashionable young Ladies of _Great Britain_; so the
+truly generous Benefactor and Rewarder of her exemplary Virtue, will be
+no less admired and imitated among the _Beau Monde_ of our own Sex. I am
+
+  _Your affectionate Friend, &c._
+
+
+
+
+INTRODUCTION
+
+TO THIS
+
+SECOND EDITION.
+
+
+_The kind Reception which this Piece has met with from the Publick,
+[_del._ 4th] {(a large Impression having been carried off in less than
+Three Months)} deserves not only Acknowlegdment, but that some Notice
+should be taken of the Objections that have hitherto come to hand
+against a few Passages in it, [_del._ 5th] {that so the Work may be
+rendered as unexceptionable as possible, and, of consequence, the fitter
+to answer the general Design of it; which is to promote Virtue, and
+cultivate the Minds of the Youth of both Sexes.}_
+
+[5th, change 2.] {_But Difficulties having arisen from the different
+Opinions of Gentlemen, some of whom applauded the very Things that
+others found Fault with, it was thought proper to submit the Whole to
+the Judgment of a Gentleman of the most distinguish’d Taste and
+Abilities; the Result of which will be seen in the subsequent Pages._}
+
+[_del._ 5th] {_We begin with the following Letter, at the Desire of
+several Gentlemen, to whom, on a very particular Occasion, it was
+communicated, and who wish’d to see it prefixed to the New Edition. It
+was directed,_}
+
+
+_To the Editor of PAMELA._
+
+_Dear Sir,_
+
+You have agreeably deceiv’d me into a Surprize, which it will be as hard
+to express, as the Beauties of PAMELA. Though I open’d this powerful
+little Piece with more Expectation than from common Designs, of like
+Promise, because it came from _your_ Hands, for my _Daughters_, yet, who
+could have dreamt, he should find, under the modest Disguise of a
+_Novel_, all the _Soul_ of Religion, Good-breeding, Discretion,
+Good-nature, Wit, Fancy, Fine Thought, and Morality?---I have done
+nothing but read it to others, and hear others again read it, to me,
+ever since it came into my Hands; and I find I am likely to do nothing
+else, for I know not how long yet to come: because, if I lay the Book
+down, it comes after me.----When it has dwelt all Day long upon the Ear,
+It takes Possession, all Night, of the Fancy.----It has Witchcraft in
+every Page of it: but it is the Witchcraft of Passion and Meaning. Who
+is there that will not despise the false, empty _Pomp_ of the Poets,
+when he observes in this little, unpretending, mild Triumph of _Nature_,
+the whole Force of Invention and Genius, creating new Powers of Emotion,
+and transplanting _Ideas_ of _Pleasure_ into that unweeded low Garden
+the _Heart_, from the dry and sharp _Summit_ of _Reason_?
+
+Yet, I confess, there is _One_, in the World, of whom I think with still
+greater Respect, than of PAMELA: and That is, of the [_del._ 5th]
+{wonderful} AUTHOR of PAMELA.----Pray, Who is he, Dear Sir? and where,
+and how, has he been able to hide, hitherto, such an encircling and
+all-mastering Spirit? He possesses every Quality that ART could have
+charm’d by: yet, has lent it to, and conceal’d it in, NATURE.----The
+Comprehensiveness of his Imagination must be truly prodigious!----It has
+stretch’d out this diminutive mere _Grain_ of _Mustard-seed_, (a poor
+Girl’s little, innocent, Story) into a Resemblance of That _Heaven_,
+which the Best of Good Books has compar’d it to.----All the Passions are
+His, in their most close and abstracted Recesses: and by selecting the
+most delicate, and yet, at the same time, most powerful, of their
+Springs, thereby to act, wind, and manage, the Heart, He _moves_ us,
+every where, with the Force of a TRAGEDY.
+
+What is there, throughout the _Whole_, that I do not sincerely
+admire!---I admire, in it, the strong distinguish’d Variety, and
+picturesque glowing Likeness to _Life_, of the Characters. I know, hear,
+see, and live among ’em All: and, if I cou’d paint, cou’d return you
+their _Faces_. I admire, in it, the noble Simplicity, Force, Aptness,
+and Truth, of so many modest, œconomical, moral, prudential, religious,
+satirical, and cautionary, _Lessons_; which are introduc’d with such
+seasonable Dexterity, and with so polish’d and exquisite a Delicacy, of
+Expression and Sentiment, that I am only apprehensive, for the
+_Interests_ of _Virtue_, lest some of the _finest_, and _most touching_,
+of those elegant Strokes of Good-breeding, Generosity, and Reflection,
+shou’d be lost, under the too gross Discernment of an unfeeling Majority
+of Readers; for whose Coarseness, however, they were kindly design’d, as
+the most useful and charitable Correctives.
+
+One of the best-judg’d Peculiars, of the Plan, is, that These
+Instructions being convey’d, as in a Kind of Dramatical Representation,
+by those beautiful _Scenes_, Her own Letters and Journals, who acts the
+most moving and suffering _Part_, we feel the Force in a threefold
+Effect,----from the Motive, the Act, and the Consequence.
+
+But what, above All, I am charm’d with, is the amiable _Good-nature_ of
+the AUTHOR; who, I am convinc’d, has one of the best, and most generous
+Hearts, of Mankind: because, mis-measuring _other_ Minds, by _His Own_,
+he can draw Every thing, to Perfection, but _Wickedness_.----I became
+inextricably in _Love_ with this delightful Defect of his Malice;--for,
+I found it owing to an _Excess_ in his _Honesty_. Only observe, Sir,
+with what _virtuous Reluctance_ he complies with the Demands of his
+Story, when he stands in need of some blameable Characters. Tho’ his
+Judgment compels him to mark ’em with disagreeable Colourings, so that
+they make an odious Appearance at first, He can’t forbear, by an
+unexpected and gradual Decline from Themselves, to soften and transmute
+all the Horror conceiv’d for their Baseness, till we are arriv’d,
+through insensible Stages, at an Inclination to forgive it intirely.
+
+I must venture to add, without mincing the matter, what I really
+believe, of this Book.---It will live on, through Posterity, with such
+unbounded Extent of Good Consequences, that Twenty Ages to come may be
+the Better and Wiser, for its Influence. It will steal first,
+imperceptibly, into the Hearts of the _Young_ and the _Tender_: where It
+will afterwards guide and moderate their Reflections and Resolves, when
+grown Older. And so, a gradual moral Sunshine, of un-austere and
+compassionate _Virtue_, shall break out upon the _World_, from this
+TRIFLE (for such, I dare answer for the _Author_, His Modesty misguides
+him to think it).----No Applause therefore can be too _high_, for _such
+Merit_. And, let me abominate the contemptible _Reserves of
+mean-spirited Men_, who while they but _hesitate_ their Esteem, with
+Restraint, can be fluent and uncheck’d in their _Envy_.----In an Age so
+deficient in Goodness, Every such Virtue, as That of this Author, is a
+salutary _Angel_, in _Sodom_. And _One_ who cou’d stoop to conceal,
+a Delight he receives from the _Worthy_, wou’d be equally capable of
+submitting to an Approbation of the _Praise_ of the _Wicked_.
+
+I was thinking, just now, as I return’d from a _Walk_ in the _Snow_, on
+that _Old Roman Policy_, of Exemptions in Favour of Men, who had given a
+few, bodily, Children to the Republick.----What superior Distinction
+ought _our_ Country, to find [_del._ 8th] {(but that Policy and We are
+at Variance)} for Reward of this _Father, of Millions of_ MINDS, which
+are to owe new Formation to the future Effect of his Influence!
+
+Upon the whole, as I never met with so pleasing, so honest, and so truly
+deserving a Book, I shou’d never have done, if I explain’d All my
+Reasons for admiring its Author.----If it is not a _Secret_, oblige me
+so far as to tell me his _Name_: for since I feel him the _Friend_ of
+my Soul, it would be a Kind of Violation to retain him a
+_Stranger_.----I am not able to thank you enough, for this highly
+acceptable Present. And, as for my Daughters, They have taken into their
+Own Hands the Acknowledgment due from their Gratitude. I am,
+
+  DEAR SIR,
+  _Your, &c._
+
+  Dec. 17, 1740.
+
+
+_Abstract of a second Letter from the same Gentleman._
+
+  ---No Sentiments which I have here, or in my last, express’d, of the
+  sweet _Pamela_, being more than the bare Truth, which every Man must
+  feel, who lends his Ear to the inchanting Prattler, why does the
+  Author’s Modesty mislead his Judgment, to suspect the Style wants
+  Polishing?---No, Sir, there is an _Ease_, a _natural Air_,
+  a dignify’d _Simplicity_, and measured Fullness, in it, that,
+  resembling Life, outglows it! He has reconciled the _Pleasing_ to
+  the _Proper_. The _Thought_ is every-where exactly _cloath’d_ by the
+  _Expression_: And becomes its Dress as roundly, and as close, as
+  _Pamela_ her Country-habit. Remember, tho’ she put it on with humble
+  Prospect, of descending to the Level of her Purpose, it _adorn’d_
+  her, with such unpresum’d _Increase_ of Loveliness; sat with such
+  neat Propriety of Elegant Neglect about her, that it threw out All
+  her Charms, with tenfold, and resistless Influence.---And so, dear
+  Sir, it will be always found.---When modest Beauty seeks to hide
+  itself by casting off the _Pride_ of _Ornament_, it but displays
+  itself without a _Covering_: And so, becoming more distinguished, by
+  its Want of _Drapery_, grows _stronger_, from its _purpos’d
+  Weakness_.
+
+[5th, change 3.]
+
+{_There were formed by an anonymous Gentleman, the following Objections
+to some Passages in the Work._}
+
+1. That the Style ought to be a little raised, at least so soon as
+_Pamela_ knows the Gentleman’s Love is honourable, and when [7th: “her”]
+{his} Diffidence is changed to Ease: And from about the fourth Day after
+Marriage, it should be equal to the Rank she is rais’d to, [_del._ 4th]
+{and charged to fill becomingly}.
+
+2. That to avoid the Idea apt to be join’d with the Word ’_Squire_, the
+Gentleman should be styled Sir _James_; or Sir _John_, &c. and Lady
+_Davers_ in a new Edition might procure for him the Title of a Baronet.
+
+3. That if the sacred Name were seldomer repeated, it would be better;
+for that the Wise Man’s Advice is, _Be not righteous over-much_.
+
+4. That the Penance which _Pamela_ suffers from Lady _Davers_ might be
+shorten’d: That she is too timorous after owning her Marriage to that
+Lady, and ought to have a little more Spirit, and [_del._ 5th] {get away
+sooner out at the Window, or} call her own Servants to protect, and
+carry her to her Husband’s Appointment.
+
+5. That Females are too apt to be struck with Images of Beauty; and that
+the Passage where the Gentleman is said to span the Waist of _Pamela_
+with his Hand, is enough to ruin a Nation of Women by Tight-lacing.
+
+6. That the Word _naughty_ had better be changed to some other, as
+_Bad_, _Faulty_, _Wicked_, _Vile_, _Abominable_, _Scandalous_: Which in
+most Places would give an Emphasis, for which recourse must otherwise be
+had to the innocent Simplicity of the Writer; an Idea not necessary to
+the Moral of the Story, nor of Advantage to the Character of the
+Heroine.
+
+7. That the Words, _p. 305._ _Foolish Thing that I am_, had better be
+_Foolish that I am_. The same Gentleman observes by way of _Postscript_,
+that Jokes are often more severe, and do more Mischief, than more solid
+Objections; and would have one or two Passages alter’d, to avoid giving
+Occasion for the Supposition of a double Entendre, particularly in two
+Places which he mentions, _viz._ _p. 175. and 181_.
+
+_He is pleased to take notice of several other Things of less Moment,
+some of which are merely typographical; and very kindly expresses, on
+the Whole, a high Opinion of the Performance, and thinks it may do a
+great deal of Good: For all which, as well as for his Objections, the
+Editor gives him very sincere Thanks._
+
+_Others are of Opinion, That the Scenes in many Places, in the Beginning
+especially, are too low; and that the Passions of Lady _Davers_, in
+particular, are carried too high, and above Nature._
+
+_And others have intimated, That _Pamela_ ought, for Example sake, to
+have discharg’d Mrs. _Jewkes_ from her Service._
+
+_These are the most material Objections that have come to hand, all
+which are considered in the following [_del._ 5th] {Extracts from some
+of the most beautiful} Letters [_del._ 5th] {that have been written in
+any Language}:_
+
+[8th adds change 4]
+
+  The Gentleman’s Advice, not to alter _Pamela_ at all, was both
+  friendly, and solidly just. I run in, with full Sail, to his
+  Anchorage, that the low Scenes are no more out of Nature, than the
+  high Passions of proud Lady _Davers_. Out of Nature, do they say?
+  ’Tis my Astonishment how Men of Letters can read with such absent
+  Attention! They are so far from _Out_ of _Nature_, They are absolute
+  _Nature herself_! or, if they must be confess’d her _Resemblance_;
+  they are _such_ a Resemblance, at least, as our _true Face_ gives
+  our _Face_ in the _Looking-glass_.
+
+  I wonder indeed, what it is, that the Gentlemen, who talk of _Low_
+  Scenes, wou’d desire should be understood by the Epithet?---Nothing,
+  properly speaking, is _low_, that suits well with the Place it is
+  rais’d to.----The Passions of Nature are the same, in the _Lord_,
+  and his _Coach-man_. All, that makes them seem different consists in
+  the _Degrees_, in the _Means_, and the _Air_, whereto or wherewith
+  they indulge ’em. If, in painting Distinctions like these, (which
+  arise but from the Forms of Men’s Manners, drawn from _Birth_,
+  _Education_, and _Custom_) a Writer _falls short_ of his Characters,
+  there his Scene is a low one, indeed, whatever high Fortune it
+  flatter’d. But, to imagine that Persons of Rank are above a Concern
+  for what is thought, felt, or acted, by others, of their Species,
+  between whom and themselves is _no Difference_, except such as was
+  owing to Accident, is to reduce Human Nature to a Lowness,--_too
+  low_ for the _Truth_ of her _Frailty_.--
+
+  In _Pamela_, in particular, we owe All to her _Lowness_. It is to
+  the docile Effects of this Lowness of _that amiable Girl_, in her
+  Birth, her Condition, her Hopes, and her Vanities, in every thing,
+  in short, but her _Virtue_,---that her Readers are indebted, for the
+  moral _Reward_, of that _Virtue_. And if we are to look for the
+  _Low_ among the Rest of the Servants, less lovely tho’ they are,
+  than a _Pamela_, there is something however, so glowingly painted,
+  in the Lines whereby the Author has mark’d their
+  Distinctions----Something, so movingly forceful, in the _Grief_ at
+  their _Parting_, and _Joy_ at the happy Return,---Something so
+  finely, at once, and so strongly and feelingly, _varied_, even in
+  the smallest and least promising, little Family Incidents! that I
+  need only appeal from the _Heads_, to the _Hearts_ of the Objectors
+  themselves, whether these are _low_ Scenes to be censur’d?
+
+  And as for the opposite Extreme they wou’d quarrel with, the
+  high-passion’d, and un-tam’d Lady _Davers_,---I cou’d direct ’em to
+  a Dozen or two of _Quality Originals_, from whom (with Exception
+  perhaps of her _Wit_) one wou’d swear the Author had taken her
+  Copy.---What a Sum might these Objectors ensure, to be paid, by the
+  _Husbands_ and _Sons_, of such termagant, hermaphrodite Minds, upon
+  their making due Proof, that they were no longer to be found, in the
+  Kingdom!
+
+  I know, you are too just to imagine me capable of giving any other
+  Opinion than my best-weigh’d and true one. But, because it is fit
+  you should have _Reasons_, in Support of a Judgment that can neither
+  deserve nor expect an implicit Reception, I will run over the
+  Anonymous Letter I herewith return you; and note with what Lightness
+  even Men of _good-natur’d_ Intention fall into _Mistakes_, by
+  Neglect in too hasty Perusals, which their Benevolence wou’d take
+  Pleasure in blushing at, when they discover their Weakness, in a
+  cooler Revisal.
+
+  The Writer of this Letter is for having the Style _rais’d_, after
+  _Pamela_’s Advance in her Fortune. But surely, This was hasty
+  Advice: because, as the Letters are writ to her Parents, it wou’d
+  have look’d like forgetting, and, in some sort, insulting, the
+  Lowliness of their inferior Condition, to have assum’d a new Air in
+  her Language, in Place of retaining a steady Humility. But, here, it
+  must not be pass’d unobserv’d, that in her Reports of Conversations
+  that follow’d her Marriage, she _does_, aptly and beautifully,
+  heighten her Style, and her Phrases: still returning however to her
+  decent Simplicity, in her Addresses to her Father and Mother.
+
+  I am against giving a Gentleman (who has ennobled himself, by
+  reforming his Vices, and rewarding the Worth of the _Friendless_)
+  the unnecessary new Toy of a _Title_. It is all strong in Nature, as
+  it stands in the Letters: and I don’t see how Greatness, from
+  Titles, can add Likeness or Power, to the Passions. So complete a
+  Resemblance of _Truth_ stands in need of no borrow’d Pretensions.
+
+  The Only of this Writer’s Objections, which, I think, carries
+  Weight, is That, which advises some little _Contraction_ of the
+  Prayers, and Appeals to the Deity. I say _little_ Contraction: for
+  they are nobly and sincerely pathetic. And I say it only in Fear,
+  lest, if fansied too long, by the fashionably _Averse_ to the
+  Subject, Minds, which most want the _purpos’d Impression_, might
+  hazard the _Loss_ of its _Benefit_, by passing over those pious
+  Reflections, which, if shorter, would catch their Attention.
+
+  Certainly, the Gentleman’s Objection against the Persecution that
+  _Pamela_ suffers from lady _Davers_, in respect to the Relation this
+  Madwoman bears to the _Brother_, is the [4th & 5th, change 5.]
+  {rashest} of All his Advices! And when he thinks she ought rather to
+  have assum’d the Protection of her Servants, he seems unaware of the
+  probable _Consequence_; where there was a Puppy, of Quality, in the
+  Case, who had, even without Provocation, drawn his Sword on the poor
+  passive PAMELA. Far from bearing a Thought of exciting an abler
+  Resentment, to the Danger of a Quarrel with so worthless a Coxcomb,
+  how charmingly natural, apprehensive, and generous, is her Silence
+  (during the Recital she makes of her Sufferings) with regard to this
+  _masculine_ Part of the Insult! as also her Prevention of Mrs.
+  _Jewkes_’s less delicate Bluntness, when she was beginning to
+  complain of the whelp Lord’s Impertinence!
+
+  If I were not afraid of a _Pun_, I shou’d tell the anonymous
+  Letter-writer, that he made a too _tight-laced_ Objection, where he
+  quarrels with the spann’d Waist of _Pamela_. What, in the Name of
+  Unshapeliness! cou’d he find, to complain of, in a beautiful Girl of
+  Sixteen, who was born _out of Germany_, and had not, yet, reach’d
+  ungraspable _Roundness_!----These are wonderful Sinkings from
+  Purpose, where a Man is considering such mental, and passionate
+  Beauties, as this Gentleman profess’d to be touch’d by!
+
+  But, when he goes on, to object against the Word _naughty_, (as
+  apply’d in the Phrase _naughty Master_) [4th, change 6.] {I grow
+  mortified, in Fear for our human Sufficiency, compar’d with our
+  Aptness to blunder! For, here, ’tis plain, this Director of
+  Another’s Discernment is quite blind, Himself, to an Elegance,} one
+  wou’d have thought it _impossible_ not to be struck by?---Faulty,
+  wicked, abominable, scandalous, (which are the angry Adjectives, he
+  prefers to that sweet one) wou’d have carried Marks of her Rage, not
+  Affliction--whereas _naughty_ contains, in One single significant
+  Petulance, [5th: “a Variety of”] {twenty thousand} inexpressible
+  Delicacies!---It insinuates, at once, all the beautiful Struggle,
+  between her Contempt of his Purpose, and tender Regard for his
+  Person; her Gratitude to Himself and his Family; her Recollection of
+  his superior Condition.--There is in the elegant Choice of this
+  half-kind, half-peevish, _Word_, a never-enough to be prais’d
+  speaking Picture of the Conflict betwixt her Disdain, and her
+  Reverence! [_del._ 4th] {See, Sir, the Reason I had, for
+  apprehending some Danger that the refin’d Generosity in many of the
+  most charming of the Sentiments wou’d be _lost_, upon the too coarse
+  Conception of some, for whose Use the Author intended them.}
+
+  It is the same Case again, in _foolish Thing that I am!_ which this
+  nice, [_del._ 4th] {un-nice,} Gentleman wou’d advise you to change,
+  into _foolish that I am!_ He does not seem to have tasted the pretty
+  Contempt of Herself, the submissive _Diminutive_, so distant from
+  Vanity, yet allayed by the gentle Reluctance in Self-condemnation
+  [_del._ 4th] {;---and the other fine Touches of Nature: which wou’d
+  All have been lost, in the grave, sober Sound of his _Dutch
+  Emendation_.}
+
+  [_del._ 4th]
+
+  {As to his Paragraph in _Postscript_, I shall say the less of it,
+  because the Gentleman’s own good Sense seems to confess, by the
+  Place he has chosen to rank it in, that it ought to be turn’d out of
+  Doors, as too _dirty_ for the rest of his Letter.----} [4th,
+  change 7.] In the Occasions {he} is pleas’d to discover for _Jokes_,
+  I either find not, that he has any Signification at all, or {such
+  vulgar,} coarse-tasted Allusions to loose low-life Idioms, [_ins._]
+  that _not_ to understand what {he means,} is both the cleanliest,
+  and prudentest Way of confuting {him}.
+
+  And now, Sir, you will easily gather how far I am from thinking it
+  needful to change any thing in _Pamela_. I would not scratch such a
+  beautiful Face, for the _Indies_!
+
+  [_del._ 8th]
+
+  {You can hardly imagine how it charms me to hear of a Second Edition
+  already! but the News of still new upon new ones, will be found no
+  Subject of Wonder. As ’tis sure, that no Family is without Sisters,
+  or Brothers, or Daughters, or Sons, who can _read_; or wants
+  Fathers, or Mothers, or Friends, who can _think_; so equally certain
+  it is, that the Train to a Parcel of Powder does not run on with
+  more natural Tendency, till it sets the whole Heap in a Blaze, than
+  that _Pamela_, inchanting from Family to Family, will overspread all
+  the Hearts of the Kingdom.}
+
+  As to the Objection of those warm Friends to _Honesty_, who are for
+  having _Pamela_ dismiss Mrs. _Jewkes_; there is not One, among All
+  these benevolent Complainers, who wou’d not discern himself to have
+  been, _laudably_, in the _wrong_, were he only to be ask’d this
+  plain Question---Whether a Step, both ill-judg’d, and undutiful, had
+  not been the Reverse of a PAMELA’s Character?---Two or three times
+  over, Mr. _B----_ had inform’d her, that Mrs. _Jewkes_ and Himself
+  having been equally involv’d in _One Guilt_, she must forgive, or
+  condemn, _Both together_. After this, it grew manifest _Duty_ not to
+  treat her with Marks of Resentment.---And, as here was a visible
+  Necessity to appear not desirous of turning her away, so, in point
+  of mere _Moral_ Regard to the bad Woman Herself, it was nobler, to
+  retain her, with a Prospect of correcting, in Time, her loose Habit
+  of thinking, than, by casting her off, to the licentious Results of
+  her Temper, abandon her to Temptations and Danger, which a Virtue
+  like PAMELA’s cou’d not wish her expos’d to.
+
+[_del._ 5th]
+
+{_The Manner in which this admirable Gentleman gives his Opinion of the
+Piece, and runs thro’ the principal Characters, is so masterly, that the
+Readers of _Pamela_ will be charm’d by it, tho’ they should suppose,
+that his inimitable Benevolence has over-valu’d the Piece itself._}
+
+  Inspir’d, without doubt, by some Skill, more than human, and
+  comprehending in an humble, and seemingly artless, Narration,
+  a Force that can tear up the Heart-strings, this Author has prepar’d
+  an enamouring _Philtre_ for the Mind, which will excite such a
+  _Passion_ for Virtue, as scarce to leave it in the Power of the
+  _Will_ to neglect her.
+
+  _Longinus_, I remember, distinguishing by what Marks we may know the
+  _Sublime_, says, it is chiefly from an Effect that will follow the
+  Reading it: a delightfully-adhering Idea, that clings fast to the
+  Memory; and from which it is difficult for a Man to disengage his
+  Attention.---If _this_ is a Proof of the _Sublime_, there was never
+  _Sublimity_ so lastingly felt, as in PAMELA!
+
+  Not the Charmer’s own prattling Idea stuck so close to the Heart of
+  her Master, as the Incidents of her Story to the Thoughts of a
+  Reader.---The Author transports, and transforms, with a Power more
+  extensive than _Horace_ requires, in his POET!---
+
+  Mr. _B----_, and the Turns of his Passions---and the Softness, yet
+  Strength, of their amiable Object---after having given us the most
+  masterly Image of Nature, that ever was painted! take Possession of,
+  and _dwell in_, the Memory.
+
+  And there, too, broods the kind and the credulous Parson WILLIAMS’s
+  _Dove_, (without _serpentine_ Mixture) hatching _Pity_ and
+  _Affection_, [4th, change 8.] {for an Honesty so sincere, and so
+  silly!}
+
+  There too, take their Places All the _lower_ Supports of this
+  beautiful Fabrick.---
+
+  I am sometimes transform’d into plain Goodman ANDREWS, and sometimes
+  the good Woman, his Wife.
+
+  As for old Mr. LONGMAN, and JONATHAN, the Butler, they are sure of
+  me both, in their Turns.
+
+  Now and-then, I am COLBRAND the _Swiss_: but, as _broad_ as _I
+  stride_, in that Character, I can never escape Mrs. JEWKES: who
+  often keeps me awake in the Night---
+
+  Till the Ghost of Lady DAVERS, drawing open the Curtains, scares the
+  _Scarer_, of me, and of PAMELA!---
+
+  And, then, I take Shelter with poor penitent JOHN, and the rest of
+  the _Men_ and the _Maids_, of all whom I may say, with compassionate
+  _Marcia_,
+
+  --------_The Youths DIVIDE their Reader._
+
+[5th & 8th, change 9.]
+
+{_And this fine Writer adds:_}
+
+  I am glad I made War, in my last, upon the Notion of altering the
+  Style: for, having read it twice over since then, (and to Audiences,
+  where the _Tears_ were applausively eloquent) I could hardly, here
+  and there, find a Place, where one Word _can_ be chang’d for a
+  better. There are some indeed, where ’twere _possible_ to leave out,
+  a few, without making a Breach in the Building. But, in short, the
+  Author has put so bewitching a Mixture together, of the _Rais’d_
+  with the _Natural_, and the _Soft_ with the _Strong_ and the
+  _Eloquent_---thatnever Sentiments were finer, and fuller of Life!
+  never any were utter’d so sweetly!---Even in what relates to the
+  pious and frequent Addresses to God, I now retract (on these two
+  last Revisals) the Consent I half gave, on a _former_, to the
+  anonymous Writer’s Proposal, who advis’d the Author to _shorten_
+  those Beauties.----Whoever considers his _Pamela_ with a View to
+  find Matter for Censure, is in the Condition of a passionate Lover,
+  who breaks in upon his Mistress, without Fear or Wit, with Intent to
+  accuse her, and quarrel---He came to her with Pique in his Purpose;
+  but his _Heart_ is too hard for his _Malice_---and he goes away more
+  enslav’d, for complaining.
+
+
+[_del._ 5th]
+
+{_The following delightful Story, so admirably related, will give great
+Pleasure to the Reader; and we take the Liberty of inserting it, for
+that very Reason._}
+
+[_del._ 8th]
+
+  {What a never-to-be satisfied _Length_ has this Subject always the
+  Power of attracting me into! And yet, before I have done, I must by
+  your means tell the Author a _Story_, which a Judge not so skilful
+  in Nature as he is, might be in Danger perhaps of mistaking, for a
+  trifling and silly one. I expect it shou’d give him the clearest
+  Conviction, in a Case he is subject to question.}
+
+[_del._ 8th]
+
+  {We have a lively little Boy in the Family, about seven Years
+  old---but, alas for him, poor Child! quite unfriended; and born to
+  no Prospect. He is the Son of an honest, poor Soldier, by a Wife,
+  grave, unmeaning, and innocent. Yet the Boy, (see the Power of
+  connubial _Simplicity_) is so pretty, so genteel, and gay-spirited,
+  that we have made him, and design’d him, our _own_, ever since he
+  could totter, and waddle. The wanton Rogue is half Air: and every
+  Motion he acts by has a Spring, like _Pamela_’s when she threw down
+  the Card-table. All this Quickness, however, is temper’d by a
+  good-natur’d Modesty: so that the wildest of his Flights are thought
+  rather diverting than troublesome. He is an hourly Foundation for
+  Laughter, from the Top of the House to the Parlours: and, to borrow
+  an Attribute from the Reverend Mr. _Peters_, (tho’ without any Note
+  of his Musick) _plays a very good_ FIDDLE in the Family. I have told
+  you the History of this _Tom-tit_ of a Prater, because, ever since
+  my first reading of PAMELA, he puts in for a Right to be _one_ of
+  her Hearers; and, having got half her Sayings by heart, talks in no
+  other Language but hers: and, what really surprises, and has charm’d
+  me into a _certain_ Fore-taste of her Influence, he is, at once,
+  become fond of his Book; which (before) he cou’d never be brought to
+  attend to---that _he may read_ PAMELA, he says, _without stopping_.
+  The first Discovery we made of this Power over so unripe and unfix’d
+  an Attention, was, one Evening, when I was reading her Reflections
+  at the _Pond_ to some Company. The little rampant Intruder, being
+  kept out by the Extent of the Circle, had crept under my Chair, and
+  was sitting before me, on the Carpet, with his Head almost touching
+  the Book, and his Face bowing down toward the Fire.---He had sat for
+  some time in this Posture, with a Stillness, that made us conclude
+  him asleep: when, on a sudden, we heard a Succession of
+  heart-heaving Sobs; which while he strove to conceal from our
+  Notice, his little Sides swell’d, as if they wou’d burst, with the
+  throbbing Restraint of his Sorrow. I turn’d his innocent Face, to
+  look toward me; but his Eyes were quite lost, in his _Tears_: which
+  running down from his Cheeks in free Currents, had form’d two
+  sincere little Fountains, on that Part of the Carpet he hung over.
+  All the Ladies in Company were ready to devour him with Kisses: and
+  he has, since, become doubly a Favourite---and is perhaps the
+  youngest of _Pamela’s Converts_.}
+
+_The same [_del._ 5th] {incomparable} Writer has favour’d us with an
+Objection, [_del._ 5th] {that is more material than any we have
+mention’d;} which cannot be better stated nor answer’d, than in his own
+[_del._ 8th] {beautiful} Words; viz._
+
+  An Objection is come into my Thoughts, which I should be glad the
+  Author would think proper to obviate in the Front of the Second
+  Edition.
+
+  There are Mothers, or Grandmothers, in all Families of affluent
+  Fortune, who, tho’ they may have none of Lady _Davers_’s
+  _Insolence_, will be apt to feel one of her _Fears_,---that the
+  Example of a Gentleman so amiable as Mr. B--- may be follow’d, by
+  the _Jackies, their Sons_, with too blind and unreflecting a
+  Readiness. Nor does the Answer of that Gentleman to his Sister’s
+  Reproach come quite up to the Point they will rest on. For, tho’
+  indeed it is true, all the World wou’d acquit the best Gentleman in
+  it, if he married _such_ a Waiting-maid as _Pamela_, yet, there is
+  an ill-discerning Partiality, in Passion, that will overthrow all
+  the Force of that Argument: because _every belov’d Maid will be
+  PAMELA_, in a Judgment obscur’d by her Influence.
+
+  And, since the Ground of this Fear will _seem_ solid, I don’t know
+  how to be easy, till it is shewn (nor ought it to be left to the
+  Author’s Modesty) that they who consider his Design in that Light
+  will be found but short-sighted Observers.
+
+  Request it of him then to suffer it to be told them, that not a
+  limited, but general, Excitement to Virtue was the first and great
+  End to his Story: And that this Excitement must have been deficient,
+  and very imperfectly offer’d, if he had not look’d quite _as low as
+  he cou’d_ for his Example: because if there had been any Degree or
+  Condition, more remote from the Prospect than that which he had
+  chosen to work on, that Degree might have seem’d out of Reach of the
+  Hope, which it was his generous Purpose to encourage.---And, so, he
+  was under an evident _Necessity_ to find such a Jewel in a
+  _Cottage_: and expos’d, too, as she was, to the severest Distresses
+  of Fortune, with Parents unable to support their own Lives, but from
+  the daily hard Product of _Labour_.
+
+  Nor wou’d it have been sufficient to have plac’d her thus _low_ and
+  _distressful_, if he had not also suppos’d her a _Servant_: and that
+  too in some elegant Family; for if she had always remain’d a
+  Fellow-cottager with her Father, it must have carried an Air of
+  Romantick Improbability to account for her polite Education.
+
+  If she had _wanted_ those Improvements, which she found means to
+  acquire in her _Service_, it wou’d have been very unlikely, that she
+  shou’d have succeeded so well; and had destroy’d _one_ great _Use_
+  of the Story, to have allow’d such uncommon Felicity to the Effect
+  of mere _personal Beauty_.---And it had not been _judicious_ to have
+  represented her as educated in a superior Condition of Life with the
+  proper Accomplishments, before she became reduc’d by Misfortunes,
+  and so not a Servant, but rather an Orphan under hopeless
+  Distresses---because Opportunities which had made it no Wonder how
+  she came to be so winningly qualified, wou’d have lessen’d her Merit
+  in being so. And besides, where had then been the purpos’d
+  Excitement of Persons in PAMELA’s Condition of Life, by an Emulation
+  of her Sweetness, Humility, Modesty, Patience, and Industry, to
+  attain some faint Hope of arriving, in time, within View of _her_
+  Happiness?----And what a delightful Reformation shou’d we see, in
+  all Families, where the Vanity of their _Maids_ took no Turn toward
+  Ambition to _please_, but by such innocent Measures, as PAMELA’s!
+
+  As it is clear, then, the Author was under a Necessity to suppose
+  her a _Servant_, he is not to be accountable for mistaken
+  Impressions, which the Charms he has given her may happen to make,
+  on wrong Heads, or weak Hearts, tho’ in Favour of Maids the Reverse
+  of her Likeness.
+
+  What is it then (they may say) that the Lowness, and Distance of
+  _Pamela’s_ Condition from the Gentleman’s who married her, proposes
+  to teach the _Gay World_, and the _Fortunate_?---_It is this_---By
+  Comparison with that infinite Remoteness of her Condition from the
+  Reward which her Virtue procur’d her, one great _Proof_ is deriv’d,
+  (which is Part of the _Moral_ of PAMELA) that Advantages from
+  _Birth_, and Distinction of _Fortune_, have no Power at all, when
+  consider’d against those from _Behaviour_, and Temper of _Mind_:
+  because where the _Last_ are _not added_, all the _First_ will be
+  boasted in vain. Whereas she who possesses the Last finds _no Want_
+  of the First, in her Influence.
+
+  In _that_ Light alone let the Ladies of _Rank_ look at
+  PAMELA.---Such an alarming Reflection as that will, at the same time
+  that it raises the Hope and Ambition of the _Humble_, correct and
+  mortify the Disdain of the _Proud_. For it will compel them to
+  observe, and acknowledge, that ’tis the Turn of their _Mind_, not
+  the Claims of their _Quality_, by which (and which only) Womens
+  Charms can be lasting: And that, while the _haughty Expectations_,
+  inseparable from an elevated Rank, serve but to multiply its
+  Complaints and Afflictions, the Condescensions of _accomplish’d
+  Humility_, attracting Pity, Affection, and Reverence, secure an
+  hourly Increase of Felicity.---So that the _moral Meaning_ of
+  PAMELA’s Good-fortune, far from tempting young Gentlemen to marry
+  _such_ Maids as are found in their Families, is, by teaching Maids
+  to _deserve to be Mistresses_, to stir up Mistresses _to support
+  their Distinction_.
+
+[_del._ 4th]
+
+{_We shall only add, That it was intended to prefix two neat
+_Frontispieces_ to this Edition, (and to present them to the Purchasers
+of the first) and one was actually finished for that Purpose; but there
+not being Time for the other, from the Demand for the new Impression;
+and the Engraving Part of that which was done (tho’ no Expence was
+spared) having fallen very short of the Spirit of the Passages they were
+intended to represent, the Proprietors were advised to lay them aside.
+And were the rather induced to do so, from the following Observation of
+a most ingenious Gentleman, in a Letter to the Editor._ “I am so
+jealous, _says he,_ in Behalf of our _inward_ Idea of PAMELA’s _Person_,
+that I dread _any_ figur’d Pretence to Resemblance. For it will be pity
+to look at an _Air_, and imagine it _Hers_, that does not carry some
+such elegant Perfection of Amiableness, as will be sure to find place in
+the _Fancy_.”}
+
+
+
+
+VERSES, sent to the Bookseller, for the Unknown Author [_del._ 8th]
+{of the beautiful new Piece call’d} _PAMELA_.
+
+  Blest be thy pow’rful Pen, whoe’er thou art,
+  Thou skill’d, great _Moulder_ of the master’d Heart!
+  Where hast thou lain conceal’d!---or why thought fit,
+  At this dire Period, to _unveil_ thy Wit?
+    O! late befriended Isle! had this broad Blaze,
+  With earlier Beamings, bless’d our _Fathers_ Days,
+  The Pilot Radiance, pointing out the Source,
+  Whence public Health derives its [5th: “moral”] {vital} Course,
+  Each timely Draught some healing Power had shown,
+  Ere gen’ral _Gangrene_ blacken’d, to the _Bone_.
+  But, fest’ring now, beyond all Sense of Pain,
+  ’Tis hopeless: and the Helper’s Hand is _vain_.
+    Sweet _Pamela_! forever-blooming Maid!
+  Thou dear, unliving, yet immortal, Shade!
+  Why are thy Virtues scatter’d to the Wind?
+  Why are thy Beauties flash’d upon the Blind?
+    What, tho’ thy flutt’ring Sex might learn, from thee,
+  That _Merit_ forms a Rank, above _Degree_?
+  That Pride, too conscious, falls, from ev’ry _Claim_,
+  While humble Sweetness climbs, beyond its _Aim_?
+  What, tho’ Religion, smiling from thy Eyes,
+  Shews her _plain_ Power, and charms without _Disguise_?
+  What, tho’ thy warmly-pleasing moral Scheme
+  Gives livelier Rapture, than the Loose can _dream_?
+  What, tho’ thou build’st, by thy persuasive Life,
+  Maid, Child, Friend, Mistress, Mother, Neighbour, Wife?
+  Tho’ Taste like thine each Void of Time, can fill,
+  Unsunk by Spleen, unquicken’d by Quadrille!
+  What, tho’ ’tis thine to bless the lengthen’d Hour!
+  Give _Permanence_ to Joy, and _Use_ to Pow’r?
+  Lend late-felt Blushes to the _Vain_ and _Smart_?
+  And squeeze cramp’d Pity from the _Miser_’s Heart?
+  What, tho’ ’tis thine to hush the Marriage Breeze,
+  Teach Liberty to _tire_, and Chains to _please_?
+  Thine tho’, from Stiffness to divest Restraint,
+  And, to the Charmer, reconcile the _Saint_?
+  Tho’ Smiles and Tears obey thy moving Skill,
+  And Passion’s ruffled Empire waits thy Will?
+  Tho’ thine the fansy’d Fields of flow’ry Wit,
+  Thine, Art’s whole Pow’r, in Nature’s Language writ!
+  Thine, to convey strong Thought, with modest Ease,
+  And, copying _Converse_, teach its _Style_ to please?
+  Tho’ thine each Virtue, that a _God_ cou’d lend?
+  Thine, ev’ry Help, that ev’ry Heart, can mend?
+  ’Tis Thine _in vain_!----Thou wak’st a _dying_ Land;
+  And lift’st _departed Hope_, with fruitless Hand:
+  Death has NO CURE. Thou hast _mis-tim’d_ thy Aim;
+  _Rome_ had her GOTHS: and all, beyond, was _Shame_.
+
+
+       *       *       *       *       *
+           *       *       *       *
+       *       *       *       *       *
+
+
+William Andrews Clark Memorial Library: University of California
+
+THE AUGUSTAN REPRINT SOCIETY
+
+_General Editors_
+
+  R. C. BOYS
+  University of Michigan
+
+  RALPH COHEN
+  University of California, Los Angeles
+
+  VINTON A. DEARING
+  University of California, Los Angeles
+
+  LAWRENCE CLARK POWELL
+  Wm. Andrews Clark Memorial Library
+
+  _Corresponding Secretary_: Mrs. EDNA C. DAVIS,
+    Wm. Andrews Clark Memorial Library
+
+The Society exists to make available inexpensive reprints (usually
+facsimile reproductions) of rare seventeenth and eighteenth century
+works. The editorial policy of the Society remains unchanged. As in
+the past, the editors welcome suggestions concerning publications. All
+income of the Society is devoted to defraying cost of publication and
+mailing.
+
+All correspondence concerning subscriptions in the United States and
+Canada should be addressed to the William Andrews Clark Memorial
+Library, 2205 West Adams Boulevard, Los Angeles 18, California.
+Correspondence concerning editorial matters may be addressed to any of
+the general editors. The membership fee is $3.00 a year for subscribers
+in the United States and Canada and 15/- for subscribers in Great
+Britain and Europe. British and European subscribers should address
+B. H. Blackwell, Broad Street, Oxford, England.
+
+
+Publications for the eighth year [1953-1954]
+
+  [The notation [*] means that the title was apparently never
+  published. The Sarbiewski volume is currently in preparation for
+  Project Gutenberg. The song collection was published with the title
+  “...Songbooks”.]
+
+(At least six items, most of them from the following list, will be
+reprinted.)
+
+JOHN BAILLIE: _An Essay on the Sublime_ (1747). Introduction by
+  Samuel H. Monk.
+
+Contemporaries of the _Tatler_ and _Spectator_. Introduction by
+  Richmond P. Bond.
+
+_John Dart and George Ogle on Chaucer._ Introduction by William L.
+  Alderson.  [*]
+
+JOHN T. DESAGULIERS: _The Newtonian System of the World the Best Model
+  of Government_ (1728). Introduction by Marjorie H. Nicolson.  [*]
+
+_Sale Catalogue of Mrs. Piozzi’s Effects_ (1816). Introduction by
+  John Butt.  [*]
+
+M. C. SARBIEWSKI: _The Odes of Casimire_ (1646). Introduction by
+  Maren-Sofie Rœstvig.
+
+_Selections from Seventeenth-Century Songs._ Introduction by
+  Jennifer W. Angel.
+
+_A Sermon Preached at the Cathedral Church of St. Paul_ (1745).
+  [Probably by Samuel Johnson]. Introduction by James L. Clifford.  [*]
+
+
+Publications for the first seven years (with the exception of Nos. 1-6,
+which are out of print) are available at the rate of $3.00 a year.
+Prices for individual numbers may be obtained by writing to the Society.
+
+  THE AUGUSTAN REPRINT SOCIETY
+  _WILLIAM ANDREWS CLARK MEMORIAL LIBRARY_
+  2205 West Adams Boulevard, Los Angeles 18, California
+
+Make check or money order payable to THE REGENTS OF THE UNIVERSITY OF
+CALIFORNIA.
+
+
+
+
+PUBLICATIONS OF THE AUGUSTAN REPRINT SOCIETY
+
+  [Where available, Project Gutenberg e-text numbers are shown in
+  brackets.]
+
+
+FIRST YEAR (1946-1947)
+
+Numbers 1-6 out of print.
+
+   [Titles:
+   1. Richard Blackmore’s _Essay upon Wit_ (1716), and Addison’s
+      _Freeholder_ No. 45 (1716).  [13484]
+   2. Anon., _Essay on Wit_ (1748), together with Characters by
+      Flecknoe, and Joseph Warton’s _Adventurer_ Nos. 127 and 133.
+      [14973]
+   3. Anon., _Letter to A. H. Esq.; concerning the Stage_ (1698), and
+      Richard Willis’ _Occasional Paper_ No. IX (1698).  [14047]
+   4. Samuel Cobb’s _Of Poetry_ and _Discourse on Criticism_ (1707).
+      [14528]
+   5. Samuel Wesley’s _Epistle to a Friend Concerning Poetry_ (1700)
+      and _Essay on Heroic Poetry_ (1693).  [16506]
+   6. Anon., _Representation of the Impiety and Immorality of the Stage_
+      (1704) and anon., _Some Thoughts Concerning the Stage_ (1704).
+      [15656] ]
+
+
+SECOND YEAR (1947-1948)
+
+7. John Gay’s _The Present State of Wit_ (1711); and a section on Wit
+  from _The English Theophrastus_ (1702).  [14800]
+
+8. Rapin’s _De Carmine Pastorali_, translated by Creech (1684).  [14495]
+
+9. T. Hanmer’s (?) _Some Remarks on the Tragedy of Hamlet_ (1736).
+  [14899]
+
+10. Corbyn Morris’ _Essay towards Fixing the True Standards of Wit,
+  etc._ (1744).  [16233]
+
+11. Thomas Purney’s _Discourse on the Pastoral_ (1717).  [15313]
+
+12. Essays on the Stage, selected, with an Introduction by Joseph Wood
+  Krutch.  [16335]
+
+
+THIRD YEAR (1948-1949)
+
+13. Sir John Falstaff (pseud.), _The Theatre_ (1720).  [15999]
+
+14. Edward Moore’s _The Gamester_ (1753).  [16267]
+
+15. John Oldmixon’s _Reflections on Dr. Swift’s Letter to Harley_
+  (1712); and Arthur Mainwaring’s _The British Academy_ (1712).
+  [In preparation]
+
+16. Nevil Payne’s _Fatal Jealousy_ (1673).  [16916]
+
+17. Nicholas Rowe’s _Some Account of the Life of Mr. William
+  Shakespeare_ (1709).  [16275]
+
+18. “Of Genius,” in _The Occasional Paper_, Vol. III, No. 10 (1719);
+  and Aaron Hill’s Preface to _The Creation_ (1720).  [15870]
+
+
+FOURTH YEAR (1949-1950)
+
+19. Susanna Centlivre’s _The Busie Body_ (1709).  [16740]
+
+20. Lewis Theobold’s _Preface to The Works of Shakespeare_ (1734).
+  [16346]
+
+21. _Critical Remarks on Sir Charles Grandison, Clarissa, and Pamela_
+  (1754).
+
+22. Samuel Johnson’s _The Vanity of Human Wishes_ (1749) and Two
+  _Rambler_ papers (1750).  [13350]
+
+23. John Dryden’s _His Majesties Declaration Defended_ (1681).  [15074]
+
+24. Pierre Nicole’s _An Essay on True and Apparent Beauty in Which from
+  Settled Principles is Rendered the Grounds for Choosing and Rejecting
+  Epigrams_, translated by J. V. Cunningham.
+
+
+FIFTH YEAR (1950-1951)
+
+25. Thomas Baker’s _The Fine Lady’s Airs_ (1709).  [14467]
+
+26. Charles Macklin’s _The Man of the World_ (1792).  [14463]
+
+27. Frances Reynolds’ _An Enquiry Concerning the Principles of Taste,
+  and of the Origin of Our Ideas of Beauty, etc._ (1785).  [13485]
+
+28. John Evelyn’s _An Apologie for the Royal Party_ (1659); and
+  _A Panegyric to Charles the Second_ (1661).  [17833]
+
+29. Daniel Defoe’s _A Vindication of the Press_ (1718).  [14084]
+
+30. Essays on Taste from John Gilbert Cooper’s _Letters Concerning
+  Taste_, 3rd edition (1757), & John Armstrong’s _Miscellanies_ (1770).
+  [13464]
+
+
+SIXTH YEAR (1951-1952)
+
+31. Thomas Gray’s _An Elegy Wrote in a Country Church Yard_ (1751);
+  and _The Eton College Manuscript_.  [15409]
+
+32. Prefaces to Fiction; Georges de Scudéry’s Preface to _Ibrahim_
+  (1674), etc.  [14525]
+
+33. Henry Gally’s _A Critical Essay_ on Characteristic-Writings (1725).
+  [16299]
+
+34. Thomas Tyers’ A Biographical Sketch of Dr. Samuel Johnson (1785).
+
+35. James Boswell, Andrew Erskine, and George Dempster. _Critical
+  Strictures on the New Tragedy of Elvira, Written by Mr. David Malloch_
+  (1763).  [15857]
+
+36. Joseph Harris’s _The City Bride_ (1696).  [22974]
+
+
+SEVENTH YEAR (1952-1953)
+
+37. Thomas Morrison’s _A Pindarick Ode on Painting_ (1767). [In
+    preparation]
+
+38. John Phillips’ _A Satyr Against Hypocrites_ (1655).
+
+39. Thomas Warton’s _A History of English Poetry_.
+
+40. Edward Bysshe’s _The Art of English Poetry_ (1708).
+
+41. Bernard Mandeville’s “_A Letter to Dion_” (1732).
+
+42. Prefaces to Four Seventeenth-Century Romances.
+
+       *       *       *       *       *
+           *       *       *       *
+
+Errata (noted by transcriber):
+
+  deserves not only Acknowlegdment, but ...
+    [_text unchanged: error for “Acknowledgment”?_]
+  ... for the Unknown Author [_del._ 8th] {of the beautiful new Piece
+  call’d} _PAMELA_
+    [_text unchanged, but “of” probably belongs outside the hand-drawn
+    brackets_]
+  Maren-Sofie Rœstvig
+    [_spelling shown as printed, but correct form is “Røstvig”
+    (o-slash, 28th letter of Norwegian alphabet)_]
+
+
+
+
+
+End of the Project Gutenberg EBook of Samuel Richardson's Introduction to
+Pamela, by Samuel Richardson
+
+*** END OF THIS PROJECT GUTENBERG EBOOK INTRODUCTION TO PAMELA ***
+
+***** This file should be named 24860-0.txt or 24860-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/4/8/6/24860/
+
+Produced by Louise Hope, David Starner, Chris Curnow and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

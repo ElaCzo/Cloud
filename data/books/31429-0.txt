@@ -1,0 +1,3010 @@
+The Project Gutenberg EBook of Washo Religion by James F. Downs
+
+
+
+This eBook is for the use of anyone anywhere at no cost and with almost no
+restrictions whatsoever. You may copy it, give it away or re-use it under
+the terms of the Project Gutenberg License included with this eBook or
+online at http://www.gutenberg.org/license
+
+
+
+Title: Washo Religion
+
+Author: James F. Downs
+
+Release Date: February 27, 2010 [Ebook #31429]
+
+Language: English
+
+Character set encoding: UTF‐8
+
+
+***START OF THE PROJECT GUTENBERG EBOOK WASHO RELIGION***
+
+
+
+
+
+                              Washo Religion
+
+                                    By
+
+                              James F. Downs
+
+                  University of California Publications
+
+                         Anthropological Records
+
+                       Vol. 16, No. 9, pp. 365-386
+
+      Editors (Berkeley): J. H. Rowe, R. F. Millon, D. M. Schneider
+
+                 Submitted by editors September 16, 1960
+
+                           Issued June 16, 1961
+
+                             Price, 75 cents
+
+                      University of California Press
+
+                         Berkeley and Los Angeles
+
+                                California
+
+                        Cambridge University Press
+
+                             London, England
+
+
+
+
+
+CONTENTS
+
+
+Preface
+Introduction
+Mythology
+   Water Babies
+   The Giants
+   The Coyote And Other Figures
+Curing And Shamanism (2469-2541)
+   Noncurative Use Of Power (2567-2593)
+   Divining And Rainmaking (2553-2556, 2566)
+   Objects Of Power
+   Sorcery And Witchcraft (2562-2564)
+   War Power
+   Summary Of Shamanism
+Dreams And Dreamers (2566)
+Ritual Activities
+   Conception And Contraception
+   Birth (2178-2293)
+   Puberty: Girls (2305-2352)
+   Puberty: Boys (2379-2386, 369-374)
+   Marriage (2018-2051)
+   Death (2389-2453)
+Ritual In Subsistence
+   Hunting
+   Fishing (252a-296)
+   Miscellaneous Concepts About Hunting And Fishing
+   Gathering
+Miscellaneous Ritual
+Influence Of Christianity
+Bibliography
+Footnotes
+
+
+
+
+
+
+PREFACE
+
+
+This paper is the result of two and one-half months’ field work among the
+Washo Indians of California and Nevada supported by the Department of
+Anthropology of the University of California and the Woodrow Wilson
+Foundation. In it I have tried to describe the religious beliefs and
+ritual activities of the Washo as they can be examined today. Where
+possible I have attempted to reconstruct the aboriginal patterns and trace
+the course of change between these two points in time.
+
+A second purpose has been to supplement the culture element distribution
+lists prepared by Omer C. Stewart in 1936 (Stewart 1941). In a number of
+instances his findings were at variance with those of Smith, whose notes
+Stewart incorporated; I have been able to resolve some of the differences
+between Stewart and Smith. Where my own research has led me to disagree
+with the statements in the culture element distributions I have discussed
+the problem. In general my own work simply expands the rather sparse
+descriptions of the element lists (Stewart 1941, pp. 366-418). The culture
+element distribution list numbers which refer to traits dealt with in the
+various sections are indicated in parentheses following the headings.
+Where a trait or complex is dealt with in detail it is indicated by
+parentheses in the text. Statements not otherwise attributed are the
+result of my own field work.
+
+I am indebted to Mr. W. L. d’Azevedo, who encouraged me to carry on field
+work among the Washo and who has made his own field notes and knowledge
+available to me. I have indicated information attributable to d’Azevedo by
+placing his name in parentheses in the text; where his name appears with a
+date, the reference is to a work published by him.
+
+I also wish to express my thanks for the suggestions made by J. H. Rowe,
+R. F. Millon, and D. M. Schneider, who read this article before it went to
+press, and to acknowledge the final reading given the manuscript by the
+late A. L. Kroeber.
+
+In addition, my thanks are owed to Mr. Frank Yapparagari, Mrs. Juanita
+Schubert, and Mrs. Lois Buck of Gardnerville and Minden, Nevada, to Mr.
+Richard Shulter of the Nevada State Museum in Carson City, Nevada, and to
+Mrs. E. M. Keenan of Paradise, California, who assisted in various ways in
+the progress of the investigation. Last, to the various members of the
+Washo tribe, who with patience and good humor bore the probing into their
+lives, my deepest gratitude.
+
+James F. Downs
+
+
+
+
+
+INTRODUCTION
+
+
+This paper will devote itself to a description of the religious life of
+the Washo Indians living in the communities of Sierraville, Loyalton, and
+Woodfords, in California, and Reno, Carson City, and Dresslerville,
+Nevada. Smaller numbers are scattered throughout the area which was their
+aboriginal range, roughly from the southern end of Honey Lake to Antelope
+Valley and from the divide of the Pinenut Range in Nevada, almost to
+Placerville, California.
+
+A short ethnography by Barrett dealing in large part with material
+culture, Lowie’s Ethnographic Notes, and Stewart’s Element Lists
+constitute almost the only general references on Washo culture. Various
+other writers have dealt with specialized questions such as linguistics
+(Kroeber, Jacobson), peyotism (Siskin, d’Azevedo), and music (Merriam).
+
+Most of the statements about the Washo give the impression that they have
+long been on the edge of oblivion (Mooney, Kroeber, etc.), and population
+estimates have been well under one thousand for the past fifty years.
+However, I find myself in agreement with d’Azevedo(1) that the Washo are a
+vigorous and continuing cultural entity. My own rather impressionistic
+estimate of population is that there are perhaps two thousand Indians in
+the area who consider themselves as Washo and form a part of a viable
+cultural unit.
+
+My own field work was devoted to an attempt to trace the patterns of
+change among these people since the entrance of the white man into their
+area. To this end I spent a great deal of time with older informants, but
+my work was not exclusively “salvage ethnography.” Many aspects of Washo
+culture have changed dramatically in the past century; this is
+particularly true in the area of material culture and subsistence
+activities. On the other hand, I was impressed by the tenacity of the less
+material aspects of the culture. The always-difficult-to-define world view
+or ethos of the Washo, which so clearly separates them from other
+cultures, is very much an entity expressed in the attitudes and actions of
+the Washo Indians, whether they are oldsters who can remember many aspects
+of the “old days” or children who have not yet entered the newly
+integrated schools of Nevada. This continuity seems most clearly expressed
+in the area which we subsume under the title “Religion.” Almost all Washo,
+even the youngsters, are familiar with, or at least aware of, Washo
+mythology, attitudes about ghosts, spirits, medicine, and a number of
+ritual actions and beliefs which are common elements in Washo life today.
+
+This is not to imply that Washo religious activity has not been affected
+by the tremendous changes which have taken place in western Nevada and
+eastern California. I suggest that rather than disappearing under the
+withering rationalism of civilization the religion of the Washo has simply
+altered and expanded to serve the Washo in new situations.
+
+In this work I take the broadest possible definition of religion,
+conceiving it as any institutionalized activity or attitude which reflects
+the Washo view of the cosmos. In so doing I have included a number of
+categories which may not generally be considered suitable for inclusion
+under the heading of religion. Stewart, for instance, includes shamanism,
+curing, special powers of shamans, miscellaneous shamanistic information,
+guardian spirits, destiny of the soul, ghosts or soul, and jimsonweed. My
+own work includes some of these specifically, incorporates some under
+other headings, and treats a number of subjects not included in the list
+given above.
+
+The reason for this approach is practical rather than theoretical or
+philosophical. As anthropological definitions of religions are extremely
+varied and the activities described as religious under various definitions
+cover a greater or narrower range, it seems valuable to include as many
+activities as possible in a purely descriptive work.
+
+The goal of this paper is to make as much information as possible about
+the religious and ritual activities of the Washo available to scholars who
+may be interested in religion. The inclusion of as many fields of activity
+as possible permits them to select information which they feel pertinent
+to their interests.
+
+Wherever possible I have tried to include direct quotations from
+informants as well as information about their behavior and attitudes, so
+that my own interpretations and conclusions can be examined by others in
+light of the information on which they are based.
+
+Statements made by informants are indicated by quotation marks. I did not
+have a recording device available and did not attempt to record entire
+interviews verbatim. However, whenever informants indicated that they
+considered their statements important I took them down word for word. If I
+felt some passing remark to have significance, I asked the informant to
+repeat it and often read it back to him for verification. Other stories,
+particularly those of a mythological nature, or semilegends, or
+experiences which were important to individual informants, were repeated
+voluntarily on almost every occasion of our meeting. Whenever statements
+are presented in quotation marks the material was gathered in this manner.
+
+This paper contains material from a number of sources. Statements of fact
+or interpretations taken from published anthropological or historic works
+are indicated by citations in the customary manner. Information based on
+conversations or other private communications with other investigators is
+so designated. All statements of fact which are not credited to these two
+sources are taken from my own field notes and represent statements of my
+informants.
+
+
+
+
+
+MYTHOLOGY
+
+
+Washo mythology has been presented in the form of interlinear texts by
+Dangberg (1927) and in Lowie’s Ethnographic Notes (1939, pp. 333-351).
+There are two versions of the creation myth, one describing the creation
+of Paiute, Washo, and Diggers from the seeds of the cattail by the Creator
+Woman, and the second attributing the creation of Indians to the Creation
+Man, who formed the three groups from among his sons to keep them from
+quarreling. Lowie also reports the common theme of several previous
+inhabitations of the earth. The most important myth, or at least the one
+which is still commonly told and seems to be the favorite among the Washo,
+devotes itself to the adventures of Damalali (short-tailed weasel) and
+Pewetseli (long-tailed weasel). These heroes are responsible for many of
+the natural features of the region so references to this myth are rather
+frequent. The Coyote, in the form of a rather malevolent and stupid
+trickster, and the Wolf, a generally patriarchal and protective figure,
+appear in several myths, as do cannibalistic giants and a giant bird, the
+an.
+
+Figures which appear only incidentally in the myths as recounted are
+elaborated almost infinitely in what might best be termed folk fantasy.
+
+
+
+
+Water Babies
+
+
+Most prominent of these figures are the Water Babies (Stewart 1941, p.
+444, 2574). In the mythology, Water Baby figures as the creature
+responsible for the many lakes of the eastern Sierra. Killed and scalped
+by the rascally Damalali, Water Baby commands the waters of the area to
+rise until the weasel returns the scalp to avoid drowning. The waters left
+in mountain valleys as the flood receded formed the lakes.
+
+The Water Baby is not confined to mythology. My informants were able to
+describe the appearance of a Water Baby in detail, to supply me with
+population figures, and to recount an almost endless series of incidents
+in which Water Babies were involved.
+
+All informants agreed that the Water Baby is a creature about one and
+one-half feet tall, gray in color, with extremely long black hair which
+never touches the ground but which floats along behind the Water Babies
+when they walk. In general, these creatures look like small humans.
+However, they are boneless, cold to the touch, and damp.
+
+Between two and three thousand Water Babies live in the Sierra, according
+to one informant. They inhabit lakes, streams, marshes, ponds, springs,
+and irrigation ditches. They speak a language of their own but are always
+able to speak Washo. With a single exception, every Washo of middle age
+and over to whom I talked claimed to have at least heard Water Babies
+calling from some body of water in the night. Several others claimed to
+have seen Water Baby footprints (one even reporting that the footprints he
+had seen were those of a female because the tracks were clearly those of
+high heeled shoes!). One informant steadfastly claimed to have seen a
+Water Baby, at least fleetingly, in 1956.
+
+Two distinct attitudes about these creatures are displayed by the Washo.
+Most informants openly admitted being afraid of Water Babies. If they
+heard one they remained in their houses or attempted to avoid contact.
+They claimed that if a person saw a Water Baby by accident, at the very
+least he would be struck unconscious and greater harm, in the form of
+sickness, might be inflicted on him or on one of his relatives. The
+general attitude was that Water Babies were best left alone because they
+were extremely powerful.
+
+This attitude is perhaps summed up best by one of my informants, a rather
+sophisticated Washo who has lived in cities for long periods and who is an
+active leader in the tribe’s legal battle with the federal government. He
+is also a devoted peyotist who often conducts curing ceremonies and is
+conceded to have a curing power. He said, “If they ever get up a bunch to
+trap one of them [Water Babies], I don’t want to have nothing to do with
+it.” When I asked why not, he replied: “Why hell, if you make one of them
+things mad they’ll flood the world. I just don’t want nothing to do with
+them. I ain’t that desperate.” I asked, “desperate for what?” and he
+replied “for power. I like to dream about womens [sic] and things like
+that, not about Water Babies and that funny stuff.”
+
+This last statement clearly indicates the other attitude about Water
+Babies; they are often guardian spirits of Washo who have special power,
+particularly shamanistic curing power. Another informant expressed this
+other attitude about these creatures. He is about seventy, attended
+Stewart Indian School for ten years and lived among the Hopi for ten
+years. He boasts a stone and cement-block home, the only such dwelling
+owned by a Washo. He has learned to bead baskets and during most of the
+year earns a reasonable income from this. His seeming adjustment to white
+culture is confounded when his philosophic position is examined. He can
+only be termed a mystic who interprets the world in Indian terms. Exposure
+to such influences as the writings of Kroeber and Huxley has only
+confirmed his essentially Indian viewpoint. Both his parents were famous
+Indian doctors and his maternal uncle, who was also his mentor,(2) was a
+famous shaman. My informant implied that his uncle’s spirit (wegeleyo),
+from which his power was derived, was the Water Baby, and his own
+carefully guarded statement implied that the creature was potentially his
+own spirit. His view of the Water Baby was quite the reverse of other
+informants. “Some people think the Water Baby will hurt them, but he
+won’t. If they see him by accident he won’t do nothing. But if he has
+given you his power and you see him—then wham, he maybe knock you right
+down.” This appears to have been his way of describing a seizure by the
+Water Baby, which although a fearful experience, usually resulted in the
+gift of additional power. There was, however, general agreement among
+informants that the Water Baby could, if he gave his power to a person,
+demand repayment with the lives of his protégé’s close relatives or entire
+family.(3)
+
+The various powers and activities of the Water Babies are perhaps best
+described in the following stories recounted by informants:
+
+
+    1. “One time my Dad was sick. He called in two, three doctors and
+    they said he had to give a basket to the Water Babies at Lake
+    _Išmedel_. There is an island in this lake and my Dad was supposed
+    to go out to that island and leave a basket. I was too young then
+    but he took my brother. They went up there and my Dad just started
+    walking out to the lake and the water never got any deeper than
+    there (pointing to his knees). He walked right on that water. He
+    left that basket and came back and he got well. Them Water Babies
+    helped him walk on the water. My brother saw it happen.”
+
+    2. “There is this deep pool up in the mountains. There is a kind
+    of black sucker live there but no Indians ever caught them because
+    that was a Water Baby place and they was Water Baby food. Womens
+    used to sit on a platform of logs and weave baskets there [special
+    baskets for the Water Babies, apparently, such as the one used as
+    offering in the story above]. One time I took another fella like
+    you [anthropologist] up there but when we got there we couldn’t
+    find nothing but sand with a little water bubbling up in the
+    middle. He wouldn’t believe me. I showed him where them womens had
+    sat but I think he thought I was lying. I guess them Water Babies
+    did something.”
+
+    3. “There is this women called Frances. She was up at Blue Lake
+    with her husband following him along the edge of the lake. It was
+    kind of dark. She saw them little footprints right on top of her
+    husband’s in the sand.”
+
+    4. “I’ll tell you what happened to me right in this house about
+    two years ago. I was in bed in that room there and I felt these
+    little hands creeping under the covers. I brushed ’em away but
+    they just come back. They tried to feel me down here [indicating
+    his genitalia]. I yelled for my mother and she come in and said
+    something and something went zip (waving arm violently to indicate
+    direction) right out of that window. We looked out that way [to
+    the south], that’s toward Walker Lake. Everything was kind of hazy
+    blue.”
+
+
+In light of Washo views about receiving shamanistic power, it would appear
+that my informant was suggesting that this visitation was a Water Baby
+making its patronage known.
+
+
+    5. “My old uncle had been doctoring up by Genoa. He had a tough
+    one and fallen in the fire and burned all his pants off and was
+    walking wearing his coat like a skirt. He got by Wally’s Hot
+    Springs when he felt like he wanted a bath. Them Water Babies must
+    have been working on him. He went over by the creek and started to
+    lean over and then he passed out and fell into the water and there
+    was a Water Baby. That Water Baby said, ‘come on,’ and he took him
+    down to Water Baby country. The chief of the Water Babies lived in
+    a big house made out of that black shining rock [obsidian]. But
+    they didn’t go there. The Water Baby said ‘we got some girls that
+    want to give you something,’ and he took my uncle to a place and
+    there was five girls there. They all sat around my uncle and sang
+    him a song and told him that it was his song from now on. Then the
+    Water Baby took my uncle back and then he said it was like waking
+    up from a dream and there he was laying in the creek down under a
+    bunch of cattails.”(4)
+
+    6. “There was this white man up here fishing. He caught a Water
+    Baby but he didn’t know what it was. He thought it was some kind
+    of fish and took it to San Francisco and they put it that place
+    where they have a lotta fish [aquarium]. Captain Jim went all the
+    way down there to tell the mayor that they had better let that
+    Water Baby loose, but nobody would pay no attention to him. Well
+    you know they had a big earthquake down there and the water came
+    up around everything. When it was all over that tank where they
+    had the Water Baby was empty.”
+
+
+
+
+The Giants
+
+
+Washo mythology features several creatures which may each have contributed
+to the wild men I will describe in this section. Both Lowie and Dangberg
+report myths in which a giant, Hangawuiwui, is the principal figure.
+Although the myths do not describe him, my informants generally picture
+him as a colossus who hops on a single leg from the top of one mountain to
+another. He has a single eye to match his single limb and a proclivity for
+gobbling up Indians. Several miles southwest of Gardnerville, in the hills
+overlooking Double Spring Flats, a cave is known by the Washo as
+Hangawuiwui aɲ¿l (the place where Hangawuiwui lives). Present-day Indians
+tell a number of stories about this giant and display a certain uneasiness
+when they are near places he is supposed to haunt.
+
+Another kind of giant appears in a myth reported by Lowie. These beings
+appear to be considerably more human than Hangawuiwui. Traditionally they
+camped south of Pyramid Lake and terrorized the Paiutes. However, when one
+of their number attempted to take fish from a Washo the tribe rallied and
+routed the giants in a battle near Walker Lake. The giants did not have
+bows and arrows. They fortified themselves behind rock walls and threw
+stones.
+
+According to my informant on the subject, the mountains are still the home
+of a tribe of “wild men.” These people have managed to hide the location
+of their camps so that no one knows where they live. My informant felt
+that they were in fact some kind of Indian. Despite the mythological
+ability of the Washo to defeat the giants, modern stories about them
+suggest they have a great deal of supernatural power in addition to their
+physical prowess.
+
+The following stories were told to me as contemporary or relatively recent
+occurrences:
+
+
+    1. “There is these wild fellas up in the mountains. I guess you
+    call them giants. One time there was an old man who had set up a
+    blind to hunt chipmunks, like I told you yesterday. He was up in
+    the pine-nut hills and he had killed four chipmunks. One of these
+    fellas come along and he snatched up a chipmunk and he ate it.
+    Then he snatched another and ate it. He tried to grab another but
+    the old man wrestled with him and stopped him from getting the
+    chipmunk and then he got away. He tussled with that wild man and
+    got away. But a long time after when he was real old and went
+    around with a long stick [staff], he went out walking and he
+    didn’t come back. They went out looking for him and found his
+    tracks leading up the foot of Job’s Peak and they ended there. His
+    stick was stuck in the ground and at the end of his tracks it
+    looked like something had snatched him up.”
+
+
+When I asked if the wild men had gotten him my informant said he thought
+so. The theme of a wild man’s attempting to take part of a catch from a
+Washo recalls the myth as reported by Lowie, although in the version he
+recorded the incident occurred between Wadsworth and Sparks and the final
+battle took place at Walker Lake, whereas my informant changed the locale
+to the Carson Valley area.
+
+
+    2. “My old grandfather had this happen to him. He was hunting up
+    by the Lake [Tahoe], In them days hunters just carried little thin
+    rabbit skin blankets. They covered up their front and put their
+    back to the fire. My old grandfather was just laying there when he
+    noticed the fire going down (maybe that wild man did something to
+    the fire). Pretty soon he saw a big shadow. He was pretty scared
+    and just laid there. Pretty soon he felt a hand feeling his feet
+    and in between his toes and up his leg and all around his hole
+    [anus]. Pretty soon it reached his face and tried to put his
+    finger in my grandfather’s mouth. My grandfather bit that finger
+    real hard and the wild man yelled and ran away.”
+
+
+I asked if the wild men still existed and my informant replied: “Sure.
+They are up there in the mountains. They are pretty smart and you can’t
+see them. But us Washo can hear them talking. We can understand their
+language. I have thought a lot about it and they should have called some
+Washo over to Oroville when they caught that fella over there. I read
+about it in the newspaper when I was younger. I know they had a lot of
+them California Indians come up there but they couldn’t understand him.
+I’ll bet a Washo could have understood him.” I asked if he thought it had
+been a wild man and he nodded in affirmation.
+
+The “wild man” of course was the now-famous Ishi, the last of the Southern
+Yana who wandered half starved into a slaughterhouse in Oroville in 1911.
+
+
+
+
+The Coyote And Other Figures
+
+
+Washo myths contain a number of tales about a bumbling, not very bright,
+generally malevolent Coyote, who as a companion of Wolf seems to devote a
+great deal of time to eating Indians and to sexual misadventures.
+
+Modern Washo seem less willing than their forebears to weave Coyote into
+tales but are no less conscious of his malevolent presence. Peyotists
+often see visions or dream of Coyote (d’Azevedo and Merriam 1957), and
+quick asides about Coyote’s influence are apt to come up in conversation
+either as tentative jokes or in seriousness. One tale of a modern
+occurrence involving Coyote did come my way through the kindness of Warren
+d’Azevedo. His informant was the brother-in-law of my own informant and,
+like his kinsman, a semimystic, very conscious of his Indianness and
+credited by other Washo with powers beyond those of an ordinary man in
+hunting.
+
+
+    “I was staying in this shack with the guy who owned it. One night
+    he didn’t come home but I kept hearing something walking around
+    that shack. The next morning when that guy came home he was all
+    tired out and there was Coyote tracks all around that shack. I got
+    my gun and told that guy to stay away from me” (d’Azevedo).
+
+
+The Aɲ, a huge man-eating bird described in Lowie’s myth number 13, is no
+longer alive, but according to several informants the creature’s bones or
+at least the island on which it nested can be seen by people flying over
+the lake because they are only a bit below the surface. Washo insist that
+white airplane pilots see the shape of the island daily but keep silent
+because they don’t want to confirm an Indian story. One day on a trip
+around Lake Tahoe my Indian companion, a sometime leader among the Washo
+asked: “If we get that money from our claim do you think one of them
+archeologist fellas could go down under the water and find that there aɲ
+bird’s skeleton?”
+
+The foregoing paragraphs illustrate the tenacity with which Washo
+mythology has maintained itself among these people. The entirety of many
+of the myths is no longer part of the repertoire of every adult Washo, but
+variations, on-the-spot reconstructions, and the introduction of
+mythological themes into contemporary stories of a secular nature are
+definitely part of the oral literature of the Washo.
+
+It is interesting to note that some aspects of Washo mythology appear to
+have more viability than others. Thus the Water Baby remains an important
+and vital aspect of modern Washo life, as does the Coyote. The twin
+weasels have lost much of their appeal, as has the giant Hangawuiwui. The
+giants of the mountains are acknowledged to be alive today but are seldom
+referred to, whereas Coyote and Water Baby are almost always mentioned and
+spoken of as living entities even by the most progressive Washo.
+
+Except for the making of offerings to nature, which may be defined as
+purely religious, other religious or ritual activities dealing with what
+we would call the supernatural are so integrated with other aspects of
+Washo life as to be almost inseparable. Thus in describing the religious
+activities of the Washo I will proceed through various phases of their
+life, pointing out the ritual actions which are part of Washo behavior in
+specific situations.
+
+
+
+
+
+CURING AND SHAMANISM (2469-2541)
+
+
+The Washo word da¿man¿li¿ has a wide range of meanings which include
+almost all people with supernatural powers, including curers of several
+orders. The terms which they use when discussing the subject in English
+are somewhat more precise and will be used in this paper.
+
+The Washo make a distinction between curers (2594-96) and Indian doctors.
+The latter, as will be shown, are true shamans whereas the former are
+somewhat less powerful. Curers appear to be women who have certain powers
+revealed to them in dreams. Such persons are usually members of what the
+Washo describe as a “doctor family.” An informant described the activities
+of such a curer:
+
+
+    “My mother was a curer. She just smoke and talk. You would meet
+    her on the way to town mebbe and say ‘I don’t feel good’ and she’d
+    just sit down and smoke and talk [pray?] a little and then mebbe
+    tell you what was wrong and what you should do.
+
+    “Along about the first war I got sick and couldn’t make no water
+    at all. My mother smoked and then spread ashes all over my belly
+    and talked some and after that I passed a lot of blood and got
+    better.”(5)
+
+
+Far more important than the curers, however, were the Indian doctors. Such
+men were never exclusive specialists and were apparently expected to share
+in the work of hunting and fishing with less gifted men. With the
+introduction of money by the whites, shamans appear to have approached
+something like specialization, charging fees of up to twenty dollars a
+session for their services.
+
+Until the middle 1930’s there were a number of shamans among the Washo
+(Stewart 1944). However, with the introduction of the peyote cult, which
+among the Washo is concerned with curing, the shaman was superseded. Today
+only a single Washo practices shamanistic curing. Interestingly enough
+this man, now seventy-five, was an informant of Lowie’s in the 1920’s, and
+at that time Lowie described him as a sophisticated young Washo, somewhat
+mystic and with shamanistic ambitions (Lowie 1939).
+
+This man, Henry Rupert, spent ten years in the Indian school at the
+Stewart Agency and after graduation worked for a number of years in a
+printing plant in Reno. When questioned about the old days he was a fair
+informant, seldom offering more information than was asked for and clearly
+enjoying the business of making a white man work for every scrap of
+information. He was also given to dropping subtle hints and waiting with
+stolid indifference to see if I had been alert. He did not deny his
+shamanistic practices but was less than willing to discuss them in detail.
+
+His equipment, he admitted (but refused to show me), consisted of a
+butterfly-cocoon rattle, an eagle-bone whistle, and a feather headband. “I
+don’t really do nothing but help nature,” he said. When I replied that
+only some people know how to help nature he was gratified and smiled. “Oh
+well, it’s all psychological anyway,” he answered, confirming Lowie’s
+description of him as a sophisticate.
+
+He is noted for his rather atypical practice of tending a garden, which
+consists mostly of fruit trees, and for his open liking for old-fashioned
+foods, which he collects, including fly grubs and locusts. I was not able
+to observe his curing procedures, but they were described to me by another
+informant, a seventy-five-year-old woman, considered one of the most
+progressive of the residents of Dresslerville.
+
+
+    “I took my granddaughter to Rupert after the white doctors didn’t
+    do nothing for her. He don’t doctor in the real old Indian way [a
+    phrase I later learned meant that he did not hold a series of four
+    one-night sessions but only a short ceremony]. He don’t give you
+    nothing, just sings and prays and talks over you for a while. He
+    has a rattle and a whistle and a band on his head. After we went
+    to him my granddaughter got well.”
+
+
+Another informant, the man who was cured by his mother—curiously another
+graduate of the Stewart School and outwardly a progressive Indian—was a
+veritable fountain of shamanistic knowledge. His father and maternal uncle
+were both well-known shamans. Although he insisted that he had no
+particular power himself, other Indians generally claimed that he had
+certain hunting medicines which assisted him in taking game. There is
+little doubt that he believed he had been approached by spirits offering
+him shamanistic power. His life story was a long recital of ailments and
+mystic occurrences. The ailments, coupled with his attitude about
+spiritual power, suggested strongly that his suffering had been due to a
+rejection of the power offered (Whiting 1950). He supplied the following
+account about the process of becoming a shaman.
+
+
+    “Young fellows sometimes have dreams but usually they don’t pay no
+    attention to them. But when you get older and keep having dreams
+    you begin to pay attention. Maybe you see a bear or a rattlesnake
+    or Water Baby or anything. It tell you that you are going to be a
+    doctor. The next morning you go out and bathe and pray. This thing
+    keeps coming [in your dreams]. It may take any form, a skeleton or
+    an animal but you know it’s always the same thing as the first
+    time, just taking different shapes.
+
+    “These dreams keep coming for four, sometimes eight, years to get
+    you to be a good doctor. But during all this time you don’t get no
+    song. But they do give you your water. It tells you some certain
+    place up in the mountains where there is a spring. You mebbe think
+    there isn’t no spring there, but there is. Then it tells you where
+    to gather tobacco. Later it will tell you to make a rattle out of
+    cocoon. Mebbe at first you only make a rattle with one cocoon.
+    Later it says for you to add more. Finally it will give you a
+    song. You dream this song. But you don’t really remember it. You
+    just begin singing it like you had known it all the time. For a
+    while you may get a new song every year. Sometime you have a dream
+    that tells you how to handle your paraphernalia. Sometime a dream
+    tells you that you have to be all alone in your house. I don’t
+    know what happens in there but some of them doctors, I think, go
+    over to visit the dead for a little while.
+
+    “After you been dreaming for a long time maybe you try to cure
+    somebody but you don’t ask for nothing. You never tell them dreams
+    or what your spirit is but other doctors, they know. If your
+    dreams are right you can cure people and then you can ask for
+    something [payment]. The real Indian way was to doctor for four
+    nights. Then he’d lay out all his stuff and give it a drink by
+    sprinkling water on it. Then he’d shake his rattle and sing and
+    touch the patient with his hands. He’d talk to the sickness, like
+    he knew it ... like maybe he was friends to it ... he’d say ‘now
+    you behave and don’t bother this person no more. If you don’t
+    behave I’m gonna take you out and show you to everybody and then
+    you’ll be embarrassed!’ Then he’d suck at the patient (some of
+    these young doctors suck on a stick with a feather on it that they
+    pointed at the sick person, but the old ones didn’t do that), and
+    get out the sickness, it would be a feather or a stone. Sometime
+    that sickness come out and go into the doctor so hard they can’t
+    get it out and have to get another doctor to help him. Sometimes
+    it hit them so hard that they defecate. I seen them doctors just
+    fill their pants. If it’s real tough they get all stiff and fall
+    over. Sometimes fall right in the fire and their clothes all burn
+    off but it don’t burn them none. You can’t touch them then or it
+    will kill them. But when they begin to shake a little and that
+    rattle begins to go then you can pick them up. If he can, the
+    doctor will vomit out the sickness. When it’s out he puts it in
+    his hand and rubs it with dirt and throws it away toward the
+    north; that kills it.”
+
+
+This recital of the process of becoming a doctor shows clearly the ideal
+situation, the receiving of powers, unsought, from supernatural sources,
+the guardian spirit watching over its protégé’s career, providing him with
+the wherewithal in the form of songs, spells, and paraphernalia. In fact,
+however, it would appear that the process of becoming a shaman was far
+more a conscious and voluntary act on the part of an individual than would
+be supposed from the foregoing story.
+
+Doctoring power clearly seems to have remained within certain families.
+The informant who gave the foregoing account was himself the son of a
+woman curer and a famous doctor and the nephew of another doctor. From his
+childhood he was familiar with the procedures of curing, with stories
+about dreams, spirit visitations, trips to the afterworld, mysterious and
+sacred locations. He somewhat proudly admitted that as a boy he “used to
+shake that rattle” himself. In short, until his shamanistic education was
+interrupted by white man’s schooling, he was a shaman’s apprentice.
+
+This view is supported by the statements of other informants: “Of course
+them people that is from a doctor family, they have dreams and get curing
+power,” said one rather assimilated woman of about seventy-five. Another
+informant, a man of sixty, who repeatedly indicated his fear of “power”
+but at the same time was reputed to be an important curer in the peyote
+church said: “If you come from a family of dreamers there ain’t nothing
+you can do. You’re trapped by it.”
+
+Young shamans appear to have undergone a period of informal apprenticeship
+under an older doctor. Although there appears to have been no special
+requirement that a shaman have an assistant, it was not uncommon for a
+younger man to help out. According to one informant, when Blind Mike, one
+of the well-known doctors in historic times, was becoming a doctor, his
+teacher required him to smoke four hand-rolled cigarettes in a row without
+allowing the smoke to escape from his lungs. This was not considered an
+exercise in legerdemain but a way to develop the younger man’s control
+over his power.
+
+Each doctor received instruction from his spirit familiar as to what
+paraphernalia he should gather but there was a great deal of uniformity in
+the outfits of Washo doctors. The following description is of the kit of
+my informant’s uncle, who practiced until the first decade of this
+century, and it includes some items clearly postwhite in origin.
+
+
+    “I don’t know what all doctors had but I’ll tell you what my old
+    uncle had ’cause I seen it lots of times. [At this point another
+    Indian entered the house, obviously curious, and my informant
+    stopped talking until the visitor left.] He had eagle feathers and
+    magpie feathers. He had a rattle with six or eight cocoons on a
+    stick wrapped in weasel skin and humming bird feathers. He had a
+    tobacco pouch of tree-squirrel hide. He also had a stone. It
+    looked like a big tooth with a cavity in it. He told me how he got
+    that stone. He was walking to town [Genoa, Nevada] one day and he
+    heard something whistle. He kept on walking but it whistled again.
+    So he went looking for what was making that noise and he found
+    that stone setting by a fence post. I heard that stone whistle
+    sometimes when he was doctoring. He also had a tie made out of
+    beadwork. Lots of times a doctor would pay some woman to make him
+    a real fine basket or some bead work because that’s what his power
+    told him to do.”
+
+
+Washo doctors often worked together on “tough” cases. One such was the
+treatment of what seems to have been an infected elbow by my informant’s
+uncle and Blind Mike. The first step in the process was to blow smoke in a
+circle around the painful area so that the sickness couldn’t move. This
+was followed by singing, rattling, and sucking until something bright
+began to come out. It was, according to witnesses, as bright as a star, so
+bright in fact that even Blind Mike could see it. The bright object proved
+to be (if we can trust descriptions) the stone and setting of a cheap ring
+which was removed from the sore arm. It is interesting to note that while
+this process was successful my informant seemed to consider the cure less
+than one-hundred-per-cent effective because the woman who was being
+treated died two years later.
+
+Doctors were privy to a number of secrets which were not common knowledge
+among most Washo. Such a secret was the cave reputed to be inside Cave
+Rock at Lake Tahoe. This cave was a retreat for shamans who went there to
+commune with their spirits or to secrete a particularly important piece of
+paraphernalia. The cave could be entered through a narrow opening on the
+landward side, but most shamans preferred a more dramatic entrance. By
+standing on a certain rock and singing a special song they were lowered
+through the water and then lifted into the cave. The last doctor to
+attempt this was Blind Mike. He was directed to go to the cave in a dream.
+However, he permitted his wife to accompany him and when she saw him begin
+to sink into the water she screamed with fear. The rock stopped sinking
+with Mike only knee deep in the water. Since that time no one has
+attempted to enter the room. This promontory is the center of Water Baby
+habitation and is reported to be the upper end of a tunnel which extends
+under the mountains to Genoa so that Water Babies can move freely from the
+lake to the valley. The rock also marks the eastern end of a road of white
+sand reported to cross the lake bottom. On the northwest end of the road
+was located a bed of plants, probably wild parsnips, which doctors
+gathered for medicine. The wild parsnip was poisonous but doctors ate it
+to demonstrate their power. They also chewed it into a paste and spread it
+on rattlesnake bites.
+
+Another spot familiar to doctors was a mysterious hole in the mountains
+near Blue Lake. The hole could be located by following a spiraling path of
+white quartz toward the center. According to the Washo tale, if a man
+dropped even as much as a hair into this hole it made a great roaring
+sound. Suzie Dick, a Washo woman, whose claim of being one hundred years’
+old is borne out by white residents, insists that as a fifteen-year-old
+girl she went to see this hole and was terrorized by a huge hand which
+reached up out of the darkness and tried to seize her.
+
+Vaguely known to most Washo but familiar to doctors was a cave situated
+south and west of Gardnerville where ready-made grinding stones were to be
+found. These, depending on the informant, were made by old Indians or were
+put there by “nature” for the use of the Washo.
+
+
+
+
+Noncurative Use Of Power (2567-2593)
+
+
+Indian doctors often used their power in spectacular displays, apparently
+to impress patients. Often these displays were competitive.
+
+In the words of one informant: “Them old doctors used to see who had the
+most power. They’d stick four or five sticks in the ground, each one
+farther away than the last one, and see how many they could knock down.”
+Then, disconcertingly, he added: “You can read about that in Kroeber. He
+tells about some other Indians who did that but I guess he didn’t know the
+Washo did it too.” This informant considered Professor Kroeber as an
+authority second only to himself in matters pertaining to Indians.
+
+
+
+
+Divining And Rainmaking (2553-2556, 2566)
+
+
+There were no doctors with rainmaking power among the Washo. However,
+anyone, particularly a man deemed to be a leader, might encourage rain
+during the summer. The rite, which is still observed occasionally by
+individuals, consists of soaking a pine-nut cone in water and placing it
+on the ground in the pine-nut hills. Modern Washo look upon this more as a
+prayer, but in the past it may have been considered as a spell.
+
+The ancient matriarch Suzie Dick steadfastly insists that less rain falls
+in the Carson Valley than in neighboring valleys because “nobody is
+talking to God anymore around here.” While she talked she pointed to the
+clouds hanging over Washo and Antelope valleys and to the cloudless sky
+overhead.
+
+Older white residents speak of Indian rainmakers, which is a source of
+much amusement among the Washo. Until a few years ago an Indian, who still
+lives in Dresslerville, used to take advantage of the gullibility or
+generosity of white ranchers by performing “rain dances” on their property
+in return for handouts of food. The Washo generally frowned on this, but
+because white men were the victims of the fraud it was considered
+harmless.
+
+The father of the false rainmaker was a diviner of stolen articles. His
+method was to sit and smoke until the location of the desired article was
+revealed to him.
+
+
+
+
+Objects Of Power
+
+
+Eagle and magpie feathers were considered to be the most powerful items of
+a shaman’s paraphernalia. Doctors are reported to have captured eagles and
+even to have tried to raise them to obtain feathers (223-231) The tail
+feathers were the most prized. Eagle feathers were extremely valuable and
+could be traded for anything including “a woman or a sack of pine-nut
+flour or anything worth a lot.” Ideally the eagle was tied up until the
+shaman removed three tail feathers. The doctor then tied a string of beads
+to the bird’s leg and released it as a messenger to the spirits.
+Description of eagle-down costumes suggest that birds were stripped of
+many more feathers than the ideal three. In historic times individuals
+have attempted to contain eagles. One old man in Woodfords is well known
+for having kept them on cradle-boards for easy transport, but such
+experiments usually ended in failure. Magpie feathers were considered less
+powerful than eagle feathers but still were highly prized. Today they are
+gathered by chance—taken from dead birds on the highway or picked up where
+they were shed.
+
+In the past, eagle and magpie feathers were important parts of the dress
+of warriors. Magpie feathers were used to make a feather cap with a single
+feather suspended from the top. Informants recall their elders’ describing
+eagle feathers’ being suspended individually from the upper arms and
+thighs of particularly powerful warriors.
+
+Modern peyotists have lost none of the traditional Washo feeling about
+these feathers. The ceremonial fans of road chiefs, believed the only
+persons capable of handling the immense power, are made of eagle feathers.
+Other peyotists favor the less powerful but nonetheless potent magpie
+feather (d’Azevedo and Merriam 1957).
+
+Tobacco, as the foregoing accounts illustrate, played an important part in
+Washo shamanism. It appears to have been used as an offering to the
+spirits. In addition it is clear that it was felt to have special power of
+its own. Today older men smoke sparingly and are often somewhat
+embarrassed to be offered a cigarette casually during conversation. In
+prewhite times the tobacco was a native variety gathered and dried by the
+shaman. Today Bull Durham appears to have replaced the wild variety as
+“Indian” tobacco. The Indians seemed delighted to see me rolling a
+cigarette; they acted as if I were mastering what they felt was a
+particularly Indian art. Bull Durham is also important in peyote
+ceremonialism because it is “real Indian tobacco.”
+
+Incense cedar plays an important role in modern peyote meetings. It is
+dried and thrown into the fire to create a fragment smoke which is
+considered beneficial. Meeting officials fan it into the atmosphere and
+“rub” themselves in the smoke to obtain power or purification. This has a
+connection with traditional Washo ritual, but the relationship is unclear
+and the aboriginal practices obscure. One group of Washo, which was
+assigned a special place in the large camp circle formed during the
+pine-nut dances held at Double Springs Flats in the late nineteenth
+century, is said to have special rights in connection with cutting cedar.
+Modern informants do not have a clear picture of what the rights were or
+what the customs surrounding cedar were. One informant did say that if the
+cedar “bunch” found anyone else with cedar they would say “you aren’t
+supposed to have that” and would make fun of them. She could offer no
+further details or explanations.
+
+
+
+
+Sorcery And Witchcraft (2562-2564)
+
+
+There is no real distinction in the Washo mind between a doctor and a
+sorcerer or witch. Particularly powerful doctors were able to kill their
+enemies. One of the most feared bits of paraphernalia was an obsidian
+point found by a doctor. These large points were not made by Washo and are
+apparently remnants of some previous cultural occupation in the area. If a
+Washo finds one point up he carefully knocks it over with a long stick
+before touching it. These points are called mankillers, but I was unable
+to learn exactly how they were used. They are still viewed with a certain
+amount of awe, and the finding of a large point in a sandpit in Smith
+Valley was known in Woodfords, fifty miles away.
+
+Sorcery was used to explain the abandonment of an ancient campsite at
+Dangberg’s Hot Springs. This site is a trove of grinding stones, points,
+and other Washo artifacts. Formerly there were numerous skeletons in the
+area, according to both Indian and white informants. However, the site has
+not been occupied in historic times because of the following incident.
+
+
+    “One winter there was a lot of Washos camped around the hot
+    springs. My old aunt was camped there. There was this northern
+    Washo [from Sierra Valley] came into the camp. Nobody know’d him
+    and nobody would feed him. But my old aunt fed him. But he was mad
+    at them people so he went to Markleville and made a lot of
+    medicine. [Why he went to Markleville is unclear. This is the site
+    of another hot springs, a fact which may figure in the magic
+    used.] After he made medicine for a while he kind of spit on his
+    fingers and pointed at Dangberg Hot Springs. Right where he
+    pointed all the grass got brown; you can still see that line of
+    brown if you know where to look, and a lot of Indians died. Nobody
+    ever went back there. My old aunt she didn’t die.”
+
+
+Only one Washo disputed this story. She, a very progressive old woman and
+sometime Christian, attributed the deaths to an epidemic and “didn’t
+think” the doctor was responsible.
+
+Witchcraft and sorcery among the present-day Washo is a difficult subject
+to investigate. Even among themselves it is treated with extreme
+indirection and veiled hints. In discussing the problem with d’Azevedo I
+found that we were in agreement that a number of killings reported among
+these people could probably be attributed to revenge for, or prevention
+of, antisocial use of power.
+
+One woman, now dead, was described as probably a witch. The wife of the
+diviner mentioned earlier was considered a powerful and dangerous woman.
+She was useful to the community because she knew prayers and songs for the
+pine-nut celebration, but dangerous, particularly if she met you at night.
+One informant describes the attitude of the rest of the community toward
+her.
+
+
+    “She used to come around at night and knock on your door and say
+    she was lost. She came here one night and pounded on the door with
+    her cane but we wouldn’t let her in. After she went away my
+    husband rolled up a newspaper and set it on fire and ran it along
+    the inside of the door where she had knocked. I don’t know why he
+    did that except we was afraid of her.”
+
+
+Stewart also reports this attitude toward the same woman (1941, p. 444;
+2562).
+
+The woman who told me this story is herself under the shadow of indictment
+for witchcraft. Curiously enough the same phrase, “I am afraid of her,”
+serves as an accusation. She and her sister-in-law quarreled over the
+disposal of her husband’s body two years ago. Since that time they have
+not spoken, and the sister-in-law has been proclaiming her fear.
+
+
+
+
+War Power
+
+
+The Washo have not engaged in real hostilities with the Miwok or Maidu for
+well over a century and Paiute hostilities appear to have taken the form
+of occasional defensive skirmishes; thus the details of war magic are
+vague. However, Washo tradition repeatedly mentions a month-long period
+during which doctors gathered and made medicine against the enemy before
+launching a campaign. Usually this took place at Woodfords, which was the
+site of a large earth lodge dance house copied after Miwok structures and
+described as “where the young mens learned them Miwok dances.” (A second
+dance house is known to have existed in Sierra Valley; attributed to the
+Maidu, it fell into disuse after the death of its owner.)
+
+
+
+
+Summary Of Shamanism
+
+
+Although there appears to be only a single practicing shaman among the
+Washo today (and he certainly not a practitioner of the old school), it
+would be a mistake, in my opinion, to claim that Washo shamanism is a
+thing of the past. Few, if any, Washo over forty have not attended a
+shamanistic curing ceremony and many have been patients. Even those
+Indians who have rejected shamanism as old fashioned—or in deference to
+white attitudes—give one the impression of “protesting too much” in their
+denial of old beliefs. The woman who took her granddaughter to Rupert, the
+curer, is among the most progressive of the Washo. She is a nominal
+Christian, active in an informal way as a representative of her people
+before white authority, and is most apt to deny supernatural explanations
+of historic incidents. Nonetheless she has faith in the power of this
+modern shaman and in the cures reported for the old-time shamans.
+
+One factor in the decline of the shaman as a principal in curative
+activities was the rise of the peyote cult in the mid-1930’s (Stewart
+1944). The cult was introduced by a Paiute who gathered a number of Washo
+followers. His cult or “way” has since been superseded by a strictly Washo
+group, following the Teepee Way (d’Azevedo 1957). The Teepee Way is an
+illustration of the effect an ethnographer can have on the lives of his
+subjects. A casual remark by an ethnographer that the peyote ceremonies
+carried out by the Paiute leader were not like those he had seen elsewhere
+motivated a Washo to drive to Idaho to find out for himself. This trip
+resulted in the formation of the new cult and the near dissolution of the
+group headed by the Paiute. Washo peyotism has incorporated much of the
+curing emphasis of Washo shamanism and much of the symbolism as well. The
+peyote button is reminiscent of the poison parsnip taken by old-time
+doctors (d’Azevedo 1957). The powerful eagle feather is reserved for the
+use of road chiefs just as it was the special symbol of the shaman or
+powerful warrior. The fans carried by most peyotists are often composed of
+magpie feathers. Curative peyote meetings are often conducted by a special
+chief, reputed to have very potent curing powers, who does not conduct the
+regular peyote meeting. Even in regular meetings one of the main emphases
+is on curing ailments of both the body and spirit.
+
+Led by an assimilated Washo, known by other Indians as a “white man’s
+Indian,” the shamans brought suit against the peyotists urging they be
+arrested and their meetings banned. They charged, among other things, that
+peyote meetings were occasions of sexual license. Such open accusations
+and the bringing of white men into a strictly Indian matter created a
+great deal of antagonism toward the shamans among the Washo, whether or
+not they were committed to peyote.
+
+Peyote curing differs only in detail from shamanistic curing as these two
+stories may illustrate.
+
+
+    “Had these gallstones and them white doctors operated and they got
+    a lotta little stones but pretty soon it was back. So I decided to
+    pray. You know whenever an Indian wants to pray the first thing he
+    turns to is water and tobacco. So every night when I went to the
+    john [toilet] I’d roll a cigarette and pray to that Peyote. I’d
+    say, ‘I don’t want to be sick so you got to help them white
+    doctors. You got to get all those little stones together in one
+    place.’ That Peyote is a good medicine. I used to go to meetings
+    and it helped me before. So every night I prayed to the Peyote to
+    get them stones in one place. Then I went to the hospital and they
+    operated and got out the biggest gallstone they ever saw. It would
+    hardly go in a fruit jar. I told that Peyote that the job was too
+    big for it all alone that it should just help them white doctors
+    and get all them stones in one place.”
+
+
+Another informant, mentioned earlier as a peyote chief with special curing
+power, recounts the events leading up to the death of his former wife of
+cancer of the kidneys.
+
+
+    “Yeah I had a couple of meetings for Onie. I helped her too.
+    Except she would not do the things I told her to do. I made that
+    cancer move around from her back where it hurt a lot. I got it
+    around in front where it didn’t hurt her so much. But she wouldn’t
+    keep doing the things I told her to do.”
+
+
+These two incidents reveal traditional attitudes transferred into a new
+framework of curing. In the first place, illness is a corporeal object
+which can be manipulated—moved and (if one’s power is sufficient) removed.
+Secondly, peyote is viewed as a manifestation of a spiritual power. The
+informant with gallstones did not attend meetings to have his ailment
+cured; rather, he used water and tobacco, traditional adjuncts to
+shamanistic curing. Moreover he did not take peyote for his illness; he
+simply prayed to Peyote in a manner very similar to praying to a spirit
+guardian for assistance.
+
+Other shadows of the shamanistic past seem to lie heavily on the minds of
+modern Washo peyotists. In his discussion of peyotism, d’Azevedo (1957,
+pp. 624-626) describes in some detail the attitudes about the assistance
+or interference that one peyote singer or drummer may receive from
+another. The statements of his informants, although couched in different
+terms, are reminiscent of many I heard dealing with competitions between
+shamans.
+
+For several years peyotists were a powerful factor in the tribal council,
+and they were not loath to play upon the connection between peyote and
+poison parsnips in the minds of their cotribalists. The peyote button is
+considered to be a powerful agent and as such potentially dangerous.
+Therefore a man who could deal with this agent, just like a shaman who
+could eat the poison parsnip with impunity, was a man to be listened to
+and followed.
+
+Despite a belief in and a dependence on shamanistic curing or its
+latter-day counterpart, the peyote curing session, most Washo are willing
+patients of white doctors. This suggests that perhaps the old views are
+disappearing under the scientific certainty of Western medicine. Quite the
+reverse seems true, however. Every failure of white medicine strengthens
+the Indians’ belief that the real source of curing power is a gift from
+nature. Every success is attributed to assistance the white men have
+received from Indians’ power. When asked the direct question: “Why aren’t
+there so many Indian doctors today?” my informant answered: “Well, Indians
+just don’t need all that power today. The white doctors know a lot of
+things and can cure sickness pretty good. In the old days we didn’t know
+them things so we had to have them real powers.” This attitude, that
+nature provided whatever was necessary for Washo survival, crops up in
+other contexts which I will discuss later in this paper. Far from
+disappearing, the old notions seem to be maintaining a strong hold on the
+minds of the Washo. As the number of active peyotists dwindle (d’Azevedo
+and Merriam 1957), one gets the impression that the shamanistic forms may
+again become a more important part of Washo life.
+
+
+
+
+
+DREAMS AND DREAMERS (2566)
+
+
+Mentioned almost as frequently as doctors are dreamers, whom the Washo
+view as distinct from shamans. The so-called antelope shaman and rabbit
+boss fall into this category rather than that of doctor.
+
+Dreamers were gifted with a power to foretell special classes of events in
+dreams. All Washo believe dreams are likely to foretell the future, and
+they are alert to find meanings in any dreams they have. Certain persons,
+those thought of as “dreamers,” are reported to have special gifts of this
+nature.
+
+There are apparently no dreamers among the Washo today, in the sense that
+the term was used in times past. That is, no one is especially singled out
+as having infallible dreams foretelling certain classes of events. It may
+be that the breakdown of the band structure, which was related to economic
+exploitative activity, in effect, forced everyone to dream for himself. In
+the past, dreamers were particularly important in setting the time and
+place for activities which were carried out by large groups, such as
+hunting, fishing, pine-nut gathering, and war. With the disappearance of
+the last seminomadic bands in the middle 1920’s, as well as with the
+reduced importance of hunting and fishing as group activities, persons
+having dreams which directed group actions were no longer useful. Today,
+dreams appear to occur to a number of individuals, and those felt to be of
+social significance usually deal with catastrophe or other foreboding
+subjects. The following stories were told to me by the widow under the
+shadow of witchcraft. When I asked her if she thought any of her friends
+would tell me their dreams, she replied: “No I don’t think no Washo would
+tell you their dreams. But I’m not superstitious about them things and
+I’ll tell you these two dreams I had.”
+
+
+    “One summer I was up at the Lake [Tahoe] with my husband and I had
+    a dream that the gambling house at Dresslerville [a structure
+    known officially as the community center] was on fire. There was
+    kids inside and they was screaming but there wasn’t no water. I
+    saw the men all around with buckets but they couldn’t do nothing
+    because there wasn’t no water. I told my husband about the dream
+    the next morning and he said I should take a bath and pray. That’s
+    what we do to keep a bad dream from happening.”
+
+
+The following winter the community center did in fact burn down. A young
+Indian in a rage after having an argument with his father hurled a bottle
+of kerosene against a wood stove. The resulting fire could not be
+extinguished because the Dresslerville pump was not working. Whether the
+dream was really a prophecy after the fact I do not know. It is
+significant in any case that the prophecy appeared in the form of a dream.
+My informant’s second dream foretold the violent death of a young Indian
+woman. The prophecy came true two years later.
+
+Her statement that other Washo would be reluctant to discuss their dreams
+was all too true, confirming the importance that dreams play in their
+daily lives. A number of tangential remarks suggest that the belief that
+dreams confer advance knowledge of the future and that they confer power
+is still common among the Washo. One informant said, in talking about
+“old-time dreamers”: “Today a lot of people will say they had a dream
+about something, and act real big. I just tell them they are crazy. They
+aren’t real dreamers. They couldn’t have a dream about their girl friend.”
+
+Until very recent times a dream was justification for almost any group
+activity. The most common motivation for such events as a pine-nut dance,
+a war party, or a rabbit or antelope drive was usually that “So-and-So had
+a dream.” An announcement would be made and others would gather for the
+event.
+
+These dreams are clearly different from the visitations of spirits to
+prospective shamans, which occurred repeatedly and were kept secret.
+Dreamers, on the other hand, publicly reported individual dreams. Being a
+dreamer appears to have been one of the important factors in attaining
+positions of leadership, informal as such positions were among the Washo.
+The almost legendary Captain Jim,(6) who was acknowledged as a leader by
+all the Washo in the late nineteenth century, is considered to have been a
+dreamer by many of the Washo. Those informants who remember the big times
+at Double Springs Flat, in which a large number of the Washo of the day
+participated prior to the pine-nut harvest, usually begin their accounts
+with the statement that Jim would have a dream and announce the date of
+the meeting. Various parts of the ceremony were also validated by dreams.
+It is equally clear that although Jim was an honored leader and had
+dreaming power he was not considered a doctor.
+
+Negative testimony also indicates the importance of dreaming in Washo
+life. It is to the advantage of certain individuals to deny the
+“chieftainship” of Captain Jim; they vehemently deny that he was a dreamer
+but insist that he was simply a good man who was trusted by the Washo.
+“That Jim was just a good old guy that everybody obeyed because they liked
+him and the whole group selected him. He wasn’t no more of a dreamer than
+I am,” is the way one claimant for the Washo chieftainship put it.
+However, his own claim was based on his relationship to a man who was a
+rabbit boss and who dreamed when it was time to hunt rabbits.
+
+Clearly the Washo believed and still believe that dreams make one privy to
+the future and provide important insights on which one can base decisions.
+The specific uses to which dreams can be put change with the situation.
+Antelope dreaming is no longer important because there are no antelope.
+Rabbit dreamers no longer exist because the rabbit drive has lost much of
+its importance in Washo life. Conversely, dreams dealing with modern
+problems appear to be taken seriously.
+
+One informant often dreams of snakes and evidences a great fear of them.
+The Washo view this behavior as a rational response to a real warning and
+consider the man’s caution as good judgment in the face of repeated
+warnings.
+
+
+
+
+
+RITUAL ACTIVITIES
+
+
+Few, if any, Washo activities do not contain an element which we can
+describe as religious, supernatural, or magical. This element is most
+commonly revealed by specifically ritualized behavior carried on while a
+regular course of action is being taken by a Washo. The following sections
+will deal with this ritualized behavior and the rationale for it offered
+by the Washo.
+
+
+
+
+Conception And Contraception
+
+
+Apparently the Washo have no specific ritual to encourage conception. They
+are extremely fond of children and desire as many as possible. No Washo
+has ever heard of, or will admit having heard of, infanticide among the
+Washo, although they have heard of the practice among other Indians. The
+birth of an illegitimate child, despite the attitude of whites, is greeted
+with as much joy as that of a legitimate child.
+
+However, it is believed that conception can be prevented by manipulation
+of the afterbirth. When the afterbirth is expelled it is wrapped in a
+piece of deer hide or cloth and buried. It is always placed right side up
+if a woman desires to continue bearing children. If she wishes not to have
+children it is buried upside down. If at a later time she wishes to become
+pregnant, she will turn the earth where the upside-down afterbirth was
+buried. Informants say that not many people do this any more, mainly
+because younger women go to the hospital to have their babies, but that
+many people know how and some may still do it.
+
+Certain Indians are reported to be able to prevent the birth of children
+without the knowledge of the woman concerned. This requires the
+cooperation of a woman who has just had a child and who will give the
+magician the afterbirth. It is then buried or hidden upside down and the
+woman concerned will not become pregnant. The method of transferring the
+influence of the afterbirth from the real mother to the victim was not
+explained, and in fact the practice was revealed with a good deal of
+reluctance.
+
+
+
+
+Birth (2178-2293)
+
+
+Informants report that the baby was not touched, either by the mother or
+her attendants, until the afterbirth was expelled. The birth and
+recuperation were carried out in a pit filled with warm ashes. A slow
+birth was blamed on the belief that the mother had slept too much or been
+lazy during her pregnancy.
+
+The mother was not allowed to eat salt until the baby’s umbilicus dropped
+off, usually in two or three days. The umbilicus was dried and hung on the
+right side of the cradleboard to insure that the baby would be
+right-handed.
+
+The baby’s hair was cut about thirty days after its birth. Until that time
+the mother was not permitted to eat meat or to leave her bed of ashes.
+However, one of my informants who had borne eight children claimed never
+to have spent more than two weeks in her lying-in bed. She did insist that
+“in the old days” women adhered to the traditional thirty-day period.
+
+A pregnant woman was not permitted to eat eggs with double yolks, or
+double fruit, lest she have twins. No special action was taken if twins
+were born, however.
+
+During her confinement a woman was not supposed to rub the sweat from her
+face. She might dab the sweat off, but to rub it would cause her to be
+wrinkled in her old age. One informant assured me that this was the truth
+and pointed to her own relatively unwrinkled face as proof.
+
+When a child loses a milk tooth, it is taken up and thrown into the brush.
+At that time an admonition is shouted to “some little animal with sharp
+teeth,” that it should exchange the milk tooth for a good permanent one
+(2295a-2301)
+
+
+
+
+Puberty: Girls (2305-2352)
+
+
+Aside from the “big times” which will be described later, the girls’
+puberty dance was the most important ceremonial gathering among the Washo.
+This custom has survived with tenacity and it is still considered a matter
+of real concern if for some reason a girl does not have “her dance.”
+
+Although much of the activity at a girls’ dance is clearly social
+throughout the occasion, there is a series of ritual actions which must be
+carried out. The following account is an idealized version of the “old
+way.” Other accounts will describe variations which have developed in the
+past years.
+
+Certain statements which I make will appear to be at variance with
+Stewart’s Culture Element Distribution Lists. However, I am inclined to
+think that the absence of traits in the memory of my own informants
+represents a pattern of change rather than inaccuracies on the part of
+earlier investigators. With minor exceptions, differences between
+statements made today and Stewart’s lists take the form of traits marked
+present in the lists which are unknown to my own informants. Moreover,
+most of these differences are to be found in the hair-combing and
+scratching complex and suggest that the taboos on hair combing were
+abandoned some time between the childhood of his informants, who were in
+their seventies in 1936, and that of my own informants, who are in their
+seventies today (1959).
+
+The parents of my informants must not have known or not enforced combing
+taboos, while the parents of Stewart’s informants must have considered
+them proper and so instructed their children. We can speculate, on this
+basis, that the taboo on hair combing and scratching was abandoned by the
+Washo some time in the first half of the century. Whether this can be
+credited to the influence of the white man or to a continuing pattern of
+change is a matter for further investigation.
+
+The account of the entire puberty complex which follows was given to me by
+a seventy-five-year-old Washo woman who is generally consulted whenever a
+family plans to hold the girls’ dance.
+
+
+    “When a girl is about ten she is told what is going to happen to
+    her. When her first period comes [she is not specially confined]
+    people tell her to be active and not to be lazy. She drinks only
+    warm water. In the old days anything that she gathered anyone
+    could come along and take. She couldn’t eat meat or salt but Washo
+    don’t think eggs are the same as meat.”
+
+
+(This last statement was in response to direct questions and does not
+reflect special Washo traits. In fact, all food appears to have been
+forbidden for four days.)
+
+The family of the girl immediately prepares as much food as possible to
+feed the guests. One informant remembers in his youth that a family of a
+girl eligible for a dance would light a large fire part way up on Job’s
+Peak to announce the event.
+
+The dance itself is carried out at night. Singing and hand-clapping
+accompany the dancing, which may go on all night. During the dance the
+girl carries a wand about six or seven feet long. The wand is made of a
+very light wood, often elderberry, and painted red with a native pigment.
+
+In the past, groups camped about Dresslerville staged their dances at the
+base of a prominent hill nearby. During the night the girl was required to
+run to the top of the hill and light four fires; this practice has been
+discontinued for many years, however, apparently as a result of white
+accusations that the Indians started range fires and also to avoid
+attracting curious whites.
+
+About dawn one of the girl’s male relatives ran forward and snatched the
+stick from her. He then ran with it into the hills and hid it in an
+upright position in some out-of-the-way place.
+
+The elderberry wand is a device used to insure the girl’s continued
+agility and lightness of foot. As long as the hidden stick remains
+unbroken the girl will remain straight and agile.
+
+After the stick was taken away, an older female relative took a small
+amount of ash on a whisk of sage, and dusted the nude girl on the head,
+arms, and legs. This ritual was accompanied by an informal prayer that the
+girl not suffer pains in her head, arms, or legs. She was told: “I am
+doing this early in the morning so that you will get up early in the
+morning and work hard.” The whisk was then thrown into the crowd, along
+with a gift, which today is usually a bit of money. Food or beads were
+apparently used in the past.
+
+After the dusting, a basketful of water was brought forward and the girl
+was bathed. The basket was then thrown into the crowd. This was considered
+a high point of the celebration. After she was bathed, a few dabs of
+native pigment were placed on her chest and face.
+
+The ceremony above was described as the “real way to do it ... the way
+they did it in the old days.”
+
+The Carson Valley Record Courier reports a puberty dance held in the
+summer of 1919 in which at least some of these activities were observed
+(although the reporter thought he was attending a betrothal dance) Some
+two-hundred Indians were in attendance. There were no fires, only lanterns
+and flashlights. The participants had taken up a collection and purchased
+watermelon, ice cream, cake, pie, bread, and meat for the feast. The food
+was served (to the surprise of the reporter) on a long table with plates.
+About midnight two girls appeared in the center of the dancing circle
+carrying long wands.
+
+In 1926 Lowie witnessed a girls’ dance near Minden and was obviously
+unimpressed. The crowd gathered slowly and gradually began to dance. He
+makes no mention of either the wand or the ash-dusting ritual, nor does he
+give us details of the feast. The bath was given from a tin can, and he
+does not report a basket’s being thrown (Lowie 1939, pp. 305-308).
+
+One suspects that dances held today are somewhat more elaborate than those
+of three or four decades ago, possibly as a response to increasing
+awareness and pride in the fact of Indianness. Certainly every girl
+expects to have her dance, just as a debutante expects to have a
+coming-out party. When death in the family made it inadvisable to hold a
+dance on a girl’s first menstrual period, everyone agreed that it was
+indeed a shame. The girl went through her four-day fast and a small party
+was held for her when her second period occurred. One informant insisted
+that in the “old days” a dance was always held on the occasion of a girl’s
+second period but that this had long since been abandoned (Cartwright,
+1952, confirms).
+
+The basket plays an important part in the ceremony and it would be
+considered improper if there were no basket to be thrown to the crowd. It
+is best if the basket is well made and can actually hold the ceremonial
+bath water. If such a basket cannot be obtained, and they are growing
+rarer as the older basket makers die, the bath is poured from a bucket,
+but a less fancy basket is still thrown to the crowd. The bath and dusting
+are now given to the girl while clad in her slip, in deference to white
+notions of modesty which are strictly observed by the Washo. The painting
+is carried out only if native pigment is available. The wand is left
+unpainted unless native pigments are available.
+
+The ritual of seizing and hiding the wand is carried out perfunctorily.
+During a recent dance the girl’s uncle took the wand but simply carried it
+to the grandmother’s house, intending to take it to the mountains later.
+However, the stick remained with the grandmother, who was somewhat
+concerned about it. It was kept in an upright position, and she constantly
+reminded the man that he should take it. He regularly promised that he
+would, the next time he came to visit, but just as regularly forgot it. It
+may well be that as an adult and an important peyote chief, he was
+reluctant to carry out what he considered an old Indian superstition.
+
+There is no indication now that the girls’ puberty dance is dying out
+among the Washo. It may well be changing in form and developing into more
+of a party. As the number of persons who know white dances increases,
+these may replace Indian dances. There is some suggestion of this in other
+ceremonial activities. And of course the fact that future generations of
+Washo girls will attend integrated Nevada public schools and associate
+with white students with different aspirations for approaching adulthood
+may have important effects on the future of the girls’ dance.
+
+Pine-nut flour seems to have taken on an important symbolic role in
+latter-day dances. We see no mention of this food in 1919 or 1926. Today
+it might be considered proper to delay holding a dance if it was not
+possible to get enough pine-nut flour to feed the crowd.
+
+
+
+
+Puberty: Boys (2379-2386, 369-374)
+
+
+The approaching maturity of a boy cannot be measured in dramatic
+physiological terms, and puberty is considered to occur about when a boy’s
+voice changes. The ritual for boys is less important than that for girls.
+
+The emphasis for a boy is on his developing ability as a hunter. Although
+hunting is far less important today than it was even in the recent past,
+few Washo go through the winter without depending on rabbit or deer for
+meat. The pursuit of the squirrel, ground squirrel, gopher, and other
+small game appears to be minimal, but certainly this food is not spurned,
+if available. One of the common legal conflicts with the white man stems
+from out-of-season hunting during the winter by Washo men filling out the
+family larder.
+
+Young boys were encouraged to hunt with bow and arrow as soon as they
+could. Quite often such training was carried out by an older male
+relative—a grandfather or an old uncle. Expeditions of old men and young
+boys after chipmunk and squirrel appear to have been common, freeing
+able-bodied men for major hunting while the experienced, but less able,
+older men instructed the boys.
+
+However, all the game taken by a boy was taboo to his immediate family.
+This included young deer and does which he might kill. Such game was given
+to another family, usually related. The boy was also forbidden to eat his
+own take. The taboo included any fish the boy caught.
+
+When a boy killed a buck deer considered by his father or other male
+relative to be big enough, he went through a simple ceremony. One
+informant said that in the old days a boy was required to crawl under the
+antlers of his kill. His father or older male relative then gave him a
+bath, and from that time he was considered a man and the taboo on his kill
+was lifted from himself and his family.
+
+My informant, a mother of four sons now over forty, stated that all her
+sons had gone through the taboo period and were bathed by their father
+when they killed their first big buck. Until very recently she received
+meat from some relatives with a young son who hunted frequently.
+
+Whether or not the young Washo are still observing this taboo and ritual I
+was unable to determine. However, in certain conservative families it
+seems probable that at least minimal ritual is observed.
+
+
+
+
+Marriage (2018-2051)
+
+
+Marriage is entirely a social institution, and no religious elements
+appear to have entered into it. Traditionally the ceremony, if there was
+any at all, consisted of a “chief” (respected man) throwing a blanket over
+the shoulders of a couple at a dance. Ceremonial gatherings, such as the
+pine-nut dances and the girls’ dances were important in the selection of
+marriage partners, inasmuch as boys and girls came together at these
+gatherings to engage in flirtation, affairs, and courtship. Dreamers at
+the “big times” are reported by informants to have exhorted married
+couples to be good to each other and not fight (see also Lowie 1939, p.
+303).
+
+
+
+
+Death (2389-2453)
+
+
+No amount of social dislocation or cultural impact alters the constant
+fact of death. Each generation faces this inevitability. It is less than
+surprising then that changes in attitudes and rituals surrounding death
+among the Washo have changed very slowly. The only changes which appear to
+have developed in Washo death customs are those imposed by direct
+intervention of the whites or as unavoidable consequences of changes in
+other aspects of the culture.
+
+In the past, when a person died the house in which he expired was
+abandoned by his family. Of course, if the death occurred in the spring or
+summer such abandonment was simple; during these seasons the Washo usually
+lived in simple brush shelters. A winter death was a more serious matter;
+it was during this season that the Washo lived in the gal’sdaɲl—a
+structure made to last through the winter and until the next winter, when
+it was reoccupied. Valley Washo often made these winter homes of brush or
+tules. In the foothills and mountains, bark slabs and tree limbs were
+utilized. If an occupant died, this home must be abandoned and was often
+burned down, and the immediate family moved to another campsite. Thus a
+family which suffered no deaths during the winters might spend several
+years in a single campground, whereas a less fortunate family might have
+to move every winter, or even oftener than that.
+
+A few Washo began building simple rectangular board and batten houses in
+the 1890’s. Most of the others continued to live in gal’sdaɲ¿l made of
+boards and scrap, begged, stolen, or purchased from the lumber mills which
+were quite numerous in the area at the beginning of the century. In the
+1920’s, when most of the Washo moved into the “colonies” established for
+them by the government, the native-style houses were abandoned in favor of
+the wooden homes built by the government. No longer permitted to move
+about the country at will, and frankly unwilling to abandon the more
+comfortable white-style houses, the Washo adjusted their death customs.
+The most common adjustment was to prepare for an impending death by
+shifting seriously ill persons into an adjoining structure, often a shack
+built in the native manner or a shed or lean-to. This structure could be
+burned down without loss when its inhabitant died.(7)
+
+The Washo viewed this destruction of a house occupied by a dead person as
+simply preventing his spirit from bothering the living.
+
+Most Washo death customs display a conscious attempt to avoid association
+with the dead. Barrett reports that cremation was practiced, and the bones
+placed in a stream to prevent their desecration. However, this appears to
+have been only one of the disposal customs and is not well remembered by
+Washo living today. The burning or burying of the personal possessions of
+the dead was common. Certain prized possessions were interred with the
+body, which was usually wrapped in a shroud of matting, deerskin, or
+bearhide and placed in a fissure or cave in the mountains. Although there
+are a number of locations known by both Indians and local whites as old
+burying grounds, all my informants agreed that in the “real old days”
+there was no special cemetery and that these burial spots have developed
+since the coming of the white man. This may well have been as a result of
+direct white interference with native funeral customs and an insistence
+that Indians concentrate their burials. Some of these sites have become
+traditional among the Washo.
+
+The dispute between the widow and the sister mentioned earlier was an
+argument as to whether the deceased would be buried in one of these sites
+or in the cemetery at Stewart, Nevada.
+
+A white man who has lived in the area for ninety years, reported that as a
+boy he often came across caches of belongings of dead Indians in the
+mountains. Today, prized possessions are either crowded into the casket
+with the body or burned or secreted in some remote area of the Sierra.
+
+Funeral ceremonies were apparently simple. The body was wrapped and
+carried into the hills to be interred. Prayers in the form of a short
+speech were directed toward the dead. “We are burying you because you are
+dead. It’s not because we are mad at you or don’t like you. But you are
+dead. Please don’t come back and bother us.”
+
+Widows traditionally cut their hair in mourning, a custom which is still
+practiced. Stewart reports that mourners painted their faces black. My
+informants denied this, but one elaborated: “I remember when I was a
+little girl old Indians who had lost someone would cry a lot and let the
+tears run down their faces and not wash their faces until they were real
+dirty and black with fire smoke.” Crying at a funeral was expected and in
+fact positively sanctioned. At a funeral conducted while I was present the
+sheriff arrested a drunken Washo who was wailing quite loudly. The Indians
+were all bitter about this because: “All of us cry at a funeral whether we
+are drunk or not. That’s the way the Washo do it.” (This funeral was that
+of a murder victim and the sheriff was present because he feared there
+might be a reprisal attempt.)
+
+A newspaper report of a funeral in Genoa, Nevada, in the late 1880’s
+records that the Indians had borrowed a wagon from a white man to
+transport the corpse (that of a well-known Indian woman) to the burying
+ground. The wagon was followed by a large crowd of weeping mourners.
+
+Modern funerals usually take place under the auspices of a funeral
+director, and generally services are performed by a Christian minister
+from the Stewart Indian agency. After the white minister has left, it is
+usual for an older Indian to approach the casket and repeat the old
+funeral prayers. The reason for waiting until the minister leaves is to
+avoid hurting his feelings. My informants said the prayers made the older
+Indians feel more comfortable. It is usually not necessary to burn the
+deceased’s home, but his belongings are disposed of. There is an
+increasing tendency to tend graves and put flowers on them. The cemetery
+at Stewart appears to be well decorated with flowers. Two old Indian
+graves near Lake Tahoe are regularly visited and jars of flowers placed on
+them.(8)
+
+When the husband of one of my informants died, following a twelve-year
+illness spent in a secondary house, she went to visit a daughter living
+near Lake Tahoe. When she returned to Dresslerville her two sons had torn
+down the shed and disposed of all their father’s possessions. In deference
+to their mother’s rather modern views about funerals, nothing had been
+placed in the casket.
+
+While I was in Dresslerville an Indian of about forty put the torch to the
+house in which his mother and father had lived. The house had been
+unoccupied since their deaths. While the house burned no effort was made
+to extinguish the fire or to call the fire department. A nearby rancher
+saw the fire and summoned the fire department, but the Indians refused to
+tell the firemen how the fire had started. The local newspaper reported it
+had been burned to drive away evil spirits. This upset my informants, one
+of whom said that the sight of the house simply made the man sad. She
+elaborated that the Washo felt they were helping God wipe out the tracks
+of a dead person. The Washo claim that after a death there is always a
+rain or sand storm which wipes out the tracks of the deceased.
+
+After the Washo return home from a funeral, they immediately wash their
+faces and hands. They would not feel safe in handling food or children
+until this ritual had been carried out.
+
+The behavior of the dead is a matter of concern for most Washo
+(2606-2609a). Ideally, the spirit is supposed to go up and to the south
+where dead Indians are. This land of the dead is guarded by a number of
+men with bows. Some shamans were able to make the trip to the land of the
+dead (2541-2544). If they could elude these guards, they were sometimes
+able to recover the spirit of a recently dead person and return it. If,
+however, the spirit has partaken of the water of a spring immediately
+behind the guards, it can never be recovered. The by-now-familiar uncle of
+my informant once visited the land of the dead and reported that there
+were lots of Indians there playing games and having a good time. If murder
+victims were present they were with the celebrants, but the spirits of the
+killers were segregated and were not having a good time.
+
+Ghosts, however, wander over the land. They are generally malevolent. If
+they feel they have been badly used in life, or are not properly honored
+after death, or have not been given the things they wanted when buried,
+they may wreak vengeance on the living. To prevent this, homes were
+abandoned, prayers were said, and names of the dead were not used. In
+discussing a recent murder, one of the most progressive of the Washo was
+extremely reluctant to give the name of the victim, and, when she finally
+did, she whispered it. One of the difficulties encountered by government
+agents when pine-nut lands were allotted to the Washo was a refusal to
+name the ancestors on whom the allotment claim was based.
+
+Ghosts are often said to come in the form of whirlwinds or dust devils,
+and most Washo will avoid looking at a whirlwind. At night, a sudden puff
+of warm air is thought to be a ghost passing nearby.
+
+
+
+
+
+RITUAL IN SUBSISTENCE
+
+
+Hunting, far more than gathering, appears to have been the focus of much
+ritual activity. This suggests that for the Washo the importance of ritual
+may have increased in proportion to the element of chance inherent in the
+activity undertaken. Gathering was a surety, assuming of course that there
+was a harvest to gather. With the wide variety of plants available within
+the Washo territory during the spring, summer, and fall it seems highly
+unlikely that the failure of one species of plant created a serious
+problem. This, of course, was not true of the pine nut. A failure of the
+pine-nut crop was a harbinger of a starvation winter. The gathering of
+pine nuts, in contrast to the gathering of other plants, was the subject
+of a great deal of ritual and, in some degree, of ceremonialism uncommon
+to most Washo gathering activities. This will be dealt with later in the
+paper.
+
+
+
+
+Hunting
+
+
+_Deer_ (1-27).—Deer were hunted in a number of ways. Barrett reports, and
+old informants confirm, that hunting parties of as many as thirty or forty
+men were formed in the old days to go to the western slope of the Sierra
+in pursuit of deer. The large number may have been necessitated by the
+possibility of meeting hostile Miwok or Maidu. My own informants claimed
+that these large parties often set fire to the forest to drive the deer
+into the open, and that the large number of men was needed to cover the
+escape routes.
+
+More common, apparently, were small groups of five or six men, usually
+relatives, who went into the deer country together. Their technique was to
+drive along a single deer run toward one of their number who was
+considered the best shot. This method was very common after the
+introduction of firearms, particularly repeating firearms.
+
+Finally, any Washo man might hunt singly. Often groups of five or six men
+went hunting together but each did his own stalking.
+
+Whatever the technique, hunting magic was an individual affair which did
+not require any ceremonial activities.
+
+A single hunter, before the days of firearms, often stalked in the antlers
+and hide of a deer. Washo were often superstitious about using the real
+antlers and made artificial sets from manzanita branches. This fear of
+using real antlers appears related to the treatment which was accorded to
+the bones of deer. These, once the meat had been completely stripped off,
+were submerged in a stream to prevent their being eaten by dogs or wild
+animals. Perhaps the best account of the magic involved in stalking is the
+following by an aged informant, reputed to have “hunting medicine.”
+
+
+    “We never had no poison arrow for bear or deer but had something
+    just as good. We took red paint and mixed it with marrow from a
+    deer leg and rubbed it on the shaft and point of the arrow.
+    Arrowheads for war were little but those for big game like deer or
+    bear were pretty big.”
+
+
+When I asked my informant the Washo word for this mixture he evaded the
+question.
+
+
+    “I don’t think they had a word for it. They didn’t talk about it,
+    just used it. If you used it you had to carry some medicine to
+    work against it, ’cause if you got a scratch of that mixture and
+    didn’t have this other stuff [the counter agent], you was a goner.
+
+    “A long time ago one man would hunt. Some of them fellas was
+    superstitious about using real deer horns, so they would make
+    horns of manzanita and then cover up with a deer hide. They’d move
+    along ... taking a long time, just like a deer. That old buck
+    would try to get to the side away from the wind to smell you, but
+    you kept circling around so he wouldn’t smell you. Finally you
+    could get real close, maybe only three, four feet ... going around
+    making sounds just like a deer. Sometimes them bucks would really
+    believe you and want to fight and then it was dangerous. When you
+    was close you shot that arrow into the deer right behind the
+    shoulder blade. That way when he jumped, the shoulder blade comes
+    back and breaks off the shaft. The man would grab the shaft and
+    suck off the blood. Then he’d make a little fire on a flat stone
+    and when it was hot he’d sweep off the fire and spit that on the
+    stone and it would bubble up and disappear. Then you’d go after
+    the deer and you’d find him laying there with blood bubbling out
+    of his nose just like that blood bubbled on the stone.”
+
+
+Other rituals related to hunting dealt with the loss of hunting luck. To
+regain one’s luck in hunting, a sweat lodge was built, consisting of a
+temporary brush shelter (688-759).
+
+To insure luck it was common in the old days to bathe and rub the leaves
+of a certain mountain plant over one’s body. Other Washo carried a plant
+on their persons while hunting, to insure luck. I was unable to get my
+informant to give me the Washo name of this plant. Certain other special
+medicines are reported. One man, it is hinted, has a medicine which he
+rubs on his gun to insure good aim. Old hunters are said to have obtained
+medicine from the Miwok which would put deer to sleep. Today this medicine
+is a subject of esoteric humor between my informant and his son-in-law.
+The latter insists that the bear has a medicine which will put his
+father-in-law to sleep because he came upon the old man asleep under a
+tree one day when he should have been hunting. Although the Washo depended
+on ritual to assist them in hunting, it is clear that they considered a
+successful hunter the possessor of power beyond simple magic. Like curers
+or dreamers, certain hunters obviously had been blessed by spirits and
+were able to outthink and outsmart animals and therefore were particularly
+good hunters. At least some of the Washo who hunt today attempt to give
+the impression that their success is based on something more than luck or
+skill.
+
+_Antelope_ (27a-75).—There are no Washo alive today who can remember
+antelope surrounds. It appears that most of the Washo territory was not
+inhabited by antelope, lying as it does between the northern and southern
+ranges of the Nevada herds. However, small herds did range in the eastern
+portion of Washo country, but the appearance of firearms and livestock
+eliminated the antelope completely in this area. One informant, himself
+seventy-five, remembers stories about the hunts, told to him by a very old
+brother-in-law who remembered the antelope songs.
+
+Another informant, generally a good source of hunting information,
+admitted that he did not know anything about the subject. He had never
+hunted antelope, nor had his father or uncles.
+
+The signal to hunt was a dream announcing the presence of antelope to a
+dreamer, who acted as leader of the hunt. The entire process was
+considered to be magical by this informant who said:
+
+
+    “There was really no corral. Mebbe just a few piles of brush. The
+    people just danced around and sang, and that kept them antelope
+    there like they was hypnotized. They could keep them right there
+    all night that way. After they held them all night they’d start to
+    slaughter at sunrise. They’d sing: ‘We aren’t doing this for
+    meanness or for fun but we want you for fine food,’ or something
+    like that. I heard the song once but I never learned it all. I
+    wish I had, now.”
+
+
+This informant was certain that the Washo did not expect a person to die
+as a result of the exercise of antelope charming. He had heard of other
+tribes which believed this, and he thought it peculiar (Steward 1941:
+218-220). This explanation compares favorably with the culture element
+distribution lists presented by Stewart, which reported none of the traits
+usually considered as part of the shaman complex in antelope hunting
+common among Basin Shoshone and Paiute. (Stewart 1941; Steward 1941.)
+
+_Rabbits_ (92-96).—The pursuit of the jack rabbit appears to have been
+changing in its importance during the past century. Several informants
+recall being told in their youth by old men that often only the hides were
+stripped from rabbits to make blankets, but that most of the meat was
+discarded because other game was plentiful. However, firearms and
+agriculture soon put an end to antelope hunting, and the trans-Sierran
+region, like most of the nation, suffered a steady decline in the number
+of deer. All informants agree that in their own youth trips to California
+after deer were necessary because there were almost no deer east of the
+Sierra. All Indians agree that the deer population in Nevada today is far
+greater than it was in the early years of this century. The decrease in
+antelope and deer forced a greater dependence on the jack rabbit as a
+source of food as well as fur. The communal nature of the rabbit hunt may
+have made possible a gradual transference of ritual traits from the
+antelope complex to the rabbit hunt.
+
+Traditionally the Washo drove rabbits into nets, a method common in the
+Basin. Stewart’s notes, taken from informants in their seventies in 1936,
+make no mention of any supernatural aspect of the rabbit drive. Evening
+dancing during the rabbit drive was denied. There was, however, a special
+leader who directed the hunt. In later times these men were credited with
+dreaming power, as this quotation illustrates: “Jack Wallace would dream
+where the rabbits were and when it was time for hunting he would send out
+a call.” The man mentioned was described as the last of the real dreamers.
+This power made him extremely influential among the Washo, and his
+descendants are considered among the claimants for the “chieftainship.”
+There appear to have been formalized prayers which were said before the
+hunt by a man with power over rabbits.
+
+Today, rabbit hunts are invariably held on Sunday. In the words of one
+informant: “Nowadays anybody can just say ‘Let’s have a hunt this
+Sunday.’(9) They have to hunt on Sunday because most of the men have jobs
+during the week.”
+
+The disintegration of the ritualized aspects of rabbit driving is not
+complete, however, and many Washo prefer to hunt with a certain man who
+lives in the Indian colony at Carson City. While no one will openly claim
+that he has supernatural power, it seems clear that his presence is
+important to other Indians. His role is that of leader or captain who
+superintends the order and discipline of the line of hunters who today
+sweep a wide area, armed with shotguns. D’Azevedo, who was fortunate
+enough to take part in a hunt in 1955, states that prior to the hunt this
+man withdrew from the group. When he asked what the leader was doing he
+met evasion, and he concluded that perhaps the man was praying. In the
+period covered by the memory of my oldest informants, dances were often
+staged nightly during the rabbit drives. The dancing is invariably
+described as “just for fun” and probably was more social than religious,
+but such dancing appears to have been part of other ceremonial or
+semiceremonial occasions such as the girls’ dances, first-fish ceremonies
+and the pine-nut dances. It seems clear that whatever tendency there was
+to shift the ritualized aspects of antelope hunting to rabbit drives has
+been stemmed by a growing dependence of the Washo on wage labor which
+precludes their response to dream-inspired hunts.
+
+_Bear_ (298, 2558-2561).—Bear hunting appears never to have been a
+subsistence activity among the Washo. Many informants stoutly deny that
+bear meat was ever eaten, although bear were hunted. No Washo ever gave a
+direct answer to the question of why they hunted bear if they didn’t eat
+the meat. Others stated that the bear might be eaten in extreme starvation
+conditions but was never eaten regularly.
+
+On the other hand, almost all Washo men were able to describe in detail
+the method of hunting and they obviously enjoyed telling bear-hunting
+stories. The following story told to me by one of the eldest men in
+Dresslerville, who claims it was told to him by a very old man, is
+consistent with the stories told by other informants.
+
+
+    “There was hardly any Washo who kill bear. But I know this much
+    ... the man who went in there and did it tells me ... bears have
+    their own home in the rocks ... a hole going in the rocks. Go in
+    there naked with a knife or arrow in one hand and burning pitch in
+    other ... light scares him out [the bear], then other men shoot
+    the bear in the mouth with poison arrow [see deer hunting for
+    reference to poison] ... get sick for four or five days, maybe a
+    week. Then the man goes back in. Hardly any Indians could do
+    this.(10) I’ve heard that they cook it and eat it ... not only
+    here but up north. After they get the rifle they get to killing
+    bears around here but hardly ever hear of dividing up the bear
+    meat.”
+
+
+This last remark appears to be significant as all informants emphasized
+that Indians shared food equally. Thus a statement made voluntarily that
+bear meat was not shared suggests different attitudes about bears.
+
+Another informant adds the detail that when the bear left his lair, the
+companions of the man who entered the den would block the entrance so the
+bear could not return. The first man to place an arrow in the animal could
+claim it and get the hide. This informant also added at this point: “It’s
+funny that the fella who went inside was _just an ordinary fella_
+[emphasis mine].” He also insisted that after a bear was killed the
+hunting party painted their faces black. Other informants claimed not to
+know of this or said such painting was done when a mink was killed but
+they did not know why.
+
+One traditional story (Dangberg) sheds a bit more light on the bear. In
+this tale a group of Washo were camped near a band of Paiute who
+challenged the Washo to fight. Instead of fighting, the Washo drove a bear
+from its den and killed it and thus defeated the Paiute.
+
+I had all but given up the pursuit of information on the bear, being
+convinced that my informants either honestly did not know any more (the
+bear having been relatively rare in this area for a good many years) or
+were unwilling to discuss something of an extremely sacred nature, when a
+chance remark suggested at least part of the explanation.
+
+A pioneer white resident who had lived in Alpine County, California, for
+ninety years casually mentioned that every Indian man who was buried
+during his boyhood was wrapped in a bearskin shroud. This, coupled with an
+earlier mention of “rough” men having bearskins, suggests that the killing
+of a bear represented the ultimate in Washo bravery and the possession of
+the skin conferred extra powers on the owner. The rifle made such
+acquisitions much less hazardous and in the late nineteenth century it had
+become common for Indians to own a bearskin cloak, which became their most
+prized possession and was buried with them.
+
+Stewart’s element lists show no evidence of any formalized bear cult among
+the Washo. However, Smith’s notes, which Stewart used, report a bear
+shaman who impersonated a bear (2558). Certainly the bear was one of the
+spirits who could give power to a man destined to become a shaman. Bear
+shamanism is reported only for the Fish Spring Valley Paiute by Steward
+and for the Tago and Wada Northern Paiute by Stewart. These three groups
+constitute the only ones having formalized bear ceremonialism of any sort
+in the Basin. The bear dance and a note about impersonating bears (Steward
+1941, pp. 266, 322) suggest that formalized bear ceremonialism came into
+the Basin from the Rocky Mountains via the Ute and Bannock. However,
+Kroeber reports awe of the bear, special euphemisms for them, and
+ritualized secrecy about hunting them among the Miwok which seem more
+closely related to Washo behavior. Bear impersonators among the Battle
+Mountain Paiute were credited with invulnerability in war, which is
+reminiscent of the use of a bear-hide cloak by Washo “rough men.” Although
+it is not possible to make any conclusive statement about the role of the
+bear in the supernatural life of the Washo, it seems clear that the animal
+is held in special awe and esteem by modern Indians.
+
+
+
+
+Fishing (252a-296)
+
+
+Fishing appears to be far less subject to ritualization among the Washo
+than was hunting. Here again there may be a correspondence between the
+amount of ritual and the degree of certainty involved in obtaining the
+desired food. The Washo area is rated by Rostlund as being one of the
+higher fish-producing areas in North America. Certainly the many lakes,
+streams, and rivers were the source of great amounts of fish every year.
+Indians who could at most be described as only middle-aged, recount the
+tremendous numbers of fish which swept up the streams from Lake Tahoe
+during the spawning season. While the numbers may have varied from year to
+year, the large number of fish plus the intensive fishing methods employed
+by the Washo almost guarantee a large catch.
+
+However, d’Azevedo reports that Northern Washo describe some degree of
+ritualism connected with fishing (d’Azevedo personal communication).
+Dreamers are said to have predicted the day of the spawning run. Dances
+were held and prayers said, suggesting a rather attenuated first-fish
+ceremony for some of the Washo (2618). Other Washo report “big times,”
+which included dancing and prayer, during the spring gathering on the
+lake. However, in the actual catching of fish there was much less ritual.
+
+Some fishermen carried a fishing medicine composed of dried larvae of the
+_Ephydra hians_ (Say), called _kutsavi_ by the Paiute (Heizer 1950) and
+_matsi babaša_ by the Washo. These larvae were obtained from the Mono Lake
+Paiute in trade or as gifts. They were considered good food and are still
+eaten by some Washo. However, in addition they were credited with having
+great powers to lure fish and were rubbed on harpoons, hooks, and lines.
+Perhaps this material was considered a fish medicine because these larvae
+are said to be generated from the scales of a giant fish. This leviathan
+is reported to have traveled through all the lakes in the Sierran area
+looking for a lake large enough in which to live. At Mono Lake it scraped
+some scales into the water before it left to find a permanent home in Lake
+Tahoe (Steward 1936). Whether the Washo share this story with the Owens
+Valley Paiute, I do not know, but Mono Lake, because of its saline water
+and its lack of any fish life, is thought of with some fear and awe. Today
+I get the impression that some Washo still keep a bit of this material
+with their fishing gear, although they are apt to rationalize it as a lure
+rather than real medicine. It should be remembered that hook-and-line or
+spear fishing accounted for a much smaller percentage of the total annual
+take than did trapping, damning, netting, or other communal methods which
+entailed no ritual.
+
+
+
+
+Miscellaneous Concepts About Hunting And Fishing
+
+
+A number of ritual activities cluster around hunting and fishing. Perhaps
+the most important is the requirement that women, particularly
+menstruating women, avoid the hunting and fishing equipment. If a woman
+touched such gear the owner would bathe it and pray “I’m giving you a bath
+to wash away the bad luck.” (2354-2378).
+
+A further restriction placed on menstruating women was that they must not
+eat meat during their periods. To do so meant bad hunting for the man who
+killed the game.
+
+The meat from the neck of a deer and the intestinal organs were forbidden
+to vigorous young people. If a man ate neck meat his aim would be bad
+(360-368). Neck meat was reserved for children and the old. In actuality
+it would seem that only the children and the almost decrepit ate such
+meat. One of my informants who is seventy-five, thus certainly qualifying
+for old age, has never tasted either neck meat or internal organs. To do
+so apparently would be an admission of loss of vigour which no Washo
+oldster wishes to make. Menstruating women today will eat meat purchased
+from a butcher but refrain from eating venison or other game taken by
+someone they know, for fear of spoiling his luck. Menstrual taboos also
+hold today in regard to touching firearms or fishing poles, although at
+least some Washo women own fishing poles, and in the early part of this
+century a woman who lives at Carson City was reputed to be a great hunter.
+In times past, certain women are reported to have made excellent bows but
+not to have used them.
+
+Stewart reports dances to bring deer which none of my informants
+remembered. However, even in his time the dances were said to be “mainly
+for pleasure,” which suggests the sacred nature of such dances has
+gradually faded out of the consciousness of most modern Washo,
+particularly as deer hunting has become entirely an individual enterprise
+and is no longer central to Washo subsistence.
+
+
+
+
+Gathering
+
+
+As stated earlier, there appears to have been much less ritual involved in
+gathering activities, perhaps because there was much less chance of
+failure than in hunting. However, Stewart reports that sometimes dances
+were held to make seeds grow (2619-2621). Such gatherings appear to be
+remembered, if at all, by living Washo only as social occasions.
+
+The fall pine-nut dance was clearly part of the ritual of the pine-nut
+harvest (2617, 2622). The pine nut was central to Washo winter survival,
+and its production was a matter of extreme concern. Even today the
+pine-nut harvest becomes a paramount interest among all the Washo during
+the last part of the summer. Speculations as to its size, wishes for rain,
+and survey trips into the pine-nut hills become common, and according to
+one informant: “If we have a couple of bad years somebody will say, ‘We
+ought to have a pine-nut dance,’ and then we’ll have one.”
+
+The following account of the pine-nut dances of the past was given to me
+by a man, now almost blind, of between seventy-five and eighty. His father
+claimed to be chief of the Washo through an affinal relationship to the
+famous Captain Jim, and my informant maintains the claim, stoutly denied
+by all other Washo except his relatives and admitted by them only when
+they are forced to depend on his hospitality. The account is one of a
+well-regulated four-day ceremony of the first fruit. However, it will
+become apparent as other information is presented that it is a highly
+idealized version. It is valuable, however, because it includes a number
+of sacred elements of obvious importance.
+
+
+    “This prayer(11) fella [Captain Jim] lived at Double Springs all
+    year round. He would have a dream telling him when to have a
+    meeting. He was what you would call a religious man. He would get
+    someone he could trust and send out a long, tanned string of hide
+    with knots in it. For every day until the meeting there was a knot
+    and every day the messenger untied a knot so the people would know
+    how many days they had until the meeting.
+
+    “All the men came and hunted for four days, and the women would
+    start gathering pine nut. They would hang up the game to let it
+    dry.
+
+    “The prayer wouldn’t eat meat during those four days but he could
+    drink cold water, and some lady would cook him pine nut.
+
+    “Every night they would have a dance. On the fourth day everybody
+    would bring the food they had and put it in front of the prayer,
+    and then he would pick some man who was fair [just] and the food
+    was divided a little before sunrise. If you have a small family
+    you get less, if you have a big family you get more.(12)
+
+    “Then the prayer makes a prayer something like this: ‘Our father I
+    dream that we must take a bath and then paint. Even the childrens
+    ... [we must] wash away the bad habits so we won’t get sick from
+    the food we have in front of us!’
+
+    “Then everybody go to the river ... no matter if there was a
+    little ice on the water, and take a bath. If they was not near the
+    river they bathed the kids from baskets at Double Springs. The
+    prayer he prayed for pine nut, rabbit, and deer.”
+
+
+Suzie Dick, an ancient Washo woman who claims to have reached the century
+mark in 1959, recalls that Captain Jim was her mother’s sister’s son and
+that she called him brother. He was a big man in a figurative if not a
+literal sense. He wore eagle feathers on his head and arms. He had red
+trousers made out of a blanket with feathers on the sides of the legs. As
+she remembers him at these ceremonies: “He would scare you to death.” The
+assembled Washo brought pine nuts, deer meat, megal [Indian tea], and much
+other food. Captain Jim prayed and gave a sermon, urging everyone to drink
+water and avoid liquor, and supervised four nights of dancing.
+
+Judging from the age of these two informants, these meetings, which they
+claim were attended by all the Washo, were held between 1880 and 1900.
+Most Washo agree that these large meetings were the way “they did it in
+the old days.” However, “the old days” appear not to be aboriginal but the
+late nineteenth century, when the Washo experienced a brief period of
+semi-unity and prosperity.
+
+Rupert, the psychologically oriented shaman comments, “Hell, them northern
+Washo didn’t come down to Double Springs very much. They got their pine
+nuts southeast of Reno. Captain Jim he was only a big man to them Carson
+Valley Washo. He didn’t have nothing to say to the northern bunch.”
+
+Despite this, it seems clear that during the last part of the nineteenth
+century large numbers of Washo from the various areas did, in fact, gather
+at Double Springs prior to the pine nutting. It seems equally clear that
+this was distinctly a postwhite phenomenon and that in aboriginal times
+such gatherings were much smaller.
+
+The essential elements of these pine-nut ceremonies are clear. There was a
+gathering of a number of bands, usually at the prompting of a dreamer who
+knew certain prayers and songs which would insure a successful harvest.
+There was a sharing of food among the celebrants, as well as dancing and
+ceremonial bathing. Such affairs were held in Sierra Valley and at Double
+Springs and probably at a number of other places in the pine-nut hills.
+
+The large celebrations at Double Springs appear to have taken on a
+distinctly nativistic or revitalistic cast. Informants remember Captain
+Jim’s exhortations to abstain from white man’s whiskey, to treat each
+other as brothers and sisters, to eat Indian food, and to apply themselves
+to the business of hunting and gathering. He himself refused to wear new
+white clothing but accepted only used garments. It was during this period
+that Washo received individual pine-nut allotments based on their
+traditional picking grounds.
+
+Mooney (1896), whose information on the Washo was filtered through the
+Paiute, reports the Washo during this period as a shattered remnant of a
+former society eking out an existence in the dump heaps of white
+settlements in Nevada. The fact that the Washo did not respond to the
+Ghost Dance seems in his mind to support his notions about the condition
+of the tribe. However, among older informants this period is invariably
+recalled as an almost golden age. Although the implications of movements
+such as the Ghost Dance were not clear in Mooney’s time, it seems more
+than likely that the Washo failed to join the movement because they were
+not suffering the social and cultural dislocation of the Paiute, Plains
+tribes, or California Indians and, in fact, may have been undergoing a
+process of social unification under Captain Jim. This unification appears
+to have had its primary symbolization in the ritual activity which
+surrounded earlier ceremonies concerned with pine-nut harvesting. The use
+of a hide string to summon people to the meeting appears earlier as a war
+signal used by a threatened band to entreat other Washo (often not too
+successfully) to come to their aid.
+
+With the death of Captain Jim, the large gatherings at Double Springs
+appear to have ceased. In the words of one informant, “When he died all
+them things like the knotted string and that stuff died with him.”
+
+After his death the pine-nut dances continued to be held in various places
+in Washo country—Sugar Loaf Mountain, Genoa, and Sierra Valley being the
+most frequently mentioned. Jim’s daughter (or sister’s daughter) who was
+married to the claimant Captain Pete and was the mother of the present
+claimant, Hank Pete, staged a number of dances around Genoa until her
+death. This action is of interest in view of the fact that she was
+considered a dangerous woman and a poisoner. It suggests that there was in
+fact no clear distinction between doctors and witches or sorcerers. Her
+knowledge of pine-nut prayers and songs made her essential in the ceremony
+despite the fear the Washo may have had of her.
+
+Since her death in the early 1940’s, pine-nut dances have been less
+frequent. Only one woman among the Washo is reputed to know all the songs,
+although I suspect that several others are in possession of this knowledge
+but refuse to come forth and serve as leaders, in keeping with Washo
+reluctance to assume responsible roles.
+
+After a number of years without a dance, the custom was revived in the
+early 1950’s at Dresslerville. The dances were staged because previous
+crops had been poor and it was felt a dance would increase the harvest.
+
+These dances, supervised by the woman who knew the songs, were not
+considered too successful because both Indian dances and white men’s
+dances were conducted. Indian dances were held outside the community house
+while younger couples danced in the white manner inside. The prayers,
+bathing, and dreams played a very minor role, although food was supplied.
+From the accounts these dances sounded extremely secular with an emphasis
+on the recreational aspects, particularly dancing. However, the consensus
+that the ceremonies were not successful because of the introduction of
+white-style dancing suggests that the Indian dances still retain some of
+their former sacred character. It was agreed that a dance might be held
+today or in the future if the crops were poor. Here again the present
+economic situation of the Washo tends to limit these affairs to weekends.
+The impossibility of holding four-day dances however, is not considered
+serious by most Washo. Several informants stoutly denied that there was
+any requirement that the dance last four days. They implied that those who
+insisted on this were simply trying to make it sound more important (note
+that using the figure four makes something more important). Their accounts
+report that the dances might last from one or two days to a week during
+which time games were played, dances held, and the ritual described
+earlier carried out. However, there is no doubt that the dances were
+important to the success of the harvest and the well-being of the
+harvesters. One informant recalls that: “Sometimes them pine nuts was ripe
+before the dance. If we picked them then [before the dance], we took a
+bath every day before we started picking but we didn’t have to do that
+after the dance.”
+
+The following incident illustrates the attitude most conservative Washo
+have toward the pinyon pine. D’Azevedo (personal communication)
+accompanied an elderly woman to her pine-nut allotment where she
+discovered that illegal Christmas-tree cutters had topped a number of
+trees, which she believed destroyed their ability to bear. Her response
+was of sorrow rather than anger. She sat under her trees for a long time
+apologizing to her father, from whom she had inherited the plot, and to
+the spirits of the trees.
+
+There seems to have been little ritual involved in other gathering
+activities, except for the dances to make the seeds grow mentioned in the
+element lists (2621). This practice must have been occasional and
+relatively old, because it is no longer part of the memories of older
+informants.
+
+
+
+
+
+MISCELLANEOUS RITUAL
+
+
+Although modern informants do not remember taboos dealing with hair
+combing and scratching during menstruation, they do recall being warned
+against combing their hair at night. “My father used to say that if we did
+it we’d marry out of the tribe. Mike (her husband) used to tell the same
+thing to our girls but they didn’t listen and every one of them married
+out of the tribe.”
+
+The dried body of a bat, described as having several different kinds of
+hair (Lowie 1939, p. 332) was a powerful gambling charm. Professional
+Indian gamblers, who traveled about the country participating in the hand
+game, often carried one. Bat power was considered extremely dangerous if
+one did not know how to use it. “My daughter found a bat in a field one
+day, but an old Indian said that if she didn’t know how to treat it, it
+would eat up her children.” Women especially were afraid of bat-talismans
+and of living bats. The Washo believe that a bat charm is also a powerful
+love medicine and that a woman once touched by such a charm is powerless
+in the hands of its owner. “You touch a woman with that thing and it
+hypnotizes her. She follow the guy and die if she don’t go with him. I
+don’t believe I ever heard of a Washo use one. We’d be too afraid. But
+them Paiutes and Shoshones use it.”
+
+Except for the painting of a girl during her puberty dance, painting of
+the face and body had little part in Washo ritualism, although its social
+significance may have been important (Lowie 1939, p. 304). However,
+certain other customs of dress and adornment appear to have had religious
+significance. Eagle feathers and magpie feathers, as well as a bearskin
+robe, conferred power. A similar notion may explain the use of the skin of
+the agile and wise long-tailed weasel as a binding for hair braids.
+
+The hooting of an owl or singing of birds at night was considered as a
+warning of danger or an omen of death.
+
+
+
+
+
+INFLUENCE OF CHRISTIANITY
+
+
+The Washo have been exposed to Christianity from two main sources.
+Missionary groups have maintained representatives from time to time at one
+or another of the Washo colonies. A church dominates the appallingly
+dreary landscape of Dresslerville. Weather and neglect have caused the
+building to deteriorate. Permanent missionizing efforts apparently have
+been abandoned. One church group carries on a summer Bible class for
+children and sewing classes for women. Funerals are generally conducted by
+a Christian minister, but this appears to be a sop to white opinion rather
+than the result of any real desire on the part of the Washo to become
+Christians. At best they seem to have simply incorporated Christian
+services as another source of power. It is less than surprising that a
+people whose main religious emphasis seems to have been on curing or
+subsistence ritual should have found white doctors useful but white
+ministers a rather mysterious and superfluous bit of white culture.
+
+The other main source of Christian ideas has been the peyote cult, which
+includes a roughly Christian version of God and Christ visualized as the
+father and the brother. The cross, pictures of Christ, and references to
+Jesus play a role in peyote ceremonialism. Other investigators (d’Azevedo
+and Merriam 1951; Stewart 1944) have noted a shift toward Indian tradition
+in the Washo peyote cult, with an attending reduction of Christian ideas.
+The attitude of one Washo woman sums the question up quite well: “I think
+them peyote people [she was not a peyotist but had encouraged her son to
+attend a meeting to cure a back injury] believe more what they doing than
+the white preacher.” Her own religion is summed up in her actions. In
+addition to sending her son to peyote meetings, she had taken her
+granddaughter to the shaman and is a regular attendant at the church
+sewing school. She was also the person who waited until the minister left
+the church to repeat ancient funeral prayers.
+
+
+
+
+
+BIBLIOGRAPHY
+
+
+_Abbreviations_
+
+AA: American Anthropologist
+BAE:  Bureau of American Ethnology
+SI-MC: Smithsonian Institution, Miscellaneous Collections
+UC: University of California Publications
+UC-AR: Anthropological Records
+UC-PAAE: American Archaeology and Ethnology
+
+Barrett, Samuel A.
+  1917. The Washo Indians. Bull. Milwaukee Pub. Mus., Vol. 2, No. 1, pp.
+              1-52.
+
+Cartwright, W. D.
+  1952. A Washo Girls’ Puberty Ceremony. Pro. 30th Int. Cong. of
+              Americanists, pp. 136-142. London.
+
+Dangberg, Grace
+  1927. Washo Texts. UC-PAAE 22:391-443.
+
+d’Azevedo, Warren L., and A. P. Merriam
+  1957. Washo Peyote Songs. AA 59:615-641.
+
+Freed, Stanley A.
+  1960. Changing Washo Kinship. UC-AR 14:349-418.
+
+Heizer, Robert F.
+  1950. Kutsavi, A Great Basin Indian Food. Kroeber Anthro. Papers, No. 2
+              (Fall), pp. 35-41.
+
+Kroeber, Alfred L.
+  1907. Religion of the Indians of California. UC-PAA 4:319-356.
+
+Kluckhohn, Clyde, and Dorothea Leighton
+  1947. The Navaho. Cambridge; London.
+
+Lowie, Robert H.
+  1939. Ethnographic Notes on the Washo. UC-PAAE 36:301-352.
+
+Mooney, James
+  1896. The Ghost Dance Religion and the Sioux Outbreak of 1890. BAE 14th
+              Ann. Report, Part 2, pp. 641-1136.
+  1928. Aboriginal population of America North of Mexico. SI-MC 80, No. 7,
+              Washington, D. C.
+
+Siskin, E. E.
+  MS The Impact of the Peyote Cult Upon Shamanism Among the Washo Indians.
+              Ph.D. Diss. 1941. Yale Univ.
+
+Steward, Julian H.
+  1936. Myths of the Owens Valley Paiute. UC-PAAE 34:355-440.
+  1941. Culture Element Distribution, XIII: Nevada Shoshone. UC-AR
+              4:209-360.
+
+Stewart, Omer C.
+  1941. Culture Element Distribution, XIV: Northern Paiute. UC-AR
+              4:361-446.
+  1944.  Washo-Northern Paiute Peyotism. UC-PAAE 40:63-142.
+
+Whiting, Beatrice Blyth
+  1950.  Paiute Sorcery, New York.
+
+
+
+
+
+
+FOOTNOTES
+
+
+    1 W. L. d’Azevedo, basing his opinions on extensive field work in the
+      area, contends that early estimates of Washo population were
+      incorrect and that modern figures based on these estimates are
+      inaccurate. A contemporary estimate, made by a resident journalist
+      in 1881, was somewhat over 3,000.
+
+    2 This statement should not be considered as an indication of
+      matrilineality in Washo society. Freed and d’Azevedo, who have done
+      extensive work in kinship and social organization of this group,
+      seemed to agree that the Washo were loosely bilateral with certain
+      formalized patrilineal elements. However, because of fragile
+      marriages, many Washo have had a longer and closer association with
+      their mothers’ families than with their fathers’, or with those of
+      any of their mothers’ subsequent husbands.
+
+    3 Kluckhohn reports that the payment for joining a coven of Navajo
+      witches is often the life of a relative (1947, p. 131).
+
+    4 This story very closely parallels one recorded by James Hatch among
+      the Yokuts. Kroeber Anthropological Society Papers, No. 19, Fall,
+      1958.
+
+    5 Regular Indian doctors were forbidden to treat members of their own
+      families, a prohibition which appears not to have extended to a
+      non-shamanistic curer.
+
+    6 Captain Jim is the only Washo whom the Washo generally accept as
+      having been a leader of the entire tribe. Other claimants to the
+      title of chief of the Washo are contemptuously discounted. There
+      were in the past a number of men, usually considered leaders of a
+      “bunch” who were called “captains” or, less often, “chiefs” because
+      they dealt with the white population. The entire institution of
+      captain may well be a post-white development.
+
+    7 The willingness of the Washo to send gravely ill persons to the
+      hospital seems in part motivated by the wish to avoid a death in the
+      house.
+
+    8 The concern for these particular graves may be in part motivated by
+      the fact that they are a focal point in a Washo land claim. Because
+      of California law concerning cemeteries, the Indians contend that
+      the tourist camp presently on the site is there illegally and that
+      the land is theirs. Thus far the camp operator has been enjoined
+      from removing or desecrating the graves, but the Indians’ claim has
+      not been considered.
+
+    9 This statement was made to point out to me that in other times only
+      special people, inspired by dreams, would have suggested a rabbit
+      hunt.
+
+   10 This kind of a statement was common and whenever it was made
+      suggestions of special power were made explicit later in the
+      conversation, or were implied by the attitude of the informant.
+
+   11 Used in an adjectival sense. In the reference below prayer is used
+      nominally.
+
+   12 No matter how reluctant aged Washo may have been to discuss other
+      aspects of the past, they became eloquent about any occasion on
+      which food was plentiful. They describe in minute detail the kinds
+      and amount of food at a feast although they cannot remember the
+      time, place, or those present.
+
+
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK WASHO RELIGION***
+
+
+
+CREDITS
+
+
+February 27, 2010
+
+            Project Gutenberg TEI edition 1
+            Produced by Colin Bell, Joseph Cooper, David King, and the
+            Online Distributed Proofreading Team at
+            <http://www.pgdp.net/>.
+
+
+
+A WORD FROM PROJECT GUTENBERG
+
+
+This file should be named 31429‐0.txt or 31429‐0.zip.
+
+This and all associated files of various formats will be found in:
+
+
+    http://www.gutenberg.org/dirs/3/1/4/2/31429/
+
+
+Updated editions will replace the previous one — the old editions will be
+renamed.
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in the
+General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg™ electronic works to protect the Project
+Gutenberg™ concept and trademark. Project Gutenberg is a registered
+trademark, and may not be used if you charge for the eBooks, unless you
+receive specific permission. If you do not charge anything for copies of
+this eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given away
+— you may do practically _anything_ with public domain eBooks.
+Redistribution is subject to the trademark license, especially commercial
+redistribution.
+
+
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+
+_Please read this before you distribute or use this work._
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work (or
+any other work associated in any way with the phrase “Project Gutenberg”),
+you agree to comply with all the terms of the Full Project Gutenberg™
+License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.
+
+
+General Terms of Use & Redistributing Project Gutenberg™ electronic works
+
+
+1.A.
+
+
+By reading or using any part of this Project Gutenberg™ electronic work,
+you indicate that you have read, understand, agree to and accept all the
+terms of this license and intellectual property (trademark/copyright)
+agreement. If you do not agree to abide by all the terms of this
+agreement, you must cease using and return or destroy all copies of
+Project Gutenberg™ electronic works in your possession. If you paid a fee
+for obtaining a copy of or access to a Project Gutenberg™ electronic work
+and you do not agree to be bound by the terms of this agreement, you may
+obtain a refund from the person or entity to whom you paid the fee as set
+forth in paragraph 1.E.8.
+
+
+1.B.
+
+
+“Project Gutenberg” is a registered trademark. It may only be used on or
+associated in any way with an electronic work by people who agree to be
+bound by the terms of this agreement. There are a few things that you can
+do with most Project Gutenberg™ electronic works even without complying
+with the full terms of this agreement. See paragraph 1.C below. There are
+a lot of things you can do with Project Gutenberg™ electronic works if you
+follow the terms of this agreement and help preserve free future access to
+Project Gutenberg™ electronic works. See paragraph 1.E below.
+
+
+1.C.
+
+
+The Project Gutenberg Literary Archive Foundation (“the Foundation” or
+PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg™ electronic works. Nearly all the individual works in the
+collection are in the public domain in the United States. If an individual
+work is in the public domain in the United States and you are located in
+the United States, we do not claim a right to prevent you from copying,
+distributing, performing, displaying or creating derivative works based on
+the work as long as all references to Project Gutenberg are removed. Of
+course, we hope that you will support the Project Gutenberg™ mission of
+promoting free access to electronic works by freely sharing Project
+Gutenberg™ works in compliance with the terms of this agreement for
+keeping the Project Gutenberg™ name associated with the work. You can
+easily comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when you
+share it without charge with others.
+
+
+1.D.
+
+
+The copyright laws of the place where you are located also govern what you
+can do with this work. Copyright laws in most countries are in a constant
+state of change. If you are outside the United States, check the laws of
+your country in addition to the terms of this agreement before
+downloading, copying, displaying, performing, distributing or creating
+derivative works based on this work or any other Project Gutenberg™ work.
+The Foundation makes no representations concerning the copyright status of
+any work in any country outside the United States.
+
+
+1.E.
+
+
+Unless you have removed all references to Project Gutenberg:
+
+
+1.E.1.
+
+
+The following sentence, with active links to, or other immediate access
+to, the full Project Gutenberg™ License must appear prominently whenever
+any copy of a Project Gutenberg™ work (any work on which the phrase
+“Project Gutenberg” appears, or with which the phrase “Project Gutenberg”
+is associated) is accessed, displayed, performed, viewed, copied or
+distributed:
+
+
+    This eBook is for the use of anyone anywhere at no cost and with
+    almost no restrictions whatsoever. You may copy it, give it away
+    or re-use it under the terms of the Project Gutenberg License
+    included with this eBook or online at http://www.gutenberg.org
+
+
+1.E.2.
+
+
+If an individual Project Gutenberg™ electronic work is derived from the
+public domain (does not contain a notice indicating that it is posted with
+permission of the copyright holder), the work can be copied and
+distributed to anyone in the United States without paying any fees or
+charges. If you are redistributing or providing access to a work with the
+phrase “Project Gutenberg” associated with or appearing on the work, you
+must comply either with the requirements of paragraphs 1.E.1 through 1.E.7
+or obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+
+1.E.3.
+
+
+If an individual Project Gutenberg™ electronic work is posted with the
+permission of the copyright holder, your use and distribution must comply
+with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed
+by the copyright holder. Additional terms will be linked to the Project
+Gutenberg™ License for all works posted with the permission of the
+copyright holder found at the beginning of this work.
+
+
+1.E.4.
+
+
+Do not unlink or detach or remove the full Project Gutenberg™ License
+terms from this work, or any files containing a part of this work or any
+other work associated with Project Gutenberg™.
+
+
+1.E.5.
+
+
+Do not copy, display, perform, distribute or redistribute this electronic
+work, or any part of this electronic work, without prominently displaying
+the sentence set forth in paragraph 1.E.1 with active links or immediate
+access to the full terms of the Project Gutenberg™ License.
+
+
+1.E.6.
+
+
+You may convert to and distribute this work in any binary, compressed,
+marked up, nonproprietary or proprietary form, including any word
+processing or hypertext form. However, if you provide access to or
+distribute copies of a Project Gutenberg™ work in a format other than
+“Plain Vanilla ASCII” or other format used in the official version posted
+on the official Project Gutenberg™ web site (http://www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original “Plain Vanilla ASCII” or other form.
+Any alternate format must include the full Project Gutenberg™ License as
+specified in paragraph 1.E.1.
+
+
+1.E.7.
+
+
+Do not charge a fee for access to, viewing, displaying, performing,
+copying or distributing any Project Gutenberg™ works unless you comply
+with paragraph 1.E.8 or 1.E.9.
+
+
+1.E.8.
+
+
+You may charge a reasonable fee for copies of or providing access to or
+distributing Project Gutenberg™ electronic works provided that
+
+    - You pay a royalty fee of 20% of the gross profits you derive from
+      the use of Project Gutenberg™ works calculated using the method you
+      already use to calculate your applicable taxes. The fee is owed to
+      the owner of the Project Gutenberg™ trademark, but he has agreed to
+      donate royalties under this paragraph to the Project Gutenberg
+      Literary Archive Foundation. Royalty payments must be paid within 60
+      days following each date on which you prepare (or are legally
+      required to prepare) your periodic tax returns. Royalty payments
+      should be clearly marked as such and sent to the Project Gutenberg
+      Literary Archive Foundation at the address specified in Section 4,
+      “Information about donations to the Project Gutenberg Literary
+      Archive Foundation.”
+
+    - You provide a full refund of any money paid by a user who notifies
+      you in writing (or by e-mail) within 30 days of receipt that s/he
+      does not agree to the terms of the full Project Gutenberg™ License.
+      You must require such a user to return or destroy all copies of the
+      works possessed in a physical medium and discontinue all use of and
+      all access to other copies of Project Gutenberg™ works.
+
+    - You provide, in accordance with paragraph 1.F.3, a full refund of
+      any money paid for a work or a replacement copy, if a defect in the
+      electronic work is discovered and reported to you within 90 days of
+      receipt of the work.
+
+    - You comply with all other terms of this agreement for free
+      distribution of Project Gutenberg™ works.
+
+
+1.E.9.
+
+
+If you wish to charge a fee or distribute a Project Gutenberg™ electronic
+work or group of works on different terms than are set forth in this
+agreement, you must obtain permission in writing from both the Project
+Gutenberg Literary Archive Foundation and Michael Hart, the owner of the
+Project Gutenberg™ trademark. Contact the Foundation as set forth in
+Section 3 below.
+
+
+1.F.
+
+
+1.F.1.
+
+
+Project Gutenberg volunteers and employees expend considerable effort to
+identify, do copyright research on, transcribe and proofread public domain
+works in creating the Project Gutenberg™ collection. Despite these
+efforts, Project Gutenberg™ electronic works, and the medium on which they
+may be stored, may contain “Defects,” such as, but not limited to,
+incomplete, inaccurate or corrupt data, transcription errors, a copyright
+or other intellectual property infringement, a defective or damaged disk
+or other medium, a computer virus, or computer codes that damage or cannot
+be read by your equipment.
+
+
+1.F.2.
+
+
+LIMITED WARRANTY, DISCLAIMER OF DAMAGES — Except for the “Right of
+Replacement or Refund” described in paragraph 1.F.3, the Project Gutenberg
+Literary Archive Foundation, the owner of the Project Gutenberg™
+trademark, and any other party distributing a Project Gutenberg™
+electronic work under this agreement, disclaim all liability to you for
+damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE
+NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH
+OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH F3. YOU AGREE THAT THE
+FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT
+WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL,
+PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY
+OF SUCH DAMAGE.
+
+
+1.F.3.
+
+
+LIMITED RIGHT OF REPLACEMENT OR REFUND — If you discover a defect in this
+electronic work within 90 days of receiving it, you can receive a refund
+of the money (if any) you paid for it by sending a written explanation to
+the person you received the work from. If you received the work on a
+physical medium, you must return the medium with your written explanation.
+The person or entity that provided you with the defective work may elect
+to provide a replacement copy in lieu of a refund. If you received the
+work electronically, the person or entity providing it to you may choose
+to give you a second opportunity to receive the work electronically in
+lieu of a refund. If the second copy is also defective, you may demand a
+refund in writing without further opportunities to fix the problem.
+
+
+1.F.4.
+
+
+Except for the limited right of replacement or refund set forth in
+paragraph 1.F.3, this work is provided to you ’AS-IS,’ WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+
+1.F.5.
+
+
+Some states do not allow disclaimers of certain implied warranties or the
+exclusion or limitation of certain types of damages. If any disclaimer or
+limitation set forth in this agreement violates the law of the state
+applicable to this agreement, the agreement shall be interpreted to make
+the maximum disclaimer or limitation permitted by the applicable state
+law. The invalidity or unenforceability of any provision of this agreement
+shall not void the remaining provisions.
+
+
+1.F.6.
+
+
+INDEMNITY — You agree to indemnify and hold the Foundation, the trademark
+owner, any agent or employee of the Foundation, anyone providing copies of
+Project Gutenberg™ electronic works in accordance with this agreement, and
+any volunteers associated with the production, promotion and distribution
+of Project Gutenberg™ electronic works, harmless from all liability, costs
+and expenses, including legal fees, that arise directly or indirectly from
+any of the following which you do or cause to occur: (a) distribution of
+this or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any Defect
+you cause.
+
+
+Section  2.
+
+
+           Information about the Mission of Project Gutenberg™
+
+
+Project Gutenberg™ is synonymous with the free distribution of electronic
+works in formats readable by the widest variety of computers including
+obsolete, old, middle-aged and new computers. It exists because of the
+efforts of hundreds of volunteers and donations from people in all walks
+of life.
+
+Volunteers and financial support to provide volunteers with the assistance
+they need, is critical to reaching Project Gutenberg™’s goals and ensuring
+that the Project Gutenberg™ collection will remain freely available for
+generations to come. In 2001, the Project Gutenberg Literary Archive
+Foundation was created to provide a secure and permanent future for
+Project Gutenberg™ and future generations. To learn more about the Project
+Gutenberg Literary Archive Foundation and how your efforts and donations
+can help, see Sections 3 and 4 and the Foundation web page at
+http://www.pglaf.org.
+
+
+Section 3.
+
+
+   Information about the Project Gutenberg Literary Archive Foundation
+
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the state of
+Mississippi and granted tax exempt status by the Internal Revenue Service.
+The Foundation’s EIN or federal tax identification number is 64-6221541.
+Its 501(c)(3) letter is posted at
+http://www.gutenberg.org/fundraising/pglaf. Contributions to the Project
+Gutenberg Literary Archive Foundation are tax deductible to the full
+extent permitted by U.S. federal laws and your state’s laws.
+
+The Foundation’s principal office is located at 4557 Melan Dr.
+S. Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations. Its business office is located at 809 North
+1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org. Email contact links and up to date contact information
+can be found at the Foundation’s web site and official page at
+http://www.pglaf.org
+
+For additional contact information:
+
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+
+Section 4.
+
+
+  Information about Donations to the Project Gutenberg Literary Archive
+                                Foundation
+
+
+Project Gutenberg™ depends upon and cannot survive without wide spread
+public support and donations to carry out its mission of increasing the
+number of public domain and licensed works that can be freely distributed
+in machine readable form accessible by the widest array of equipment
+including outdated equipment. Many small donations ($1 to $5,000) are
+particularly important to maintaining tax exempt status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United States.
+Compliance requirements are not uniform and it takes a considerable
+effort, much paperwork and many fees to meet and keep up with these
+requirements. We do not solicit donations in locations where we have not
+received written confirmation of compliance. To SEND DONATIONS or
+determine the status of compliance for any particular state visit
+http://www.gutenberg.org/fundraising/donate
+
+While we cannot and do not solicit contributions from states where we have
+not met the solicitation requirements, we know of no prohibition against
+accepting unsolicited donations from donors in such states who approach us
+with offers to donate.
+
+International donations are gratefully accepted, but we cannot make any
+statements concerning tax treatment of donations received from outside the
+United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation methods
+and addresses. Donations are accepted in a number of other ways including
+checks, online payments and credit card donations. To donate, please
+visit: http://www.gutenberg.org/fundraising/donate
+
+
+Section 5.
+
+
+      General Information About Project Gutenberg™ electronic works.
+
+
+Professor Michael S. Hart is the originator of the Project Gutenberg™
+concept of a library of electronic works that could be freely shared with
+anyone. For thirty years, he produced and distributed Project Gutenberg™
+eBooks with only a loose network of volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed editions,
+all of which are confirmed as Public Domain in the U.S. unless a copyright
+notice is included. Thus, we do not necessarily keep eBooks in compliance
+with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook’s eBook
+number, often in several formats including plain vanilla ASCII, compressed
+(zipped), HTML and others.
+
+Corrected _editions_ of our eBooks replace the old file and take over the
+old filename and etext number. The replaced older file is renamed.
+_Versions_ based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+
+    http://www.gutenberg.org
+
+
+This Web site includes information about Project Gutenberg™, including how
+to make donations to the Project Gutenberg Literary Archive Foundation,
+how to help produce our new eBooks, and how to subscribe to our email
+newsletter to hear about new eBooks.
+
+
+
+
+
+
+***FINIS***
+
