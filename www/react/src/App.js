@@ -32,32 +32,29 @@ class App extends React.Component {
       firebaseConfig: firebaseConfig,
       db: firebase.firestore(),
       livresRes: [],
-      value: "",
-      isSubmitted: false,
+      value: "ex titre 1",
     };
   }
 
   handleChange(event) {
+    console.log(this.state.value)
     this.setState({value: event.target.value})
   }
 
   submitQuery = (event) => {
     event.preventDefault();
-    let livresRes = [];
-    this.state.db.collection('livres').where("title", "==", this.state.value)
-    .get()
-    .then(function(querySnapshot) {
-      querySnapshot.forEach(function(doc) {
-          livresRes.push(JSON.stringify(doc.data()));
+    let livresResult = [];
+    this.state.db.collection('livres').where("title", "==", this.state.value).get()
+    .then((querySnapshot)  => {
+      querySnapshot.forEach( (doc)  => {
+          livresResult.push(doc.data())
       });
-    })
-
-    this.setState({
-      livresRes: livresRes,
-      isSubmitted: true,
-    }, function () {
-      console.log(this.state.livresRes, " App");
-    })
+      this.setState({
+        livresRes: livresResult
+      }, function () {
+        console.log(this.state.livresRes, " App");
+      })
+    }) 
   }
 
 
@@ -65,10 +62,10 @@ class App extends React.Component {
     return (
       <div className="App">
         <h1>Bibliothèque en ligne</h1>
-        <form role="search" onSubmit={this.submitQuery.bind(this)}>
-          <input type="text" title="Recherche par mots-clés" id="rechercher" onChange={this.handleChange.bind(this)}/>
+        <form role="search" onSubmit={(e) => this.submitQuery(e)}>
+          <input type="text" title="Recherche par mots-clés" id="rechercher" value={this.state.value} onChange={(e) => this.handleChange(e)}/>
         </form>
-        { this.state.isSubmitted && <Livres livresRes={this.state.livresRes} /> }
+        {<Livres livresRes={this.state.livresRes} /> }
       </div>
     );
   }
