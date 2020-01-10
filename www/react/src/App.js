@@ -3,6 +3,8 @@ import './App.css';
 import Livres from './Livres.js';
 import * as firebase from "firebase/app";
 
+import handleQuery from './handleQuery.js';
+
 // Add the Firebase services that you want to use
 import "firebase/firestore";
 
@@ -32,7 +34,7 @@ class App extends React.Component {
       firebaseConfig: firebaseConfig,
       db: firebase.firestore(),
       livresRes: [],
-      value: "ex titre 1",
+      value: "",
     };
   }
 
@@ -44,7 +46,8 @@ class App extends React.Component {
   submitQuery = (event) => {
     event.preventDefault();
     let livresResult = [];
-    this.state.db.collection('livres').where("title", "==", this.state.value).get()
+    let resultFromHandleQuery = handleQuery(this.state.value);
+    this.state.db.collection('livres').where("title", "==", resultFromHandleQuery).get()
     .then((querySnapshot)  => {
       querySnapshot.forEach( (doc)  => {
           livresResult.push(doc.data())
@@ -63,7 +66,13 @@ class App extends React.Component {
       <div className="App">
         <h1>Bibliothèque en ligne</h1>
         <form role="search" onSubmit={(e) => this.submitQuery(e)}>
-          <input type="text" title="Recherche par mots-clés" id="rechercher" value={this.state.value} onChange={(e) => this.handleChange(e)}/>
+          <input 
+            type="text" 
+            title="Recherche par mots-clés" 
+            id="rechercher" value={this.state.value} 
+            onChange={(e) => this.handleChange(e)}
+            autocomplete="off"
+          />
         </form>
         {<Livres livresRes={this.state.livresRes} /> }
       </div>
