@@ -49,7 +49,8 @@ public class Indexing {
             }
         }
 
-        String indexPath = path.substring(0, path.lastIndexOf('.'));
+        // String indexPath = path.substring(0, path.lastIndexOf('.'));
+        String indexPath = path ;
 
         indexPath = path.substring(path.lastIndexOf('/') + 1, indexPath.length());
 
@@ -100,5 +101,26 @@ public class Indexing {
 
         return indexPath;
 
+    }
+
+    public static HashMap loadIndexMap(String indexPath) {
+        HashMap<String, Integer> indexmap = new HashMap<>();
+
+        try {
+            Stream<String> stream = Files.lines(Paths.get(indexPath));
+
+            for (String line : stream.collect(Collectors.toList())) {
+                String[] columns = line.split("\\s+");
+                String mot = columns[0];
+                int occurences = Integer.parseInt(columns[1]);
+
+                indexmap.put(mot, occurences);
+            }
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        return indexmap;
     }
 }

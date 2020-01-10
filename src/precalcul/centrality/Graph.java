@@ -1,7 +1,10 @@
-package Online;
+package precalcul.centrality;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+
+import precalcul.centrality.Document;
+
 import java.util.HashMap;
 
 /**

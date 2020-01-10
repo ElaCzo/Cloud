@@ -1,4 +1,4 @@
-package myGrep;
+package grep;
 
 import org.w3c.dom.Text;
 

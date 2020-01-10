@@ -1,4 +1,4 @@
-package Online;
+package precalcul.centrality;
 
 import java.util.ArrayList;
 

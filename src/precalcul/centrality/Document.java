@@ -1,9 +1,9 @@
-package Online;
+package precalcul.centrality;
 
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import Online.Indexing;
+import precalcul.index.Indexing;
 
 /**
  * Document

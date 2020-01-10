@@ -1,4 +1,4 @@
-package Online;
+package precalcul.centrality;
 
 public class Closeness {
 

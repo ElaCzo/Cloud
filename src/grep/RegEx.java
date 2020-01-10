@@ -1,4 +1,4 @@
-package myGrep;
+package grep;
 
 import java.util.ArrayList;
 

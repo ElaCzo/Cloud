@@ -1,4 +1,4 @@
-package Online;
+package precalcul.centrality;
 
 import java.io.File;
 import java.io.FileWriter;

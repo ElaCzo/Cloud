@@ -40,6 +40,19 @@
     </java>
   </target>
 
+
+  <target name="runSearch" depends="compile"
+          description="run examples">
+    <java classname="recherche.Search" classpath="${build}" fork="true">
+        <arg line="${args}"/>
+        <!-- <jvmarg value="-verbosegc"/> -->
+        <jvmarg value="-Xmx2g"/>
+        <jvmarg value="-Xms32m"/>
+        <jvmarg value="-XX:+UseG1GC"/>
+        
+    </java>
+  </target>
+
   <target name="dist" depends="init,clean"
         description="Generer la distribution" >
     <!-- tout mettre dans l'archive -->

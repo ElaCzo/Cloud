@@ -1,4 +1,4 @@
-package myGrep;
+package grep;
 
 import java.io.IOException;
 import java.lang.Exception;

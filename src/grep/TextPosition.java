@@ -1,4 +1,4 @@
-package myGrep;
+package grep;
 
 public class TextPosition {
 
