@@ -17,32 +17,22 @@ exports.onFileChange = functions.storage.object().onFinalize(event => {
 });
 
 exports.addAllFilesInFireStore = functions.https.onRequest((request, response) => {
-  // Since you mentioned your images are in a folder,
-  // we'll create a Reference to that folder:
   var storageRef = firebase.storage();
 
-
-  // Now we get the references of these images
   storageRef.listAll().then(function (result) {
     result.items.forEach(function (docRef) {
-      // And finally display them
-
-      /*docRef.getDownloadURL().then(function (url) {*/
-        
+ 
         let data = {
           title: docRef.name,
           url: docRef.fullPath 
         };
-        
-        // Add a new document in collection "cities"
-        let setDoc = db.collection('livres').doc().set(data);
 
-      /*}).catch(function (error) {
-        // Handle any errors
-      });*/
+        let setDoc = db.collection('livres').doc().set(data);
 
     });
   }).catch(function (error) {
-    // Handle any errors
+    console.log(error)
   })
+
+  response.send('Done.')
 });
