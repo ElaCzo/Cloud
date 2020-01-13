@@ -42,7 +42,9 @@ public class Search {
         } catch (IOException io) {
             io.printStackTrace();
         }
-
     }
 
+    public static void test(String val){
+        return val;
+    }
 }
