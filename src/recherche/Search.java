@@ -44,7 +44,8 @@ public class Search {
         }
     }
 
-    public static void test(String val){
-        return val;
+    public static ArrayList<String> test(String val){
+        ArrayList<String> books = new ArrayList<>();
+        return books;
     }
 }
