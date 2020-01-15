@@ -22,9 +22,12 @@ exports.firestoreUpdate = functions.storage.object().onFinalize(async (object) =
 });*/
 
 exports.addAllFilesInFireStore = functions.https.onRequest((request, response) => {
-  var storageRef = admin.storage();
+  var storage = admin.storage();
+  console.log(storage);
+  var rootRef = storage.child();
+  console.log(rootRef);
 
-  storageRef.listAll().then(function (result) {
+  rootRef.listAll().then(function (result) {
     result.items.forEach(function (docRef) {
  
         let data = {
