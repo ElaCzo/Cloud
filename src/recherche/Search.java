@@ -33,7 +33,8 @@ public class Search {
                     String textString = path.substring(0, path.indexOf("/index"));
                     textString+="/books/"+path.substring(path.lastIndexOf("/")+1 , path.lastIndexOf("."));
                     System.out.println("\nFILENAME : "+textString);
-                    System.out.println("NAME : " + titres.getOrDefault(textString, path));
+                    System.out.println("NAME : " + titres.getOrDefault(textString, textString));
+
                 }
 
             }

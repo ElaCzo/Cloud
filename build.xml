@@ -1,12 +1,12 @@
 <project name="Gutt" default="compile" basedir=".">
-    <description>
+  <description>
         The build file for Grep program
-    </description>
+  </description>
   <!-- set global properties for this build -->
   <property name="src" location="src"/>
   <property name="build" location="build"/>
- <property name="nom1" value="AbbasZadeh"/>
- <property name="nom2" value="Delgado"/>
+  <property name="nom1" value="AbbasZadeh"/>
+  <property name="nom2" value="Delgado"/>
 
 
   <target name="init">
@@ -21,81 +21,70 @@
 
   </target>
 
-  <target name="compile" depends="init"
-        description="compile the source " >
+  <target name="compile" depends="init" description="compile the source ">
     <!-- Compile the java code from ${src} into ${build} -->
-        <echo>================ Compiling Project ================</echo>    
+    <echo>================ Compiling Project ================</echo>
 
     <javac debug="true" srcdir="${src}" excludes="" destdir="${build}" includeantruntime="false" />
   </target>
 
-  <target name="run" depends="compile"
-          description="run examples">
+  <target name="run" depends="compile" description="run examples">
     <java classname="precalcul.precalcul" classpath="${build}" fork="true">
-        <!-- <jvmarg value="-verbosegc"/> -->
-        <jvmarg value="-Xmx2g"/>
-        <jvmarg value="-Xms32m"/>
-        <jvmarg value="-XX:+UseG1GC"/>
-        
+      <!-- <jvmarg value="-verbosegc"/> -->
+      <jvmarg value="-Xmx2g"/>
+      <jvmarg value="-Xms32m"/>
+      <jvmarg value="-XX:+UseG1GC"/>
+
     </java>
   </target>
 
 
-  <target name="runSearch" depends="compile"
-          description="run examples">
+  <target name="runSearch" depends="compile" description="run examples">
     <java classname="recherche.Search" classpath="${build}" fork="true">
-        <arg line="${args}"/>
-        <!-- <jvmarg value="-verbosegc"/> -->
-        <jvmarg value="-Xmx2g"/>
-        <jvmarg value="-Xms32m"/>
-        <jvmarg value="-XX:+UseG1GC"/>
-        
+      <arg line="${args}"/>
+      <!-- <jvmarg value="-verbosegc"/> -->
+      <jvmarg value="-Xmx2g"/>
+      <jvmarg value="-Xms32m"/>
+      <jvmarg value="-XX:+UseG1GC"/>
+
     </java>
   </target>
 
-  <target name="dist" depends="init,clean"
-        description="Generer la distribution" >
-    <!-- tout mettre dans l'archive -->
-        <echo>================ Building Zip ================</echo>    
+  <target name="dist" depends="init" description="Generer la distribution">
+    <echo>================ Building jar ================</echo>
 
-    <zip basedir="." destfile="../daar-projet-offline-${nom1}-${nom2}.zip" />
+    <jar basedir="." destfile="../Backend-${nom1}-${nom2}.jar" />
   </target>
 
 
-  <target name="clean" depends="cleanbuild,cleancent,cleanindex,cleanpos,cleangraphe"
-        description="clean up all" >	
+  <target name="clean" depends="cleanbuild,cleancent,cleanindex,cleanpos,cleangraphe" description="clean up all">
   </target>
 
-  <target name="cleanbuild"
-        description="clean up build" >	
-        <echo>================ Removing build directory ================</echo>    
-	<delete dir="${build}"/>
+  <target name="cleanbuild" description="clean up build">
+    <echo>================ Removing build directory ================</echo>
+    <delete dir="${build}"/>
   </target>
 
-  <target name="cleanindex"
-        description="clean up index" >
-        <echo>================ Removing index directory ================</echo>    
-	<delete dir="data/index"/>
+  <target name="cleanindex" description="clean up index">
+    <echo>================ Removing index directory ================</echo>
+    <delete dir="data/index"/>
   </target>
 
-  <target name="cleancent"
-        description="clean up cent" >
-        <echo>================ Removing cent directory ================</echo>    
-	<delete dir="data/cent"/>
+  <target name="cleancent" description="clean up cent">
+    <echo>================ Removing cent directory ================</echo>
+    <delete dir="data/cent"/>
   </target>
 
-  <target name="cleanpos"
-        description="clean up pos" >
-        <echo>================ Removing pos directory ================</echo>    
-	<delete dir="data/pos"/>
+  <target name="cleanpos" description="clean up pos">
+    <echo>================ Removing pos directory ================</echo>
+    <delete dir="data/pos"/>
   </target>
 
 
-  <target name="cleangraphe"
-        description="clean up graphe" >
-        <echo>================ Removing graphe directory ================</echo>    
-	<delete dir="data/graphe"/>
+  <target name="cleangraphe" description="clean up graphe">
+    <echo>================ Removing graphe directory ================</echo>
+    <delete dir="data/graphe"/>
   </target>
 
-  
+
 </project>
