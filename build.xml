@@ -55,9 +55,8 @@
 
     <jar destfile="../Backend-${nom1}-${nom2}.jar">
       <fileset dir="." excludes="./www/"/>
-    </jar>
-  </target>
-
+      </jar>
+    </target>
 
   <target name="clean" depends="cleanbuild,cleancent,cleanindex,cleanpos,cleangraphe" description="clean up all">
   </target>
@@ -87,6 +86,5 @@
     <echo>================ Removing graphe directory ================</echo>
     <delete dir="data/graphe"/>
   </target>
-
 
 </project>
