@@ -50,10 +50,10 @@
     </java>
   </target>
 
-  <target name="dist" depends="init" description="Generer la distribution">
+  <target name="dist" depends="cleanbuild,init,compile" description="Generer la distribution">
     <echo>================ Building jar ================</echo>
 
-    <jar destfile="../Backend-${nom1}-${nom2}.jar">
+    <jar destfile="./Backend-${nom1}-${nom2}.jar">
       <fileset dir="." excludes="./www/"/>
 <<<<<<< HEAD
       </jar>
