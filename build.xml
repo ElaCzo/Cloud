@@ -55,38 +55,38 @@
 
     <jar destfile="../Backend-${nom1}-${nom2}.jar">
       <fileset dir="." excludes="./www/"/>
-      <jar/>
-    </target>
+    </jar>
+  </target>
 
 
-    <target name="clean" depends="cleanbuild,cleancent,cleanindex,cleanpos,cleangraphe" description="clean up all">
-    </target>
+  <target name="clean" depends="cleanbuild,cleancent,cleanindex,cleanpos,cleangraphe" description="clean up all">
+  </target>
 
-    <target name="cleanbuild" description="clean up build">
-      <echo>================ Removing build directory ================</echo>
-      <delete dir="${build}"/>
-    </target>
+  <target name="cleanbuild" description="clean up build">
+    <echo>================ Removing build directory ================</echo>
+    <delete dir="${build}"/>
+  </target>
 
-    <target name="cleanindex" description="clean up index">
-      <echo>================ Removing index directory ================</echo>
-      <delete dir="data/index"/>
-    </target>
+  <target name="cleanindex" description="clean up index">
+    <echo>================ Removing index directory ================</echo>
+    <delete dir="data/index"/>
+  </target>
 
-    <target name="cleancent" description="clean up cent">
-      <echo>================ Removing cent directory ================</echo>
-      <delete dir="data/cent"/>
-    </target>
+  <target name="cleancent" description="clean up cent">
+    <echo>================ Removing cent directory ================</echo>
+    <delete dir="data/cent"/>
+  </target>
 
-    <target name="cleanpos" description="clean up pos">
-      <echo>================ Removing pos directory ================</echo>
-      <delete dir="data/pos"/>
-    </target>
-
-
-    <target name="cleangraphe" description="clean up graphe">
-      <echo>================ Removing graphe directory ================</echo>
-      <delete dir="data/graphe"/>
-    </target>
+  <target name="cleanpos" description="clean up pos">
+    <echo>================ Removing pos directory ================</echo>
+    <delete dir="data/pos"/>
+  </target>
 
 
-  </project>
+  <target name="cleangraphe" description="clean up graphe">
+    <echo>================ Removing graphe directory ================</echo>
+    <delete dir="data/graphe"/>
+  </target>
+
+
+</project>
