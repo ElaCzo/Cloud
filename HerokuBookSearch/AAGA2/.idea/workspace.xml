@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bbcd0aa-f251-4d65-aacc-2094ad0e2b9a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../booksearch" beforeDir="false" afterPath="$PROJECT_DIR$/../booksearch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/recherche/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../src/recherche/Search.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WeczWbSXdgtWisy10TBCgW0Iod" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Remy" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="BinaryHeap" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/Remy" />
+      <recent name="$PROJECT_DIR$/src/main/java/TernaryTree" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bbcd0aa-f251-4d65-aacc-2094ad0e2b9a" name="Default Changelist" comment="" />
+      <created>1579513763039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579513763039</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="325" y="27" width="1200" height="1002" key="#Project_Structure" timestamp="1579514266316">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="325" y="27" width="1200" height="1002" key="#Project_Structure/67.27.1853.1053@67.27.1853.1053" timestamp="1579514266316" />
+    <state x="388" y="161" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579513976573">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="388" y="161" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579513976573" />
+    <state x="650" y="156" width="624" height="704" key="FileChooserDialogImpl" timestamp="1579514859805">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="650" y="156" width="624" height="704" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1579514859805" />
+    <state x="188" y="27" width="1536" height="1053" key="SettingsEditor" timestamp="1579514214434">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="188" y="27" width="1536" height="1053" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1579514214434" />
+  </component>
+</project>

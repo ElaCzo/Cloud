@@ -42,7 +42,10 @@ public class Search {
         } catch (IOException io) {
             io.printStackTrace();
         }
-
     }
 
+    public static ArrayList<String> test(String val){
+        ArrayList<String> books = new ArrayList<>();
+        return books;
+    }
 }
