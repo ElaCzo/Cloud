@@ -54,14 +54,10 @@
     <echo>================ Building jar ================</echo>
 
     <jar destfile="./Backend-${nom1}-${nom2}.jar">
-      <fileset dir="." excludes="./www/"/>
-<<<<<<< HEAD
+      <fileset dir="." includes="./data/"/>
+<fileset dir="." includes="./build/"/><fileset dir="." includes="./src/"/>
       </jar>
     </target>
-=======
-    </jar>
-  </target>
->>>>>>> 9188a7b2de97d18611a2dc33dfccdfbb0bd1f4ce
 
 
   <target name="clean" depends="cleanbuild,cleancent,cleanindex,cleanpos,cleangraphe" description="clean up all">
@@ -94,8 +90,4 @@
   </target>
 
 
-<<<<<<< HEAD
   </project>
-=======
-</project>
->>>>>>> 9188a7b2de97d18611a2dc33dfccdfbb0bd1f4ce
