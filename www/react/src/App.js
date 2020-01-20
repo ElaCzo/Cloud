@@ -4,6 +4,7 @@ import Livres from './Livres.js';
 import * as firebase from "firebase/app";
 
 import handleQuery from './handleQuery.js';
+//import fetchResults from './handleQuery.js';
 
 // Add the Firebase services that you want to use
 import "firebase/firestore";
@@ -43,7 +44,7 @@ class App extends React.Component {
     this.setState({value: event.target.value})
   }
 
-  submitQuery = (event) => {
+  /*submitQuery = (event) => {
     event.preventDefault();
     let livresResult = [];
     let resultFromHandleQuery = handleQuery(this.state.value);
@@ -58,6 +59,16 @@ class App extends React.Component {
         console.log(this.state.livresRes, " App");
       })
     }) 
+  }*/
+
+  submitQuery = (event) => {
+    event.preventDefault();
+    let livresResult = handleQuery(this.state.value);
+    this.setState({
+        livresRes: livresResult
+      }, function () {
+        console.log(this.state.livresRes, " App");
+      }) 
   }
 
 
@@ -71,7 +82,7 @@ class App extends React.Component {
             title="Recherche par mots-clés" 
             id="rechercher" value={this.state.value} 
             onChange={(e) => this.handleChange(e)}
-            autocomplete="off"
+            autoComplete="off"
           />
         </form>
         {<Livres livresRes={this.state.livresRes} /> }

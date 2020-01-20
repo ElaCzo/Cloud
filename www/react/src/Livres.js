@@ -5,7 +5,7 @@ const Livres = ({livresRes}) => {
         <div className="liste-livres">
             {livresRes.map(livre => {
                 return (
-                <div key={livre.chemin}>{livre.title}</div>
+                <div key={livre.path}>{livre.title}</div>
                 )
             })}
         </div>
