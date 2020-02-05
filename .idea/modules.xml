@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Cloud.iml" filepath="$PROJECT_DIR$/.idea/Cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HerokuBookSearch/booksearch/booksearch.iml" filepath="$PROJECT_DIR$/HerokuBookSearch/booksearch/booksearch.iml" />
     </modules>
   </component>
 </project>
