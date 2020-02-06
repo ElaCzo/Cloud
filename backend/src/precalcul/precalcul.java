@@ -15,6 +15,7 @@ import java.util.stream.Collectors;
 import precalcul.centrality.Centrality;
 import precalcul.centrality.Display;
 import precalcul.centrality.Graph;
+import precalcul.centrality.Voisins;
 import precalcul.index.Indexing;
 
 public class precalcul {
@@ -42,7 +43,7 @@ public class precalcul {
                 g = new Graph(paths);
                 Display.registerEdgesInFile("./data/graphe/graphe.txt", g);
             } else {
-                g = new Graph(new ArrayList<>(Files.readAllLines(Paths.get("./data/graphe/graphe.txt"))), 0);
+                g = new Graph(paths, new ArrayList<>(Files.readAllLines(Paths.get("./data/graphe/graphe.txt"))));
             }
 
         } catch (IOException io) {
@@ -56,6 +57,9 @@ public class precalcul {
 
         // System.out.println("\n###### Calculating POS ######\n");
         // Positions.posFiles();
+
+        System.out.println("\n###### Voisins ######\n");
+        Voisins.voisins(g);
 
         System.out.println("\n###### Titre ######\n");
         printTitre("./data/titres/titres.ti");
@@ -77,11 +81,11 @@ public class precalcul {
                 for (String ligne : lignes) {
 
                     if (ligne.startsWith("Title")) {
-                        int index = ligne.indexOf('e', 0)+1;
+                        int index = ligne.indexOf('e', 0) + 1;
                         System.out.println(ligne + " ");
                         if (index > 0) {
 
-                            ligne = ligne.substring(index+1);
+                            ligne = ligne.substring(index + 1);
                             titres.add(ligne + "#" + path);
                         }
 
@@ -112,7 +116,7 @@ public class precalcul {
             PrintWriter pw = new PrintWriter(writer);
 
             for (String ligne : titres()) {
-                
+
                 pw.println(ligne);
             }
 

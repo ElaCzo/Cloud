@@ -24,8 +24,6 @@ public class titre {
                 String mot = columns[0];
                 String path = columns[1];
 
-                System.out.println("|" + columns[0] + "| -> |" + columns[1] + "|");
-
                 titres.put(path, mot);
             }
             stream.close();

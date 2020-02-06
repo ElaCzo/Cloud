@@ -18,6 +18,7 @@
     <mkdir dir="./data/cent"/>
     <mkdir dir="./data/pos"/>
     <mkdir dir="./data/graphe"/>
+    <mkdir dir="./data/voisins"/>
 
   </target>
 

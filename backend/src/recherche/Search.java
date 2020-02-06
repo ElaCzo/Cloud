@@ -26,13 +26,12 @@ public class Search {
                     .filter(p -> p.endsWith("index")).collect(Collectors.toList()).forEach(x -> paths.add(x));
 
             for (String path : paths) {
-                // System.out.println("test");
                 HashMap<String, Integer> indexMap = Indexing.loadIndexMap(path);
                 if (indexMap.containsKey(rechercheString)) {
 
                     String textString = path.substring(0, path.indexOf("/index"));
-                    textString+="/books/"+path.substring(path.lastIndexOf("/")+1 , path.lastIndexOf("."));
-                    System.out.println("\nFILENAME : "+textString);
+                    textString += "/books/" + path.substring(path.lastIndexOf("/") + 1, path.lastIndexOf("."));
+                    System.out.println("\nFILENAME : " + textString);
                     System.out.println("NAME : " + titres.getOrDefault(textString, textString));
 
                 }
@@ -44,7 +43,7 @@ public class Search {
         }
     }
 
-    public static ArrayList<HashMap<String, String>> search(String val){
+    public static ArrayList<HashMap<String, String>> search(String val) {
         ArrayList<HashMap<String, String>> books = new ArrayList<>();
 
         String rechercheString = val;
@@ -56,16 +55,18 @@ public class Search {
                     .filter(p -> p.endsWith("index")).collect(Collectors.toList()).forEach(x -> paths.add(x));
 
             for (String path : paths) {
-                // System.out.println("test");
                 HashMap<String, Integer> indexMap = Indexing.loadIndexMap(path);
                 if (indexMap.containsKey(rechercheString)) {
 
                     String textString = path.substring(0, path.indexOf("/index"));
-                    textString+="/books/"+path.substring(path.lastIndexOf("/")+1 , path.lastIndexOf("."));
+                    textString += "/books/" + path.substring(path.lastIndexOf("/") + 1, path.lastIndexOf("."));
                     HashMap<String, String> h = new HashMap();
                     books.add(h);
                     h.put("title", titres.getOrDefault(textString, textString));
                     h.put("path", textString);
+                }
+                if (books.size() > 20) {
+                    break;
                 }
             }
 
@@ -73,7 +74,14 @@ public class Search {
             io.printStackTrace();
         }
 
+        return books;
+    }
+
+    public static ArrayList<HashMap<String, String>> sugest(String val) {
+
+        ArrayList<HashMap<String, String>> books = new ArrayList<>();
 
         return books;
     }
+
 }
