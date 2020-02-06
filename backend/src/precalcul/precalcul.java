@@ -78,7 +78,7 @@ public class precalcul {
 
                     if (ligne.startsWith("Title")) {
                         int index = ligne.indexOf('e', 0)+1;
-                        System.out.println(ligne + " " + index);
+                        System.out.println(ligne + " ");
                         if (index > 0) {
 
                             ligne = ligne.substring(index+1);

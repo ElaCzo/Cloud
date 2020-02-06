@@ -14,10 +14,10 @@
     <tstamp/>
     <!-- Create the build directory structure used by compile -->
     <mkdir dir="${build}"/>
-    <mkdir dir="./backend/data/index"/>
-    <mkdir dir="./backend/data/cent"/>
-    <mkdir dir="./backend/data/pos"/>
-    <mkdir dir="./backend/data/graphe"/>
+    <mkdir dir="./data/index"/>
+    <mkdir dir="./data/cent"/>
+    <mkdir dir="./data/pos"/>
+    <mkdir dir="./data/graphe"/>
 
   </target>
 
