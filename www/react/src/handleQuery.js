@@ -1,11 +1,12 @@
 const handleQuery = (query) => {
     let books = []
     const proxyurl = "https://cors-anywhere.herokuapp.com/";
-    fetch(proxyurl+"https://cryptic-wave-17635.herokuapp.com/searchbooks?search=" + query)
+    fetch(proxyurl+"https://mysterious-oasis-90910.herokuapp.com/searchbooks?search=" + query)
         .then(res => res.json())
         .then(
             (result) => {
                 books = result.books; // à vérifier selon le json reçu
+                console.log(books);
             },
             // Remarque : il est important de traiter les erreurs ici
             // au lieu d'utiliser un bloc catch(), pour ne pas passer à la trappe

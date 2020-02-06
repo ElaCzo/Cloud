@@ -27,7 +27,7 @@ class App extends React.Component {
     try {
       firebase.initializeApp(firebaseConfig);
       firebase.analytics();
-    } catch (e) { 
+    } catch (e) {
       console.log(e);
     }
 
@@ -41,7 +41,7 @@ class App extends React.Component {
 
   handleChange(event) {
     console.log(this.state.value)
-    this.setState({value: event.target.value})
+    this.setState({ value: event.target.value })
   }
 
   /*submitQuery = (event) => {
@@ -63,12 +63,28 @@ class App extends React.Component {
 
   submitQuery = (event) => {
     event.preventDefault();
-    let livresResult = handleQuery(this.state.value);
-    this.setState({
-        livresRes: livresResult
-      }, function () {
-        console.log(this.state.livresRes, " App");
-      }) 
+
+    let books = []
+    const proxyurl = "https://cors-anywhere.herokuapp.com/";
+    fetch(proxyurl + "https://mysterious-oasis-90910.herokuapp.com/searchbooks?search=" + this.state.value)
+      .then(res => res.json())
+      .then(
+        (result) => {
+          books = result.books; // à vérifier selon le json reçu
+          console.log(books);
+
+          this.setState({
+            livresRes: books
+          }, function () {
+            console.log(this.state.livresRes, " App");
+          })
+        },
+        // Remarque : il est important de traiter les erreurs ici
+        // au lieu d'utiliser un bloc catch(), pour ne pas passer à la trappe
+        // des exceptions provenant de réels bugs du composant.
+        (error) => { }
+      )
+
   }
 
 
@@ -77,15 +93,15 @@ class App extends React.Component {
       <div className="App">
         <h1>Bibliothèque en ligne</h1>
         <form role="search" onSubmit={(e) => this.submitQuery(e)}>
-          <input 
-            type="text" 
-            title="Recherche par mots-clés" 
-            id="rechercher" value={this.state.value} 
+          <input
+            type="text"
+            title="Recherche par mots-clés"
+            id="rechercher" value={this.state.value}
             onChange={(e) => this.handleChange(e)}
             autoComplete="off"
           />
         </form>
-        {<Livres livresRes={this.state.livresRes} /> }
+        {<Livres livresRes={this.state.livresRes} />}
       </div>
     );
   }
