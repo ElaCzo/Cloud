@@ -117,6 +117,7 @@ public class Indexing {
                 indexmap.put(mot, occurences);
             }
 
+            stream.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
