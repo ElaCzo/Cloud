@@ -92,7 +92,6 @@ public class Centrality {
         } catch (IOException e) {
             System.out.println("Problème écriture dans fichier cent .");
         } finally {
-
         }
 
     }

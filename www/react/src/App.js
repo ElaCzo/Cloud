@@ -35,6 +35,7 @@ class App extends React.Component {
       firebaseConfig: firebaseConfig,
       db: firebase.firestore(),
       livresRes: [],
+      suggRes: [],
       value: "",
     };
   }
@@ -71,10 +72,12 @@ class App extends React.Component {
       .then(
         (result) => {
           books = result.books; // à vérifier selon le json reçu
+          // ajouter sugg ici = result.sugg ;
           console.log(books);
 
           this.setState({
             livresRes: books
+            // , suggRes: sugg
           }, function () {
             console.log(this.state.livresRes, " App");
           })
@@ -102,6 +105,7 @@ class App extends React.Component {
           />
         </form>
         {<Livres livresRes={this.state.livresRes} />}
+        {<Livres livresRes={this.state.suggRes} />}
       </div>
     );
   }

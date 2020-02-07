@@ -55,8 +55,10 @@ public class Search {
             Files.walk(Paths.get("./data/index/")).filter(Files::isRegularFile).map(p -> p.toString())
                     .filter(p -> p.endsWith("index")).collect(Collectors.toList()).forEach(x -> paths.add(x));
 
+            System.out.println("paths:" + paths.size());
+
+
             for (String path : paths) {
-                // System.out.println("test");
                 HashMap<String, Integer> indexMap = Indexing.loadIndexMap(path);
                 if (indexMap.containsKey(rechercheString)) {
 
