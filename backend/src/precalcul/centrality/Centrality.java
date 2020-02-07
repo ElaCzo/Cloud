@@ -79,7 +79,7 @@ public class Centrality {
             for (int i = paths.size() - 1; i >= 0; i--) {
 
                 String path = paths.get(scent[i]);
-                path = path.substring(path.lastIndexOf('/') + 1, path.lastIndexOf('i') );
+                path = path.substring(path.lastIndexOf('/') + 1, path.lastIndexOf('i')-1 );
 
                 pw.println(path);   
 

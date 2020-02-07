@@ -87,6 +87,8 @@
   <target name="cleangraphe" description="clean up graphe">
     <echo>================ Removing graphe directory ================</echo>
     <delete dir="data/graphe"/>
+    <delete dir="data/voisins"/>
+
   </target>
 
 </project>

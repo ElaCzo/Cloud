@@ -27,7 +27,7 @@ public class Voisins {
             ArrayList<Integer> inv = g.adjacence.get(i);
             for (Integer integer : inv) {
                 String path = g.paths.get(integer);
-                voisins.add(path);
+                voisins.add(path.substring(path.lastIndexOf("/") + 1, path.lastIndexOf(".")));
 
             }
 
