@@ -1,6 +1,9 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react';
-import ProgressBar from 'react-bootstrap/ProgressBar';
+import InputGroup from 'react-bootstrap/InputGroup'
+import Form from 'react-bootstrap/Form'
+import FormControl from 'react-bootstrap/FormControl'
+import Button from 'react-bootstrap/Button'
 import Tabs from 'react-bootstrap/Tabs'
 import Tab from 'react-bootstrap/Tab'
 import Card from 'react-bootstrap/Card'
@@ -117,16 +120,21 @@ class App extends React.Component {
             <Col>
               <Tabs defaultActiveKey="recherche" id="uncontrolled-tab-example">
                 <Tab eventKey="recherche" title="Recherche">
-                  <form role="search" onSubmit={(e) => this.submitQuery(e)}>
-                    <input
-                      className="form-control mr-sm-2"
-                      type="text"
-                      title="Recherche par mots-clés"
-                      id="rechercher" value={this.state.value}
-                      onChange={(e) => this.handleChange(e)}
-                      autoComplete="off"
-                    />
-                  </form>
+                  <Form onSubmit={(e) => this.submitQuery(e)}>
+                    <InputGroup className="mb-3">
+                      <FormControl
+                        placeholder="Rechercher"
+                        aria-label="Rechercher"
+                        aria-describedby="basic-addon2"
+                        onChange={(e) => this.handleChange(e)}
+                        value={this.state.value}
+                        id="rechercher"
+                      />
+                      <InputGroup.Append>
+                        <Button variant="outline-secondary" type="submit">OK</Button>
+                      </InputGroup.Append>
+                    </InputGroup>
+                  </Form>
                   <Container>
                     <Row>
                       <Col>
