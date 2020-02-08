@@ -37,8 +37,21 @@
   }
 }
 
-.liste-livres {
+.resultats {
+  margin:3em;
+}
+
+.liste-livres-1 {
+  margin-left:3%;
+  margin-right:3%;
 	text-align: left;
-	margin: 2em;
-	display:inline-block;
+  float:left;
+  top: 0;
+}
+
+.liste-livres-2 {
+  margin-right:3%;
+  margin-left:3%;
+	text-align: left;
+  top: 0;
 }

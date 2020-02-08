@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Livres = ({livresRes}) => {
+const Livres = (props) => {
     return(
-        <div className="liste-livres">
-            {livresRes.map(livre => {
+        <div className={ "liste-livres-"+props.num }>
+            {props.livresRes.map(livre => {
                 return (
                 <div key={livre.path}>{livre.title}</div>
                 )

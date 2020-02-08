@@ -1,6 +1,7 @@
 package recherche;
 
 import java.io.IOException;
+import java.io.UncheckedIOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
@@ -8,6 +9,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 import precalcul.index.Indexing;
 import precalcul.titres.titre;
@@ -53,7 +55,6 @@ public class Search {
         ArrayList<String> paths = new ArrayList<>();
         HashMap<String, String> titres = titre.loadTitres();
         try {
-
             Files.walk(Paths.get("./data/index/")).filter(Files::isRegularFile).map(p -> p.toString())
                     .filter(p -> p.endsWith("index")).collect(Collectors.toList()).forEach(x -> paths.add(x));
 
@@ -82,7 +83,8 @@ public class Search {
 
     public static ArrayList<String> sugest(ArrayList<HashMap<String, String>> search_result) {
 
-        ArrayList<String> sugestion = new ArrayList<>();
+        ArrayList<String> suggestion = new ArrayList<>();
+
         HashSet<String> test = new HashSet<>();
 
         for (HashMap<String, String> hashMap : search_result) {
@@ -91,43 +93,55 @@ public class Search {
 
         }
 
+
         try {
-
-            ArrayList<String> centrality = Files.lines(Paths.get("./data/cent/cent.cent"))
-                    .collect(Collectors.toCollection(ArrayList::new));
-
-            for (String string : centrality) {
-                // System.out.println(string + " *");
-
-                if (sugestion.size() >= 10) {
-                    break;
-                }
-                for (HashMap<String, String> hashMap : search_result) {
-
-                    String path = hashMap.get("path");
-
-                    path = path.substring(path.lastIndexOf("/") + 1);
-                    // System.out.println(path + " ?");
-
-                    ArrayList<String> voisins = Files.lines(Paths.get("./data/voisins/" + path + ".index"))
-                            .collect(Collectors.toCollection(ArrayList::new));
-
-                    // System.out.println(voisins + " #");
-
-                    if (voisins.contains(string) && !test.contains(hashMap.get("title"))) {
-                        sugestion.add(hashMap.get("title"));
-                        break;
+            try (Stream<Path> s = Files.walk(Paths.get("./data/cent/cent.cent"))) {
+                s.flatMap(path -> {
+                    try {
+                        return Files.lines(path);
+                    } catch (IOException e) {
+                        throw new UncheckedIOException(e);
                     }
-                    // Thread.sleep(1000);
-                }
+                }).forEach(string ->
+                {
+                    // System.out.println(string + " *");
+
+                    if (suggestion.size() <= 10) {
+
+                        for (HashMap<String, String> hashMap : search_result) {
+
+                            String path = hashMap.get("path");
+
+                            path = path.substring(path.lastIndexOf("/") + 1);
+                            // System.out.println(path + " ?");
+
+                            try (Stream<Path> str = Files.walk(Paths.get("./data/voisins/" + path + ".index"))) {
+                                ArrayList<String> voisins = str.flatMap(pth -> {
+                                    try {
+                                        return Files.lines(pth);
+                                    } catch (IOException e) {
+                                        throw new UncheckedIOException(e);
+                                    }
+                                }).collect(Collectors.toCollection(ArrayList::new));
+
+                                // System.out.println(voisins + " #");
+
+                                if (voisins.contains(string) && !test.contains(hashMap.get("title"))) {
+                                    suggestion.add(hashMap.get("title"));
+                                    break;
+                                }
+                                // Thread.sleep(1000);
+                            } catch (Exception e) {
+                                e.printStackTrace();
+                            }
+                        }
+                    }
+                });
             }
-
-        }
-
-        catch (Exception e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
-        return sugestion;
+        return suggestion;
     }
 
 }

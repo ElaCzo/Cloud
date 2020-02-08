@@ -61,14 +61,14 @@ public class Graph {
         }
     }
 
-    public Graph(ArrayList<String> adj, int t) {
+    public Graph(ArrayList<String> paths, ArrayList<String> adj) {
 
-        this.paths = adj;
+        this.paths = paths;
         nbS = 0;
         adjacence = new ArrayList<>();
         initJaccard();
 
-        for (String s : paths) {
+        for (String s : adj) {
             addSommet();
         }
 

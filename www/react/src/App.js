@@ -3,7 +3,7 @@ import './App.css';
 import Livres from './Livres.js';
 import * as firebase from "firebase/app";
 
-import handleQuery from './handleQuery.js';
+// import handleQuery from './handleQuery.js';
 //import fetchResults from './handleQuery.js';
 
 // Add the Firebase services that you want to use
@@ -26,7 +26,7 @@ class App extends React.Component {
     // Initialize Firebase
     try {
       firebase.initializeApp(firebaseConfig);
-      firebase.analytics();
+      //firebase.analytics();
     } catch (e) {
       console.log(e);
     }
@@ -66,20 +66,21 @@ class App extends React.Component {
     event.preventDefault();
 
     let books = []
+    let sugg = []
     const proxyurl = "https://cors-anywhere.herokuapp.com/";
     fetch(proxyurl + "https://mysterious-oasis-90910.herokuapp.com/searchbooks?search=" + this.state.value)
       .then(res => res.json())
       .then(
         (result) => {
-          books = result.books; // à vérifier selon le json reçu
-          // ajouter sugg ici = result.sugg ;
-          console.log(books);
+          books = result.books;
+          sugg = result.sugg;
 
           this.setState({
-            livresRes: books
-            // , suggRes: sugg
+            livresRes: books,
+            suggRes: sugg
           }, function () {
             console.log(this.state.livresRes, " App");
+            console.log(this.state.suggRes, " App");
           })
         },
         // Remarque : il est important de traiter les erreurs ici
@@ -95,6 +96,8 @@ class App extends React.Component {
     return (
       <div className="App">
         <h1>Bibliothèque en ligne</h1>
+
+
         <form role="search" onSubmit={(e) => this.submitQuery(e)}>
           <input
             type="text"
@@ -104,8 +107,10 @@ class App extends React.Component {
             autoComplete="off"
           />
         </form>
-        {<Livres livresRes={this.state.livresRes} />}
-        {<Livres livresRes={this.state.suggRes} />}
+        <div className="resultats">
+          {<Livres livresRes={this.state.livresRes} num='1' />}
+          {<Livres livresRes={this.state.suggRes} num="2" />}
+        </div>
       </div>
     );
   }
