@@ -1,0 +1,865 @@
+﻿The Project Gutenberg EBook of Das Motiv der Kästchenwahl, by Sigmund Freud
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Das Motiv der Kästchenwahl
+
+Author: Sigmund Freud
+
+Editor: Sigmund Freud
+        Otto Rank
+        Hanns Sachs
+
+Release Date: December 24, 2007 [EBook #24017]
+
+Language: German
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK DAS MOTIV DER KÄSTCHENWAHL ***
+
+
+
+
+Produced by Jana Srna and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+                       IMAGO
+
+
+    ZEITSCHRIFT FÜR ANWENDUNG DER PSYCHOANALYSE
+           AUF DIE GEISTESWISSENSCHAFTEN
+
+      HERAUSGEGEBEN VON PROF. DR. SIGM. FREUD
+
+                  SCHRIFTLEITUNG:
+ II. 3.    DR. OTTO RANK / DR. HANNS SACHS    1913
+
+
+
+
+Das Motiv der Kästchenwahl.
+
+Von SIGM. FREUD.
+
+
+I.
+
+Zwei Szenen aus _Shakespeare_, eine heitere und eine tragische, haben
+mir kürzlich den Anlaß zu einer kleinen Problemstellung und Lösung
+gegeben.
+
+Die heitere ist die der Wahl des Freiers zwischen drei Kästchen im
+»Kaufmann von Venedig«. Die schöne und kluge Porzia ist durch den Willen
+ihres Vaters gebunden, nur den von ihren Bewerbern zum Mann zu nehmen,
+der von drei ihm vorgelegten Kästchen das richtige wählt. Die drei
+Kästchen sind von Gold, von Silber und von Blei; das richtige ist jenes,
+welches ihr Bildnis einschließt. Zwei Bewerber sind bereits erfolglos
+abgezogen, sie hatten Gold und Silber gewählt. Bassanio, der Dritte,
+entscheidet sich für das Blei; er gewinnt damit die Braut, deren Neigung
+ihm bereits vor der Schicksalsprobe gehört hat. Jeder der Freier hatte
+seine Entscheidung durch eine Rede motiviert, in welcher er das von ihm
+bevorzugte Metall anpries, während er die beiden anderen herabsetzte.
+Die schwerste Aufgabe war dabei dem glücklichen dritten Freier
+zugefallen; was er zur Verherrlichung des Bleis gegen Gold und Silber
+sagen kann, ist wenig und klingt gezwungen. Stünden wir in der
+psychoanalytischen Praxis vor solcher Rede, so würden wir hinter der
+unbefriedigenden Begründung geheimgehaltene Motive wittern.
+
+_Shakespeare_ hat das Orakel der Kästchenwahl nicht selbst erfunden, er
+nahm es aus einer Erzählung der »Gesta Romanorum«, in welcher ein
+Mädchen dieselbe Wahl vornimmt, um den Sohn des Kaisers zu gewinnen[1].
+Auch hier ist das dritte Metall, das Blei, das Glückbringende. Es ist
+nicht schwer zu erraten, daß hier ein altes Motiv vorliegt, welches nach
+Deutung, Ableitung und Zurückführung verlangt. Eine erste Vermutung,
+was wohl die Wahl zwischen Gold, Silber und Blei bedeuten möge, findet
+bald Bestätigung durch eine Äußerung von E. _Stucken_[2], der sich in
+weitausgreifendem Zusammenhang mit dem nämlichen Stoff beschäftigt. Er
+sagt: »Wer die drei Freier Porzias sind, erhellt aus dem, was sie
+wählen: Der Prinz von Marokko wählt den goldenen Kasten: er ist die
+Sonne; der Prinz von Arragon wählt den silbernen Kasten: er ist der
+Mond; Bassanio wählt den bleiernen Kasten: er ist der Sternenknabe.« Zur
+Unterstützung dieser Deutung zitiert er eine Episode aus dem estnischen
+Volksepos Kalewipoeg, in welcher die drei Freier unverkleidet als
+Sonnen-, Mond- und Sternenjüngling (»des Polarsterns ältestes Söhnchen«)
+auftreten und die Braut wiederum dem Dritten zufällt.
+
+  [1] G. _Brandes_, William Shakespeare, 1896.
+
+  [2] Ed. _Stucken_, Astralmythen, p. 655, Leipzig 1907.
+
+So führte also unser kleines Problem auf einen Astralmythus! Nur schade,
+daß wir mit dieser Aufklärung nicht zu Ende gekommen sind. Das Fragen
+setzt sich weiter fort, denn wir glauben nicht mit manchen
+Mythenforschern, daß die Mythen vom Himmel herabgelesen worden sind,
+vielmehr urteilen wir mit O. _Rank_[3], daß sie auf den Himmel
+projiziert wurden, nachdem sie anderswo unter rein menschlichen
+Bedingungen entstanden waren. Diesem menschlichen Inhalt gilt aber unser
+Interesse.
+
+  [3] O. _Rank_, Der Mythus von der Geburt des Helden, p. 8 fg., Wien
+  und Leipzig 1909.
+
+Fassen wir unseren Stoff nochmals ins Auge. Im estnischen Epos wie in
+der Erzählung der Gesta Romanorum handelt es sich um die Wahl eines
+Mädchens zwischen drei Freiern, in der Szene des »Kaufmann von Venedig«
+anscheinend um das nämliche, aber gleichzeitig tritt an dieser letzten
+Stelle etwas wie eine Umkehrung des Motivs auf: Ein Mann wählt zwischen
+drei -- Kästchen. Wenn wir es mit einem Traum zu tun hätten, würden wir
+sofort daran denken, daß die Kästchen auch Frauen sind, Symbole des
+Wesentlichen an der Frau und darum der Frau selbst, wie Büchsen, Dosen,
+Schachteln, Körbe usw. Gestatten wir uns eine solche symbolische
+Ersetzung auch beim Mythus anzunehmen, so wird die Kästchenszene im
+»Kaufmann von Venedig« wirklich zur Umkehrung, die wir vermutet haben.
+Mit einem Ruck, wie er sonst nur im Märchen beschrieben wird, haben wir
+unserem Thema das astrale Gewand abgestreift und sehen nun, es behandelt
+ein menschliches Motiv, die _Wahl eines Mannes zwischen drei Frauen_.
+
+Dasselbe ist aber der Inhalt einer anderen Szene _Shakespeare_s in einem
+der erschütterndsten seiner Dramen, keine Brautwahl diesmal, aber doch
+durch so viel geheime Ähnlichkeiten mit der Kästchenwahl im »Kaufmann«
+verknüpft. Der alte König Lear beschließt noch bei Lebzeiten sein Reich
+unter seine drei Töchter zu verteilen, je nach Maßgabe der Liebe, die
+sie für ihn äußern. Die beiden älteren, _Goneril_ und _Regan_,
+erschöpften sich in Beteuerungen und Anpreisungen ihrer Liebe, die
+dritte, _Cordelia_, weigert sich dessen. Er hätte diese unscheinbare,
+wortlose Liebe der Dritten erkennen und belohnen sollen, aber er
+verkennt sie, verstößt Cordelia und teilt das Reich unter die beiden
+anderen, zu seinem und zu aller Unheil. Ist das nicht wieder eine Szene
+der Wahl zwischen drei Frauen, von denen die jüngste die beste, die
+vorzüglichste ist?
+
+Sofort fallen uns nun aus Mythus, Märchen und Dichtung andere Szenen
+ein, welche die nämliche Situation zum Inhalt haben: Der Hirte Paris hat
+die Wahl zwischen drei Göttinnen, von denen er die dritte zur Schönsten
+erklärt. Aschenputtel ist eine ebensolche Jüngste, die der Königssohn
+den beiden Älteren vorzieht, Psyche im Märchen des Apulejus ist die
+jüngste und schönste von drei Schwestern, Psyche, die einerseits als
+menschlich gewordene Aphrodite verehrt wird, anderseits von dieser
+Göttin behandelt wird wie Aschenputtel von ihrer Stiefmutter, einen
+vermischten Haufen von Samenkörnern schlichten soll und es mit Hilfe von
+kleinen Tieren (Tauben bei Aschenputtel, Ameisen bei Psyche)
+zustandebringt[4]. Wer sich weiter im Material umsehen wollte, würde
+gewiß noch andere Gestaltungen desselben Motivs mit Erhaltung derselben
+wesentlichen Züge auffinden können.
+
+  [4] Den Hinweis auf diese Übereinstimmungen verdanke ich Dr. O. _Rank_.
+
+Begnügen wir uns mit Cordelia, Aphrodite, Aschenputtel und Psyche! Die
+drei Frauen, von denen die dritte die vorzüglichste ist, sind wohl als
+irgendwie gleichartig aufzufassen, wenn sie als Schwestern vorgeführt
+werden. Es soll uns nicht irre machen, wenn es bei Lear die drei Töchter
+des Wählenden sind, das bedeutet vielleicht nichts anderes, als daß Lear
+als alter Mann dargestellt werden soll. Den alten Mann kann man nicht
+leicht anders zwischen drei Frauen wählen lassen; darum werden diese zu
+seinen Töchtern.
+
+Wer sind aber diese drei Schwestern und warum muß die Wahl auf die
+Dritte fallen? Wenn wir diese Frage beantworten könnten, wären wir im
+Besitz der gesuchten Deutung. Nun haben wir uns bereits einmal der
+Anwendung psychoanalytischer Techniken bedient, als wir uns die drei
+Kästchen symbolisch als drei Frauen aufklärten. Haben wir den Mut, ein
+solches Verfahren fortzusetzen, so betreten wir einen Weg, der zunächst
+ins Unvorhergesehene, Unbegreifliche, auf Umwegen vielleicht zu einem
+Ziele führt.
+
+Es darf uns auffallen, daß jene vorzügliche Dritte in mehreren Fällen
+außer ihrer Schönheit noch gewisse Besonderheiten hat. Es sind
+Eigenschaften, die nach irgendeiner Einheit zu streben scheinen; wir
+dürfen gewiß nicht erwarten, sie in allen Beispielen gleich gut
+ausgeprägt zu finden. Cordelia macht sich unkenntlich, unscheinbar wie
+das Blei, sie bleibt stumm, sie »liebt und schweigt«. Aschenputtel
+verbirgt sich, so daß sie nicht aufzufinden ist. Wir dürfen vielleicht
+das sich Verbergen dem Verstummen gleichsetzen. Dies wären allerdings
+nur zwei Fälle von den fünf, die wir herausgesucht haben. Aber eine
+Andeutung davon findet sich merkwürdigerweise auch noch bei zwei
+anderen. Wir haben uns ja entschlossen, die widerspenstig ablehnende
+Cordelia dem Blei zu vergleichen. Von diesem heißt es in der kurzen Rede
+des Bassanio während der Kästchenwahl, eigentlich so ganz unvermittelt:
+
+    _Thy paleness moves me more than eloquence._
+    (_plainness_ nach anderer Leseart).
+
+Also: Deine Schlichtheit geht mir näher als der beiden anderen
+schreiendes Wesen. Gold und Silber sind »laut«, das Blei ist stumm,
+wirklich wie Cordelia, die »liebt und schweigt«[5].
+
+  [5] In der _Schlegel_schen Übersetzung geht diese Anspielung ganz
+  verloren, ja sie wird zur Gegenseite gewendet:
+
+      Dein schlichtes Wesen spricht beredt mich an.
+
+In den altgriechischen Erzählungen des Parisurteils ist von einer
+solchen Zurückhaltung der Aphrodite nichts enthalten. Jede der drei
+Göttinnen spricht zu dem Jüngling und sucht ihn durch Verheißungen zu
+gewinnen. Aber in einer ganz modernen Bearbeitung derselben Szene kommt
+der uns auffällig gewordene Zug der Dritten sonderbarerweise wieder zum
+Vorschein. Im Libretto der »Schönen Helena« erzählt Paris, nachdem er
+von den Werbungen der beiden anderen Göttinnen berichtet, wie sich
+Aphrodite in diesem Wettkampf um den Schönheitspreis benommen:
+
+    Und die Dritte -- ja die Dritte --
+    Stand daneben und blieb _stumm_.
+    Ihr mußt' ich den Apfel geben usw.
+
+Entschließen wir uns, die Eigentümlichkeit unserer Dritten in der
+»Stummheit« konzentriert zu sehen, so sagt uns die Psychoanalyse:
+Stummheit ist im Traume eine gebräuchliche Darstellung des Todes[6].
+
+  [6] Auch in _Stekel_s »Sprache des Traumes« 1911 unter den
+  Todessymbolen angeführt. (p. 351.)
+
+Vor mehr als zehn Jahren teilte mir ein hochintelligenter Mann einen
+Traum mit, den er als Beweis für die telepathische Natur der Träume
+verwerten wollte. Er sah einen abwesenden Freund, von dem er überlange
+keine Nachricht erhalten hatte, und machte ihm eindringliche Vorwürfe
+über sein Stillschweigen. Der Freund gab keine Antwort. Es stellte sich
+dann heraus, daß er ungefähr um die Zeit dieses Traumes durch Selbstmord
+geendet hatte. Lassen wir das Problem der Telepathie beiseite; daß die
+Stummheit im Traume zur Darstellung des Todes wird, scheint hier nicht
+zweifelhaft. Auch das sich Verbergen, Unauffindbarsein, wie es der
+Märchenprinz dreimal beim Aschenputtel erlebt, ist im Traume ein
+unverkennbares Todessymbol; nicht minder die auffällige Blässe, an
+welche die paleness des Bleis in der einen Leseart des _Shakespeare_schen
+Textes erinnert[7]. Die Übertragung dieser Deutungen aus der Sprache des
+Traumes auf die Ausdrucksweise des uns beschäftigenden Mythus wird uns
+aber wesentlich erleichtert, wenn wir wahrscheinlich machen können, daß
+die Stummheit auch in anderen Produktionen, die nicht Träume sind, als
+Zeichen des Totseins gedeutet werden muß.
+
+  [7] _Stekel_, l. c.
+
+Ich greife hier das neunte der _Grimm_schen Volksmärchen heraus, welches
+die Überschrift hat: »Die zwölf Brüder«[8]. Ein König und eine Königin
+hatten zwölf Kinder, lauter Buben. Da sagte der König, wenn das
+dreizehnte Kind ein Mädchen ist, müssen die Buben sterben. In Erwartung
+dieser Geburt läßt er zwölf Särge machen. Die zwölf Söhne flüchten sich
+mit Hilfe der Mutter in einen versteckten Wald und schwören jedem
+Mädchen den Tod, dem sie begegnen sollten.
+
+  [8] P. 50 der Reklamausgabe, I. Bd.
+
+Ein Mädchen wird geboren, wächst heran und erfährt einmal von der
+Mutter, daß es zwölf Brüder gehabt hat. Es beschließt, sie aufzusuchen
+und findet im Walde den Jüngsten, der sie erkennt aber verbergen möchte
+wegen des Eides der Brüder. Die Schwester sagt: Ich will gerne sterben,
+wenn ich damit meine zwölf Brüder erlösen kann. Die Brüder nehmen sie
+aber herzlich auf, sie bleibt bei ihnen und besorgt ihnen das Haus.
+
+In einem kleinen Garten bei dem Haus wachsen zwölf Lilienblumen; die
+bricht das Mädchen ab, um jedem Bruder eine zu schenken. In diesem
+Augenblicke werden die Brüder in Raben verwandelt und verschwinden mit
+Haus und Garten. -- Die Raben sind Seelenvögel, die Tötung der zwölf
+Brüder durch ihre Schwester wird durch das Abpflücken der Blumen von
+neuem dargestellt, wie zu Eingang durch die Särge und das Verschwinden
+der Brüder. -- Das Mädchen, das wiederum bereit ist, seine Brüder vom
+Tod zu erlösen, erfährt nun als Bedingung, daß sie sieben Jahre stumm
+sein, kein einziges Wort sprechen darf. Sie unterzieht sich dieser
+Probe, durch die sie selbst in Lebensgefahr gerät, d. h. sie stirbt
+selbst für die Brüder, wie sie es vor dem Zusammentreffen mit den
+Brüdern gelobt hat. Durch die Einhaltung der Stummheit gelingt ihr
+endlich die Erlösung der Raben.
+
+Ganz ähnlich werden im Märchen von den »sechs Schwänen« die in Vögel
+verwandelten Brüder durch die Stummheit der Schwester erlöst, d. h.
+wiederbelebt. Das Mädchen hat den festen Entschluß gefaßt, seine Brüder
+zu erlösen, und »wenn es auch sein Leben kostete« und bringt als
+Gemahlin des Königs wiederum ihr eigenes Leben in Gefahr, weil sie gegen
+böse Anklagen ihre Stummheit nicht aufgeben will.
+
+Wir würden sicherlich aus den Märchen noch andere Beweise erbringen
+können, daß die Stummheit als Darstellung des Todes verstanden werden
+muß. Wenn wir diesem Anzeichen folgen dürfen, so wäre die dritte unserer
+Schwestern, zwischen denen die Wahl stattfindet, eine Tote. Sie kann
+aber auch etwas anderes sein, nämlich der Tod selbst, die Todesgöttin.
+Vermöge einer gar nicht seltenen Verschiebung werden die Eigenschaften,
+die eine Gottheit den Menschen zuteilt, ihr selbst zugeschrieben. Am
+wenigsten wird uns solche Verschiebung bei der Todesgöttin befremden,
+denn in der modernen Auffassung und Darstellung, die hier vorweggenommen
+würde, ist der Tod selbst nur ein Toter.
+
+Wenn aber die dritte der Schwestern die Todesgöttin ist, so kennen wir
+die Schwestern. Es sind die Schicksalsschwestern, die _Moiren_ oder
+Parzen oder Nornen, deren dritte _Atropos_ heißt: die Unerbittliche.
+
+
+II.
+
+Stellen wir die Sorge, wie die gefundene Deutung in unseren Mythus
+einzufügen ist, einstweilen beiseite, und holen wir uns bei den
+Mythologen Belehrung über Rolle und Herkunft der Schicksalsgöttinnen[9].
+
+  [9] Das folgende nach _Roscher_s Lexikon der griechischen und
+  römischen Mythologie unter den entsprechenden Titeln.
+
+Die älteste griechische Mythologie kennt nur eine Μοῖρα als
+Personifikation des unentrinnbaren Schicksals (bei Homer). Die
+Fortentwicklung dieser einen Moira zu einem Schwesterverein von drei
+(seltener zwei) Gottheiten erfolgte wahrscheinlich in Anlehnung an
+andere Göttergestalten, denen die Moiren nahestehen, die Chariten und
+die Horen.
+
+Die Horen sind ursprünglich Gottheiten der himmlischen Gewässer, die
+Regen und Tau spenden, der Wolken, aus denen der Regen niederfällt, und
+da diese Wolken als Gespinst erfaßt werden, ergibt sich für diese
+Göttinnen der Charakter der Spinnerinnen, der dann an den Moiren fixiert
+wird. In den von der Sonne verwöhnten Mittelmeerländern ist es der
+Regen, von dem die Fruchtbarkeit des Bodens abhängig wird, und darum
+wandeln sich die Horen zu Vegetationsgottheiten. Man dankt ihnen die
+Schönheit der Blumen und den Reichtum der Früchte, stattet sie mit einer
+Fülle von liebenswürdigen und anmutigen Zügen aus. Sie werden zu den
+göttlichen Vertreterinnen der Jahreszeiten und erwerben vielleicht durch
+diese Beziehung ihre Dreizahl, wenn die heilige Natur der Drei zu deren
+Aufklärung nicht genügen sollte. Denn diese alten Völker unterschieden
+zuerst nur drei Jahreszeiten: Winter, Frühling und Sommer. Der Herbst
+kam erst in späten griechisch-römischen Zeiten hinzu; dann bildete die
+Kunst häufig vier Horen ab.
+
+Die Beziehung zur Zeit blieb den Horen erhalten; sie wachten später über
+die Tageszeiten wie zuerst über die Zeiten des Jahres; endlich sank ihr
+Name zur Bezeichnung der Stunde (heure, ora) herab. Die den Horen und
+Moiren wesensverwandten Nornen der deutschen Mythologie tragen diese
+Zeitbedeutung in ihren Namen zur Schau. Es konnte aber nicht ausbleiben,
+daß das Wesen dieser Gottheiten tiefer erfaßt und in das Gesetzmäßige im
+Wandel der Zeiten verlegt wurde; die Horen wurden so zu Hüterinnen des
+Naturgesetzes und der heiligen Ordnung, welche mit unabänderlicher
+Reihenfolge in der Natur das gleiche wiederkehren läßt.
+
+Diese Erkenntnis der Natur wirkte zurück auf die Auffassung des
+menschlichen Lebens. Der Naturmythus wandelte sich zum Menschenmythus;
+aus den Wettergöttinnen wurden Schicksalsgottheiten. Aber diese Seite
+der Horen kam erst in den Moiren zum Ausdruck, die über die notwendige
+Ordnung im Menschenleben so unerbittlich wachen wie die Horen über die
+Gesetzmäßigkeit der Natur. Das unabwendbar Strenge des Gesetzes, die
+Beziehung zu Tod und Untergang, die an den lieblichen Gestalten der
+Horen vermieden worden waren, sie prägten sich nun an den Moiren aus,
+als ob der Mensch den ganzen Ernst des Naturgesetzes erst dann empfände,
+wenn er die eigene Person ihm unterordnen soll.
+
+Die Namen der drei Spinnerinnen haben auch bei den Mythologen
+bedeutsames Verständnis gefunden. Die zweite _Lachesis_ scheint das
+»innerhalb der Gesetzmäßigkeit des Schicksals Zufällige« zu
+bezeichnen[10] -- wir würden sagen: das Erleben -- wie _Atropos_ das
+Unabwendbare, den Tod, und dann bliebe für _Klotho_ die Bedeutung der
+verhängnisvollen, mitgebrachten Anlage.
+
+  [10] J. _Roscher_ nach Preller-Robert, Griech. Mythologie.
+
+Und nun ist es Zeit, zu dem der Deutung unterliegenden Motiv der Wahl
+zwischen drei Schwestern zurückzukehren. Mit tiefem Mißvergnügen werden
+wir bemerken, wie unverständlich die betrachteten Situationen werden,
+wenn wir in sie die gefundene Deutung einsetzen, und welche Widersprüche
+zum scheinbaren Inhalt derselben sich dann ergeben. Die dritte der
+Schwestern soll die Todesgöttin sein, der Tod selbst, und im Parisurteil
+ist es die Liebesgöttin, im Märchen des Apulejus eine dieser letzteren
+vergleichbare Schönheit, im Kaufmann die schönste und klügste Frau, im
+Lear die einzig treue Tochter. Kann ein Widerspruch vollkommener gedacht
+werden? Doch vielleicht ist diese unwahrscheinliche Steigerung ganz in
+der Nähe. Sie liegt wirklich vor, wenn in unserem Motiv jedesmal
+zwischen den Frauen frei gewählt wird, und wenn die Wahl dabei auf den
+Tod fallen soll, den doch niemand wählt, dem man durch ein Verhängnis
+zum Opfer fällt.
+
+Indes Widersprüche von einer gewissen Art, Ersetzungen durch das volle
+kontradiktorische Gegenteil bereiten der analytischen Deutungsarbeit
+keine ernste Schwierigkeit. Wir werden uns hier nicht darauf berufen,
+daß Gegensätze in den Ausdrucksweisen des Unbewußten wie im Traume so
+häufig durch eines und das nämliche Element dargestellt werden. Aber wir
+werden daran denken, daß es Motive im Seelenleben gibt, welche die
+Ersetzung durch das Gegenteil als sogenannte Reaktionsbildung
+herbeiführen, und können den Gewinn unserer Arbeit gerade in der
+Aufdeckung solcher verborgener Motive suchen. Die Schöpfung der Moiren
+ist der Erfolg einer Einsicht, welche den Menschen mahnt, auch er sei
+ein Stück der Natur und darum dem unabänderlichen Gesetz des Todes
+unterworfen. Gegen diese Unterwerfung mußte sich etwas im Menschen
+sträuben, der nur höchst ungern auf seine Ausnahmsstellung verzichtet.
+Wir wissen, daß der Mensch seine Phantasietätigkeit zur Befriedigung
+seiner von der Realität unbefriedigten Wünsche verwendet. So lehnte sich
+denn seine Phantasie gegen die im Moirenmythus verkörperte Einsicht auf
+und schuf den davon abgeleiteten Mythus, in dem die Todesgöttin durch
+die Liebesgöttin, und was ihr an menschlichen Gestaltungen gleichkommt,
+ersetzt ist. Die dritte der Schwestern ist nicht mehr der Tod, sie ist
+die schönste, beste, begehrenswerteste, liebenswerteste der Frauen. Und
+diese Ersetzung war technisch keineswegs schwer; sie war durch eine alte
+Ambivalenz vorbereitet, sie vollzog sich längs eines uralten
+Zusammenhanges, der noch nicht lange vergessen sein konnte. Die
+Liebesgöttin selbst, die jetzt an die Stelle der Todesgöttin trat, war
+einst mit ihr identisch gewesen. Noch die griechische Aphrodite
+entbehrte nicht völlig der Beziehungen zur Unterwelt, obwohl sie ihre
+chthonische Rolle längst an andere Göttergestalten, an die Persephone,
+die dreigestaltige Artemis-Hekate, abgegeben hatte. Die großen
+Muttergottheiten der orientalischen Völker scheinen aber alle ebensowohl
+Zeugerinnen wie Vernichterinnen, Göttinnen des Lebens und der
+Befruchtung wie Todesgöttinnen gewesen zu sein. So greift die Ersetzung
+durch ein Wunschgegenteil bei unserem Motiv auf eine uralte Identität
+zurück.
+
+Dieselbe Erwägung beantwortet uns die Frage, woher der Zug der Wahl in
+den Mythus von den drei Schwestern geraten ist. Es hat hier wiederum
+eine Wunschverkehrung stattgefunden. Wahl steht an der Stelle von
+Notwendigkeit, von Verhängnis. So überwindet der Mensch den Tod, den er
+in seinem Denken anerkannt hat. Es ist kein stärkerer Triumph der
+Wunscherfüllung denkbar. Man wählt dort, wo man in Wirklichkeit dem
+Zwange gehorcht, und die man wählt, ist nicht die Schreckliche, sondern
+die Schönste und Begehrenswerteste.
+
+Bei näherem Zusehen merken wir freilich, daß die Entstellungen des
+ursprünglichen Mythus nicht gründlich genug sind, um sich nicht durch
+Resterscheinungen zu verraten. Die freie Wahl zwischen den drei
+Schwestern ist eigentlich keine freie Wahl, denn sie muß
+notwendigerweise die dritte treffen, wenn nicht, wie im Lear, alles
+Unheil aus ihr entstehen soll. Die Schönste und Beste, welche an Stelle
+der Todesgöttin getreten ist, hat Züge behalten, die an das Unheimliche
+streifen, so daß wir aus ihnen das Verborgene erraten konnten[11].
+
+  [11] Auch die Psyche des Apulejus hat reichlich Züge bewahrt, welche
+  an ihre Beziehung zum Tode mahnen. Ihre Hochzeit wird gerüstet wie
+  eine Leichenfeier, sie muß in die Unterwelt hinabsteigen und versinkt
+  nachher in einen totenähnlichen Schlaf (O. _Rank_).
+
+  Über die Bedeutung der Psyche als Frühlingsgottheit und als »Braut des
+  Todes« s. A. _Zinzow_: »Psyche und Eros« (Halle 1881).
+
+  In einem anderen _Grimm_schen Märchen (Nr. 179, Die Gänsehirtin am
+  Brunnen) findet sich wie beim Aschenputtel die Abwechslung von schöner
+  und häßlicher Gestalt der dritten Tochter, in der man wohl eine
+  Andeutung von deren Doppelnatur -- vor und nach der Ersetzung --
+  erblicken darf. Diese dritte wird von ihrem Vater nach einer Probe
+  verstoßen, welche mit der im König Lear fast zusammenfällt. Sie soll
+  wie die anderen Schwestern angeben, wie lieb sie den Vater hat, findet
+  aber keinen anderen Ausdruck ihrer Liebe als den Vergleich mit dem
+  Salz. (Freundliche Mitteilung von Dr. _Hanns Sachs_.)
+
+Wir haben bisher den Mythus und seine Wandlung verfolgt und hoffen die
+geheimen Gründe dieser Wandlung aufgezeigt zu haben. Nun darf uns wohl
+die Verwendung des Motivs beim Dichter interessieren. Wir bekommen den
+Eindruck, als ginge beim Dichter eine Reduktion des Motivs auf den
+ursprünglichen Mythus vor sich, so daß der ergreifende, durch die
+Entstellung abgeschwächte Sinn des letzteren von uns wieder verspürt
+wird. Durch diese Reduktion der Entstellung, die teilweise Rückkehr zum
+Ursprünglichen, erziele der Dichter die tiefere Wirkung, die er bei uns
+erzeugt.
+
+Um Mißverständnissen vorzubeugen will ich sagen, ich habe nicht die
+Absicht zu widersprechen, daß das Drama vom König Lear die beiden weisen
+Lehren einschärfen wolle, man solle auf sein Gut und seine Rechte nicht
+zu Lebzeiten verzichten, und man müsse sich hüten, Schmeichelei für bare
+Münze zu nehmen. Diese und ähnliche Mahnungen ergeben sich wirklich aus
+dem Stück, aber es erscheint mir ganz unmöglich, die ungeheure Wirkung
+des Lear aus dem Eindruck dieses Gedankeninhaltes zu erklären oder
+anzunehmen, daß die persönlichen Motive des Dichters mit der Absicht
+diese Lehren vorzutragen erschöpft seien. Auch die Auskunft, der Dichter
+habe uns die Tragödie der Undankbarkeit vorspielen wollen, deren Bisse
+er wohl am eigenen Leib verspürt, und die Wirkung des Spiels beruhe auf
+dem rein formalen Moment der künstlerischen Einkleidung, scheint mir das
+Verständnis nicht zu ersetzen, welches uns durch die Würdigung des
+Motivs der Wahl zwischen den drei Schwestern eröffnet wird.
+
+Lear ist ein alter Mann. Wir sagten schon, darum erscheinen die drei
+Schwestern als seine Töchter. Das Vaterverhältnis, aus dem so viel
+fruchtbare dramatische Antriebe erfließen könnten, wird im Drama weiter
+nicht verwertet. Lear ist aber nicht nur ein Alter, sondern auch ein
+Sterbender. Die so absonderliche Voraussetzung der Erbteilung verliert
+dann alles Befremdende. Dieser dem Tode Verfallene will aber auf die
+Liebe des Weibes nicht verzichten, er will hören, wie sehr er geliebt
+wird. Nun denke man an die erschütternde letzte Szene, einen der
+Höhepunkte der Tragik im modernen Drama: Lear trägt den Leichnam der
+Cordelia auf die Bühne. Cordelia ist der Tod. Wenn man die Situation
+umkehrt, wird sie uns verständlich und vertraut. Es ist die Todesgöttin,
+die den verstorbenen Helden vom Kampfplatze wegträgt, wie die Walküre in
+der deutschen Mythologie. Ewige Weisheit im Gewand des uralten Mythus
+rät dem alten Manne, der Liebe zu entsagen, den Tod zu wählen, sich mit
+der Notwendigkeit des Sterbens zu befreunden.
+
+Der Dichter bringt uns das alte Motiv näher, indem er die Wahl zwischen
+den drei Schwestern von einem Gealterten und Sterbenden vollziehen läßt.
+Die regressive Bearbeitung, die er so mit dem durch Wunschverwandlung
+entstellten Mythus vorgenommen, läßt dessen alten Sinn so weit
+durchschimmern, daß uns vielleicht auch eine flächenhafte, allegorische
+Deutung der drei Frauengestalten des Motivs ermöglicht wird. Man könnte
+sagen, es seien die drei für den Mann unvermeidlichen Beziehungen zum
+Weibe, die hier dargestellt sind: Die Gebärerin, die Genossin und die
+Verderberin. Oder die drei Formen, zu denen sich ihm das Bild der Mutter
+im Lauf des Lebens wandelt: Die Mutter selbst, die Geliebte, die er nach
+deren Ebenbild gewählt, und zuletzt die Mutter Erde, die ihn wieder
+aufnimmt. Der alte Mann aber hascht vergebens nach der Liebe des Weibes,
+wie er sie zuerst von der Mutter empfangen; nur die dritte der
+Schicksalsfrauen, die schweigsame Todesgöttin, wird ihn in ihre Arme
+nehmen.
+
+
+
+
+
+End of Project Gutenberg's Das Motiv der Kästchenwahl, by Sigmund Freud
+
+*** END OF THIS PROJECT GUTENBERG EBOOK DAS MOTIV DER KÄSTCHENWAHL ***
+
+***** This file should be named 24017-0.txt or 24017-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/4/0/1/24017/
+
+Produced by Jana Srna and the Online Distributed
+Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

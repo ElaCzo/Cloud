@@ -1,4 +1,12 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
 import React from 'react';
+import ProgressBar from 'react-bootstrap/ProgressBar';
+import Tabs from 'react-bootstrap/Tabs'
+import Tab from 'react-bootstrap/Tab'
+import Card from 'react-bootstrap/Card'
+import Col from 'react-bootstrap/Col'
+import Row from 'react-bootstrap/Row'
+import Container from 'react-bootstrap/Container'
 import './App.css';
 import Livres from './Livres.js';
 import * as firebase from "firebase/app";
@@ -95,22 +103,56 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <h1>Bibliothèque en ligne</h1>
 
-
-        <form role="search" onSubmit={(e) => this.submitQuery(e)}>
-          <input
-            type="text"
-            title="Recherche par mots-clés"
-            id="rechercher" value={this.state.value}
-            onChange={(e) => this.handleChange(e)}
-            autoComplete="off"
-          />
-        </form>
-        <div className="resultats">
-          {<Livres livresRes={this.state.livresRes} num='1' />}
-          {<Livres livresRes={this.state.suggRes} num="2" />}
-        </div>
+        <Container>
+          <Row>
+            <Col>
+              <Card>
+                <Card.Body>
+                  <Card.Title>Bibliothèque en ligne</Card.Title>
+                </Card.Body>
+              </Card>
+            </Col>
+          </Row>
+          <Row>
+            <Col>
+              <Tabs defaultActiveKey="profile" id="uncontrolled-tab-example">
+                <Tab eventKey="recherche" title="Recherche">
+                  <form role="search" onSubmit={(e) => this.submitQuery(e)}>
+                    <input
+                      className="form-control mr-sm-2"
+                      type="text"
+                      title="Recherche par mots-clés"
+                      id="rechercher" value={this.state.value}
+                      onChange={(e) => this.handleChange(e)}
+                      autoComplete="off"
+                    />
+                  </form>
+                  <div className="resultats">
+                    {<Livres livresRes={this.state.livresRes} num='1' />}
+                    {<Livres livresRes={this.state.suggRes} num="2" />}
+                  </div>
+                </Tab>
+                <Tab eventKey="regex" title="Regex">
+                  <form role="search" onSubmit={(e) => this.submitQuery(e)}>
+                    <input
+                      className="form-control mr-sm-2"
+                      type="text"
+                      title="Recherche par mots-clés"
+                      id="rechercher2" value={this.state.value}
+                      onChange={(e) => this.handleChange(e)}
+                      autoComplete="off"
+                    />
+                  </form>
+                  <div className="resultats">
+                    {<Livres livresRes={this.state.livresRes} num='1' />}
+                    {<Livres livresRes={this.state.suggRes} num="2" />}
+                  </div>
+                </Tab>
+              </Tabs>
+            </Col>
+          </Row>
+        </Container>
       </div>
     );
   }
