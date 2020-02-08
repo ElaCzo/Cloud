@@ -14,8 +14,14 @@ public class SearchBooksResultController {
 
     @GetMapping("/searchbooks")
     public SearchBooksResult searchBooks(@RequestParam(value = "search", defaultValue = "DEFAULT") String search) {
-        List<Book> b = new ArrayList<>();
         return new SearchBooksResult(
+                counter.incrementAndGet(),
+                search);
+    }
+
+    @GetMapping("/searchbooksregex")
+    public SearchBooksResultRegex searchBooksRegex(@RequestParam(value = "search", defaultValue = "DEFAULT") String search) {
+        return new SearchBooksResultRegex(
                 counter.incrementAndGet(),
                 search);
     }

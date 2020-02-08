@@ -100,6 +100,34 @@ class App extends React.Component {
         // des exceptions provenant de réels bugs du composant.
         (error) => { }
       )
+  }
+
+  submitQueryRegex = (event) => {
+    event.preventDefault();
+
+    let books = []
+    let sugg = []
+    const proxyurl = "https://cors-anywhere.herokuapp.com/";
+    fetch(proxyurl + "https://mysterious-oasis-90910.herokuapp.com/searchbooksregex?search=" + this.state.value)
+      .then(res => res.json())
+      .then(
+        (result) => {
+          books = result.books;
+          sugg = result.sugg;
+
+          this.setState({
+            livresRes: books,
+            suggRes: sugg
+          }, function () {
+            console.log(this.state.livresRes, " App");
+            console.log(this.state.suggRes, " App");
+          })
+        },
+        // Remarque : il est important de traiter les erreurs ici
+        // au lieu d'utiliser un bloc catch(), pour ne pas passer à la trappe
+        // des exceptions provenant de réels bugs du composant.
+        (error) => { }
+      )
 
   }
 
@@ -149,7 +177,7 @@ class App extends React.Component {
                   </Container>
                 </Tab>
                 <Tab eventKey="regex" title="Recherche par regex">
-                  <Form onSubmit={(e) => this.submitQuery(e)}>
+                  <Form onSubmit={(e) => this.submitQueryRegex(e)}>
                     <InputGroup className="mb-3">
                       <FormControl
                         placeholder="Rechercher"
