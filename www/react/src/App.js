@@ -66,20 +66,21 @@ class App extends React.Component {
     event.preventDefault();
 
     let books = []
+    let sugg = []
     const proxyurl = "https://cors-anywhere.herokuapp.com/";
     fetch(proxyurl + "https://mysterious-oasis-90910.herokuapp.com/searchbooks?search=" + this.state.value)
       .then(res => res.json())
       .then(
         (result) => {
-          books = result.books; // à vérifier selon le json reçu
-          // ajouter sugg ici = result.sugg ;
-          console.log(books);
+          books = result.books;
+          sugg = result.sugg;
 
           this.setState({
-            livresRes: books
-            // , suggRes: sugg
+            livresRes: books,
+            suggRes: sugg
           }, function () {
             console.log(this.state.livresRes, " App");
+            console.log(this.state.suggRes, " App");
           })
         },
         // Remarque : il est important de traiter les erreurs ici
@@ -96,21 +97,23 @@ class App extends React.Component {
       <div className="App">
         <h1>Bibliothèque en ligne</h1>
 
-        
-            <form role="search" onSubmit={(e) => this.submitQuery(e)}>
-              <input
-                type="text"
-                title="Recherche par mots-clés"
-                id="rechercher" value={this.state.value}
-                onChange={(e) => this.handleChange(e)}
-                autoComplete="off"
-              />
-            </form>
-            {<Livres livresRes={this.state.livresRes} />}
-            {<Livres livresRes={this.state.suggRes} />}
-          </div>
-          );
-        }
-      }
-      
-      export default App;
+
+        <form role="search" onSubmit={(e) => this.submitQuery(e)}>
+          <input
+            type="text"
+            title="Recherche par mots-clés"
+            id="rechercher" value={this.state.value}
+            onChange={(e) => this.handleChange(e)}
+            autoComplete="off"
+          />
+        </form>
+        <div className="resultats">
+          {<Livres livresRes={this.state.livresRes} num='1' />}
+          {<Livres livresRes={this.state.suggRes} num="2" />}
+        </div>
+      </div>
+    );
+  }
+}
+
+export default App;
