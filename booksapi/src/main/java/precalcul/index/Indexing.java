@@ -62,7 +62,7 @@ public class Indexing {
             System.out.println("Start indexing : " + path);
             try {
 
-                Runtime.getRuntime().exec("./script.bash " + path + " " + indexPath).waitFor();
+                Runtime.getRuntime().exec("./backend/script.bash " + path + " " + indexPath).waitFor();
 
             } catch (Exception e) {
                 e.printStackTrace();
@@ -117,7 +117,6 @@ public class Indexing {
                 indexmap.put(mot, occurences);
             }
 
-            stream.close();
         } catch (IOException e) {
             e.printStackTrace();
         }

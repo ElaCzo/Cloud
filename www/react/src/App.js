@@ -3,7 +3,7 @@ import './App.css';
 import Livres from './Livres.js';
 import * as firebase from "firebase/app";
 
-import handleQuery from './handleQuery.js';
+// import handleQuery from './handleQuery.js';
 //import fetchResults from './handleQuery.js';
 
 // Add the Firebase services that you want to use
@@ -26,7 +26,7 @@ class App extends React.Component {
     // Initialize Firebase
     try {
       firebase.initializeApp(firebaseConfig);
-      firebase.analytics();
+      //firebase.analytics();
     } catch (e) {
       console.log(e);
     }
@@ -95,20 +95,22 @@ class App extends React.Component {
     return (
       <div className="App">
         <h1>Bibliothèque en ligne</h1>
-        <form role="search" onSubmit={(e) => this.submitQuery(e)}>
-          <input
-            type="text"
-            title="Recherche par mots-clés"
-            id="rechercher" value={this.state.value}
-            onChange={(e) => this.handleChange(e)}
-            autoComplete="off"
-          />
-        </form>
-        {<Livres livresRes={this.state.livresRes} />}
-        {<Livres livresRes={this.state.suggRes} />}
-      </div>
-    );
-  }
-}
 
-export default App;
+        
+            <form role="search" onSubmit={(e) => this.submitQuery(e)}>
+              <input
+                type="text"
+                title="Recherche par mots-clés"
+                id="rechercher" value={this.state.value}
+                onChange={(e) => this.handleChange(e)}
+                autoComplete="off"
+              />
+            </form>
+            {<Livres livresRes={this.state.livresRes} />}
+            {<Livres livresRes={this.state.suggRes} />}
+          </div>
+          );
+        }
+      }
+      
+      export default App;
