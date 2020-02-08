@@ -43,7 +43,7 @@ public class Search {
             io.printStackTrace();
         }
 
-            System.out.println("Sugestion : "+ sugest(search(rechercheString)));
+        System.out.println("Sugestion : " + sugest(search(rechercheString)));
     }
 
     public static ArrayList<HashMap<String, String>> search(String val) {
@@ -83,6 +83,13 @@ public class Search {
     public static ArrayList<String> sugest(ArrayList<HashMap<String, String>> search_result) {
 
         ArrayList<String> sugestion = new ArrayList<>();
+        HashSet<String> test = new HashSet<>();
+
+        for (HashMap<String, String> hashMap : search_result) {
+
+            test.add(hashMap.get("title"));
+
+        }
 
         try {
 
@@ -107,7 +114,7 @@ public class Search {
 
                     // System.out.println(voisins + " #");
 
-                    if (voisins.contains(string)) {
+                    if (voisins.contains(string) && !test.contains(hashMap.get("title"))) {
                         sugestion.add(hashMap.get("title"));
                         break;
                     }
