@@ -103,7 +103,6 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-
         <Container>
           <Row>
             <Col>
@@ -116,7 +115,7 @@ class App extends React.Component {
           </Row>
           <Row>
             <Col>
-              <Tabs defaultActiveKey="profile" id="uncontrolled-tab-example">
+              <Tabs defaultActiveKey="recherche" id="uncontrolled-tab-example">
                 <Tab eventKey="recherche" title="Recherche">
                   <form role="search" onSubmit={(e) => this.submitQuery(e)}>
                     <input
@@ -128,10 +127,16 @@ class App extends React.Component {
                       autoComplete="off"
                     />
                   </form>
-                  <div className="resultats">
-                    {<Livres livresRes={this.state.livresRes} num='1' />}
-                    {<Livres livresRes={this.state.suggRes} num="2" />}
-                  </div>
+                  <Container>
+                    <Row>
+                      <Col>
+                        {<Livres livresRes={this.state.livresRes} num='1' />}
+                      </Col>
+                      <Col>
+                        {<Livres livresRes={this.state.suggRes} num="2" />}
+                      </Col>
+                    </Row>
+                  </Container>
                 </Tab>
                 <Tab eventKey="regex" title="Regex">
                   <form role="search" onSubmit={(e) => this.submitQuery(e)}>
@@ -144,10 +149,18 @@ class App extends React.Component {
                       autoComplete="off"
                     />
                   </form>
-                  <div className="resultats">
-                    {<Livres livresRes={this.state.livresRes} num='1' />}
-                    {<Livres livresRes={this.state.suggRes} num="2" />}
-                  </div>
+                  <Container>
+                    <Row>
+                      <Col>
+                        {<Livres livresRes={this.state.livresRes} num='3' />}
+                      </Col>
+                      <Col>
+
+                        {<Livres livresRes={this.state.suggRes} num="4" />}
+
+                      </Col>
+                    </Row>
+                  </Container>
                 </Tab>
               </Tabs>
             </Col>
