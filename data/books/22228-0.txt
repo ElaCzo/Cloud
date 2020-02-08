@@ -1,0 +1,3520 @@
+﻿The Project Gutenberg EBook of Alphabetical Vocabularies of the Clallum
+and Lummi, by George Gibbs
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Alphabetical Vocabularies of the Clallum and Lummi
+
+Author: George Gibbs
+
+Release Date: August 3, 2007 [EBook #22228]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ALPHABETICAL VOCABULARIES ***
+
+
+
+
+Produced by David Starner, Stephen Blundell and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+ SHEA'S
+
+ LIBRARY OF AMERICAN LINGUISTICS.
+
+ XI.
+
+ AMS PRESS, INC.
+ NEW YORK
+
+
+
+
+                  ALPHABETICAL VOCABULARIES
+
+                            OF THE
+
+                      CLALLAM AND LUMMI.
+
+                              BY
+
+                        GEORGE GIBBS.
+
+
+
+ PUBLISHED UNDER THE AUSPICES OF THE SMITHSONIAN INSTITUTION.
+
+
+
+                          NEW YORK:
+                       CRAMOISY PRESS.
+                            1863.
+
+
+
+
+ Transcriber's Note: Obvious printer errors have been corrected. All
+ other inconsistencies are as in the original. A table of contents,
+ though not present in the original, has been provided below:
+
+
+   Preface
+
+   Vocabulary of the Clallam
+   A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, W, Y.
+
+   Local Nomenclature of the Clallam Tribe
+
+   Vocabulary of the Lummi
+   A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, R, S, T, U, W, Y.
+
+   Local Nomenclature of the Lummi Tribe
+
+   Names of Lummi Chiefs
+
+
+
+
+PREFACE.
+
+
+The tribe of Clallams, as they are usually called by the residents of
+Washington Territory--by the neighboring Indians named S'klal′am, and
+denominated by themselves Nūs-klái yūm--inhabit the southern shore
+of Fuca Strait, from about the Okĕho River on the west, to Port
+Townshend on the east, bordering in the first direction on the Makahs,
+sometimes called Classets (the Klaizzart of Jewitt), a tribe of the
+Nootka family who inhabit Cape Flattery, and in the other on the
+Chemakum, like themselves a branch of the Selish, though a yet more
+remote one. Their language is the same, with some dialectic differences
+only, as that of the Songhus and Sokes of Vancouver Island opposite. It
+is this which has been referred to by Drs. Scouler and Latham as the
+"Nusdalum," undoubtedly, in the first instance, a misprint.
+
+The Clallam differs materially from the other Selish languages of the
+Puget Sound country, though less from the Lummi than the rest. Its
+noticeable feature is the frequent occurrence of the nasal _ng_.
+
+The Lummi tribe live on the lower part of a river heading in the Cascade
+Range, north-east of Mount Baker, and emptying by two mouths, one into
+Bellingham Bay, the other into the Gulf of Georgia, the upper waters of
+which are inhabited by the Nook-sahks (Nūk-sák). They are, however,
+intruders here, their former country having been a part of the group of
+islands between the continent and Vancouver Island, to which they still
+occasionally resort. Their own name is Nūkh′lum-mi. The Skagits call
+them Nūkh-lésh, and some of the other tribes Há-lum-mi. Their
+dialectic affinities are rather with the Sannitch of the south-eastern
+end of Vancouver Island than with any of the Indians of the main land,
+and the two probably at one period formed a single tribe, which more
+remotely was connected with the Clallams and Songhus. The Simiahmoo
+(Si-mi-á-mu), a small remnant, living on the bay of that name, north of
+them, belong likewise to this group. On the south the Lummi adjoin the
+Samish and other bands of the Skagits, who in language approach the
+Nisquallies.
+
+Like the Clallam, their language abounds with the nasal _ng_, both as a
+prefix and a termination. It has another peculiarity, in great measure
+its own, in the broad sound of the letter _a_, somewhat as in the words
+_mass_, _pass_, but even more prolonged. I have distinguished this in
+the vocabulary by the italic. The letters _f_, _r_, _v_, _z_, are
+wanting in both languages.
+
+The Clallam and Lummi, as will be observed, contain three classes of
+cardinals, which I have distinguished as _simple_, _personal_, and of
+_valuation_, although these terms are not strictly accurate; certain
+objects, besides men, being counted by the second, and others, as well
+as money, by the third; I have never fully ascertained the distinctions
+which govern their use. The words _animate_ and _inanimate_ do not
+apply; those of _noble_ and _ignoble_, by which the French Missionaries
+designated the names of objects in the Algonquin languages, probably
+indicate the idea. Mr. Gallatin, in his "Notes on the Semi-Civilized
+Nations of Mexico," &c.,[A] mentions the same peculiarity as existing in
+the Mexican and Maya, in the former of which there are three different
+terminations suffixed to the simple numbers, according to the objects
+denoted. A similar distinction is found in the Makak language, and
+traces of it, at least, are observable in the Pima. I imagine that by
+inquiry the fact would be found to exist in other Indian tongues.
+Singularly enough, this feature also characterizes some of the languages
+of Micronesia.
+
+[A] Trans. Am. Eth. Soc., vol, i., p. 54.
+
+The affinities of the Clallam and Lummi with the Selish are too obvious
+to require demonstration. Indeed Dr. Latham has already classed the
+former with the Shewhapmukh, or, as he terms it, Atna, of Frazer River,
+the northernmost of the Selish dialects. The term Atna, it may be
+mentioned, is improperly applied as a family name to these languages, as
+it is a Tákulli (Athabascan or Chepewyan) word, signifying, according to
+Mr. A. C. Anderson, "strangers."
+
+These two vocabularies were collected, the first at Port Townshend,
+during a residence of a few months, the other at Simiámoo Bay, while I
+was connected with the N. W. Boundary Commission. Neither of them
+underwent more than a partial revision, and inaccuracies have therefore
+doubtless crept in. They are, however, sufficiently reliable to afford
+the basis of extending comparisons with the other Selish and the more
+northern coast families.
+
+Transcriber's Note: For greater legibility the letters originally marked
+as _a_ and _u_ have been replaced with ä and ü in the vocabularies,
+except where this would cause a conflict with an existing diacritical.
+
+
+
+
+ VOCABULARY OF THE CLALLAM.
+
+
+ A.
+
+ ABOVE, tsits-itl.
+
+ ABOARD, si-it-hwu.
+
+ AFRAID, sá-si-si.
+
+ AGAIN, hon-áng.
+
+ ALIVE, é-yé.
+
+ ALL, o-hün′na;
+   _that's all_, aukhk.
+
+ ALWAYS, wút-an-su;
+   _I always work_, wút-an-su chá-ai.
+
+ ANKLE, tsüts-hó-kwi-sun.
+
+ ARRIVE _at_, _to_, tüss′tsen.
+
+ ARM, tsái-is.
+
+ ARROW, yetcht.
+
+ ARROW HEAD, _of wood_, katstl;
+   _of iron_, küm-tin-ái-in; (küm-tüm, _iron_.)
+
+ AUTUMN, tchin-sót-le.
+
+ AXE, s'kūk-üm′.
+
+
+ B.
+
+ BACK, _the_, stets-i′kwün.
+
+ BAD, kwaukh, s'há-as.
+
+ BARBERRY, "_Oregon grape_" (_berberis_), she′tchin.
+
+ BARBS _of fish spear_, tsó-kwái-ten.
+
+ BARK, chai-íkh.
+
+ BARNACLE, tsóhngt.
+
+ BAT, klat-li-pi-á-han.
+
+ BASKET, mo-hói;
+   _cedar bark_, t'shó-ikl;
+   _fir root_, sp'chu.
+
+ BEACH, kokh-hwéng-u.
+
+ BEADS, kwé-kwe.
+
+ BEAR, _black_, s'chi-kwáitsh;
+   _grizzly_, kwái-it-shin.
+
+ BEAVER, ské-yau.
+
+ BEARD, kwün-tsen.
+
+ BEHIND, il-kwá-us.
+
+ BERRIES (_generic_), s'chá-yük-w'tl.
+
+ BILBERRY, yé-hum.
+
+ BIRDS:
+   Sea ducks (_generic_), mó-ōk.
+   Small land birds (_generic_), tsit-süm.
+   Crane, si-é-hu.
+   Crow, skwa-kwa′to.
+   Duck, mallard (_a. boschas_), te′nük-sen.
+   Duck, surf (_f. perspicillata_), klé-yin.
+   Duck, velvet (_f. fusca_), ko-mat′sin-hlai.
+   Duck, harlequin (_f. histrionica_), süs-sáu.
+   Duck, scaup (_f. marila_), swét-st.
+   Duck, goosander (_m. merganser_), ko-ōkw.
+   Eagles, bald (_Haliaetus_), kwái-eng-s'n.
+   Eagles, golden (_Aquila_), ku-táit-sin-hu.
+   Goose, yükh-hó-na.
+   Guillemot, sas-sé-mats.
+   Gulls, kwun-né, ku-té-ük.
+   Grebes, kla-ái-kun.
+   Grouse, dusky, gné-et.
+     ruffed, sté-yu-hūng.
+   Heron, snōk-ho.
+   Jay, s'háikh-hai.
+   Pigeon, hüm-ókh.
+   Raven, sku-to′.
+   Sandpipers, ske′üks.
+
+ BLACK, ün-ük-áikh, an-nu-káikh.
+
+ BLANKET, swi′shi-atl;
+   _of dog's hair_, sküm-éng-ütl.
+
+ BLOOD, stó-yu-küm.
+
+ BLUE, küs-küs-sho′it, an-nu-kwé-o.
+
+ BOARD, se-y't-hu.
+
+ BODY, ni-chi-chái-ten, n's-tats-kl.
+
+ BODY, _parts of_:
+   Head, skūng-i.
+   Hair, si-at′t'n.
+   Face, sats.
+   Ear, skong′üs.
+   Eye, kái-in.
+   Nose, nük′s'n.
+   Mouth, tsú-ts'n.
+   Tongue, tikh′wh'lts.
+   Teeth, tchin′nis.
+   Beard, kwün-ūt-s'n.
+   Neck, hōng-en.
+   Arm, tsái-'s.
+   Elbow, skōp-hai.
+   Wrist, s'hōts-kwats.
+   Hand, s'ch-hats′.
+   Fingers, s'ch-hats′.
+   Nails, ts-shūts.
+   Breast or Chest, tsüng-ütl.
+   Woman's Bosom, sküb-ó.
+   Back, stets′i-kwün.
+   Leg, s'hün-na.
+   Ankle, tuts-hó-kwi-sun.
+   Foot, kl-tá-s'n.
+   Toes, kl-tá-s'n.
+   Bone, st-zum.
+   Heart, ha-chin-nin′.
+   Blood, sto′yu-kün.
+   Skin, kó-wi.
+   Penis, shel′la.
+   Testes, ng-at'sün.
+
+ BOIL, _to_, kwái-yis.
+
+ BONE, st-zum.
+
+ BORE A HOLE, _to_, t'slük′wüt.
+
+ BOTH, chá-sa.
+
+ BOW, s'ho′mo-ten.
+
+ BOW-STRING, sul-kwá-tchin.
+
+ BOY, swé-wa-ūs, scha-chi-aitl.
+
+ BRACELETS, tso′me-chin.
+
+ BREAK, _to_, ti-kwüt′.
+
+ BREASTS _of woman_, sküb-ó.
+
+ BRING, _to_, an-ákh′w;
+   _bring that_, (_imp._) an-akhw ta-sái-ya.
+
+ BROAD, kl-k_ú_t.
+
+ BROTHER, _elder_, sūt-hó-nük;
+   _younger_, sái-tchin.
+
+ BUCKET, skó-tün.
+
+ BUFFALO, kwáisp.
+
+ BUY, _to_, tá-kws.
+
+ BURYING GROUND, má-kwa.
+
+ BYE AND BYE, hets.
+
+
+ C.
+
+ CANOE, _Chinook pattern_, o-ót-hüs;
+   _Cowitshin do._, sté-watl;
+   _ducking canoe_, sno'h-wh'l.
+
+ CARRY, _to_, óng-üt-un.
+
+ CARPENTER, _worker in wood_, skai-án-hwu.
+
+ CATCH, _to_, kl-kw_ú_t.
+
+ CEDAR _bark_, si-ó-we;
+   _wood_, ts-shái.
+
+ CHEST _or breast_, _the_, tsüng′ütl;
+   _chest_ (_box_), kló-yüks.
+
+ CHIEF, si-ám.
+
+ CHOP, _to_, kum-müt′.
+
+ CLAM, _quahog_ (_Venus_), ski-hé-yu;
+   _the large kind_ (_lutraria_), swá-hüm;
+   _blue striated species_, skük-lái.
+
+ CLOUDS, s'hu-nó-wüs.
+
+ COCKLE, sklé-yōm.
+
+ COD FISH, s'ká-kan.
+
+ COLD, klá-tchi.
+
+ COLORS:
+   White, pük'h.
+   Red, ün-tsükw′, an-nu-tsük′o.
+   Black, ün-ük-aikh, an-nu-káikh.
+   Blue, küs-küs-sho′it, an-nu-kwhé-o.
+   Yellow, nüts-kwai-ye′win, an-nu-kwái-kwai.
+   Green, ün-tlütlkh, an-nu-klikh′tl.
+
+ COMB, kl-sing′en.
+
+ COME, _to_, en-át-sen;
+   _I come_, an-ná;
+   _come you_ (_imp._) an-ná-chi.
+
+ COOK ON STONES, _to_, nūtch-kwé-nütl.
+
+ COPULATE, _to_, kwat'tl.
+
+ CORPSE, kó-i.
+
+ COUGAR, kau-ét-sap.
+
+ CUP, mét-kw.
+
+ CUTTLE FISH, ské-mükw.
+
+ CRAB, a-ché-he.
+
+ CRANE, si-é-hu.
+
+ CROW, skwa-kwá-to.
+
+ CRY, _to_, hōng.
+
+
+ D.
+
+ DANCE, _to_, kwoi-é-ish-ten.
+
+ DARKNESS, s'chät.
+
+ DAUGHTER (_child_), nüng-ün′na.
+
+ DAY, skwá-tchi.
+
+ DEAD, kó-i.
+
+ DEAD LAND (_country of the dead_), snó-nükw.
+
+ DEEP, kletch.
+
+ DEER, hōpt, smé-yis.
+
+ DEMON (_the primal race_), s'hui-áb.
+
+ DIG, _to_, tsé-yükwt;
+   _dig out_, _to_, (_e.g. a canoe_), ká-hai-yu.
+
+ DO, _to_, chá-ai.
+
+ DOG, ská-ha; _plur._ ska-yá-ha.
+
+ DOG FISH, s'kwats.
+
+ DOOR, so'tl.
+
+ DOWN STREAM, kwó-kwŭ.
+
+ DREAM, _to_, (_1st pers. ind._) kwi-nóng-tüt-sen.
+
+ DRINK, _I_, ko-kwát-sen; (ko, _water_.)
+
+ DRIVE, _to_, kwi-hüt′l.
+
+ DRUNK (_i.e. foolish_), as-hwá-kwu.
+
+ DRY, há-ching.
+
+ DUCK (_mallard_), té-nük-sen.
+
+ DULL, n'ko-mūkh.
+
+ DUNG, _to_, ká-ang.
+
+
+ E.
+
+ EAR, kwái-in.
+
+ EARTH, _land_, sh-stüng′a-whün.
+
+ EAGLE, _bald_, kwái-eng-s'n;
+   _golden_, ku-táit-sin-hu.
+
+ EAT, _to_, ts-kwin-sünt-sen, it-lun.
+
+ ECHINUS, skwét-si.
+
+ EGGS, sing-i-á-net.
+
+ EIGHT, tats, tats-sái-ya, tats-háit-hu.
+
+ ELBOW, skōp-hái-al-ka.
+
+ ELK, kai-yétsh.
+
+ END _or point_, elks.
+
+ EVENING, táng-en.
+
+ EYE, kái-in.
+
+ EXCHANGE, _to_, at-shé-ti.
+
+
+ F.
+
+ FACE, sats.
+
+ FAR, yé-ye, he-eh.
+
+ FATHER, i-ái-in;
+   _grandfather_, sé-ya.
+
+ FEATHERS, s'chái.
+
+ FIND, _to_, chó-nüt-sen.
+
+ FINISH, _I have finished work_, ho-its′na kwin's chái.
+
+ FINGERS, s'ch-hats.
+
+ FIR TREE (_abies Douglassii_), skai-ái-nükh, chi-á-chitch;
+   _fir bark_, tsi′yi.
+
+ FIRE, só-nūts.
+
+ FIRE WOOD, tl-káts.
+
+ FIRST, i-chá-yi.
+
+ FISH, tsâ'kw.
+
+ FISH, ETC.:
+   Cod fish, s'ká-kan.
+   Crab, a-ché-e.
+   Cuttle fish, ské-mükw.
+   Dog fish, s'kwats.
+   Flounder, hwau-kwün.
+   Halibut, s'hōt'h.
+   Herring, klōngt.
+   Oulakan, kláis.
+   Porpoise, s'hú-ma-hens.
+   Salmon (_See "salmon"_).
+   Sculpin, swan-itl.
+   Shark, klá-yük-a-tét-s'n.
+   Sturgeon, kw'táit-sin.
+   Toad fish, s'chem-ükh.
+
+ FISH GIG, sti-é-hu.
+
+ FISHING LINE _of kelp_, schats.
+
+ FISH _with a line_, _to_, tl-ti-ó-is.
+
+ FISH WEIR, su-ta-t'hl.
+
+ FIVE, kl-katcht, kl-küt-shái-ya, kl-küt-sháit'hu.
+
+ FLESH, sli-ükw′.
+
+ FLOUNDER, _flatfish_, hwau-kwün.
+
+ FLY, _the insect_, kli-kái-a-hün-na.
+
+ FOOT, kl-tá-sn.
+
+ FOUR, ng-os, ni-sai-ya, nu-sáit-hu.
+
+ FORMERLY, _a long time ago_, hēts.
+
+ FROM, tó-kūt-s'n.
+
+ FULL, es-si-át-st'l.
+
+
+ G.
+
+ GAFF, _for salmon_, kle-kwün.
+
+ GAMBLING DISKS, sla-hal′lüm.
+
+ GET UP, _to_, tsát-lüng.
+
+ GIRL, slet-lát-li-ke.
+
+ GIVE, _to_, ang-at.
+
+ GO, _I_, (_1st pers. pres. ind._) hai-át-sen;
+   _go_ (_imp._) óh'chi;
+   _I go there_, ōts-na tá-sái-ya.
+
+ GOAT (_aploceras_), shwét-le.
+
+ GOOD, áikh, hatl;
+   _good so_ (_that's well_), ái-yu-hó-nang;
+   _good man_, ais swé-ka;
+   _good dog_, ais ká-ha.
+
+ GOOSANDER (_mergus merganser_), ho-ōk'w.
+
+ GOOSE, yükh′ho-na.
+
+ GRANDFATHER, sé-ya, tchütt.
+
+ GRANDMOTHER, sé-ya.
+
+ GRASS, s'hats-ai;
+   _mat grass for thread_, klütl.
+
+ GREASE _or oil_, smüts.
+
+ GREBE (_podiceps_), kla-ái-kün.
+
+ GREEN, ün-tl_ú_tlh, an-nu-klikhtl.
+
+ GROUSE (_tetrao obscurus_), gné-et;
+   (_tetrao umbellus_), ste′yu-hūng.
+
+ GUILLEMOT, sas-sé-mats.
+
+ GULL, ku-té-ük, kwün-né.
+
+ GUM, _pitch_, tché-ükh.
+
+
+ H.
+
+ HAIL, chit-la-hái-sin.
+
+ HAIR, si-at′tn.
+
+ HAIQUA (_the dentalium_), klets′-chin.
+
+ HALF, il-chukh′.
+
+ HALIBUT, s'hōt'h, tsōt'h.
+
+ HAND, s'ch-hats′.
+
+ HARD, ko-sang′.
+
+ HARE, _rabbit_, ka-káit-se.
+
+ HAUL, _to_, ho-kwut′.
+
+ HAT, s'ches′euk'h.
+
+ HE, _when present_, tsa-mukw;
+   _if absent_, netl.
+
+ HEAD, skūng-i.
+
+ HEAR, _I_, yai-yá-nüng-sen.
+
+ HEART, ha-chin-nin′.
+
+ HERE, te-at′hla.
+
+ HERON (_ardea herodias_), snōk-ho.
+
+ HERRING, klōngt.
+
+ HIDE, _to_, kwai's.
+
+ HIT, _I_, tcho′kwe-nūt-sen.
+
+ HOLLA, _to_, kwá-kwüt-ching.
+
+ HOW MANY? kwén-chis;
+   _how many people?_ ko-nái-ya;
+   _how many dollars?_ ko-nai chis ngün _dolla_;
+   _how much money have you?_ ko-nai te chin _dolla_.
+
+ HOUSE, ái-yüng;
+   _my house_, n'skwai, te ai-yüng.
+
+ HUNDRED, na-tcho-wütsh.
+
+ HUNGRY, hwam.
+
+ HUSBAND, _my_, n'swé-i-ka.
+
+
+ I.
+
+ I, ütza.
+
+ ICE, sle′a-hu.
+
+ INDIANS, _people_, tl-stái-ing-hu, ats-il-tái-ing-hu.
+
+ INFANT, s'chá-in.
+
+ IRON, küm-tüm′.
+
+ ISLAND, kl-chás.
+
+
+ J.
+
+ JAY (_garrulus stelleri_), s'háikh-hai.
+
+ JUST NOW, _lately_, chatsh′ta;
+   _I have just come_ chatsh-ta't n's-ta′chi.
+
+
+ K.
+
+ KAMASS, k'whló-i.
+
+ KETTLE, skwó-ten.
+
+ KILL, _to_, ko-ché-yu.
+
+ KNEE, skai-yá-ko.
+
+ KNIFE, _sheath_, ko-kwái-is;
+   _pocket_, náng-nün.
+
+ KNOW, _I_, hüt-chét 't-sen.
+
+
+ L.
+
+ LAKE, tsé-ikhtl.
+
+ LARGE, tchük.
+
+ LATELY, _just now_, chátsh-ta.
+
+ LAUGH, _to_, net′ching.
+
+ LAZY, tsá-hūng.
+
+ LEAF, s'chá-sün.
+
+ LEAP, _to_, hwé-tüng.
+
+ LEG, s'hün′na.
+
+ LIE, _to_, kai-yükh′.
+
+ LIGHT, wái-yu.
+
+ LIGHTNING, chin-é-kwa.
+
+ LIKE, hon-áng.
+
+ LISTEN (_imp._), yá-ya-nüng-ōts-hu.
+
+ LONG, klakt;
+   _long ago_, hets.
+
+ LOOK FOR, _to_, kli-yáng.
+
+ LOSE, _to_, tsits-hwá-nüng.
+
+ LOVE, _to_, nus-klé.
+
+ LOW TIDE, süng-ōt-sen.
+
+ LYNX (_L. fasciata_), tsát-sats.
+
+
+ M.
+
+ MALLARD, _duck_, té-nük-sen.
+
+ MAMMALS:
+   Bat, klat-li-pi-á-hün.
+   Bear, black, s'chi-kwáitsh.
+   Bear, grizzly, kwái-it-shin.
+   Beaver, ské-yau.
+   Buffalo, kwáisp.
+   Cougar, kan-et′sap.
+   Deer, hōpt, smé-yis.
+   Dog, ská-ha.
+   Elk, kai-yétsh.
+   Goat, mountain, swét-le.
+   Hare, rabbit, ka-káit-se.
+   Lynx, tsat-sats.
+   Mink, mis-tcho.
+   Mouse, skwa′tün.
+   Musk rat, skülkh-küt'lkh.
+   Land otter, ska′atl.
+   Sea otter, tüm′müs.
+   Seal, äss′hu.
+   Skunk, smat-s'n.
+   Squirrel (_sciurus_), sp-si-yūt-s'n;
+     (_tamias_), ha-hái-yu-wetsh.
+   Wolf, sta′ching.
+   Whale, ch-whé-yu.
+
+ MAN, swé-ka; _plur._ swé-yi-ka;
+   _young man_, swé-wūs;
+   _old man_, kwilt-chák.
+
+ MANY, ng' _ú_nn;
+   _many men_, ng' üngt' swé-yi-ka.
+
+ MAT, _of round rushes_ (_tulé_), taks-lats′hu;
+   _flat do._ (_cat's tail_), su-ya-átsh, kai-nim;
+   _cedar bark_, tsüm′müt.
+
+ MAT NEEDLE, ho-k'h_ú_n.
+
+ MEDICINE, s'tái-ing-hu.
+
+ MEDICINE MAN, _magician or doctor_, s'hu-nām.
+
+ MIDDLE, ets-tóng-en.
+
+ MILK, sküb-ó.
+
+ MINK, mis′tcho.
+
+ MISS _a mark_, _to_, tang-ün;
+   _miss the road_, _to_, ti-tákh.
+
+ MISTAKE, _to_, _in speech_, ti-takh.
+
+ MOCCASINS, klük′shin.
+
+ MOLLUSCS, ETC.:
+   Barnacle, tsōngt.
+   Clams, quahog (_Venus_), ski-he-yu;
+     large (_Lutraria_), swa′-hüm;
+     blue striated, skük-hlái.
+   Cockle (_cardium_), sklé-yōm.
+   Hai-kwa (_Dentalium_), klets-chin.
+   Mussel, to′yük.
+   Oyster, klokh-klokh.
+   Scallop (_pecten_), na′na.
+   Sea egg (_echinus_), skwét-si.
+
+ MOON, kl-káitsh.
+
+ MORNING, kwá-tchi.
+
+ MOSQUITO, pwáik-sen.
+
+ MOTHER, tān.
+
+ MOUNTAIN, h'kwi-étsh.
+
+ MOUSE, skwá-tün.
+
+ MOUTH, tsu′ts'n.
+
+ MUSK RAT, skülkh-küt'lkh.
+
+ MUSSEL, _the small blue_, to′yük.
+
+ MY SISTER, na ais;
+   _my house_, na ai-yüng;
+   _my things_, n's-kwâ-na-akw.
+
+ MYTHOLOGY:
+   Nó-kwe-mătl _or_ Dó-kwe-bătl, _the principal supernatural being,
+       corresponding to_ Ikáni _of the Chinooks_.
+   S'hui-áb, _the primal or demon race_.
+   S'hu-nām, _magic or medicine_.
+   Te-yūtl-ma, _the genius of good fortune_.
+   Hun-ha-né-ti, _a performance of conjuring or "tamá-nous" (Chinook), known
+       to the Nisquallies as_ s'hí-na, _in which it is pretended that the
+       person initiated is killed and then restored to life_.
+
+
+ N.
+
+ NAME, s'dá.
+
+ NAILS, ts′shūts.
+
+ NEAR, klat-lé-a-ke.
+
+ NEEDLE, chát-sün.
+
+ NECK, hōng-en.
+
+ NEW, háu-us, k'hau-ós.
+
+ NIGHT, s'nat′.
+
+ NINE, tōkw, t'kwái-ya, t'kwáit-hu.
+
+ NONE, á-wün-na, au-wüts-an.
+
+ NOON, k'é-yit.
+
+ NOSE, nük'sn.
+
+ NOW, ti-á-no.
+
+ NUMERALS:
+   _Simple Cardinals--_
+     1, nit′zo.
+     2, chis′sa.
+     3, klekhw.
+     4, ng-os.
+     5, kl-katcht
+     6, t'hung.
+     7, tsōks.
+     8, tats.
+     9, tōkw.
+     10, ó-pen.
+
+   _Personal Cardinals--_
+     1, nát-so.
+     2, chá-sa.
+     3, kl-whái-ya.
+     4, ni-sái-ya.
+     5, kl-küt-shái-ya.
+     6, tükh-üng-ái-ya.
+     7, tsakw-tsái-ya.
+     8, tats-sái-ya.
+     9, t'kwái-ya.
+     10, o-pen-ái.
+
+   _Cardinals of Valuation--_
+     1, n'sakt′hu.
+     2, n'sháit-hu.
+     3, kl-wháit-hu.
+     4, nu-sáit-hu.
+     5, kl-küt-sháit-hu.
+     6, tükh-hüng-áit-hu.
+     7, tsak-sáit-hu.
+     8, tats-háit-hu.
+     9, t-kwáit-hu.
+     10, o-pen-áit-hu.
+     11, o-pen it nitzo.
+     12, o-pen i'tchüs-sa.
+     20, t's-kwüss.
+     30, h'l-lūtl-sha.
+     100, na-tcho-wütsh.
+     1000, p'né-itsh.
+
+
+ O.
+
+ OLD, snük-ai.
+
+ OLD MAN, kwil′tchük;
+   _old woman_, kwil′tchük slá-ni.
+
+ ONE, nit′zo, nat′so, n'sákt-hu.
+
+ OTTER, _land_, ská-atl;
+   _sea_, tüm′-mus.
+
+ OULAKAN, _a small fish_, klais.
+
+ OUT DOORS, as-saktl′.
+
+ OYSTER, klókh-klokh.
+
+ OFF SHORE, tsát-so.
+
+
+ P.
+
+ PADDLE, _a_, hōng-üt.
+
+ PADDLE, _to_, ist.
+
+ PEOPLE, tl-stái-ing-hu, ats-il-tái-ing-hu.
+
+ PENIS, shel′la.
+
+ PIGEON, hüm-ókh.
+
+ PIPE, pá-akw.
+
+ PITCH, tché-ük.
+
+ PLANK, sé-y't-hu.
+
+ PLANTS, ETC.:
+   Barberry (_berberis_), shé-tchin.
+   Berries (_generic_), s'chá-yük-w'tl.
+   Bilberry, yé-hun.
+   Grass, s'hats-ái.
+     used for mat thread, klütl.
+   Kamass (_squilla_), k'whló-i.
+   Rush, cat-tail, kwo-ōt.
+   Sallal (_Gualtheria_), tak′a.
+   Salmon berry, al-e′lo.
+   Strawberry, té-yükw.
+   Tobacco, smá-nash.
+
+ POINT _or end_, elk'hs.
+
+ POUND, _to_, _as grain_, tsüt.
+
+ POUR, _to_, kwi-yet′.
+
+ PORPOISE, s'hū-ma-héns.
+
+ PRAIRIE, spelh′han.
+
+ PREGNANT, as-kwá-kwai.
+
+ PRESENTLY, kwa-kwát-hu.
+
+ PRONOUNS:
+   I, _absolute_, üt′za;
+     _copulative, prefixed to a verb_, ats;
+     _suffixed to do._, sün, sen, sin.
+   My, na, n's, n, n'skwai.
+   Thou, nükw;
+     _copulative prefixed_, chin;
+     _suffixed_, hu;
+     _or in the imperative_, chi.
+   He, _if present_, tsa-nükw;
+     _absent_, netl.
+   We, nüng'l, kl-ning′ütl.
+   Ye, nükw, kl-nükw.
+   They, kwas′sa, tsâ-ta.
+
+ PRONGS OF FISH GIG, sta-whái-üts.
+
+ PUSH, _to_, chōng-üt.
+
+
+ Q.
+
+ QUICK, _come quick!_ á-atl.
+
+
+ R.
+
+ RAIN, _to_, s'lem′hu.
+
+ RAKE, _v._, _to take small fish with a rake_, tlüt′a-men.
+
+ RAVEN, sku-tó.
+
+ RED, ün-tsükw′, an-nu-tsük′o.
+
+ RELATIONS, nis-chá-cha.
+
+ RELATIONSHIPS:
+   Father, i-ái-in.
+   Mother, tan.
+   Grandfather, sé-ya, tchüt.
+   Grandmother, sé-ya.
+   Son, my, nüng-ün′na.
+   Daughter, my, nüng-ün′na.
+   Husband, my, n'swé-yi-ka.
+   Wife, my, n'slá-ni.
+   Brother, elder, sūt-hó-nük.
+     younger, sái-tchin.
+   Sister, elder, sūt-hó-nük.
+     younger, ais.
+
+ RETURN, _to_, ho-wé-yüng.
+
+ RHODODENDRON, kwalt-héltsh.
+
+ RIVER, stó-a-wi.
+
+ ROAST, _by the fire_, chük-ōts.
+
+ ROPE, hwé-lüm.
+
+ ROTTEN, _as wood_, tsá-kong;
+   _as fruit_, skwâng′ütst.
+
+ RUSH, _cat-tail_, kwo-ōt.
+
+ RUN, _I_, skwá-nüng-üt′sen.
+
+
+ S.
+
+ SALLAL BERRIES, ták-a.
+
+ SALMON:
+   _S. quinnat_, kwit′shin.
+   _S. truncatus_, klüt′shin.
+   _S. Scouleri_, kütch′küs.
+   _S. proteus_, hün′nün.
+   _S. (undetermined)_, mét-hlets.
+   _S. canis_, kl'whái.
+   _S. Campbelli_, kwatcht.
+
+ SALMON ROE, kai-yükh′.
+
+ SALMON BERRIES, al-é-lo.
+
+ SALT, klatl.
+
+ SAND, pe-kwüt-chin.
+
+ SAND PIPER (_tringa_), ské-uks.
+
+ SCALLOP (_pecten_), ná-na.
+
+ SCULPIN, swan-itl.
+
+ SEA, kl-lalts.
+
+ SEA FOWL, mó-ōk.
+
+ SEAL, äss′hu.
+
+ SEAL'S BLADDER, ts-só.
+
+ SEASONS:
+   Spring, tclin-es-hwó-as.
+   Summer, kla-té-küm, tchin-é-si.
+   Autumn, tchin-só-le.
+   Winter, klá-tchi.
+
+ SEAT, _the_, kló-wük.
+
+ SEE, _to_, kwün't.
+
+ SEVEN, tsōks, tsäkw-tsái-ya, tsäk-sáit-hu.
+
+ SEW, _to_, chit-seng-üt-sen.
+
+ SEINE, so-yük.
+
+ SHADOW, nu-kwá-ku-no-sing, ká-katl.
+
+ SHARK, klá-yük-a-tét-s'n.
+
+ SHARP, ái-yūts.
+
+ SHIRT, sli-pói-küt;
+   _woollen do._, sno-wéks.
+
+ SHOES, kwüt-lé-shin.
+
+ SHOULDER, tsé-a-kwün.
+
+ SHORT, chái-yetl.
+
+ SICK, as-hátl'h;
+   _I am sick_, as-hátl'h-sen.
+
+ SING, _to_, te-yüm′tsen.
+
+ SISTER, _elder_, sūt-hó-nük;
+   _do. younger_, ais.
+
+ SIT, _to_, á-müt.
+
+ SIX, t'hüng, tükh-hüng-ái-ya, tükh-hüng-áit-hu.
+
+ SKATE, _fish_, ká-kaukh.
+
+ SKUNK, smát-s'n.
+
+ SKY, tsit-sl.
+
+ SKIN, kó-wi.
+
+ SLAVE, skwé-its.
+
+ SLEEP, _to_, et-tüt-sen.
+
+ SMALL, klōt-la, ma-má-min.
+
+ SMOKE, sp-kōng.
+
+ SNAKE, swa-hüt-si.
+
+ SNEEZE, _to_, há-süng.
+
+ SQUIRREL (_Sciurus_), sp'si′yut-sen;
+   (_Tamias_), ha-hái-yu-wetsh.
+
+ SPEAK, _to_, kwái-it-sen.
+
+ SPEAR FISH, _to_, te-chut.
+
+ SPEAR, _pronged, for birds_, tsó-kwün, s'hōm.
+
+ SPLIT, chá-yūts.
+
+ SPOON, klä-müks.
+
+ SPRING, chin-es-hwó-as.
+
+ STAND, _to_, tsit-lüng.
+
+ STAR, te-tó-se-na.
+
+ STEAL, _to_, kan.
+
+ STONE, s'nangt.
+
+ STOP, hó-i;
+   _stop talking_ (_imp._), süm-mó'h-tchi.
+
+ STORY, yét-süm.
+
+ STRANGER, natsh.
+
+ STRAWBERRIES, té-yükw.
+
+ STRIKE, _to_, kó-cht.
+
+ STRONG, küm-küm′.
+
+ STURGEON, kw'táit-sin.
+
+ SUN, sū-shát'sht.
+
+ SUMMER, kla-té-küm, tchin-é-si.
+
+ SURF, skw-lai-yá-kan.
+
+ SWIM, _to_, tüng-ōng.
+
+
+ T.
+
+ TAKE, _to_, kl-kwüt′.
+
+ TEETH, tchin′nis.
+
+ TELL THE TRUTH, _to_ (_1st pers._), as-klá'w-chin skwai.
+
+ TEN, ó-pen, ó-pen-ai, ó-pen-áit-hu.
+
+ TESTICLES, ng'át-sün.
+
+ THAT THING (_the there_), ta-sái-ya.
+
+ THERE, ta-sái-ya;
+   _I go there_, ōts-na ta-sái-ya.
+
+ THEY, kwas′sa, tsâ-ta.
+
+ THICK, _as a plank_, ch'hlüt′.
+
+ THIN, _as paper_, chá-chüm-é.
+
+ THIRSTY, _I am_, kwa-kwái-ing-sen.
+
+ THOU, nükw.
+
+ THOUSAND, p'ne′itsh.
+
+ THREE, klekhw, kl-hwái-ya, kl-hwáit-hu.
+
+ THROW AWAY, _to_, kwá-nüs.
+
+ THUNDER, áts-a-kwütl.
+
+ TIDE, _high_, tüng;
+   _low_, süng-ōt-sen.
+
+ TIE, _to_, ké-a-küt.
+
+ TOAD FISH (_cottus_), s'chem-ūk'h.
+
+ TOBACCO, smá-nash.
+
+ TO-DAY, te-a-skwá-tchi, ai-é-nük.
+
+ TOES, kl-tá-s'n.
+
+ TOGETHER, _two_, chá-sa.
+
+ TO-MORROW, kwá-tchi.
+
+ TO-NIGHT, as-nat′.
+
+ TONGUE, tikh′hw'lts.
+
+ TOWARDS SHORE, chái-yükw.
+
+ TRAIL _or road_, so'tl.
+
+ TREE, ski-kai-ái-yu.
+
+ TRENCHER _or wooden dish_, klo-tá.
+
+ TROUT, k'hu-má-mün.
+
+ TROWSERS, no-sün′ten.
+
+ TRUE, as-klá-wtl.
+
+ TWO, chis′sa, chá-sa, n'sháit-hu.
+
+
+ U.
+
+ UNDER, ki-tchá-wtl.
+
+ UNDERSTAND, _do you?_ hüt-chit′ūts-hu.
+
+ UP, té-yit.
+
+ UPSET, kwái-kwi.
+
+
+ W.
+
+ WALK, _to_, shtüng.
+
+ WANT, _to_, nūs-klé.
+
+ WARM, kla-té-kün.
+
+ WARRIOR, ns'cháng-kün.
+
+ WASH _the face_, _to_, nūt-sá-ko-sen;
+   _wash the clothes_, _to_, tsa-kwéng-ütl.
+
+ WATER, ko.
+
+ WATERFALL, tsét-sil-stó-a-wi.
+
+ WAVES, n'kái-nükh, s'chó-ilts.
+
+ WE, kl-ning′ütl.
+
+ WEIR, _for fish_, sw'klátl.
+
+ WHALE, ch'whé-yu.
+
+ WHAT? stang;
+   _what do you want?_ stang chins-klé;
+   _what are you doing?_ stang chin-chái;
+   _what is your name?_ stang chins-ná;
+   _what is that?_ stang ta-sái-ya.
+
+ WHERE? ta-hén;
+   _where do you come from?_ cha-hén-tin stá-chi;
+   _where do you go?_ twénts-hu.
+
+ WHISTLE, _to_, nūs-kwi-ó-süng.
+
+ WHITE, pük'h.
+
+ WHITE MEN, hwa-né-tüm.
+
+ WHO? tsan;
+   _who is that?_ tsan ta-sái-ya.
+
+ WIND, s't'chūng;
+   _North wind_, kais-hwu;
+   _South wind_, skangt, skang′üt.
+
+ WIFE, _my_, n-slá-a-ni.
+
+ WINGS, skl-kái-ai.
+
+ WINTER, klá-chi.
+
+ WITHIN, _inside_, es-ché-yu.
+
+ WOLF, stá-ching.
+
+ WOMAN, sla-ni.
+
+ WOOD, _dead_, kwüt-lái.
+
+ WORK OR DO, _to_, chai;
+   _I work_, ats chái _or_ cháit-sen;
+   _thou workest_, nük'w chái _or_ chái-üts-hu;
+   _he works_, kw'sá chai;
+   _we work_, nüng'l tsá-chái;
+   _ye work_, nük'w't-sa ái-a-chái;
+   _they work_, tsâ-tsa chi′chai.
+
+ WORTHLESS, tl-whí-os.
+
+ WRIST, s'hōts-kwats.
+
+ WRITE, s'hé-ikh.
+
+
+ Y.
+
+ YAWN, _to_, wé-uks.
+
+ YE, kl-nükw′;
+   _all ye_, nükw′ hün′na.
+
+ YELLOW, an-nu-kwái-kwai.
+
+ YES, a-áh.
+
+ YESTERDAY, chí-ak-kl.
+
+ YOUNG MAN, swé-wus.
+
+ YOUR, n'skwa;
+   _your house_, n'skwa n'ái-yüng.
+
+
+
+
+LOCAL NOMENCLATURE
+
+OF THE CLALLAM TRIBE.
+
+
+S'ng-o. A river running into the Strait of Fuca, above Neah Bay.
+
+Ok-ho. Another river near the last.
+
+Klat-lá-was. A village on the Strait.
+
+Pisht'st. Village at Canel River, Pillar Point.
+
+Kwa-há-mish. Fishing Station at Lyre River.
+
+El-wha. The village at the mouth of the Elkwa, west of Port Angeles.
+
+Tsi-whit′zen, Yin′nis. Villages at Port Angeles.
+
+Stét-lum. Village at New Dungeness.
+
+Shkwin. Village at Sequim Bay.
+
+Ká-kaitl or Skwá-kwel. Village at Port Discovery.
+
+Ká-tai. Lower village on Port Townshend.
+
+Chem′a-kum. Village site at head of do.
+
+
+
+
+ VOCABULARY OF THE LUMMI.
+
+
+ A.
+
+ ABOVE, se-suk′tl.
+
+ ADZE, s'chüm′mün.
+
+ AFRAID, sái-sin.
+
+ AFTER, il-kwâ-wüs.
+
+ ALDER, skwang-l'tch.
+
+ ALIVE, hal-ikh, hal-lé.
+
+ ALL, makw, mokw.
+
+ ALWAYS, wai, wa-hái, o-wái-la;
+   _always so_, wa-hái-yu shüng angs.
+
+ ANGRY, kwin-tün.
+
+ ARM, ta′lo;
+   _my arm_, n′ta′lo;
+   _right arm_, si-lä-me′ūs;
+   _left arm_, suk-kwe′ūs.
+
+ ARROW, yitcht.
+
+ ASHES, kwái-chp.
+
+ AT, _to be at_, lä-si _or_ lak-si;
+   _he is at Lummi_, lä-si la Nūkh-lüm′mi.
+   _See also "live," "be."_
+
+ AXE, ku′küm. (küm-müt, _to chop_.)
+
+
+ B.
+
+ BACK, _the_, stas-kwitl.
+
+ BAD, h'äs, s'häs.
+
+ BAG _or sack_, chu-kwal′.
+
+ BAIL A BOAT, _to_, chi-kwást;
+   (_in Simiamoo_), kwül′lüt.
+
+ BALD, ko′a-lekw.
+
+ BARK, _of the fir_, chül′li;
+   _of the cedar_, sl-kwüm′.
+
+ BASKET, _potato basket_, kl-päk;
+   _load basket_, s'pi-chä;
+   _small basket_, pep-chälkh.
+
+ BEADS, _large blue kind_, shkwe′-kwün;
+   _small white do._, tsüts-hüt;
+   _small green beads_, tchi-kwül-lekh′.
+
+ BE, _to_, _See "at," "live."_
+   _It is in the house_, lâk-si á-lung.
+
+ BEAR, _black_, schüt′hün;
+   _grizzly_, kwe′chin.
+
+ BEARD, kwin′s'n;
+   _moustache_, kwinks.
+
+ BEAVER, skül-láu.
+
+ BEFORE (_in point of time_), kwül-hés-lüt-sin.
+
+ BELLY, kwül′la, kläs.
+
+ BELOW, kläkhl.
+
+ BIRD, _water fowl_, mo′ōk;
+   _small birds_, tséts-at-süm.
+
+ BIRDS:
+   Eagles, golden eagle, kwül′-lüng-sen;
+     bald eagle, yükh-wül-la.
+   Hawks, pa-áls, tsekhw-tsükhw, tül-kwe′mitl, tsi-ha-litsh;
+     sparrow hawk, süs-so-wak-chil-la.
+   Owls, great horned owl, che′-tüng-hu;
+     small owl, kwai-el-hu.
+   Woodpeckers, logcock, skwül-lüt′tün;
+     flicker (_P. Mexic._) tse′a-k't;
+     small woodpeckers, tsüt-tüng.
+   Swift (_Cypselus_), kuk-sátch.
+   Kingfisher, süs-she′la.
+   Robins (_T. Naevius_), kwüs-kük'h;
+     (_T. Migrat._), tsel-tcha.
+   Warblers, hu-hwül-lüsh.
+   Chickadee (_Parus_), ts-ka-yis.
+   Finches (_generic_), tch-kwa′kwa;
+     ground robin, tül-tülk-si-nün;
+     snow finch, tchi-sa-wütsh.
+   Wren, te′ti-tüm.
+   Raven, sku-takh.
+   Fish Crow, sku-kwa′ta.
+   Blue Jay, chi-ya.
+   Magpie, s'hün′nün.
+   Pigeon, hüm-ókh.
+   Ruffed Grouse, skwüts, skwüts′ha.
+   Dusky Grouse, ng'e′et.
+   Sand-hill Crane, slem.
+   Plover, chit-hün-natsh′.
+   Oyster Catcher (_hematopus_), swó-kük.
+   Yellow-shank Snipe, skük-ka′-ye.
+   Beach Birds, small snipe (_?generic_), pel-latsh, skeks.
+   Curlew, mük-mük-kwa.
+   Swan, ho′ha-han.
+   Snow Goose, kla-wükh-han, kla-hwa′han.
+   Canada Goose, ákh-ha.
+   Brant (_Bernicla_), hül-hül′tsh, hül-hül′cha.
+   Mallard (_a. Boschas_), ti-nük-sen.
+   Teal (_Nettion_), hüs-natch, chil-si′set.
+   Shoveller (_Spatula_), klel-lük-tük-sen.
+   Gadwal (_Chaulelasmus_), shes′-sün-na.
+   Sea Ducks (_generic_), kwal′-hu.
+   Golden eye (_Clangula_), hül-hül-lül′o-witl.
+   Canvass back (_Aythya_), hókh-ko-nitsh.
+   Spirit Duck (_Albeola_), hekh-kün-né, k'k-hün′na.
+   Merganser (_Mergus Am._), kwa-ōkw;
+     (_Mergus Serrator_), sküm-mätsh.
+   Cormorant, mäs-sitch.
+   Gulls, large kinds, kwün-né;
+     small kinds, skókh-kwa.
+   Loons (_Colymbus_), swa′kwün, hwekhw-kwüs.
+   Grebes (_Podiceps_), skūl-küls′, hwa′nitsh, hwüt-tis.
+   Guillemot (_Uria_), sko-kwa-kwüts, ko-kōkh-küts.
+
+ BIRDS, _parts of_:
+   Beak, nük′sünsh (v. _nose_).
+   Wing, ki-ka′al, sk-ká-al.
+   Feathers, stli-päl-kan, stakw.
+   Quills, stli-käl.
+   Down, skái-us.
+   Tail, klap-ái-sin-itsh.
+   Gall, müs-suns.
+   Entrails, ük-khes.
+   Gizzard, s'he′a-kwüns.
+   Liver, t'ä-kas.
+   Heart, tsä-li.
+
+ BITE, _to_, tsing-ut-tüng.
+
+ BLACK, nük-kikh.
+
+ BLANKET, _feather blanket_ (_a native manufacture_), stüm-mo-whitl;
+   _woollen do._, swâ-kwatl;
+   _white blanket_, pe-kál-kwüt;
+   _figured do._, nüt-sa′lo-wüt;
+   _red do._, nu-kwim;
+   _green do._, nük-chal-kwüt;
+   _blue do._, chi-al-küt;
+   _large dark blue do._, chil-tál-kwüt.
+
+ BLAZE, _to_, hu-tâ-ku.
+
+ BLIND, klä-litsh.
+
+ BLOOD, säs-tchin.
+
+ BLOW _with the breath_, _to_, pa′-hwt;
+   _blow the nose_, _to_, nük-lüng-sin′na.
+
+ BLUE, chi-á-lis;
+   _pale_, ni-hwékw.
+
+ BOARD, _planks_, sél-to.
+
+ BOIL, _to_, kwül-lüs′.
+
+ BONE, sōm, s'ham.
+
+ BORE, _to_, _as with a gimlet_, slük′-wüt, nük-slük′wüt.
+
+ BOSOM (_female_), sküm′ma.
+
+ BOW, tsá-cha-sen.
+
+ BOWSMAN, _of canoe_, he′u.
+
+ BOX _or chest_, kla-yüks.
+
+ BOY, s'ch-chi-álkh, schi′atl, stet-látkl.
+
+ BRACELETS, _of brass wire_, tsa-met-chin.
+
+ BREAD, _baked_, tau′ükh.
+
+ BREAK, _to_, (_broken_), ti-kwüt-tüng.
+
+ BREAST (_chest_), tsüng′ütl.
+
+ BRING, _to_, an-ákh-hu.
+
+ BROAD, nükh-hwái-ük-w'tl.
+
+ BROTHER, _elder_, shi-itlkh;
+   _younger_, sái-tchin, ni-whâ-ka.
+
+ BURN, _I_, chükw′ sin;
+   _it is burning_, ch'yükw.
+
+ BURY, _to_, (_to cache_), as-chá-nütl.
+
+ BUY, _to_, (_to trade or barter_), hwái-üm;
+   _I want to buy_, nus-whái-yüm, nus-klé-a-küng sül-kül′la (nus-klé,
+       _I wish_).
+
+ BYE AND BYE, o-wäs-hés.
+
+
+ C.
+
+ CANOE (_generic_), skwâlkh;
+   _Chinook and Makah pattern_, üt-hüs, ōt-hüs;
+   _small do._, kük-ho′ütl;
+   _large Kawitchen canoe_, shwâ-atl;
+   _small fishing canoe_, sno′wh'tl;
+   _shovel-nosed or burden canoe_, klai.
+
+ CARRY, _to_, süng-at′;
+   _to carry on the back_, süng-áng;
+   _on the shoulder_, ang-ut-tün;
+   _in the hand_, wi-kwo-nat′.
+
+ CEDAR, (_Thuja_), h'pai.
+
+ CERTAINLY, _of course_, ho′wüs.
+
+ CHALK (_properly a white diatomaceous earth used for cleaning skins_),
+     stau′okw.
+
+ CHIEF, si-ám.
+
+ CHISEL, _of stone_, sh-we′ükh.
+
+ CHOP WOOD, _to_, küm′müt.
+
+ CLEAR SKY, shu-ewk'h-hu.
+
+ CLEAR OFF, _to_, (_of the weather_), s'ai-yüt-tung;
+   _it is clearing off_, ta-chil shu-auk-hu (_clear it comes_).
+
+ CLOTH, _calico_, as-hálkh (_i.e. "figured"_);
+   _domestics_, pük'h; (_white_);
+   _baize_, tsats′a-whün;
+   _flannel_, tsül′whüm.
+
+ CLOUDS, spa′hu;
+   _it is clouding over_, ta′chil nükh-no′-wüs.
+
+ COALS _of fire_, chtist.
+
+ COAL, _stone coal_, pe′chit.
+
+ COAT, snu-éks.
+
+ COLORS:
+   White, pük′h.
+   Black, nük-kikh.
+   Red, n'sük'h, n'sükw.
+   Blue, chi-á-lis;
+     pale do., ni-hwekw.
+   Yellow, n's-kwül-la-wün, nük-wái.
+   Green, ni-tlut'h, nük-wái.
+
+ COME, _to_, n'a, e-ná;
+   _I come from Simiamoo_, si-tü-sin Si-mi-a-mu;
+   _come with me_, nük-wá-shin-nus;
+   _come into the house_, an-á-la we-lüng, _or_ an-ush-ta no é-lüng (a-lüng,
+       _a house_);
+   _come near_ (_imp._), n'at′la.
+
+ COOK, _to cook on hot stones_, k'k'pak.
+
+ COOKED, _it is cooked_ ("_done_"), kwül.
+
+ COPULATE, _to_, sün-nókh.
+
+ COUGH, _to_, ta′kwün.
+
+ CRADLE, pat′süts.
+
+ CRUSTACEANS:
+   Crab, bes-kwu, ä-chükh.
+   Spider Crab, ku-kwátl-shin.
+   Stone Crab, ku-kwin-nó-wa.
+
+ CRY, _I_, ho-ang′sün.
+
+ COVER, _to_, kle-hwés-tüng.
+
+ CUP, mem′tük'h.
+
+ CUT _with a knife_, _to_, shipt.
+
+
+ D.
+
+ DANCE, _to_, koi-el′lish, kwi-é-lish.
+
+ DARK, klatch.
+
+ DAUGHTER, ng-ün′na.
+
+ DAY, skwá-chil.
+
+ DEAD, kwái-i, ko-áikh.
+
+ DEEP, klütsh.
+
+ DEER, smis, smé-is, hōpt;
+   _a buck_, ses′tün ("_horned_");
+   _in Kawitchen_, hau-pa;
+   _amongst the forest or "Stick" Indians_, klalk-ten-na.
+
+ DIG, _to_, _roots in general_, pä-nükhw′, pän-hu;
+   _potatoes_, si-a-kwáls;
+   _fern roots_, tlai-ükw;
+   _clams_, kükh-hül′la.
+
+ DIRTY, tüng-hwäs′.
+
+ DISHES, nu-wh'tsh-kwé-la.
+
+ DOG, sko-mái, ská-ha.
+
+ DON'T, kwe-ét.
+
+ DOOR, _also road_, satl.
+
+ DREAM, _to_, kül-kül-la′sin.
+
+ DRESS _a skin_, _to_, e′ükh.
+
+ DRINK, _to_, kâ-ko, nus-kâkh;
+   _I drink_, kwa′kwa-sün.
+
+ DRUM, _to_, _as in conjuring or at dances_, kau-ä′tüng.
+
+ DRUNK, _foolish_, as-hwákw, äs-hwákw-tün.
+
+ DRY, sel′-üp.
+
+ DUCK, spl-häntl;
+   _mallard_, ti-nük-sen;
+   (_vide "birds."_)
+
+ DULL, _as a tool_, kül-lás.
+
+
+ E.
+
+ EAR, kwül′lün.
+
+ EAR RINGS, sklau-ün.
+
+ EARTH, _the_, _land_, s'che-tung′a-whün, s'che-tüng-a-hüng;
+   _earth_, _dirt_, sé-yük.
+
+ EAT, _to_, it′lün, it′l'nkh;
+   _I eat_, nit-sít-lin, it-lün-sün.
+
+ ECHO, sän-gün.
+
+ EGG, sn'lng-_á_nt, kwün-kwün-né.
+
+ EIGHT, tas, tus-sä-la, tus-sält-hu.
+
+ ELBOW, _or knee-joint_, kl-yüt-sé-tün.
+
+ ELK, kwáu-watsh, ky-yétsh, kai-yéts.
+
+ END, _the end of anything_, sä-ans.
+
+ EVENING, t'tang′en.
+
+ EVERY^1 THING^2, mükw^1 stang^2.
+
+ EXCHANGE, _to_, i-yakt′.
+
+ EYE, kül′lüng.
+
+ EYEBROW, süng′ün;
+   _one-eyed_, as-takws.
+
+
+ F.
+
+ FACE, sas.
+
+ FAR, chakw, chōkw.
+
+ FART, tük-snitch. _It is the common expression of disgust at anything,
+     or any one._
+
+ FAT, _adj._, tlet-lük.
+
+ FATHER, män.
+
+ FEATHERS, stá-kw, sl'pal′kan.
+
+ FEMALE, slá-ne.
+
+ FETCH, _to_, an-ákhw.
+
+ FILE, _a_, clük-hün;
+   _to file_, chük-kás.
+
+ FIND, _to_, kwün′nüng.
+
+ FINGERS, chi-hals′.
+
+ FINGER RINGS, hi-a′lüm-chis.
+
+ FIR TREE, chül-li-íltsh, chül-chils′;
+   _fir bark_, chül-li.
+
+ FIRE, chük-hós;
+   _bring fire_, kwün-tatsh.
+
+ FIRST, il-chä-la.
+
+ FISH, ETC.:
+   Cod, ait.
+   Flounder, o′we.
+   Herring, slang-üt.
+   Calorhynchus, skwâ-ma.
+   Large cottus, skün-nákhw.
+   Skate, kákh-kōkh.
+   Oulakan (_thaleïchthys_), ti-a-ko-wa.
+   Pencil fish, _a small fish that comes in schools_, katl.
+   Salmon, _vide infra_.
+
+ FISH, _parts of_:
+   Scales, slés.
+   Fins, ká-ting-üs.
+   Tail, s'hüp-shin.
+   Roe, he-a-hetl;
+     herring roe, ché-mäsh.
+
+ FISH WEIR, _large_, s'chi-yäk;
+   _small do._, ti-k_á_p.
+
+ FIVE, kl-kats, kl-kätch-sä-la, kütch-sält-hu.
+
+ FLEA, tát-a-tlüm.
+
+ FLESH, _meat_, slé-ükw.
+
+ FLY, _a_, i-kwül′lüng, kwil-lüng.
+
+ FOG, spi-á-hwün.
+
+ FOOD, set-lün, sä-wün.
+
+ FOOLISH, as-hwäkw.
+
+ FOOT, s'hün′na.
+
+ FOOT-PRINT, hün-nüug′en.
+
+ FOREHEAD, skwang′us.
+
+ FORMERLY, kwüt-li sil-la.
+
+ FOUR, ng′oss, ni-s_á_-la, sält-hu.
+
+ FRIEND, klé-nük-wil;
+   _my friend_, n's-klé; (_literally, I like him_.)
+
+ FULL, hēts.
+
+ FUNDAMENT, kla-wákh.
+
+
+ G.
+
+ GAME (_beaver teeth dice_), smi′-la-li.
+
+ GET, _to_, kwün′nüt;
+   _I want^1 to get^2 pantaloons^3_, nus-klé-ük^1 kwün-nüt^2 sük-ké-üs^3;
+   _get something to eat_, _fetch^1 food^2_, _imp._, kwün-nas-süng^1
+       s'it-lün^2;
+   _get into the canoe_, lä-ti kwüt-la-tsi ti shwá-atl; ái-ba kün
+       slang′üt; (lä-tsi _seems to be "at" or "into;" vide "at" and
+       "live;"_)
+   _get fire wood_, _to_, tük-kütsh′.
+
+ GIRL, st-hlá-ni, sln-chá-atl.
+
+ GIVE, _to_, (_to give as a present_), üng-us;
+   (_in the sense of "to help or to hand to,"_) klätch;
+   _give it me_, an-ákhw, (_i.e. bring it._)
+
+ GLOVES, ts'-kwá-lit-cha, no-sé-sin.
+
+ GNAT, chetsks.
+
+ GO, _to_, h'ya;
+   _I go_, kwül-h'ya′-sün, yas-sin-sa;
+   _I am going to Lummi_, yá-sin-kin Nūkh-lüm-mi;
+   _presently I will go_, wi-a-sin-sa;
+   _let us go_, is-tá;
+   _go you_, _imp._, ho-ni-chitl'h;
+   _go out_, _imp._, ské-lüng, ho-nes-ké-lüng (a-lung, _house_);
+   _go there, a little further off_, yi-hé-wül-tül-lá.
+
+ GOOD, aikh.
+
+ GRAVE, _serious_, ōkw-hüm′.
+
+ GRASS, s'hüs-sái.
+
+ GREAT, hai-yikh′, ke-yikh′.
+
+ GREEN, ni-tlüt′h, nük-wai.
+
+ GREY HAIRED, süts-üm-mékhw.
+
+ GUM, _resin_, _light wood_, smá-nitsh.
+
+ GUN, _north west musket_, pú-yük (pu, _the sound of a gun_);
+   _regulation musket_, yüm-k'sn;
+   _rifle_, hai-choi-i-kütl;
+   _double-barrelled gun_, nu-chüs′a-kun (chüssa, _two_);
+   _pistol_, chi-chai-etl pú-yük (s'chi-chai-an, _an infant_);
+   _revolver_, nün-hük-ün-ük-ün;
+   _to load a gun_, h'nu-wül-lüs′sün;
+   _to ram down the load_, sé-a-kün;
+   _to fire a gun_, kwül-shül′la, (_Simiahmoo_) klüm-kwül′la.
+
+ GUNPOWDER, kwälkh;
+   _flints or caps_, kwül-län.
+
+
+ H.
+
+ HAIL, klüm-whái-la.
+
+ HAIR, si-at′tün.
+
+ HALF, kl-chükh′.
+
+ HAMMER, _to_, h'kwüs′chis;
+   _hammer_, _a_, s'kwüs′chis.
+
+ HAND, sa′lüs.
+
+ HANDLE, kült-shé-nün.
+
+ HE, nekhl, nitlkh.
+
+ HEAD, s-kwáng-i, skwâng-i.
+
+ HEAR, _to_, chis′a-lan.
+
+ HEART, st-sá-la, tsá-la.
+   _In the sense of the mind_, h'ching-ing.
+
+ HEAVY, hüm.
+
+ HERE, ti-á-kwu.
+
+ HIGH, ses'l.
+
+ HONE, _or whetstone_, shu-táks.
+
+ HOUSE, á-lüng;
+   _the posts that support the roof_, k_á_-kan;
+   _the ridge pole_, s'klüm-smelt-hu;
+   _side plates_, ha′met-sin.
+
+ HOW, _how shall I do it?_ swün-né-üng-set ti-á?
+
+ HUNCHBACKED, sko-mé-sin.
+
+ HUNDRED, nat′so-itch, nat′so-wütsh.
+
+ HUNGRY, kwá-kwi.
+
+ HUNTER, tsüm-á-mün-sa;
+   _seal hunter_, nus-lám-ükh.
+
+ HUNTING BAG, shit-t_á_-la.
+
+ HUSBAND, n'stá-lush.
+
+
+ I.
+
+ I, us.
+
+ ICE, s'lel-lokh, sé-ma.
+
+ IN, _into_, nu-äs;
+   _put in_, _imp._, nu-as′ ats-ches′sük;
+   _to be at or in_, lak-si; _vide "live;"_
+   _it is in the house_, lâk-si á-lüng.
+
+ INDIANS, _people_, atl-tá-ling-hu.
+
+ INFANT, s'chi-chái-an, kük-ké, n's-chái-in.
+
+ IRON, küm-tüm′.
+
+ ISLAND, kl-chas, s'kwüs-sá, sk'-sas.
+
+
+ J.
+
+ JEALOUS, sā-si-si.
+
+
+ K.
+
+ KICK, _to_, lüm-mat′.
+
+ KILL, _to_, k'châ-tükh, ku-chel′la.
+
+ KISS, _to_, nükh-wh'm-kwóst.
+
+ KNIFE, shpál-tin;
+   _do. with one edge_, il-kákh-han;
+   _two-edged_, wat-chä-han.
+
+ KETTLE, _iron_, sklá-lup;
+   _wooden_, sko′ten.
+
+ KNOW, _to_, Do you know Ské-ükl? (_a man of that name?_) hüt-ché-tüs-hu
+     Ské-ükl?
+
+
+ L.
+
+ LAKE, s'weltsh.
+
+ LANCE, st-kwái-itch.
+
+ LARGE, mokw.
+
+ LAUGH, _I_, nün-nái-yüng-sen.
+
+ LAZY, sä′hüng, sakhw;
+   _I am lazy_, sa′whüng-sin.
+
+ LEAF, s'chá-sün.
+
+ LEAP, _to_, hwé-tüng.
+
+ LEG, slá-hütsh, ská-kün;
+   _calf of leg_, kátl-sün.
+
+ LEND, _to_, ä-yil.
+
+ LIAR, kai-yá-kan.
+
+ LIE, _I_, hukh-kái-ya-kün.
+
+ LIGHT, _adj._, stá-tu.
+
+ LIGHTNING, cha-á-kwa-chük, cha-küts-o-kikh.
+
+ LIKE, shün-ángs.
+
+ LISTEN, _imp._, ni-hwú-i-yan.
+
+ LIVE AT, _to_, läksi; (_this word appears to be the equivalent of the
+     Nisqually_ at-suts, _and to be really an adverb signifying "presence"
+     or "existence"_);
+   _I live there_, läk-si tel-lá.
+
+ LONG, _in dimension_, klä-kut.
+
+ LOOK OUT! kwá-la.
+
+ LOOKING GLASS, skwo-ná-süng, sku-ko-ná-süng, hu-ku-ná-sing;
+   _the image or reflection in the glass_, kukh'-kütl.
+
+ LOSE, _to_, ek-kwa.
+
+ LOUSE, nüs′sün.
+
+ LOVE, _to_, nūs-tlé, nis-klé.
+
+
+ M.
+
+ MAGIC, _conjuring_, ch'si-ó-wün;
+   _for medicine_, shi-nám.
+
+ MAKE, _to_, chai;
+   _what are you making?_ stang n's chai?
+   _I am making a canoe_, chai its sno′hwütl;
+   _make fire_, _imp._, chük-kós.
+
+ MAMMALS:
+   Horse, stük-ké-u.
+   Elk, kwá-watsh, kai-yéts.
+     buck, sist-ün, _i.e._ "horned."
+   Deer, smé-yis.
+     buck, sist-ün.
+     fawn, stül-la.
+   Bear, black, späs.
+     grizzly, kwái-et-chin.
+   Big horn (_ovis montana_), kwe-kwüt-chen.
+   Mountain goat (_aploceras_), swét-le, pi-külkh-kan.
+   Racoon, blōps.
+   Dog, skó-mai.
+   Wolf, st'kái-ya.
+   Cougar, shwo′wa.
+   Lynx, sküts-a′müs.
+   Beaver, skül-lá-u.
+   Sea otter, tüm′müs.
+   Land otter, s'katl.
+   Seal, _á_ss′hu.
+   Mink, kai-yakh, s'ché-a-kün.
+   Weasel, kül-ké-la.
+   Skunk, süp-pük.
+   Squirrel (_sciurus_), tsip-si-á-sün.
+   Striped squirrel (_tamias_), hwé-pe-chin.
+   Kamass rat (_neotoma_), ná-wit.
+   Mouse, kwa′tün.
+   Mole, spi-lá-wün.
+   Hare, ské-ka-was.
+
+ MAMMALS, _parts of_:
+   Neck, tatsh-süns.
+   Atlas joint, kük-kak-w'chis.
+   Ribs, lük-h'ws.
+   Marrow of legs, tüts-üsh′shins.
+   Brain, smet-küs.
+   Gristle of vertebræ, kwa-á-lüs.
+   Liver, stük′chüng.
+   Lights, spül′hu.
+   Paunch, spukh.
+   Wind-pipe, hwang-ün.
+   Tail, klo′wak-üs.
+   Skin, kwül-los.
+   A dressed skin, hül-la-kan.
+   Hair, s'chais.
+   Hoofs, kwâ-nüngs.
+   Kidneys, sün-süns.
+   Sinews of legs, kli-é-mins.
+   Sinews of back, tüng-é-sens.
+   Horns, tses′tün.
+   Heart, tsá-la.
+   Os calcis, kát-lin-süns.
+   Thighs, kat-chat-chs.
+   Saddle or hind quarters, as-satch-chatsh (chus-sa, _two_).
+   Leg, sku-shüm-shins.
+     Lower joint of do., s'hün-nüs.
+   Fore quarter, tä-los.
+     Both do., skül′la-hans.
+   Fat, nas.
+   Meat, slé-ük.
+
+ MAN, swé-yi-ka.
+
+ MANY, n'gann, n'gün;
+   _many people_, n'günhl-tá-ling-hu;
+   _I have many people_, n'gan al-tä-ling-hu ti-us.
+
+ MAT, slä′wün;
+   _the large mat used for making temporary lodges_, sá-letch;
+   _cedar bark mat_, tsüm′müt, lo′kwai.
+
+ MEND, _to_, chüts-ül-kwüt′tün.
+
+ MERRY, nüks-né-ni.
+
+ MIDDLE (_of length_), á-no-wüls.
+
+ MISTAKE, _to_, _either in speech or on the road_, mäl-min.
+
+ MOLLUSCS, RADIATES, ETC.:
+   Small round clam (_Venus_), sküt-hlai;
+     quahog (_Saxidomus_), sákh-hwa;
+     large clam (_Lutraria_), swäm.
+   Cockle (_cardium_), sk′läm.
+   Mussel (_Mytilus_), klâ-küm.
+   Oyster, klokh-klokh.
+   Whelk, sük-kwái-yükh.
+   Barnacle, süm-mai-ya.
+   Chiton, hül′lüng.
+   Land snail (_helix_), wük-kük'h.
+   Slug (_limax_), kai-yat′lin.
+   Sea egg (_Echinus_), skwét-si.
+   Sea slug (_holothuria_), sekt.
+   Star fish, kwül-lá-chi, kül-lä-sis.
+   Cuttle fish, ské-mūk.
+   Shells, ká-ya-men.
+
+ MOON, kl-káltsh.
+
+ MORNING, skwá-chi.
+
+ MOSQUITO, kwá-an.
+
+ MOTHER, tān.
+
+ MOUNTAIN (_same as rock_), sng-ánt.
+
+ MOUTH, sá-sün.
+
+ MOVE FARTHER, yi-hé-wül tül-lá;
+   _go there_, tük′whist.
+
+ MUCH, n'gun;
+   _much food_, n'gün sét-lün.
+
+ MYTHOLOGY:
+   Ha-áls, _the principal super natural being, equivalent to_ Hun-né _of
+       the Nisquallies_, No-kw-makhl _of the Clallams and Skagits, and_
+       Iká-ni _of the Chinooks_.
+   S'hui-áb, _or_ S'hui-ám, _the pre-human demon race_.
+   Yūtl-ma, _or_ Shwâ-mat-wun, _the spirit that presides over good
+       fortune_.
+   Ch'si′o-wün, _a particular gift or capacity acquired by fasting, etc.,
+       or by incantation, similar to the Chinook tamánowas_.
+   Shi-nám, _magic or medicine_.
+
+
+ N.
+
+ NAILS, t'sâls, chi-sá-lis.
+
+ NAKED, klüt-säng.
+
+ NAME, s'nä;
+   _my name_, üs-nä. _Vide "who."_
+
+ NAVEL, mük′h-hwoi-ye.
+
+ NEAR, kl-ké-a-ke, tüt-lé-kai, sti-talst′.
+
+ NEEDLE, chät′sün.
+
+ NET, _for catching ducks, etc._, tük′hüm;
+   _seine_, aukh-whói-yen.
+
+ NEW, háu-wüs.
+
+ NIGHT, snat.
+
+ NINE, tük'hw, tük-whä-la, tük-whalt-hu.
+
+ NO, a-wá, a-wükh′, ókh-wa.
+
+ NONE, _there is none_, a-wün′na;
+   _are you not ashamed?_ a-wün-na s'hét-sil? (_literally "no shame?"_)
+
+ NOSE, nük′sün.
+
+ NOSTRILS, skwá-lük-sen.
+
+ NOW, ti-a, ti-an′k'h.
+
+ NUMERALS:
+   _Simple Cardinals--_
+     1, nüt′sa.
+     2, chüs′sa.
+     3, klikhw.
+     4, ng-oss′.
+     5, kl-kats′.
+     6, t'hünkh.
+     7, tsákws.
+     8, tats.
+     9, tük'hw.
+     10, o′pün.
+     11, ó-pün it nüt′sa.
+     12, ó-pün it chüs′sa.
+     20, tsük-küs, tsük-wüs.
+     30, kl-whl-shá.
+     40, nüsl-shá.
+     50, küts'hl-shá.
+     60, tükh-hüm-shá.
+     70, skwl-shá.
+     80, tüsl-shá.
+     90, to-wol-shá.
+     100, nat-sa-wütsh.
+     1000, o-päntsh.
+
+   _Personal Cardinals--_
+     1, nat′sa.
+     2, chá-sa.
+     3, kl-whái-la.
+     4, ni-sä-la.
+     5, hl'-katch-sä′la.
+     6, tükh-hüng-ä-la.
+     7, tsük-sä-la.
+     8, tüs-sä-la.
+     9, tük-hwä-la.
+     10, o-pün-ä-la.
+     20, nt-su-ku-sä-la.
+
+   _Cardinals of Valuation--_
+     1, tsak′wüt-hu.
+     2, tch's-sält-hu.
+     3, kl-whält-hu.
+     4, sält-hu.
+     5, kütch-sält-hu.
+     6, tükh-hüng-ält-hu.
+     7, sük-sält-hu.
+     8, tüs-sält-hu.
+     9, tük-whält-hu.
+     10, o-pün-ält-hu.
+     20, tsū-kw-sält-hu.
+
+
+ O.
+
+ OAK, s'chüng-altsh.
+
+ OFF SHORE, tâl.
+
+ OLD, tsa-küng, snük-kái;
+   _an old man_, as-á-lokh, as-mes′sün.
+
+ ONE, nüt-sa, nat′sa, tsak′wüt-hu.
+
+ OUT DOORS, sét-lüng (a′lüng, _a house_).
+
+
+ P.
+
+ PADDLE, _to_, ist.
+
+ PAN, _or plate_, lä-sün.
+
+ PANTALOONS, sük-ké-us.
+
+ PENIS, shel-l_á_.
+
+ PEOPLE, _i.e._ _Indians_, atl-tá-ling-hu;
+   _people inhabiting the woods_, "_Stick Indians_," mäs-hwi (_whence the
+       name of a tribe on Fraser River, generally known as Maskwies_);
+   _people living on the salt water_, s'chit-lals′ha (klals, _the sea_);
+   _River Indians_, chis-tá-lo, stül-tá-lo (stá-lo, _a river_);
+   _white men_, hwa-ni′tum.
+
+ PERHAPS, yükh-whá.
+
+ PIGEON, h'mo, hüm-o'h.
+
+ PIN, _a_, hüm-mén;
+   _large blanket pin_, kwün-né-sing.
+
+ PIPE, päkw.
+
+ PLANE, _to_ (_boards_), shé-shüb; (_probably by onomatopœia_).
+
+ PLANTS, ETC.: (_See also Trees._)
+   Salmon berry, al-é-la.
+   Barberry, skwâ-cha-sitsh.
+   Red raspberry, tük′wüm.
+   Gooseberry, küm-kwéltsh.
+   Dewberry, skül-nu-whélsh
+   Rose bush, kül-kél.
+     Berries of do., kül-lük.
+   Snowberry bush, pat-saltsh.
+     Berries of do., p'pi-kái-yas.
+   Honeysuckle, kat-kat-éltsh, saltsh; (_the leaves are chewed as a
+       medicine_.)
+   Spiræa, kads-sulch.
+   Wild pea, hüm-kwai-á-sin.
+   Wild rye, pshai.
+   Yarrow (_Achillia multifolia_), pül-lé-a-kwütsh; (_it is used to
+       expedite delivery_.)
+   Prickly pear (_cactus_), tsä-ta.
+   Thorns, chit-tüm-mäs.
+   Equisetum, mäkhw, á-is-küd.
+     Root of do., ko-ma-lokh.
+   Cat-tail rush, s_á_-kün.
+   Tule or round rush, skwül-lül.
+   Wild onion, swél-nitsh.
+   Brake fern, sük-ka-an′.
+     Roots of do. (_eaten_), skwi′yu.
+   Small brake, tsük′kwa.
+   Wood fern, s'hä-lüm.
+   Liquorice fern (_an expectorant_), klüs-síp.
+   Lichens, küt-che.
+   Spanish moss, stül-hái-is.
+   Liverworts, mükh′tül-lüs;
+     _a species of moss with a peppery taste, used in medicine_, kät-si.
+   Sea weeds, chil-lüm.
+   Kelp (_fucus gigantia_), kwá-ang.
+
+ PLANT, _to_, chin-eng-ütl.
+
+ PLENTY, n'gün.
+
+ POINT _of anything_, i-sük′sin.
+
+ POOR, _wretched_, sül-lá-wa.
+
+ PORCUPINE QUILLS, tsüts-ül-kan.
+
+ PORPOISE, kwá-nat.
+
+ POSTS _for supporting the roof of a house_, kä-kan.
+
+ POUND, _to_ (_as seeds, grain_), kli-a-kwéng-ütl.
+
+ PRAIRIE, spelkh′han.
+
+ PREGNANT, skä-kwi.
+
+ PRESENTLY, hwa-sing-ang′a;
+   _in a little while_, h'wes′ta-ál, hu-as-ta-al′.
+
+ PRONOUNS:
+   I, us;
+     _suffixed to a verb_ (_copulative_), sün.
+   My, ti-us;
+     _prefixed to noun_ (_possessive_), n's, nūs.
+   Thou, nükw.
+   Thy, ti-nük-wa.
+   Thyself, tin-tsi-la.
+   He (_that one_), nel, nitlh.
+   We, minglkt, kl-ming′ülkh.
+   Ye, nük-kwé-li-e.
+   They, nan-etl-ya, kw-si-a-hal-tün.
+   My canoe, nus-kwá n'shwâ-atl.
+   Thy knife, süns-kwân's-päl-tün.
+   His gun, tsä-ka po-yük.
+   Our country, tsá-kwün tüng′-hu.
+   Your house, tsüng a′nüng hä-la.
+   Their father, k'sän män.
+
+ PULL THE HAIR, _to_, heng-ükw-tün.
+
+ PUT ON, _to_, _pantaloons_, hük-éw-sing;
+   _a coat_, hut-ché-tüng.
+
+ PUT INTO, _to_, _imp._, nu-ás ats-ches-sük.
+
+ PUT DOWN, _to_, sä-kws.
+
+
+ R.
+
+ RAIN, slüm′mōkh.
+
+ RAISE UP, _to_, sä-at.
+
+ RAKE, _for taking herring and other small fish_, tlet′ha-men.
+
+ RAPID, _in a river_, kwet′chüm.
+
+ RAW, hets.
+
+ RED, n'sük'h, n'sükw.
+
+ RELATIONSHIPS:
+   Father, män.
+   Mother, tän.
+   Husband, my, n'stá-lüsh.
+   Wife, _idem_.
+   Son or daughter, ng'ün′na.
+   Brother, _if older than the speaker_, shí-itlh;
+     _if younger_, sái-tchin.
+   Elder sister, á-lish;
+     _younger do._, sái-tchin.
+   Grandfather, cha-mok.
+   Grandmother, sé-la.
+   Uncle, latl, hai'tch; (_as the nephew grows older, the uncle becomes
+       an elder brother_.)
+   Aunt, shé-ilsh.
+   Father-in-law, slätl.
+   Mother-in-law, _idem_.
+   Brother-in-law, _idem (?)_.
+   Sister-in-law, s'ng-at′hwun.
+   Sister's husband, _idem_.
+   Step father, n's-gnä-ün.
+   Step mother, _idem_.
+   Daughter-in-law, skwá-lo-wis.
+   Husband's other wives, sái-ya.
+
+ RIVER, stá-lo;
+   _small stream_, stá-ta-lo.
+
+ ROAD, satl.
+
+ ROAST, _to_, _in ashes_, tül-lák;
+   _on a stick_, s'kwül′lüng.
+
+ ROCK, sng-ánt.
+
+ ROPE, hwé-lüm.
+
+ RUN, _to_, kwâ-nüng-üt, kwá-nüng-it.
+
+
+ S.
+
+ SAD, hätl-tin, hütch-ing′én.
+
+ SAIL, _make sail_, _imp._, chai-a-kwün pa-kwün;
+   _take in sail_, _imp._, klüng-äs.
+
+ SALAMANDER, pét-h'yil.
+
+ SALMON, _generic_, s'chän-hu.--
+   _Various species:_
+     kütch′küs _Salmo scoulerí_, RICHARDSON;
+     hün-nün, _the hump-backed salmon_ (_S. Proteus_);
+     sük-ké (_not ascertained_);
+     yó-mutsh, _S. quinnat_, RICH.;
+     kwal-hu, _S. canis_, SUCKLEY (_this name, it will be noticed, is
+         also applied to sea ducks_);
+     ké-ükh, _S. truncatus_?
+     kwül-yauk, _salmon when exhausted by spawning_;
+     tüghs, _salmon trout_ (_S. Campbelli_, SUCKLEY);
+     su-kwái, _brook trout_ (_S. stellatus_, GRD.);
+     hu-má-ni, _salmon fry._ (_This last word suggests the Spokane word
+         for the brook trout_, hu-má-na.)
+
+ SALT, klat′lün.
+
+ SAND BEACH, s'het (_Lummi_), si-et′süm (_Kwantlen_).
+
+ SAND SPIT, na-wa-létsh.
+
+ SCOOP, _for bailing a canoe_, tsang′tün.
+
+ SCRAPE, _to_, ekht.
+
+ SCRATCH, _a_, si-héks.
+
+ SCRATCH, _to_, hüt-ché-tüng;
+   _I scratch_, hi-kék-sün.
+
+ SEA, klals, kt'hlals.
+
+ SEASONS:
+   Spring, tchin-kwé-lis, tchin-kwai-lus.
+   Summer, kwá-lus (kwá-lis, _warm_) tchin-é-yi.
+   Autumn, chits-at-lin, tsa-whéngst.
+   Winter, chints-é-hüm, chin-sá-tütsh, sá-titsh.
+
+ SEE, _to_, lang-üt, lang-it.
+
+ SELL, _to_, hwi-mä′la.
+
+ SEVEN, tsâkws, tsük-sä-la, sük-sält-hu.
+
+ SEW, _to_, chets.
+
+ SHAKE HANDS, _to_, kwün-sest′.
+
+ SHALLOW, shái-shüm.
+
+ SHARP, ái-yas.
+
+ SHARPEN, _to_, _to whet on a stone_, t'kas.
+
+ SHAWL, süt-sá-müsh.
+
+ SHIRT, küts-á-lis;
+   _"hickory" shirt_, hütl-pé-wün.
+
+ SHOES, _moccasins_, s'klük′a-shin.
+
+ SHOOT, _to_, _with a bow_, ts-män.
+
+ SHOT, hüs-üm-ákw.
+
+ SICK, s'hatl.
+
+ SICK, _I am_, s'hal'sün.
+
+ SING, _to_, t'e-lüm, te′lim.
+
+ SISTER, _elder_, á-lish;
+   _younger_, sái-tchin.
+
+ SIT, _to_, üm-müt, üm-mit, tsüm-má-no.
+
+ SIX, t'hünkh, tükh-hüng-ä-la, tükh-hüng-ält-hu.
+
+ SKIN, _dressed_, hül-kün;
+   _un-dressed_, kwül′lo.
+
+ SKY, sé-ishl, skwái-yil.
+
+ SLEEP, _to_, ét-t-t, é-tüt-tüt, i-tit.
+
+ SLEEPY, a-tá-tüng.
+
+ SLOWLY, o-s'n-ang'h.
+
+ SMALL, mi-mé-min.
+
+ SMELL, _a_, häkw.
+
+ SMELL, _to_, hük-kwül′la, hük-kwá-li.
+
+ SMOKE, _to_, _a pipe_, smä-nis-tin (smá-nüsh, _tobacco_);
+   _as a fire_, spát-lüng.
+
+ SNAKE, s'alkh′ka.
+
+ SNEEZE, _to_, hä-sing.
+
+ SNORE, _to_, hwá-na-küng.
+
+ SNOW, ná-ka.
+
+ SON, ng-üu′na.
+
+ SOUL, _the_, sül-lé.
+
+ SOUR, sá-han.
+
+ SOW, _to_, _grain_, _&c._, chái-its (chai, _to work_).
+
+ SPEAK, _to_, kwal.
+
+ SPEAR, _to_, _water fowl_, t'kwa′-nüm;
+   _seals_, sái-yüm-mün;
+   _fish_, t's-hüng′ün.
+
+ SPLIT WOOD, _to_, sküt.
+
+ STAB, _to_, met-át-üng-kwa;
+   _Simiamoo_, ti-chet′üng-kwa.
+
+ STAND, _to_, sít-lün.
+
+ STAR, kó-s'n, kâ-s'n.
+
+ STAY, _I will stay_, a-wüs-sin.
+
+ STEAL, _I stole_, as-kwa-kan′;
+   _you stole_, nük′wa kwa-kan′;
+   _he stole_, nikhl-kwa-kan′.
+
+ STEER, _to_, chün-nä-set; chük-ke-nüng.
+
+ STEERSMAN, _of canoe_, as-kwá-at.
+
+ STOCKADE, _fence_, kül-lükh′han.
+
+ STONE, chet-hlákh;
+   _rock_, sng-ánt.
+
+ STOP, _I will stop here_, o-at′la-sün (_perhaps "I have arrived"_);
+   _stop_, _imp._, _i.e. stop doing any thing_, un-nükhw kwá-tün s'chai;
+   _stop_ (_when one is helped sufficiently to food_), hái;
+   _stop_ (_talking_), süm-mukh.
+
+ STRIKE, _to_, _with the fist_, nüt-sás-tüng.
+
+ STRIPED, as-hé-ütsh.
+
+ STRONG, kâm-küm, kwüm-kwüm.
+
+ STURGEON, skwá-wütsh.
+
+ SUN, sku-kül′.
+
+ SWEET, sak-küng (aikh, _good_).
+
+ SWIM, _to_, tüng-a-áng.
+
+
+ T.
+
+ TAKE, _to_, kwün′nut (_same as to get_).
+
+ TAKE OFF, _to_, kl_á_-lis, klüt-sang′.
+
+ TALE, _story_, skwül′kwül.
+
+ TALL, kl'k-tákhl.
+
+ TEETH, chin′nis.
+
+ TEN, o′pün, o-pün-ä-la, o-pün-ält-hu.
+
+ TESTICLES, má-tchin.
+
+ THANK YOU, hekh.
+
+ THAT, tül-lá, ta-lé;
+   _that is Lucy's_, la Lucy ti-lé.
+
+ THERE, ta-lá;
+   _there it is_, e-i-té-i-ti, át-la-ti.
+
+ THEY, nan-étl-ya, kw'si′a-hál-tün.
+
+ THING, _things_, stang;
+   _every thing_, nükw-stang.
+   _It is noticeable that in this language, as well as in the Nisqually,
+       Chinook, and probably in others, the word for "thing" is the same
+       as that for "what."_
+
+ THIEF, kán-kan.
+
+ THIS, ti′et-hla.
+
+ THOU, nükw;
+   _thyself_, tin-tsi′la;
+   _you are a Kanaka yourself_, Kanaka tin-tsi′la.
+
+ THOUSAND, o-pántsh.
+
+ THREAD, _twine_, hwé-lum.
+
+ THREE, klikhw, kl-whái-la, kl-whält-hu.
+
+ THROAT, haung′en.
+
+ THROW, _to_, _as a stone_, tsi-lakh;
+   _to throw away_, hwélt-hu.
+   (_In the Simiamoo dialect_, é-kwüt; _to throw away with violence_,
+       tim-müt.)
+
+ THUMB, süs-táls.
+
+ THUNDER, s'hó-hwas.
+
+ TIDES:
+   Flood tide, küm′mül.
+   Ebb tide, hi-klatl'h.
+   High tide, küm-küm′mül.
+   Low tide, sham′shüm.
+
+ TOBACCO, smá-nüsh.
+
+ TOBACCO POUCH, smá-na-shá-la.
+
+ TO-DAY, ti-a-káis, ti-o-skwá-chil.
+
+ TOES, s'chüs'sün, snó-hwl-shin.
+
+ TO-MORROW, kwá-chil, kwái-ikhl.
+
+ TONGUE, té-whls.
+
+ TRADING HOUSE _or store_, shwui-mäl (hwi-mä-la, _to sell_).
+
+ TREES, _forest_, s'ki-lá-lüng-hu.
+
+ TREES, ETC.:
+   Red pine (_P. ponderosa_), kwa-kwa-yé-la-hilp.
+   Dwarf pine (_P. contorta_), kwákhwl-ch.
+   Spruce fir (_Abies Menzesii_), chi-kwüt′lp.
+   White fir (_A. grandis_), sko′-me-yüks.
+   Hemlock spruce (_Abies ---- ----_), s'ke-éltch.
+   Yew, tlng-kálsh.
+   Cedar (_Thuja_), h'chá-chiltsh.
+   Red cedar (_Juniperus_), pits-in-ái-ilp.
+   Arbutus (_A. Menzesii_), kō-kwéltsh.
+   Trailing arbutus (_A. uva-ursi_), kwün-neltsh; _the leaves of this
+       vine are used for smoking_.
+   Birch, kats-ül′tch.
+   Maple (_A. macrophylla_), küm′ an-ilp.
+   Vine maple (_A. circinata_), shé-chülp.
+   Alder, s'kwáng-ültsh.
+   Crab apple tree, kükh-whétsh.
+     Fruit of do., ka-ákhw.
+   Elder, tsé-wükh.
+   Willow, swül-létsh.
+
+ TREES, _parts of_:
+   Roots, ko′mel-lokh.
+   Fir cones, ta-má-ku-küns.
+   Pitch or rosin, smá-nitsh.
+   Leaves, sats-tlá.
+   Fir bark, t'chül-le.
+   Cedar bark, shl-kōm.
+     Inner bark of do., skwekhw.
+   Willow bark (_used for making seines_), swá-lakh.
+   Rotten wood, pi-kwái.
+
+ TWO, chus-sa, chá-sa, tch's-sält-hu.
+
+
+ U.
+
+ UNCOVER, _to_, küt-lést.
+
+ UNDERSTAND,--
+   _I understand that_, hüt-che-tu ti-ats;
+   _I don't understand_, o-ná kwins-hu-chet;
+   _Do you understand Clallam?_ hüt-che-tüt kwüs-sa Nūs-klái-yūm?
+
+ URINATE, ché-wa. (_This applies to either sex, there not being a
+     distinction made, as in the Nisqually._)
+
+
+ W.
+
+ WALK, _to_, s-tüng, sh-tüng.
+
+ WANT, _to_, sklé;
+   _I want_, n's-klé;
+   _I don't want_, á-wa sins-kle.
+
+ WARM, kwass, kwá-lüs.
+
+ WARRIOR, nus-chang-kün, mich-kül′lo-wütl.
+
+ WASH, _to_, (_the hands_), tsük-sé-sümg;
+   (_the face_), tsük-wá-süng;
+   (_clothes_), tsük-ül-kwo′-tüng;
+   _I wash_, sa-kwüm′sün.
+
+ WATER, kaukh.
+
+ WAVES, skwüt-la-lák-ün.
+
+ WE, ninglkh, kl-ning-ülkh.
+
+ WET, klük-sét, tsa-müng.
+
+ WHAT, stäng, stäng-wüt;
+   _what is that?_ stang ti-á?
+   _what are you doing?_ stang nis-chai?
+   _what food do you buy?_ stang kwa chats sä′wun?
+   _what?_ (_in answer to a call_), stang?
+   _what is the matter with you?_ es-tang hat-su?
+   _what do you want?_ stang sins-kle ti-nük-wa;
+   _what is your name?_ (_vide "who."_)
+
+ WHERE, a-hén;
+   _where is my gun?_ t'hén-ku ken po-yük?
+   _I don't know where_, kwá-hen ish-tük′ka;
+   _where do you come from (whence you?)_ tsa-héns-hu, tsa-hénts-hu?
+   _where are you going (whither you?)_ t'whéns-hu, twéntst-hu?
+
+ WHISTLE, _to_, sh-pi-lás.
+
+ WHITE, pük'h.
+
+ WHO, wät, wat;
+   _who did that?_ wat′la kwuts-chái-a ti-a?
+   _what (literally "who") is your name?_ wat-tun-má? wat kud sna?
+
+ WIFE, n'stá-lush (_same as husband_).
+
+ WIND, st-châng.
+
+ WINDS:
+   West, ste-wüt.
+   W. N. W., tent-sa-lük.
+   N. W. and North, s'chá-yüm.
+   S. S. E., skang-üt.
+   S. W., s'chis.
+
+ WINGS, sk-käl.
+
+ WIPE, _to_, (_the face_), nu-hwa-chá-süng;
+   (_the hands_), chékw-sim.
+
+ WOLF, st-kái-ükh.
+
+ WOMAN, slá-ni.
+
+ WOOD, s'chütl;
+   _a log_, kwt-hlái;
+   _dry wood_, stä-ta-chi.
+
+ WORK (_do_, _make_), chái.
+
+ WORTHLESS, kl-hül-o-_á_s.
+
+ WRESTLE, _to_, tsäl-tüng.
+
+ WRITE, _to_, hül′lüt.
+
+
+ Y.
+
+ YAWN, _to_, we′a-küs.
+
+ YE, YOU, nük-kwé-li-é.
+
+ YELLOW, n's-kwül-la-wün, nük-wai.
+
+ YES, a-áh;
+   _yes indeed, certainly_, ho′wüs, hu′üs, si-ēt
+
+ YESTERDAY, chi-lak'hl.
+
+ YOUNG, s'hwé-wils.
+
+
+
+
+ LOCAL NOMENCLATURE
+
+ OF THE LUMMI TRIBE.
+
+
+ Chil-tün-nüm. Point Roberts.
+
+ No-ku-me′khil. A creek running into the bay.
+
+ Pi-kalps. The Indian village of Camp Simiamoo.
+
+ Sim-i-a′mu. The name of the band.
+
+ Kul-la′han. "Stockade," the site of the old village.
+
+ A′la-la. Creek at the head of Drayton harbor.
+
+ Se′litsh. The site on the sand spit of ditto. The name Tsi-he′lis has
+     the same signification.
+
+ Kwūd-shäd. Mount Baker.
+
+ Hōl-hōl-ok'h. Site between Drayton harbor and Birch bay.
+
+ Tsáu-wükh. Site on Birch bay.
+
+ Tut-si-nüts. Slái-ek-sen. Sandy point.
+
+ Cháu-üks. North end Lummi island.
+
+ St'kwäp. A site on eastern side of do.
+
+ Ska′lek-shün. Fishing on west side of do.
+
+ Mam-e′ük _or_ S'müm-mé-ük. The mountain on south end of do.
+
+ Klé-kwa-ni. A rock off S. W. end of ditto. It is a s'hui-yáb or demon.
+
+ To-whütsh. Eliza island.
+
+ Ku-kwa-né-üng. Viti rocks.
+
+ Chá-chu-sen. Part of the Delta of Lummi river.
+
+ Skül-há-netl, Sla-yüks. Mouths of the river on Hale's passage.
+
+ Tom-whik-sen. The winter village on the passage.
+
+ Tä′la-pi. Another neighboring site.
+
+ Swūl-é-sen _or_ S'hūl-e-sen. The Portage.
+
+ N-ūs-ká-la-hüm. The neck of Point Francis.
+
+ Sé-liss. Point Francis. (_Vide_ Sé-litsh, _supra._)
+
+ Klik-a-té-nus. The small prairie at the military station, Fort Bellingham.
+
+ Kwal-lu-hūm (Squallicum). The small creek above Whatcom.
+
+ What-com. The outlet of the lake. The name refers to the noise of its
+     waters.
+
+ Si-hōm. The site of the Bellingham Bay Coal Mine.
+
+ Ma-mó-si. Pattle's claim.
+
+ Sis′lit-chüm. Thomas's claim.
+
+ Tai-chá-mish. The cove at Cullum's claim.
+
+ Tchük-a-nüts. The inner bight of Bellingham bay.
+
+ S'hüts-küs. Point William, or Samish point.
+
+ As-é-a-kün. Samish village behind the island.
+
+ Pen-ūkh-hu. Vendovi island. The name is derived from that of a
+     bulbous root growing there.
+
+ T'châ-kwil-la. N. W. point of Gueymes island.
+
+ T'kwâ-wa-tchin. N. E. side of do.
+
+ Kwil-shants. S. E. point of do.
+
+ Nūkh-whai-i-mikhl. Samish village S. W. side of do.
+
+ Tál-la-lokh, Nu-kwüt-lá-al. Localities on Fidalgo island.
+
+ Mük-kük'hs. N. E. point of do.
+
+ Sküt-lüs. Sinclair island.
+
+ Tüt-sékh. Cypress island.
+
+ Tütl-ki-té-nüs. Strawberry harbor on do.
+
+ Shé-üng-tl'h. The peak on the N. end of do. It is the nest of the
+     thunder bird.
+
+ S'nūk-nokh-hw'tl. Site on western side of Blakely island.
+
+ Nūs-kwi-chen′nüm. James's island.
+
+ Chis-si-ná-a. Bird rocks off Decatur island.
+
+ Hüt-tát-ch'l. Site of Indian village on S. E. end of Orcas island.
+
+ Ko-pé-tün. S. E. point of eastern bay in Orcas island.
+
+ Mūk-kwūl-nitch. Small lake and cascade emptying into the eastern bay.
+
+ I-ukh′kan. The cove at Mūk-kwūl-nitch.
+
+ Chin-chin-tsé-lūng. A rock on the eastern shore of the bay. It was
+     another demon--a woman who committed adultery with every one. She
+     was turned into stone by Ha-áls, but her spirit remains. She used to
+     live at that place in summer, but went up the bay in the winter.
+
+ Nūkh-whái-yūm. Deadman's rock in the eastern bay. An old cemetery
+     of the Lummi Indians.
+
+ Tsül-whé-sün. A site at the head of the bay.
+
+ Swá-lakh. Mount Constitution, on Orcas island. The name is also given to
+     the eastern bay itself, or rather to the country upon it.
+
+ S'ko-ma-ang. A mountain on the peninsula between the eastern and middle
+     bays. The name refers to a berry called _t'kwa′ma_, and means "_like
+     that berry_."
+
+ A′la-la, "_like a house_," from _a′lung_, "_a house_." Another hill on
+     Orcas island. The name also applies to the land bordering on the
+     middle bay.
+
+ Nūs-kül-ling-üs. The point at the entrance of the middle or A′la-la bay.
+
+ Skwék-sen. A rock on the eastern side of do. This was another demon.
+
+ I′ye-hün. The bald hill at the head of A′la-la bay.
+
+ T'kai-yetsh. The extreme S. W. point of Orcas island.
+
+ Nukh-ló-kwoi. A site on the W. side of do.
+
+ Kwi-nüs. N. point of Lopez island.
+
+ Sklél-nip. Sand point N. end of do.
+
+ Nu-chad-kwun. E. point of do.
+
+ S'whül-lütsh. The lagoon on the W. side of do. (Its Clallam name,
+     _Pal-pi-yu_.)
+
+ Kūt-ül′la. E. point of Shaw's island.
+
+ Hüs-sáltsh, Hwi-chá-sen. Localities on the S. side of do.
+
+ Kl-chang. Point on N. side do.
+
+ Nūk-pá-katsh. Rocky islet N. side do.
+
+ Kla-lá-ka-mish. Former inhabitants of the E. side of San Juan island; a
+     band of Lummis now extinct.
+
+ Si-a′lüng-hu. Hudson's Bay farm, San Juan island.
+
+ Wa-hül-a-nün. Hudson's Bay salmon house, San Juan do.
+
+ Kl-whái-ten. Patos island.
+
+ Klakhw-küm (_mussels_). Patos island.
+
+ Pen-ōkh. Matia group. The name has the same signification as that of
+     Vendovi island.
+
+ Chu-shé-nüng. Sucia group.
+
+ Si-lá-ka-mish. Spiedur island.
+
+ Kwün-nüs. Stuart island.
+
+ S'Hün-ne. Waldron island.
+
+ Le-mäl-tcha, Stä-shum. Former villages on Waldron island.
+
+ El-t'nlh. Point Disney, do.
+
+ Pl-hunk'-'sun. W. point, do.
+
+
+
+
+ NAMES OF LUMMI CHIEFS.
+
+
+ Sa-hōp-kan, now dead.
+
+ Chil-lük, his son, also dead.
+
+ Cháu-its-hūt, another son, and
+
+ Chil-lé-ük.
+
+   The last is Chief of the North Lummis, and Cháu-its-hūt of the
+   southern band.
+
+ Hu-té-sa-lük, at Simiamoo.
+
+
+
+
+
+End of the Project Gutenberg EBook of Alphabetical Vocabularies of the
+Clallum and Lummi, by George Gibbs
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ALPHABETICAL VOCABULARIES ***
+
+***** This file should be named 22228-0.txt or 22228-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/2/2/2/2/22228/
+
+Produced by David Starner, Stephen Blundell and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties.  Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission.  If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy.  You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research.  They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks.  Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A.  By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement.  If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement.  There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement.  See
+paragraph 1.C below.  There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works.  See paragraph 1.E below.
+
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works.  Nearly all the individual works in the
+collection are in the public domain in the United States.  If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed.  Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work.  You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D.  The copyright laws of the place where you are located also govern
+what you can do with this work.  Copyright laws in most countries are in
+a constant state of change.  If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work.  The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E.  Unless you have removed all references to Project Gutenberg:
+
+1.E.1.  The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges.  If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.
+
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder.  Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5.  Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6.  You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form.  However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form.  Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7.  Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8.  You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+     the use of Project Gutenberg-tm works calculated using the method
+     you already use to calculate your applicable taxes.  The fee is
+     owed to the owner of the Project Gutenberg-tm trademark, but he
+     has agreed to donate royalties under this paragraph to the
+     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     must be paid within 60 days following each date on which you
+     prepare (or are legally required to prepare) your periodic tax
+     returns.  Royalty payments should be clearly marked as such and
+     sent to the Project Gutenberg Literary Archive Foundation at the
+     address specified in Section 4, "Information about donations to
+     the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+     you in writing (or by e-mail) within 30 days of receipt that s/he
+     does not agree to the terms of the full Project Gutenberg-tm
+     License.  You must require such a user to return or
+     destroy all copies of the works possessed in a physical medium
+     and discontinue all use of and all access to other copies of
+     Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+     money paid for a work or a replacement copy, if a defect in the
+     electronic work is discovered and reported to you within 90 days
+     of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+     distribution of Project Gutenberg-tm works.
+
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1.  Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection.  Despite these efforts, Project Gutenberg-tm electronic
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from.  If you
+received the work on a physical medium, you must return the medium with
+your written explanation.  The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund.  If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund.  If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4.  Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5.  Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law.  The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section  2.  Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers.  It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, is critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come.  In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3.  Information about the Project Gutenberg Literary Archive
+Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service.  The Foundation's EIN or federal tax identification
+number is 64-6221541.  Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations.  Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org.  Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+     Dr. Gregory B. Newby
+     Chief Executive and Director
+     gbnewby@pglaf.org
+
+
+Section 4.  Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment.  Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States.  Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements.  We do not solicit donations in locations
+where we have not received written confirmation of compliance.  To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States.  U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses.  Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5.  General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone.  For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included.  Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+     http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

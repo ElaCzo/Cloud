@@ -7,6 +7,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -44,7 +45,7 @@ public class Search {
             io.printStackTrace();
         }
 
-        System.out.println("Suggestion : " + suggest(search(rechercheString)));
+        System.out.println("Sugestion : " + sugest(search(rechercheString)));
     }
 
     public static ArrayList<HashMap<String, String>> search(String val) {
@@ -80,7 +81,7 @@ public class Search {
         return books;
     }
 
-    public static ArrayList<String> suggest(ArrayList<HashMap<String, String>> search_result) {
+    public static ArrayList<String> sugest(ArrayList<HashMap<String, String>> search_result) {
 
         ArrayList<String> suggestion = new ArrayList<>();
 
@@ -92,8 +93,7 @@ public class Search {
                     } catch (IOException e) {
                         throw new UncheckedIOException(e);
                     }
-                }).forEach(string ->
-                {
+                }).forEach(string -> {
                     // System.out.println(string + " *");
 
                     if (suggestion.size() <= 10) {
@@ -116,7 +116,7 @@ public class Search {
 
                                 // System.out.println(voisins + " #");
 
-                                if (voisins.contains(string)) {
+                                if (voisins.contains(string) && !suggestion.contains(hashMap.get("title"))) {
                                     suggestion.add(hashMap.get("title"));
                                     break;
                                 }
