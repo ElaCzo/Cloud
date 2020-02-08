@@ -8,113 +8,89 @@ import java.time.Duration;
 import java.time.Instant;
 
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.stream.Collectors;
+
+import precalcul.titres.titre;
 
 public class myGrep {
 
-    // // MAIN
-    // public static void main(String arg[]) {
-    //     String regEx = "";
-    //     String path = "";
+    public static ArrayList<HashMap<String, String>> regex(String regEx) {
+        ArrayList<HashMap<String, String>> books = new ArrayList<>();
 
-    //     if (arg.length == 2) {
-    //         regEx = arg[0];
-    //         path = arg[1];
+        ArrayList<String> paths = new ArrayList<>();
+        HashMap<String, String> titres = titre.loadTitres();
 
-    //     } else {
-    //         System.out.print(" Error ");
+        try {
 
-    //     }
+            Files.walk(Paths.get("./data/books/")).filter(Files::isRegularFile).map(p -> p.toString())
+                    .collect(Collectors.toList()).forEach(x -> paths.add(x));
 
-    //     ArrayList<String> text = null;
+        
 
-    //     System.out.println("Chargement du texte");
-    //     Instant now = Instant.now();
+        if (kmpable(regEx)) {
 
-    //     try {
-    //         text = new ArrayList<>(Files.readAllLines(Paths.get(path)));
-    //         System.out
-    //                 .println("Chargement du texte a pris : " + Duration.between(now, Instant.now()).toMillis() + " ms");
 
-    //     } catch (IOException e) {
-    //         e.printStackTrace();
-    //     }
+            for (String path : paths) {
+                ArrayList<String> text = new ArrayList<>(Files.readAllLines(Paths.get(path)));
 
-    //     ArrayList<TextPosition> pos = null;
+                ArrayList<TextPosition> pos = KMP.kmp(text, regEx.toCharArray());
 
-    //     if (indexable(regEx)) {
-    //         System.out.println("Methode Index");
-    //         now = Instant.now();
+                if (pos.size() != 0) {
+                    HashMap<String, String> h = new HashMap();
+                    books.add(h);
+                    h.put("title", titres.getOrDefault(path, path));
+                    h.put("path", path);
+                }
+                if (books.size() > 50) {
+                    break;
+                }
 
-    //         String indexPath = Positions.createIndex(path, text);
-    //         IndexTree itree = Positions.loadIndexTree(indexPath);
+            }
+        }
 
-    //         System.out.println(
-    //                 "Chargement de l'index a pris : " + Duration.between(now, Instant.now()).toMillis() + " ms");
+        if (!kmpable(regEx)) {
 
-    //         now = Instant.now();
+            try {
 
-    //         pos = itree.getPositions(regEx);
+                for (String path : paths) {
+                    ArrayList<String> text = new ArrayList<>(Files.readAllLines(Paths.get(path)));
 
-    //         System.out.println(
-    //                 "Recherche dans l'arbre a pris : " + Duration.between(now, Instant.now()).toNanos() + " µs\n");
+                    ArrayList<TextPosition> pos = Automate.getOccurencesOnText(text, regEx);
 
-    //     }
+                    if (pos.size() != 0) {
+                        HashMap<String, String> h = new HashMap();
+                        books.add(h);
+                        h.put("title", titres.getOrDefault(path, path));
+                        h.put("path", path);
+                    }
+                    if (books.size() > 50) {
+                        break;
+                    }
 
-    //     if ((pos == null || pos.size() == 0) && kmpable(regEx)) {
-    //         System.out.println("Methode KMP");
+                }
 
-    //         now = Instant.now();
-    //         pos = KMP.kmp(text, regEx.toCharArray());
-    //         System.out.println(
-    //                 "Recherche avec KMP a pris : " + Duration.between(now, Instant.now()).toMillis() + " ms\n");
+            } catch (Exception e) {
+                e.printStackTrace();
+            }
+        }
+    } catch (IOException io) {
+        io.printStackTrace();
+    }
 
-    //     }
+        return books;
 
-    //     if ((pos == null || pos.size() == 0) && !kmpable(regEx)) {
-    //         System.out.println("Methode Regex");
+    }
 
-    //         try {
-    //             now = Instant.now();
-    //             pos = Automate.getOccurencesOnText(text, regEx);
-    //             System.out.println("Recherche avec les automates a pris : "
-    //                     + Duration.between(now, Instant.now()).toMillis() + " ms\n");
-    //         } catch (Exception e) {
-    //         }
-    //     }
+    public static boolean kmpable(String facteur) {
 
-    //     if (pos == null || pos.size() == 0) {
+        for (char c : facteur.toCharArray()) {
+            if (c == '*' || c == '(' || c == ')' || c == '|') {
+                return false;
+            }
+        }
 
-    //         System.out.println("motif non trouvé");
-    //     }
+        return true;
 
-    //     else {
-    //         System.out.println(pos.size() + " matchs trouvés : ");
-    //         for (TextPosition p : pos) {
-    //             System.out.println(text.get(p.ligne));
-    //         }
-    //     }
-    // }
-
-    // public static boolean indexable(String facteur) {
-
-    //     for (char c : facteur.toCharArray()) {
-    //         if (!Character.isLetter(c)) {
-    //             return false;
-    //         }
-    //     }
-
-    //     return true;
-    // }
-
-    // public static boolean kmpable(String facteur) {
-
-    //     for (char c : facteur.toCharArray()) {
-    //         if (c == '*' || c == '(' || c == ')' || c == '|') {
-    //             return false;
-    //         }
-    //     }
-
-    //     return true;
-
-    // }
+    }
 }

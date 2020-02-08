@@ -11,6 +11,7 @@ import java.util.HashSet;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+import grep.myGrep;
 import precalcul.index.Indexing;
 import precalcul.titres.titre;
 
@@ -21,31 +22,8 @@ public class Search {
 
     public static void main(String[] args) {
         String rechercheString = args[0];
-        ArrayList<String> paths = new ArrayList<>();
-        HashMap<String, String> titres = titre.loadTitres();
-        try {
 
-            Files.walk(Paths.get("./data/index/")).filter(Files::isRegularFile).map(p -> p.toString())
-                    .filter(p -> p.endsWith("index")).collect(Collectors.toList()).forEach(x -> paths.add(x));
-
-            for (String path : paths) {
-                HashMap<String, Integer> indexMap = Indexing.loadIndexMap(path);
-                if (indexMap.containsKey(rechercheString)) {
-
-                    String textString = path.substring(0, path.indexOf("/index"));
-                    textString += "/books/" + path.substring(path.lastIndexOf("/") + 1, path.lastIndexOf("."));
-                    System.out.println("\nFILENAME : " + textString);
-                    System.out.println("NAME : " + titres.getOrDefault(textString, textString));
-
-                }
-
-            }
-
-        } catch (IOException io) {
-            io.printStackTrace();
-        }
-
-        System.out.println("Sugestion : " + sugest(search(rechercheString)));
+        System.out.println("Sugestion : " + myGrep.regex(rechercheString));
     }
 
     public static ArrayList<HashMap<String, String>> search(String val) {
