@@ -85,15 +85,6 @@ public class Search {
 
         ArrayList<String> suggestion = new ArrayList<>();
 
-        HashSet<String> test = new HashSet<>();
-
-        for (HashMap<String, String> hashMap : search_result) {
-
-            test.add(hashMap.get("title"));
-
-        }
-
-
         try {
             try (Stream<Path> s = Files.walk(Paths.get("./data/cent/cent.cent"))) {
                 s.flatMap(path -> {
@@ -102,8 +93,7 @@ public class Search {
                     } catch (IOException e) {
                         throw new UncheckedIOException(e);
                     }
-                }).forEach(string ->
-                {
+                }).forEach(string -> {
                     // System.out.println(string + " *");
 
                     if (suggestion.size() <= 10) {
@@ -126,7 +116,7 @@ public class Search {
 
                                 // System.out.println(voisins + " #");
 
-                                if (voisins.contains(string) && !test.contains(hashMap.get("title"))) {
+                                if (voisins.contains(string) && !suggestion.contains(hashMap.get("title"))) {
                                     suggestion.add(hashMap.get("title"));
                                     break;
                                 }
