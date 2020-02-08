@@ -1,4 +1,4 @@
-package grep;
+package com.example.booksapi.grep;
 
 import java.util.ArrayList;
 
@@ -15,7 +15,7 @@ public class IndexTree {
     }
 
     public void inserer(String valeur, ArrayList<TextPosition> positions) {
-        if (valeur.isEmpty() ) {
+        if (valeur.isEmpty()) {
             feuilles.addAll(positions);
             return;
         } else {
@@ -40,7 +40,7 @@ public class IndexTree {
 
         ArrayList<TextPosition> retour = new ArrayList<>();
 
-        if (valeur.isEmpty() ) {
+        if (valeur.isEmpty()) {
             retour.addAll(feuilles);
             for (int i = 0; i < transitions.size(); i++) {
                 retour.addAll(fils.get(i).getPositions(valeur));

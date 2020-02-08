@@ -1,10 +1,6 @@
-package precalcul.centrality;
+package com.example.booksapi.precalcul.centrality;
 
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.io.Writer;
+import java.io.*;
 import java.util.ArrayList;
 
 /**
@@ -79,9 +75,9 @@ public class Centrality {
             for (int i = paths.size() - 1; i >= 0; i--) {
 
                 String path = paths.get(scent[i]);
-                path = path.substring(path.lastIndexOf('/') + 1, path.lastIndexOf('i')-1 );
+                path = path.substring(path.lastIndexOf('/') + 1, path.lastIndexOf('i') - 1);
 
-                pw.println(path);   
+                pw.println(path);
 
                 pw.flush();
             }

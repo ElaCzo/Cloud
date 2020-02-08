@@ -1,4 +1,4 @@
-package precalcul.titres;
+package com.example.booksapi.precalcul.titres;
 
 import java.io.IOException;
 import java.nio.file.Files;

@@ -1,8 +1,9 @@
-package grep;
+package com.example.booksapi.grep;
 
-import org.w3c.dom.Text;
-
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.HashSet;
+import java.util.List;
 import java.util.stream.Collectors;
 
 public class Automate {
@@ -77,8 +78,8 @@ public class Automate {
                 }
             }
             sortie.fin[i + A1.nbStates()] = A2.fin[i];
-            for(int s : A2.epsilon[i])
-                sortie.epsilon[i + A1.nbStates()].add(s+A1.nbStates());
+            for (int s : A2.epsilon[i])
+                sortie.epsilon[i + A1.nbStates()].add(s + A1.nbStates());
         }
 
         return sortie;
@@ -101,8 +102,8 @@ public class Automate {
                     sortie.states[i + A1.nbStates()][j] = A2.states[i][j] + A1.nbStates();
                 }
             }
-            for(int s : A2.epsilon[i])
-                sortie.epsilon[i + A1.nbStates()].add(s+A1.nbStates());
+            for (int s : A2.epsilon[i])
+                sortie.epsilon[i + A1.nbStates()].add(s + A1.nbStates());
         }
 
         sortie.debut[sortie.nbStates() - 2] = true;
@@ -183,19 +184,88 @@ public class Automate {
         }
     }
 
-    private class SetOfStates extends HashSet<Integer>{}
+    // Avec un automate déterministe (un seul état initial).
+    public static boolean isWord(Automate a, String substring) {
+        int next;
+
+        // on cherche l'état initial de l'automate.
+        for (int s = 0; s < a.nbStates(); s++)
+            if (a.debut[s]) {
+                next = s;
+
+                // pour chaque lettre du mot
+                for (int i = 0; i < substring.length(); i++) {
+                    if (a.fin[next])
+                        return true;
+
+                    int l = substring.charAt(i);
+                    if (l < 0 || l >= 256)
+                        return false;
+
+                    // si la lettre est présente sur une transition, on continue.
+                    if (a.states[next][l] != -1) {
+                        next = a.states[next][l];
+                    }
+                    // sinon ce n'est pas le début du mot cherché.
+                    else {
+                        return false;
+                    }
+                }
+                // si on finit le mot et qu'on est dans un état final, on a trouvé le mot cherché.
+                if (a.fin[next])
+                    return true;
+            }
+
+        return false;
+    }
+
+    public static ArrayList<Integer> getOccurencesOnLine(Automate a, String line) {
+        ArrayList<Integer> result = new ArrayList<>();
+        ;
+
+        for (int i = 0; i < line.length(); i++) {
+            if (Automate.isWord(a, line.substring(i))) {
+                result.add(i);
+            }
+        }
+
+        return result;
+    }
+
+    public static ArrayList<TextPosition> getOccurencesOnText(ArrayList<String> text, String regEx) {
+        try {
+            Automate a = Automate.fromTree(new RegEx(regEx).parse()).determinize().minimize(regEx);
+
+            List<ArrayList<TextPosition>> tmp = text.parallelStream().map(e -> {
+                ArrayList<TextPosition> result = new ArrayList<>();
+                for (Integer colonne : getOccurencesOnLine(a, e)) {
+                    result.add(new TextPosition(text.indexOf(e), colonne));
+                }
+                return result;
+            }).collect(Collectors.toList());
+
+            List<TextPosition> result;
+
+            result = tmp.parallelStream().flatMap(Collection::parallelStream).collect(Collectors.toList());
+
+            return (ArrayList<TextPosition>) result;
+
+        } catch (Exception e) {
+        }
+        return null;
+    }
 
     private SetOfStates statesReachingEpsilon(int state) {
         SetOfStates result = new SetOfStates();
 
         boolean marked[] = new boolean[nbStates()];
-        for(int i=0; i<nbStates(); i++){
-            marked[i]=false;
+        for (int i = 0; i < nbStates(); i++) {
+            marked[i] = false;
         }
 
-        marked[state]=true;
+        marked[state] = true;
 
-        for(int e : epsilon[state]) {
+        for (int e : epsilon[state]) {
             SetOfStates r = statesReachingEpsilon(e, marked);
             result.addAll(r);
         }
@@ -203,16 +273,16 @@ public class Automate {
         return result;
     }
 
-    private SetOfStates statesReachingEpsilon(int state, boolean marked[]){
+    private SetOfStates statesReachingEpsilon(int state, boolean marked[]) {
         SetOfStates result = new SetOfStates();
 
-        if(marked[state])
+        if (marked[state])
             return new SetOfStates();
 
         result.add(state);
-        marked[state]=true;
+        marked[state] = true;
 
-        for(int e : epsilon[state]) {
+        for (int e : epsilon[state]) {
             SetOfStates r = statesReachingEpsilon(e, marked);
             result.addAll(r);
         }
@@ -220,10 +290,10 @@ public class Automate {
         return result;
     }
 
-    private SetOfStates statesReachingLetter(int state, int letter){
+    private SetOfStates statesReachingLetter(int state, int letter) {
         SetOfStates result = new SetOfStates();
 
-        if(states[state][letter]!=-1) {
+        if (states[state][letter] != -1) {
             result.add(states[state][letter]);
             result.addAll(statesReachingEpsilon(states[state][letter]));
         }
@@ -242,7 +312,7 @@ public class Automate {
         // On cherche le début
         for (int i = 0; i < nbStates(); i++) {
             SetOfStates statesNDA;
-            if(debut[i]) {
+            if (debut[i]) {
                 statesNDA = statesReachingEpsilon(i);
                 statesNDA.add(i);
                 stack.add(statesNDA);
@@ -254,14 +324,14 @@ public class Automate {
 
         // tant que la pile n'est pas vide
         SetOfStates set;
-        while(!stack.isEmpty()){
-            set=stack.remove(stack.size()-1);
+        while (!stack.isEmpty()) {
+            set = stack.remove(stack.size() - 1);
             for (int l = 0; l < 256; l++) {
                 SetOfStates resultStatesNDA = new SetOfStates();
-                for(int s : set) {
+                for (int s : set) {
                     SetOfStates statesNDA = statesReachingLetter(s, l);
-                    for(int st : statesNDA)
-                        if(!resultStatesNDA.contains(st))
+                    for (int st : statesNDA)
+                        if (!resultStatesNDA.contains(st))
                             resultStatesNDA.add(st);
                 }
                 if (!resultStatesNDA.isEmpty()) {
@@ -286,38 +356,11 @@ public class Automate {
         return resultRightNumberOfStates;
     }
 
-    private class Couple {
-        SetOfStates set;
-        int letter;
-
-        public Couple(SetOfStates set, int letter) {
-            this.set = set;
-            this.letter = letter;
-        }
-
-        @Override
-        public boolean equals(Object obj) {
-            if (!(obj instanceof Couple))
-                return false;
-            return ((Couple) obj).set.equals(set) && ((Couple) obj).letter == letter;
-        }
-
-        @Override
-        public int hashCode(){
-            return set.hashCode()+letter;
-        }
-
-        @Override
-        public String toString(){
-            return "("+set+", "+(char)letter+"="+letter+")";
-        }
-    }
-
     /* Algorithme de Hopcroft. */
     public Automate minimize(String regEx) {
         // lettres présentes dans le mot.
         HashSet<Integer> lettres = new HashSet<>();
-        for(char c : regEx.toCharArray()) lettres.add((int)c);
+        for (char c : regEx.toCharArray()) lettres.add((int) c);
 
         ArrayList<SetOfStates> partition = new ArrayList<>();
 
@@ -341,14 +384,15 @@ public class Automate {
 
         // On remplit W
         for (int l : lettres)
-            if(l>=0 && l<256)
+            if (l >= 0 && l < 256)
                 W.add(new Couple(smallerSet, l));
 
         SetOfStates x1, x2;
         while (!W.isEmpty()) {
-            Couple Za = W.remove(W.size() - 1);;
+            Couple Za = W.remove(W.size() - 1);
+            ;
 
-            for (int p = 0; p<partition.size(); p++) {
+            for (int p = 0; p < partition.size(); p++) {
                 SetOfStates x = partition.get(p);
 
                 x1 = new SetOfStates();
@@ -374,8 +418,8 @@ public class Automate {
                     else
                         smallerSet = x2;
 
-                    for(int m : lettres){
-                        if(m>=0 && m<256){
+                    for (int m : lettres) {
+                        if (m >= 0 && m < 256) {
                             Couple c = new Couple(x, m);
 
                             if (W.contains(c)) {
@@ -393,26 +437,26 @@ public class Automate {
 
         Automate result = new Automate(partition.size());
 
-        int resultState=-1;
-        for (SetOfStates set : partition){
+        int resultState = -1;
+        for (SetOfStates set : partition) {
             resultState = partition.indexOf(set);
-            for(int state : set){
-                if(debut[state])
-                    result.debut[resultState]=true;
+            for (int state : set) {
+                if (debut[state])
+                    result.debut[resultState] = true;
 
-                for(int l=0; l<256; l++){
+                for (int l = 0; l < 256; l++) {
                     int stateOut = states[state][l];
                     if (stateOut != -1) {
-                        for(SetOfStates s : partition)
-                            if(s.contains(stateOut)) {
+                        for (SetOfStates s : partition)
+                            if (s.contains(stateOut)) {
                                 result.states[resultState][l] = partition.indexOf(s);
                                 break;
                             }
                     }
                 }
 
-                if(fin[state])
-                    result.fin[resultState]=true;
+                if (fin[state])
+                    result.fin[resultState] = true;
             }
         }
 
@@ -433,7 +477,7 @@ public class Automate {
                     s += " [ " + (char) j + " : " + this.states[i][j] + " ] ";
                 }
             }
-            s += "| epsilons :" + epsilon[i].toString()+" ";
+            s += "| epsilons :" + epsilon[i].toString() + " ";
             if (this.debut[i] == true) {
                 s += "| deb";
             }
@@ -448,72 +492,33 @@ public class Automate {
         return s;
     }
 
-    // Avec un automate déterministe (un seul état initial).
-    public static boolean isWord(Automate a, String substring){
-        int next;
-
-        // on cherche l'état initial de l'automate.
-        for(int s=0 ; s<a.nbStates() ; s++)
-            if(a.debut[s]) {
-                next=s;
-
-                // pour chaque lettre du mot
-                for(int i=0 ; i < substring.length() ; i++) {
-                    if(a.fin[next])
-                        return true;
-
-                    int l = substring.charAt(i);
-                    if(l<0 || l>=256)
-                        return false;
-
-                    // si la lettre est présente sur une transition, on continue.
-                    if (a.states[next][l] != -1) {
-                        next = a.states[next][l];
-                    }
-                    // sinon ce n'est pas le début du mot cherché.
-                    else {
-                        return false;
-                    }
-                }
-                // si on finit le mot et qu'on est dans un état final, on a trouvé le mot cherché.
-                if(a.fin[next])
-                    return true;
-            }
-
-        return false;
+    private class SetOfStates extends HashSet<Integer> {
     }
 
-    public static ArrayList<Integer> getOccurencesOnLine(Automate a, String line){
-        ArrayList<Integer> result = new ArrayList<>();;
+    private class Couple {
+        SetOfStates set;
+        int letter;
 
-        for(int i=0; i<line.length(); i++) {
-            if(Automate.isWord(a, line.substring(i))) {
-                result.add(i);
-            }
+        public Couple(SetOfStates set, int letter) {
+            this.set = set;
+            this.letter = letter;
         }
 
-        return result;
-    }
+        @Override
+        public boolean equals(Object obj) {
+            if (!(obj instanceof Couple))
+                return false;
+            return ((Couple) obj).set.equals(set) && ((Couple) obj).letter == letter;
+        }
 
-    public static ArrayList<TextPosition> getOccurencesOnText(ArrayList<String> text, String regEx){
-        try{
-            Automate a = Automate.fromTree(new RegEx(regEx).parse()).determinize().minimize(regEx);
+        @Override
+        public int hashCode() {
+            return set.hashCode() + letter;
+        }
 
-            List<ArrayList<TextPosition>> tmp = text.parallelStream().map(e -> {
-                ArrayList<TextPosition> result = new ArrayList<>();
-                for(Integer colonne : getOccurencesOnLine(a, e)) {
-                    result.add(new TextPosition(text.indexOf(e), colonne));
-                }
-                return result;
-            }).collect(Collectors.toList());
-
-            List<TextPosition> result;
-
-            result = tmp.parallelStream().flatMap(Collection::parallelStream).collect(Collectors.toList());
-
-            return (ArrayList<TextPosition>)result;
-
-        }catch(Exception e){}
-        return null;
+        @Override
+        public String toString() {
+            return "(" + set + ", " + (char) letter + "=" + letter + ")";
+        }
     }
 }

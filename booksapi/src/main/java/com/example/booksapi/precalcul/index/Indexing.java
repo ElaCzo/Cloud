@@ -1,19 +1,14 @@
-package precalcul.index;
+package com.example.booksapi.precalcul.index;
 
-import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileReader;
-import java.io.FilenameFilter;
-import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.HashSet;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.stream.Collector;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -50,7 +45,7 @@ public class Indexing {
         }
 
         // String indexPath = path.substring(0, path.lastIndexOf('.'));
-        String indexPath = path ;
+        String indexPath = path;
 
         indexPath = path.substring(path.lastIndexOf('/') + 1, indexPath.length());
 
@@ -117,6 +112,7 @@ public class Indexing {
                 indexmap.put(mot, occurences);
             }
 
+            stream.close();
         } catch (IOException e) {
             e.printStackTrace();
         }

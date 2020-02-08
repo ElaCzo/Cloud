@@ -1,6 +1,6 @@
 package com.example.booksapi;
 
-import recherche.Search;
+import com.example.booksapi.recherche.Search;
 
 import java.util.ArrayList;
 import java.util.HashMap;

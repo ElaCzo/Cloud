@@ -1,26 +1,20 @@
-package grep;
+package com.example.booksapi.grep;
 
-import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileReader;
-import java.io.FilenameFilter;
-import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.stream.Collector;
+import java.util.ArrayList;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class Positions {
 
 
-
     public static Boolean posFiles() {
-        
+
 
         try (Stream<Path> paths = Files.walk(Paths.get("./data/books/"))) {
             paths.parallel().filter(Files::isRegularFile).map(p -> p.toString()).forEach(Positions::createPos);
@@ -36,14 +30,14 @@ public class Positions {
     public static String createPos(String path) {
         String indexPath = path.substring(0, path.lastIndexOf('.'));
         String posPath = indexPath;
-        posPath  = path.substring(path.lastIndexOf('/') + 1, indexPath.length());
+        posPath = path.substring(path.lastIndexOf('/') + 1, indexPath.length());
         indexPath = "./data/index/" + posPath + ".index";
         posPath = "./data/pos/" + posPath + ".pos";
 
 
         File f = new File(posPath);
         if (!f.isFile()) {
-            
+
 
             try {
                 ArrayList<String> txt = null;
@@ -57,16 +51,16 @@ public class Positions {
                 for (String line : txt) {
                     String[] columns = line.split("\\s+");
 
-                        String s = columns[0];
-                        ArrayList<TextPosition> occ = KMP.kmp(text, s.toCharArray());
+                    String s = columns[0];
+                    ArrayList<TextPosition> occ = KMP.kmp(text, s.toCharArray());
 
-                        for (TextPosition tp : occ) {
-                            s += " (" + tp.ligne + "," + tp.pos + ") ";
-                        }
-
-                        index.add(s);
+                    for (TextPosition tp : occ) {
+                        s += " (" + tp.ligne + "," + tp.pos + ") ";
                     }
-                
+
+                    index.add(s);
+                }
+
 
                 Path file = Paths.get(posPath);
                 Files.write(file, index, StandardCharsets.UTF_8);
@@ -97,6 +91,8 @@ public class Positions {
 
                 indexTree.inserer(mot, pos);
             }
+
+            stream.close();
 
         } catch (IOException e) {
             e.printStackTrace();

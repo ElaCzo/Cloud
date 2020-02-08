@@ -734,7 +734,7 @@ C’était toujours la question; mais on espérait la résoudre en
 employant des appareils de grande dimension.
 
 Or, il se trouvait que, dans cette lutte des inventeurs à la
-recherche d’un moteur puissant et léger, les Américains s’étaient le
+com.example.booksapi.recherche d’un moteur puissant et léger, les Américains s’étaient le
 plus rapprochés du fameux desideratum. Un appareil dynamo-électrique,
 basé sur l’emploi d’une pile nouvelle, dont la composition était
 encore un mystère, avait été acheté à son inventeur, un chimiste de

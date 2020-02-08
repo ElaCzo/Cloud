@@ -1,10 +1,6 @@
-package precalcul.centrality;
+package com.example.booksapi.precalcul.centrality;
 
 import java.util.ArrayList;
-import java.util.HashMap;
-
-import precalcul.centrality.Document;
-
 import java.util.HashMap;
 
 /**
@@ -78,9 +74,9 @@ public class Graph {
 
             String[] columns = line.split("\\s+");
 
-            for (int j = 0; j+1 < columns.length; j += 2) {
+            for (int j = 0; j + 1 < columns.length; j += 2) {
 
-                if (columns[j]!= null && columns[j+1]!= null){
+                if (columns[j] != null && columns[j + 1] != null) {
 
                     addEdge(i, Integer.parseInt(columns[j]));
                     addJaccard(i, Integer.parseInt(columns[j]), Double.parseDouble(columns[j + 1]));

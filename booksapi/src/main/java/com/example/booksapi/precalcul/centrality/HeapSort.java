@@ -1,23 +1,23 @@
-package precalcul.centrality;
+package com.example.booksapi.precalcul.centrality;
 
 public class HeapSort {
 
     /***** SWAPS *****/
 
     /* échange le contenu des indices k et m dans t. */
-    private static void swap(double[] t, int k, int m)
-    {
+    private static void swap(double[] t, int k, int m) {
         double swap = t[k];
-        t[k]=t[m];
-        t[m]=swap;;
+        t[k] = t[m];
+        t[m] = swap;
+        ;
     }
 
     /* échange le contenu des indices k et m dans t. */
-    private static void swap(int[] t, int k, int m)
-    {
+    private static void swap(int[] t, int k, int m) {
         int swap = t[k];
-        t[k]=t[m];
-        t[m]=swap;;
+        t[k] = t[m];
+        t[m] = swap;
+        ;
     }
 
     /***** HEAPSORT *****/
@@ -35,8 +35,7 @@ public class HeapSort {
                 swap(res, k, j);
                 k = j;
                 j = 2 * k;
-            }
-            else
+            } else
                 break;
         }
     }
@@ -56,13 +55,13 @@ public class HeapSort {
 
     /* Trie tree et renvoie les indices de tree par ordre croissant avec le
     tri par tas. */
-    public static int[] heapsort (double[] tree) {
+    public static int[] heapsort(double[] tree) {
         int[] indices = new int[tree.length];
         double[] treetmp = new double[tree.length];
 
-        for(int i=0; i<tree.length; i++) {
+        for (int i = 0; i < tree.length; i++) {
             indices[i] = i;
-            treetmp[i]= tree[i];
+            treetmp[i] = tree[i];
         }
 
         heapsort(treetmp, indices);

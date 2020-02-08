@@ -19,7 +19,7 @@ const Livres = (props) => {
 
     let titreCle = "titre-" + props.num;
     let titre;
-    if ((props.num % 2) == 0) {
+    if ((props.num % 2) == 1) {
         titre = "Résultats de la recherche";
     }
     else {

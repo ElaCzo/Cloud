@@ -1,4 +1,4 @@
-package precalcul.centrality;
+package com.example.booksapi.precalcul.centrality;
 
 public class Closeness {
 

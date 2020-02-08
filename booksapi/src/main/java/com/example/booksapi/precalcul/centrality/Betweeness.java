@@ -1,6 +1,4 @@
-package precalcul.centrality;
-
-import java.util.ArrayList;
+package com.example.booksapi.precalcul.centrality;
 
 public class Betweeness {
 

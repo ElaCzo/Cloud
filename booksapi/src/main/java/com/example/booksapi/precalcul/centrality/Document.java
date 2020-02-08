@@ -1,9 +1,8 @@
-package precalcul.centrality;
+package com.example.booksapi.precalcul.centrality;
 
-import java.util.ArrayList;
+import com.example.booksapi.precalcul.index.Indexing;
+
 import java.util.HashMap;
-
-import precalcul.index.Indexing;
 
 /**
  * Document

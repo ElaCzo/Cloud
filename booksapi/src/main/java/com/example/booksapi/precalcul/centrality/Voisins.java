@@ -1,12 +1,7 @@
-package precalcul.centrality;
+package com.example.booksapi.precalcul.centrality;
 
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.io.Writer;
+import java.io.*;
 import java.util.ArrayList;
-import java.util.HashSet;
 
 /**
  * Voisins

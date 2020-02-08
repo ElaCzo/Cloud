@@ -3047,7 +3047,7 @@ now!”--and I wrote as he dictated.
 “PIQUANT FACTS FOR SIMILES. ‘There were originally but three
 Muses--Melete, Mneme, Aoede--meditation, memory, and singing.’ You may
 make a good deal of that little fact if properly worked. You see it is
-not generally known, and looks recherche. You must be careful and give
+not generally known, and looks com.example.booksapi.recherche. You must be careful and give
 the thing with a downright improviso air.
 
 “Again. ‘The river Alpheus passed beneath the sea, and emerged without
@@ -3117,7 +3117,7 @@ up in a salad-bowl, with orange-jellies en mosaiques. Write! (You can
 get them that way at Tortoni’s)--Write, if you please!
 
 “Here is a nice little Latin phrase, and rare too, (one can’t be too
-recherche or brief in one’s Latin, it’s getting so common--ignoratio
+com.example.booksapi.recherche or brief in one’s Latin, it’s getting so common--ignoratio
 elenchi. He has committed an ignoratio elenchi--that is to say, he has
 understood the words of your proposition, but not the idea. The man was
 a fool, you see. Some poor fellow whom you address while choking with
@@ -3721,7 +3721,7 @@ went out, the Baron whispered me that I should follow him and make an
 offer of my services. To this I agreed; not knowing precisely what to
 make of so ridiculous a piece of business.
 
-The duellist accepted my aid with his stiff and ultra recherche air,
+The duellist accepted my aid with his stiff and ultra com.example.booksapi.recherche air,
 and, taking my arm, led me to his apartment. I could hardly forbear
 laughing in his face while he proceeded to discuss, with the profoundest
 gravity, what he termed “the refinedly peculiar character” of the insult

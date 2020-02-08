@@ -1,22 +1,17 @@
-package precalcul;
+package com.example.booksapi.precalcul;
 
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.PrintWriter;
-import java.io.Writer;
+import com.example.booksapi.precalcul.centrality.Centrality;
+import com.example.booksapi.precalcul.centrality.Display;
+import com.example.booksapi.precalcul.centrality.Graph;
+import com.example.booksapi.precalcul.centrality.Voisins;
+import com.example.booksapi.precalcul.index.Indexing;
+
+import java.io.*;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
-
 import java.util.stream.Collectors;
-
-import precalcul.centrality.Centrality;
-import precalcul.centrality.Display;
-import precalcul.centrality.Graph;
-import precalcul.centrality.Voisins;
-import precalcul.index.Indexing;
 
 public class precalcul {
     public static void main(String[] args) {

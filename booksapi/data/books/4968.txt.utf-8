@@ -69,7 +69,7 @@ C'était un homme de cinquante ans, aux traits fins, aux yeux vifs et
 purs sous leurs lunettes d'acier, de physionomie à la fois grave et
 aimable, un de ces individus dont on se dit à première vue : voilà un
 brave homme. A cette heure matinale, bien que sa tenue ne trahît aucune
-recherche, le docteur était déjà rasé de frais et cravaté de blanc.
+com.example.booksapi.recherche, le docteur était déjà rasé de frais et cravaté de blanc.
 
 Sur le tapis, sur les meubles de sa chambre d'hôtel, à Brighton,
 s'étalaient le _Times_, le _Daily Telegraph_, le _Daily News_. Dix
@@ -1176,7 +1176,7 @@ moment où le sommeil semblait venir, l'attention du professeur fut
 attirée par un nom étranger, celui de << Langévol >>, dans le fait
 divers relatif à l'héritage monstre. Mais il eut beau vouloir se
 rappeler quel souvenir pouvait bien évoquer en lui ce nom, il n'y
-parvint pas. Après quelques minutes données à cette recherche vaine, il
+parvint pas. Après quelques minutes données à cette com.example.booksapi.recherche vaine, il
 jeta le journal, souffla sa bougie et fit bientôt entendre un
 ronflement sonore.
 
@@ -2031,7 +2031,7 @@ matinée, il trouva aisément un logis de garçon chez une brave femme qui
 << recevait des pensionnaires >>.
 
 Mais on ne le vit pas, ce jeune ouvrier, aller après souper à la
-recherche d'une brasserie. Il s'enferma dans sa chambre, tira de sa
+com.example.booksapi.recherche d'une brasserie. Il s'enferma dans sa chambre, tira de sa
 poche un fragment d'acier ramassé sans doute dans la salle de puddlage,
 et un fragment de terre à creuset recueilli dans le secteur O ; puis,
 il les examina avec un soin singulier, à la lueur d'une lampe fumeuse.
@@ -2486,7 +2486,7 @@ s'éteignit aussitôt.
 << J'en étais sûr... dit-il. Le gaz, étant plus lourd que l'air, se
 maintient au ras du sol... Il ne faut pas rester ici -- je parle de
 ceux qui n'ont pas d'appareils Galibert. Si vous voulez, maître, nous
-poursuivrons seuls la recherche. >>
+poursuivrons seuls la com.example.booksapi.recherche. >>
 
 Les choses ainsi convenues, Marcel et le contremaître prirent chacun
 entre leurs dents l'embouchure de leur caisse à air, placèrent la pince
@@ -5052,7 +5052,7 @@ vous nous aviez montré le dessin ? demandait Jeanne, qui s'intéressait
 -- Sans nul doute, mademoiselle, répondait Marcel.
 
 -- Ah ! j'en suis bien heureuse ! Mais que le moindre détail industriel
-représente de recherche et de peine !... Vous me disiez que le génie a
+représente de com.example.booksapi.recherche et de peine !... Vous me disiez que le génie a
 creusé hier cinq cents nouveaux mètres de fossés ? C'est beaucoup,
 n'est-ce pas ?
 
