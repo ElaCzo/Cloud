@@ -92,8 +92,7 @@ public class Search {
                     } catch (IOException e) {
                         throw new UncheckedIOException(e);
                     }
-                }).forEach(string ->
-                {
+                }).forEach(string -> {
                     // System.out.println(string + " *");
 
                     if (suggestion.size() <= 10) {
@@ -116,7 +115,7 @@ public class Search {
 
                                 // System.out.println(voisins + " #");
 
-                                if (voisins.contains(string)) {
+                                if (voisins.contains(string) && !suggestion.contains(hashMap.get("title"))) {
                                     suggestion.add(hashMap.get("title"));
                                     break;
                                 }

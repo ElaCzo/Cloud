@@ -106,44 +106,50 @@ class App extends React.Component {
 
         <Container>
           <Row>
-            <Col>Bibliothèque en ligne</Col>
+            <Col>
+              <Card>
+                <Card.Body>
+                  <Card.Title>Bibliothèque en ligne</Card.Title>
+                </Card.Body>
+              </Card>
+            </Col>
           </Row>
           <Row>
             <Col>
-            <Tabs defaultActiveKey="profile" id="uncontrolled-tab-example">
-              <Tab eventKey="recherche" title="Recherche">
-                <form role="search" onSubmit={(e) => this.submitQuery(e)}>
-                  <input
-                    className="form-control mr-sm-2"
-                    type="text"
-                    title="Recherche par mots-clés"
-                    id="rechercher" value={this.state.value}
-                    onChange={(e) => this.handleChange(e)}
-                    autoComplete="off"
-                  />
-                </form>
-                <div className="resultats">
-                  {<Livres livresRes={this.state.livresRes} num='1' />}
-                  {<Livres livresRes={this.state.suggRes} num="2" />}
-                </div>
-              </Tab>
-              <Tab eventKey="regex" title="Regex">
-                <form role="search" onSubmit={(e) => this.submitQuery(e)}>
-                  <input
-                    className="form-control mr-sm-2"
-                    type="text"
-                    title="Recherche par mots-clés"
-                    id="rechercher2" value={this.state.value}
-                    onChange={(e) => this.handleChange(e)}
-                    autoComplete="off"
-                  />
-                </form>
-                <div className="resultats">
-                  {<Livres livresRes={this.state.livresRes} num='1' />}
-                  {<Livres livresRes={this.state.suggRes} num="2" />}
-                </div>
-              </Tab>
-            </Tabs>
+              <Tabs defaultActiveKey="profile" id="uncontrolled-tab-example">
+                <Tab eventKey="recherche" title="Recherche">
+                  <form role="search" onSubmit={(e) => this.submitQuery(e)}>
+                    <input
+                      className="form-control mr-sm-2"
+                      type="text"
+                      title="Recherche par mots-clés"
+                      id="rechercher" value={this.state.value}
+                      onChange={(e) => this.handleChange(e)}
+                      autoComplete="off"
+                    />
+                  </form>
+                  <div className="resultats">
+                    {<Livres livresRes={this.state.livresRes} num='1' />}
+                    {<Livres livresRes={this.state.suggRes} num="2" />}
+                  </div>
+                </Tab>
+                <Tab eventKey="regex" title="Regex">
+                  <form role="search" onSubmit={(e) => this.submitQuery(e)}>
+                    <input
+                      className="form-control mr-sm-2"
+                      type="text"
+                      title="Recherche par mots-clés"
+                      id="rechercher2" value={this.state.value}
+                      onChange={(e) => this.handleChange(e)}
+                      autoComplete="off"
+                    />
+                  </form>
+                  <div className="resultats">
+                    {<Livres livresRes={this.state.livresRes} num='1' />}
+                    {<Livres livresRes={this.state.suggRes} num="2" />}
+                  </div>
+                </Tab>
+              </Tabs>
             </Col>
           </Row>
         </Container>
