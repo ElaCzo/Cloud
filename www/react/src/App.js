@@ -5,6 +5,7 @@ import Form from 'react-bootstrap/Form'
 import FormControl from 'react-bootstrap/FormControl'
 import Button from 'react-bootstrap/Button'
 import Tabs from 'react-bootstrap/Tabs'
+import Nav from 'react-bootstrap/Nav'
 import Tab from 'react-bootstrap/Tab'
 import Card from 'react-bootstrap/Card'
 import Col from 'react-bootstrap/Col'
@@ -119,7 +120,7 @@ class App extends React.Component {
           <Row>
             <Col>
               <Tabs defaultActiveKey="recherche" id="uncontrolled-tab-example">
-                <Tab eventKey="recherche" title="Recherche">
+                <Tab eventKey="recherche" title="Recherche par mots-clés">
                   <Form onSubmit={(e) => this.submitQuery(e)}>
                     <InputGroup className="mb-3">
                       <FormControl
@@ -129,6 +130,7 @@ class App extends React.Component {
                         onChange={(e) => this.handleChange(e)}
                         value={this.state.value}
                         id="rechercher"
+                        autoComplete="off"
                       />
                       <InputGroup.Append>
                         <Button variant="outline-secondary" type="submit">OK</Button>
@@ -146,26 +148,30 @@ class App extends React.Component {
                     </Row>
                   </Container>
                 </Tab>
-                <Tab eventKey="regex" title="Regex">
-                  <form role="search" onSubmit={(e) => this.submitQuery(e)}>
-                    <input
-                      className="form-control mr-sm-2"
-                      type="text"
-                      title="Recherche par mots-clés"
-                      id="rechercher2" value={this.state.value}
-                      onChange={(e) => this.handleChange(e)}
-                      autoComplete="off"
-                    />
-                  </form>
+                <Tab eventKey="regex" title="Recherche par regex">
+                  <Form onSubmit={(e) => this.submitQuery(e)}>
+                    <InputGroup className="mb-3">
+                      <FormControl
+                        placeholder="Rechercher"
+                        aria-label="Rechercher"
+                        aria-describedby="basic-addon2"
+                        onChange={(e) => this.handleChange(e)}
+                        value={this.state.value}
+                        id="rechercher2"
+                        autoComplete="off"
+                      />
+                      <InputGroup.Append>
+                        <Button variant="outline-secondary" type="submit">OK</Button>
+                      </InputGroup.Append>
+                    </InputGroup>
+                  </Form>
                   <Container>
                     <Row>
                       <Col>
                         {<Livres livresRes={this.state.livresRes} num='3' />}
                       </Col>
                       <Col>
-
                         {<Livres livresRes={this.state.suggRes} num="4" />}
-
                       </Col>
                     </Row>
                   </Container>
