@@ -6,7 +6,7 @@ const Livres = (props) => {
     let tabTitres = [];
 
     tabTitres = props.livresRes.map(livre => {
-        let cle = livre.path + "-" + props.num;
+        let cle = livre.title + "-" + props.num;
         console.log(cle);
 
         if (livre.title.includes("/") || livre.title.includes(".txt")) {
@@ -17,9 +17,8 @@ const Livres = (props) => {
         }
     });
 
-    let titreCle = "titre-" + props.num;
     let titre;
-    if ((props.num % 2) == 1) {
+    if ((parseInt(props.num) % 2) === 1) {
         titre = "Résultats de la recherche";
     }
     else {
